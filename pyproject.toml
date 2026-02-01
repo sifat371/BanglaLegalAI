@@ -1,0 +1,39 @@
+[project]
+name = "law-buddy"
+version = "0.1.0"
+description = "Legal RAG system for Bangladesh law using Mistral AI and HuggingFace"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    # LangChain ecosystem
+    "langchain>=0.3.0",
+    "langchain-mistralai>=0.2.0",
+    "langchain-huggingface>=0.1.0",
+    "langchain-chroma>=0.1.0",
+    "langchain-community>=0.3.0",
+    "langgraph>=0.2.0",
+    # Vector store
+    "chromadb>=0.5.0",
+    # HuggingFace
+    "huggingface-hub>=0.25.0",
+    # Retrieval
+    "rank-bm25>=0.2.2",
+    # UI
+    "streamlit>=1.38.0",
+    # Utilities
+    "python-dotenv>=1.0.0",
+    "pydantic>=2.0.0",
+    "pydantic-settings>=2.0.0",
+    "tiktoken>=0.7.0",
+    "httpx>=0.27.0",
+    # Data processing
+    "tqdm>=4.66.0",
+    "langchain-core>=1.2.7",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src"]

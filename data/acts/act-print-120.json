@@ -1,0 +1,134 @@
+{
+  "act_title": "The Identification of Prisoners Act, 1920",
+  "act_no": "XXXIII",
+  "act_year": "1920",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1.(1) This Act may be called theIdentification of Prisoners Act, 1920; and(2) \tIt extends to the whole of1[Bangladesh]."
+    },
+    {
+      "section_content": "2.\tIn this Act, unless there is anything repugnant in the subject or context,-(a) \t\"measurements\" include finger impressions and foot-print impressions.;(b) \t\"police officer\" means an officer in charge of a police-station, a police officer making an investigation under Chapter XIV of theCode of Criminal Procedure, 1898, or any other police officer not below the rank of sub-inspector; and(c) \t\"prescribed\" means prescribed by rules made under this Act."
+    },
+    {
+      "section_content": "3. \tEvery person who has been-(a) \tconvicted of any offence punishable with rigorous imprisonment for a term of one year or upwards, or of any offence which would render him liable to enhanced punishment on a subsequent conviction, or(b) \tordered to give security for his good behaviour under section 118 of theCode of Criminal Procedure, 1898,shall, if so required, allow his measurements and photograph to be taken by a police officer in the prescribed manner."
+    },
+    {
+      "section_content": "4. \tAny person who has been arrested in connection with an offence punishable with rigorous imprisonment for a term of one year or upwards shall, if so required by a police officer, allow his measurements to be taken in the prescribed manner."
+    },
+    {
+      "section_content": "5.\tIf a Magistrate is satisfied that, for the purposes of any investigation or proceeding under theCode of Criminal Procedure, 1898, it is expedient to direct any person to allow his measurements or photograph to be taken, he may make an order to that effect, and in that case the person to whom the order relates shall be produced or shall attend at the time and place specified in the order and shall allow his measurements or photograph to be taken, as the case may be, by a police officer:Provided that no order shall be made directing any person to be photographed except by a Magistrate of the first class:Provided, further, that no order shall be made under this section unless the person has at some time been arrested in connection with such investigation of proceeding."
+    },
+    {
+      "section_content": "6.(1) If any person who under this Act is required to allow his measurements or photograph to be taken resists or refuses to allow the taking of the same, it shall be lawful to use all means necessary to secure the taking thereof.(2) Resistance to or refusal to allow the taking of measurements or photographs under this Act shall be deemed to be an offence under section 186 of the2[Penal Code]."
+    },
+    {
+      "section_content": "7. \tWhere any person who, not having been previously convicted of an offence punishable with rigorous imprisonment for a term of one year or upwards, has had his measurements taken or has been photographed in accordance with the provisions of this Act is released without trial or discharged or acquitted by any Court, all measurements and all photographs (both negatives and copies) so taken shall, unless the Court or (in a case where such person is released without trial) the District Magistrate or Sub-Divisional Officer for reasons to be recorded in writing otherwise directs, be destroyed or made over to him."
+    },
+    {
+      "section_content": "8.(1) The3[Government] may make rules for the purpose of carrying into effect the provisions of this Act.(2) \tIn particular and without prejudice to the generality of the foregoing provisions, such rules may provide for-(a) \trestrictions on the taking of photographs of persons under section 5;(b) \tthe places at which measurements and photographs may be taken;(c) \tthe nature of the measurements that may be taken;(d) the method in which any class or classes of measurements shall be taken;(e) \tthe dress to be worn by a person when being photographed under section 3; and(f) \tthe preservation, safe custody, destruction and disposal of records of measurements and photographs."
+    },
+    {
+      "section_content": "9. \tNo suit or other proceeding shall lie against any person for anything done, or intended to be done, in good faith under this Act or under any rule made thereunder."
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1The word \"Bangladesh\" was substituted, for the word \"Pakistan\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "2The words \"Penal Code\" were substituted, for the words \"Pakistan Penal Code\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "3The word \"Government\" was substituted, for the words \"Provincial Government\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-120.html",
+  "fetch_timestamp": "2025-07-19 02:07:57",
+  "csv_metadata": {
+    "act_title_from_csv": "The Identification of Prisoners Act, 1920",
+    "act_no_from_csv": "XXXIII",
+    "act_year_from_csv": "1920",
+    "is_repealed": false
+  },
+  "token_count": 893,
+  "language": "english",
+  "government_context": {
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Governor of Bengal",
+    "head_govt_name": "Earl of Ronaldshay (Lawrence Dundas)",
+    "head_govt_designation": "Governor of Bengal Province",
+    "how_got_power": "British Crown appointment",
+    "period_years": "1917-1922",
+    "years_in_power": 5
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:19",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 750,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:25",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:35:51",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:01",
+    "previous_token_count": 750,
+    "accurate_token_count": 893
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "British Crown Rule",
+      "year_range": "1858-1947",
+      "act_year": 1920
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Government of India Act 1858",
+        "Indian Penal Code 1860",
+        "Code of Civil Procedure 1908",
+        "Evidence Act 1872"
+      ],
+      "court_system": [
+        "High Courts (1861)",
+        "District Courts",
+        "Magistrate Courts"
+      ],
+      "legal_basis": "Codified British-Indian legal system",
+      "enforcement_mechanism": "Imperial Police Service and civil courts"
+    },
+    "government_system": {
+      "type": "Crown Colony Administration",
+      "structure": "Viceroy and provincial governors",
+      "revenue_collection": "Imperial taxation system",
+      "administrative_units": [
+        "Provinces",
+        "Districts",
+        "Sub-districts"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Police Act 1861 - structured police force",
+      "military_police": "Imperial Police Service",
+      "jurisdiction": "Provincial police under colonial control"
+    },
+    "land_relations": {
+      "tenure_system": "Zamindari, Ryotwari, and Mahalwari systems",
+      "property_rights": "Colonial property law framework",
+      "revenue_system": "Land revenue administration",
+      "peasant_status": "Various tenant classes with limited rights"
+    },
+    "key_characteristics": [
+      "Codification of laws (Penal Code, CPC, Evidence Act)",
+      "Structured civil service system",
+      "Constitutional developments (1909, 1919, 1935 Acts)",
+      "Bengal Tenancy Act 1885 and amendments",
+      "Emergency powers and martial law provisions"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:25"
+  }
+}

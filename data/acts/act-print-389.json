@@ -1,0 +1,129 @@
+{
+  "act_title": "The Bangladesh Special (Remuneration and Privileges) Order, 1972 (President's Order)",
+  "act_no": "49",
+  "act_year": "1972",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. (1) This Order may be called the Bangladesh Special (Remuneration and Privileges) Order, 1972.(2) It extends to the whole of Bangladesh.(3) It shall come into force at once and shall be deemed to have taken effect on the first day of January, 1972."
+    },
+    {
+      "section_content": "2. In this Order, unless there is anything repugnant in the subject or context,-(a) \t“Government” means the Government of the People's Republic of Bangladesh;2[(b) \t“Minister” means a member of the Council of Ministers and includes a Minister of State and a Deputy Minister but does not include the Prime Minister;](c)\t“Prescribed” means prescribed under the rules framed by the Government.(d)\tThe “President” means the President of the People's Republic of Bangladesh.(e)\tThe “Prime Minister” means the Prime Minister of the People's Republic of Bangladesh.(f)\t“Scheduled Office” means an office enumerated in the schedule to this Order."
+    },
+    {
+      "section_content": "3. The President, the Prime Minister, a Minister and the holders of the offices enumerated in the Schedule shall be paid such salary and allowances and shall be entitled to such privileges as may be prescribed."
+    },
+    {
+      "section_content": "4. The Prime Minister and a Minister in receipt of a salary or allowances under this Order shall not be entitled to receive any sum out of funds provided by Legislature by way of salary or allowances in respect of his membership of the Legislature."
+    },
+    {
+      "section_content": "5. The date on which any person becomes or ceases to be the President, Prime Minister, a Minister or the holder of a scheduled office shall be published in the official Gazette, and any such notification shall be conclusive evidence of the fact that he became, or ceased to be the President, the Prime Minister, a Minister or the holder of a scheduled office on that date for the purposes of this Order."
+    },
+    {
+      "section_content": "6. All salaries paid or payable for the period commencing on the first day of January, 1972 and ending with the commencement of this Order to any person to whom this Order applies, all charges incurred before the commencement of this Order in respect of accommodation provided in any hospital for or on the medical treatment of any such person or any member of his family and all payments before such commencement by way of travelling or dearness allowances to any such persons, shall be deemed to have been paid, payable or incurred or made under this Order."
+    },
+    {
+      "section_content": "7. Any rules made by the Government before the commencement of this Order, providing for the remuneration and privileges of the Ministers, shall be deemed to have been made under the provisions of this Order."
+    },
+    {
+      "section_content": "8. The Government may, by notification in the official Gazette, amend the schedule to this Order by addition of further offices to which the provisions of this Order shall apply."
+    },
+    {
+      "section_content": "9. The Ministers (Terms and Conditions) Order, 1962, and the East Pakistan Ministers (Terms and Conditions) Order, 1962, are hereby repealed."
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1The words “Members of the Council of Ministers” were substituted for the words “Ministers of the Cabinet” by section 3 of theBangladesh Laws (Amendment) Act, 1975(Act No. XIII of 1975)"
+    },
+    {
+      "footnote_text": "2Clause (b) was substituted by section 3 of theBangladesh Laws (Amendment) Act, 1975(Act No. XIII of 1975)"
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-389.html",
+  "fetch_timestamp": "2025-07-19 02:14:58",
+  "csv_metadata": {
+    "act_title_from_csv": "The Bangladesh Special (Remuneration and Privileges) Order, 1972 (President's Order)",
+    "act_no_from_csv": "49",
+    "act_year_from_csv": "1972",
+    "is_repealed": false
+  },
+  "token_count": 675,
+  "language": "english",
+  "government_context": {
+    "govt_system": "Parliamentary Democracy",
+    "position_head_govt": "Prime Minister",
+    "head_govt_name": "Sheikh Mujibur Rahman",
+    "head_govt_designation": "Prime Minister of Bangladesh",
+    "how_got_power": "Post-independence constitutional government",
+    "period_years": "1972-1973",
+    "years_in_power": 1
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:21",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 548,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:27",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:03",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:09",
+    "previous_token_count": 548,
+    "accurate_token_count": 675
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "Early Independent Bangladesh",
+      "year_range": "1971-1975",
+      "act_year": 1972
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Laws Continuance Enforcement Order 1971",
+        "Constitution of Bangladesh 1972"
+      ],
+      "court_system": [
+        "Supreme Court with High Court and Appellate Divisions",
+        "Subordinate Courts"
+      ],
+      "legal_basis": "Secular constitutional democracy with British-inherited laws",
+      "enforcement_mechanism": "Independent judiciary and civil courts"
+    },
+    "government_system": {
+      "type": "Parliamentary Democracy",
+      "structure": "Westminster-style parliamentary system",
+      "revenue_collection": "National taxation system",
+      "administrative_units": [
+        "Divisions",
+        "Districts",
+        "Thanas",
+        "Unions"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Bangladesh Police (continuing Police Act 1861)",
+      "military_police": "Bangladesh Army and security forces",
+      "jurisdiction": "National police force"
+    },
+    "land_relations": {
+      "tenure_system": "Continuation of 1950 Act with modifications",
+      "property_rights": "Constitutional property rights",
+      "revenue_system": "State land revenue collection",
+      "peasant_status": "Land ceiling laws and redistribution efforts"
+    },
+    "key_characteristics": [
+      "Secular constitution with four principles",
+      "Continuation of colonial-era laws",
+      "War crimes tribunals establishment",
+      "Nationalization policies",
+      "Special Powers Act 1974"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:27"
+  }
+}

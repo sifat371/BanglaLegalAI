@@ -1,0 +1,107 @@
+{
+  "act_title": "বাংলাদেশ কারিগরি শিক্ষা বোর্ড (সংশোধন) আইন, ২০২১",
+  "act_no": "০২",
+  "act_year": "2021",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "১। (১) এই আইনবাংলাদেশ কারিগরি শিক্ষা বোর্ড (সংশোধন) আইন, ২০২১নামে অভিহিত হইবে।(২) ইহা অবিলম্বে কার্যকর হইবে।"
+    },
+    {
+      "section_content": "২।বাংলাদেশ কারিগরি শিক্ষা বোর্ড আইন, ২০১৮(২০১৮ সনের ৬৬ নং আইন) এর ধারা ৮ এর বিদ্যমান বিধান উপ-ধারা (১) হিসাবে সংখ্যায়িত হইবে এবং অতঃপর নিম্নরূপ উপ-ধারা (২) সংযোজিত হইবে, যথাঃ-“(২)উপ-ধারা(১)এরদফা(ঘ)এযাহাকিছুইথাকুকনাকেন,যদিঅতিমারি(pandemic),মহামারী(epidemic),দৈব-দুর্বিপাক(Act of God)এরকারণেবাসরকারকর্তৃকসময়সময়নির্ধারিতকোনোঅনিবার্যপরিস্থিতিতে,কারিগরিওবৃত্তিমূলকশিক্ষাএবংপ্রশিক্ষণপরীক্ষাগ্রহণ,ফলপ্রকাশএবংসনদপ্রদানকরাসম্ভবনাহইলে,সরকার,সরকারিগেজেটেপ্রজ্ঞাপিতআদেশদ্বারা,কোনোবিশেষবৎসরেরশিক্ষার্থীদেরজন্যপরীক্ষাগ্রহণব্যতীতবাসংক্ষিপ্তসিলেবাসেপরীক্ষাগ্রহণকরিয়া,উক্তপ্রজ্ঞাপনেউল্লিখিতপদ্ধতিতেমূল্যায়নএবংসনদপ্রদানেরজন্য নির্দেশনাবলি জারি করিতে পারিবে।”।"
+    }
+  ],
+  "footnotes": [],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-1367.html",
+  "fetch_timestamp": "2025-07-19 02:40:38",
+  "csv_metadata": {
+    "act_title_from_csv": "বাংলাদেশ কারিগরি শিক্ষা বোর্ড (সংশোধন) আইন, ২০২১",
+    "act_no_from_csv": "০২",
+    "act_year_from_csv": "২০২১",
+    "is_repealed": false
+  },
+  "token_count": 188,
+  "language": "bengali",
+  "government_context": {
+    "govt_system": "Parliamentary Democracy (increasingly authoritarian)",
+    "position_head_govt": "Prime Minister",
+    "head_govt_name": "Sheikh Hasina",
+    "head_govt_designation": "Prime Minister of Bangladesh",
+    "how_got_power": "Democratic election (2009), subsequent controversial elections (2014, 2018, 2024)",
+    "period_years": "2009-2024",
+    "years_in_power": 15
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:20",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "bengali",
+    "token_count": 71,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:25",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:35:55",
+    "legal_context_recovery_attempted": true,
+    "legal_context_recovery_timestamp": "2025-07-19 20:42:54",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:04",
+    "previous_token_count": 71,
+    "accurate_token_count": 188
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "Awami League Dominance",
+      "year_range": "2008-2024",
+      "act_year": 2021
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "15th Amendment (2011)",
+        "Cyber Security Act 2023",
+        "Digital Security Act",
+        "International Crimes Tribunal Act"
+      ],
+      "court_system": [
+        "Supreme Court",
+        "High Court Division",
+        "Specialized Tribunals"
+      ],
+      "legal_basis": "Constitutional parliamentary system",
+      "enforcement_mechanism": "Politicized judicial system"
+    },
+    "government_system": {
+      "type": "Parliamentary Democracy (increasingly authoritarian)",
+      "structure": "Single-party dominance",
+      "revenue_collection": "Modernized tax system",
+      "administrative_units": [
+        "8 Divisions",
+        "64 Districts",
+        "492 Upazilas",
+        "4,554 Unions"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Politicized police force",
+      "military_police": "RAB, Police, Border Guards",
+      "jurisdiction": "Centralized political control"
+    },
+    "land_relations": {
+      "tenure_system": "Market-based with disputes",
+      "property_rights": "Development-focused acquisition",
+      "revenue_system": "Digital land records",
+      "peasant_status": "Modernization and displacement issues"
+    },
+    "key_characteristics": [
+      "Caretaker system abolition",
+      "War crimes tribunals",
+      "Digital governance initiatives",
+      "Authoritarian drift",
+      "Student movement repressions"
+    ],
+    "context_added_timestamp": "2025-07-19 20:42:54",
+    "recovery_note": "Legal context added after year translation recovery"
+  }
+}

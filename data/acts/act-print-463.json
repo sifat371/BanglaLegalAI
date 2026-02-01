@@ -1,0 +1,104 @@
+{
+  "act_title": "The Refugees Rehabilitation Finance Corporation (Repeal) Act, 1974",
+  "act_no": "XVI",
+  "act_year": "1974",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. This Act may be called theRefugees Rehabilitation Finance Corporation (Repeal) Act, 1974."
+    },
+    {
+      "section_content": "2. (1) The Refugees Rehabilitation Finance Corporation Ordinance, 1959 (II of 1960), hereinafter referred to as the said Ordinance, is hereby repealed.(2) Upon the repeal of the said Ordinance,-(a)\tsubject to the provisions of clause (b), all movable properties including furniture, fixtures, cash balances, bank deposits, reserve funds and rights in or arising out of such properties of the Bangladesh Refugees Rehabilitation Finance Corporation, hereinafter referred to as the said Corporation, shall be transferred to, vested in, and distributed between the Bangladesh Shilpa Bank established under theBangladesh Shilpa Bank Order, 1972(P.O. No. 129 of 1972), and the Bangladesh Krishi Bank established under theBangladesh Krishi Bank Order, 1973(P.O. No. 27 of 1973), in such manner as the Government may determine;(b)\tall projects including both immovable and movable properties, bank deposits, reserve funds in relation to the projects of the said Corporation subsisting immediately before the repeal of the said Ordinance shall be transferred to, and vest in, the Bangladesh Shilpa Bank;(c)\tall outstanding loans granted either in cash or in kind by the said Corporation immediately before the repeal of the said Ordinance shall be collected and recovered by the Bangladesh Krishi Bank and, for the recovery of such loans, the provisions of theBangladesh Krishi Bank Order, 1973(P.O. No. 27 of 1973), shall apply as if such loans were granted by the said Bank;(d)\tall officers and employees of the said Corporation shall be transferred to, and appointed by, the Bangladesh Krishi Bank and the Bangladesh House Building Finance Corporation established under the Bangladesh House Building Finance Corporation Order, 1973 (P.O. No. 7 of 1973), in such manner and on such terms and conditions as the said Bank or, as the case may be, the House Building Finance Corporation may decide:Provided that an officer or other employee may, within such time as may be specified by the said Bank or, as the case may be, the House Building Finance Corporation to which he is transferred exercise his option not to continue in the service of that Bank or the House Building Finance Corporation;(e)   (i)\tall suits and other legal proceedings instituted by or against the said Corporation in connection with any of the projects situated in Bangladesh and pending immediately before the repeal of the said Ordinance shall be deemed to be suits and proceedings by or against the Bangladesh Shilpa Bank;(ii) all suits and other legal proceedings instituted by or against the said Corporation in connection with loans granted by the said Corporation in Bangladesh and pending immediately before the repeal of the said Ordinance shall be deemed to be suits and proceedings by or against the Bangladesh Krishi Bank;(f) \tall debts and obligations incurred, contracts entered into or rights acquired by the said Corporation in connection with any of the projects situated in Bangladesh and subsisting or having effect immediately before the repeal of the said Ordinance shall be deemed to have been incurred, entered into or acquired for the Bangladesh Shilpa Bank."
+    },
+    {
+      "section_content": "3. In theBangladesh (Administration of Financial Institutions) Order, 1972(A.P.O. No. 3 of 1972), in Article 2, clause (b) shall be omitted."
+    }
+  ],
+  "footnotes": [],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-463.html",
+  "fetch_timestamp": "2025-07-19 02:16:04",
+  "csv_metadata": {
+    "act_title_from_csv": "The Refugees Rehabilitation Finance Corporation (Repeal) Act, 1974",
+    "act_no_from_csv": "XVI",
+    "act_year_from_csv": "1974",
+    "is_repealed": false
+  },
+  "token_count": 674,
+  "language": "english",
+  "government_context": {
+    "govt_system": "Parliamentary Democracy",
+    "position_head_govt": "Prime Minister",
+    "head_govt_name": "Sheikh Mujibur Rahman",
+    "head_govt_designation": "Prime Minister of Bangladesh",
+    "how_got_power": "Democratic election (1973)",
+    "period_years": "1973-1975",
+    "years_in_power": 2
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:22",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 549,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:27",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:05",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:10",
+    "previous_token_count": 549,
+    "accurate_token_count": 674
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "Early Independent Bangladesh",
+      "year_range": "1971-1975",
+      "act_year": 1974
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Laws Continuance Enforcement Order 1971",
+        "Constitution of Bangladesh 1972"
+      ],
+      "court_system": [
+        "Supreme Court with High Court and Appellate Divisions",
+        "Subordinate Courts"
+      ],
+      "legal_basis": "Secular constitutional democracy with British-inherited laws",
+      "enforcement_mechanism": "Independent judiciary and civil courts"
+    },
+    "government_system": {
+      "type": "Parliamentary Democracy",
+      "structure": "Westminster-style parliamentary system",
+      "revenue_collection": "National taxation system",
+      "administrative_units": [
+        "Divisions",
+        "Districts",
+        "Thanas",
+        "Unions"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Bangladesh Police (continuing Police Act 1861)",
+      "military_police": "Bangladesh Army and security forces",
+      "jurisdiction": "National police force"
+    },
+    "land_relations": {
+      "tenure_system": "Continuation of 1950 Act with modifications",
+      "property_rights": "Constitutional property rights",
+      "revenue_system": "State land revenue collection",
+      "peasant_status": "Land ceiling laws and redistribution efforts"
+    },
+    "key_characteristics": [
+      "Secular constitution with four principles",
+      "Continuation of colonial-era laws",
+      "War crimes tribunals establishment",
+      "Nationalization policies",
+      "Special Powers Act 1974"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:27"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "act_title": "The Legal Practitioners (Fees) Act, 1926",
+  "act_no": "XXI",
+  "act_year": "1926",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1.(1) This Act may be called theLegal Practitioners (Fees) Act, 1926.(2)\tIt extends to the whole of1[Bangladesh].(3) \tIt shall come into force on such date as the2[Government] may, by notification in the official Gazette, appoint."
+    },
+    {
+      "section_content": "2. For the purposes of this Act, unless there is anything repugnant in the subject or context,3[(a)\t\"Legal practitioner\" means an advocate and includes a mukhtear or a Revenue agent; and](b)\ta legal practitioner shall not be deemed to \"act\" if he only pleads, or to \"agree to act\" if he agrees only to plead."
+    },
+    {
+      "section_content": "3. Any legal practitioner who acts or agrees to act for any person may by private agreement settle with such person the terms of his engagement and the fee to be paid for his professional services."
+    },
+    {
+      "section_content": "4. Any such legal practitioner shall be entitled to institute and maintain legal proceedings for the recovery of any fee due to him under the agreement, or, if no such fee has been settled, a fee computed in accordance with the law for the time being in force in regard to the computation of the costs to be awarded to a party in respect of the fee of his legal practitioner."
+    },
+    {
+      "section_content": "5. No legal practitioner who has acted or agreed to act shall, by reason only of being a legal practitioner, be exempt from liability to be sued in respect of any loss or injury due to any negligence in the conduct of his professional duties."
+    },
+    {
+      "section_content": "6. [Repealed by section 2 and Schedule of the Repealing Act, 1927 (Act No. XII of 1927 ).]"
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1The word \"Bangladesh\" was substituted, for the word \"Pakistan\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "2The word \"Government\" was substituted, for the words \"Central Government\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "3Clause (a) was substituted, for former clause (a) by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-142.html",
+  "fetch_timestamp": "2025-07-19 02:08:38",
+  "csv_metadata": {
+    "act_title_from_csv": "The Legal Practitioners (Fees) Act, 1926",
+    "act_no_from_csv": "XXI",
+    "act_year_from_csv": "1926",
+    "is_repealed": false
+  },
+  "token_count": 503,
+  "language": "english",
+  "government_context": {
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Governor of Bengal",
+    "head_govt_name": "Earl of Lytton (Victor Bulwer-Lytton)",
+    "head_govt_designation": "Governor of Bengal Province",
+    "how_got_power": "British Crown appointment",
+    "period_years": "1922-1927",
+    "years_in_power": 5
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:20",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 360,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:25",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:35:56",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:05",
+    "previous_token_count": 360,
+    "accurate_token_count": 503
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "British Crown Rule",
+      "year_range": "1858-1947",
+      "act_year": 1926
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Government of India Act 1858",
+        "Indian Penal Code 1860",
+        "Code of Civil Procedure 1908",
+        "Evidence Act 1872"
+      ],
+      "court_system": [
+        "High Courts (1861)",
+        "District Courts",
+        "Magistrate Courts"
+      ],
+      "legal_basis": "Codified British-Indian legal system",
+      "enforcement_mechanism": "Imperial Police Service and civil courts"
+    },
+    "government_system": {
+      "type": "Crown Colony Administration",
+      "structure": "Viceroy and provincial governors",
+      "revenue_collection": "Imperial taxation system",
+      "administrative_units": [
+        "Provinces",
+        "Districts",
+        "Sub-districts"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Police Act 1861 - structured police force",
+      "military_police": "Imperial Police Service",
+      "jurisdiction": "Provincial police under colonial control"
+    },
+    "land_relations": {
+      "tenure_system": "Zamindari, Ryotwari, and Mahalwari systems",
+      "property_rights": "Colonial property law framework",
+      "revenue_system": "Land revenue administration",
+      "peasant_status": "Various tenant classes with limited rights"
+    },
+    "key_characteristics": [
+      "Codification of laws (Penal Code, CPC, Evidence Act)",
+      "Structured civil service system",
+      "Constitutional developments (1909, 1919, 1935 Acts)",
+      "Bengal Tenancy Act 1885 and amendments",
+      "Emergency powers and martial law provisions"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:25"
+  }
+}

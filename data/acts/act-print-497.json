@@ -1,0 +1,122 @@
+{
+  "act_title": "The Hundred-Taka Demonetised Notes (Mode of Payment and Recovery of Taxes) Act, 1975",
+  "act_no": "XXXV",
+  "act_year": "1975",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. (1) This Act may be called theHundred-Taka Demonetised Notes (Mode of Payment and Recovery of Taxes) Act, 1975.(2) It shall be deemed to have come into force on the seventh day of April, 1975."
+    },
+    {
+      "section_content": "2. In this Act, unless there is anything repugnant in the subject or context,-(a)\t“agency” means any bank, post office, treasury or sub-treasury;(b)\t“demonetised note” means a Bangladesh Bank Note of one-hundred-Taka denomination which has ceased to be legal tender with effect from the seventh day of April, 1975, in pursuance of the declaration made by the Government by notification No. I F. 5/31/75-95, dated the 6th April, 1975 (hereinafter referred to as the said notification);(c)\t“depositor” means a person who has deposited any demonetised note with any agency mentioned in the said notification within the time specified therein."
+    },
+    {
+      "section_content": "3. The provisions of this Act or any rule made thereunder shall have effect notwithstanding anything inconsistent therewith contained in any other law for the time being in force."
+    },
+    {
+      "section_content": "4. The value of the demonetised notes deposited by a depositor shall be paid by an agency on such date and in such form and manner as the Government may, by notification in the official Gazette, determine."
+    },
+    {
+      "section_content": "5. (1) If the Government is satisfied that any taxes are recoverable from a depositor under any law for the time being in force, it may, by order in writing, direct the recovery of such taxes from the value of the demonetised notes deposited by him and send the order to the agency with which the demonetised notes have been deposited.(2) On receipt of an order under sub-section (1), the agency shall deduct the amount specified in the order from the value of the demonetised notes deposited by the depositor and pay the balance, if any, to him on such date and in such form and manner as may be determined by the Government under section 4."
+    },
+    {
+      "section_content": "6. The Government may, by notification in the official Gazette, exempt any person or class of persons or amount of demonetised notes from the operation of the provisions of this Act."
+    },
+    {
+      "section_content": "7. (1) No action taken under this Act against any depositor in respect of the demonetised notes deposited by him shall be called in question in any manner by or before any court.(2) No suit, prosecution or other legal proceeding shall lie against the Government or the Bangladesh Bank or any agency for delay in the payment of the value of demonetised notes or for payment of the value thereof in any form or manner other than in cash or for deduction of any tax from the value of such notes."
+    },
+    {
+      "section_content": "8. The Government may, by notification in the official Gazette, make rules for carrying out the purposes of this Act."
+    },
+    {
+      "section_content": "9. (1) The Hundred-Taka Demonetised Notes (Mode of Payment and Recovery of Taxes) Ordinance, 1975 (Ord. XXV of 1975), is hereby repealed.(2) Notwithstanding such repeal, anything done or any action taken under any provision of the said Ordinance shall be deemed to have been done or taken under the corresponding provisions of this Act."
+    }
+  ],
+  "footnotes": [],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-497.html",
+  "fetch_timestamp": "2025-07-19 02:16:35",
+  "csv_metadata": {
+    "act_title_from_csv": "The Hundred-Taka Demonetised Notes (Mode of Payment and Recovery of Taxes) Act, 1975",
+    "act_no_from_csv": "XXXV",
+    "act_year_from_csv": "1975",
+    "is_repealed": false
+  },
+  "token_count": 666,
+  "language": "english",
+  "government_context": {
+    "govt_system": "Military Rule",
+    "position_head_govt": "President",
+    "head_govt_name": "Abu Sadat Mohammad Sayem",
+    "head_govt_designation": "President (Military-backed)",
+    "how_got_power": "Military coup/counter-coup",
+    "period_years": "1975-1977",
+    "years_in_power": 2
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:22",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 539,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:27",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:05",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:10",
+    "previous_token_count": 539,
+    "accurate_token_count": 666
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "Early Independent Bangladesh",
+      "year_range": "1971-1975",
+      "act_year": 1975
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Laws Continuance Enforcement Order 1971",
+        "Constitution of Bangladesh 1972"
+      ],
+      "court_system": [
+        "Supreme Court with High Court and Appellate Divisions",
+        "Subordinate Courts"
+      ],
+      "legal_basis": "Secular constitutional democracy with British-inherited laws",
+      "enforcement_mechanism": "Independent judiciary and civil courts"
+    },
+    "government_system": {
+      "type": "Parliamentary Democracy",
+      "structure": "Westminster-style parliamentary system",
+      "revenue_collection": "National taxation system",
+      "administrative_units": [
+        "Divisions",
+        "Districts",
+        "Thanas",
+        "Unions"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Bangladesh Police (continuing Police Act 1861)",
+      "military_police": "Bangladesh Army and security forces",
+      "jurisdiction": "National police force"
+    },
+    "land_relations": {
+      "tenure_system": "Continuation of 1950 Act with modifications",
+      "property_rights": "Constitutional property rights",
+      "revenue_system": "State land revenue collection",
+      "peasant_status": "Land ceiling laws and redistribution efforts"
+    },
+    "key_characteristics": [
+      "Secular constitution with four principles",
+      "Continuation of colonial-era laws",
+      "War crimes tribunals establishment",
+      "Nationalization policies",
+      "Special Powers Act 1974"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:27"
+  }
+}

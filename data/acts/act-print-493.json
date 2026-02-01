@@ -1,0 +1,122 @@
+{
+  "act_title": "The Blind Relief (Donation of Eye) Act, 1975",
+  "act_no": "XXV",
+  "act_year": "1975",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. (1) This Act may be called theBlind Relief (Donation of Eye) Act, 1975.(2) It shall be deemed to have come into force on the 11th day of February, 1975."
+    },
+    {
+      "section_content": "2. In this Act, unless there is anything repugnant in the subject or context,-(a)\t“donation” means donation of eyes under sub-section (1) of section 3;(b) \t“donee” means the person who is entitled to receive and use the eyes for the purpose for which they have been donated;(c) \t“donor” means a person who donates one or both of his eyes for therapeutic use."
+    },
+    {
+      "section_content": "3. (1) It shall be lawful for any person who is competent to contract to donate one or both of his eyes by gift or by will for therapeutic use during his lifetime or after his death:Provided that in the case of donation by gift for use during the life-time of the donor only one eye shall be deemed to have been donated.(2) A donation shall not be valid unless it is made by a registered instrument which is-(a)\texecuted by or on behalf of the donor and attested by at least two witnesses competent to attest an instrument of transfer of property; and(b) \tdelivered to, and accepted by, the donee:Provided that a donation by word of mouth in the presence of two such witnesses shall be valid if it is made by the donor during his illness which induces an apprehension of death in him and actually results in his death.(3) Unless it specifies any person for whose use and benefit the eyes have been donated, the donation shall be deemed to have been made generally for the relief of the blind.(4) A donation may be revoked by the donor at any time during his lifetime in the same manner in which it was made."
+    },
+    {
+      "section_content": "4. (1) It shall be lawful for a donee to enucleate, or cause the enucleation of the eyes of the donor and to use or cause to be used the eyes so enucleated to give effect to the donation.Explanation. “Enucleation” with reference to eyes shall include removal or extraction of such organ, tissue or other part of a body which is necessary for the utilisation of the eyes.(2) Where the eyes have been donated for the use and benefit of any particular person, they shall be so used; but if that person is not available for giving effect to the donation or that person does not any more need the donation, the eyes may be used, subject to any rules made in this behalf, generally for the relief of the blind.(3) Where the body of the donor requires post-mortem examination under law, enucleation of his eyes for the purpose of giving effect to his donation shall be subject to the requirement of such examination."
+    },
+    {
+      "section_content": "5. (1) Where a donation is to take effect after the death of the donor, his next of kin or the person upon whom devolves by law the right to control the disposition of the remains of the deceased donor shall, if he has any information about the donation, forthwith inform the donee of the fact of the death of the donor.(2) Failure to comply with the provisions of sub-section (1) shall be punishable with fine which may extend to Taka one thousand."
+    },
+    {
+      "section_content": "6. (1) In the case of a body lying in a hospital, prison, nursing home or other institutions and not claimed by his next of kin, an authority for removal of the eyes may be given by the person having the control or management of the hospital, prison, nursing home or institution.(2) No authority under sub-section (1) shall be given within half an hour from the time of death."
+    },
+    {
+      "section_content": "7. The provisions of this Act shall have effect notwithstanding anything to the contrary contained in any law, including personal law, custom or usage but shall not be so construed as to restrict or limit any right or authority a donor may otherwise have regarding the disposition of his eyes after his death."
+    },
+    {
+      "section_content": "8. (1) The Government may, by notification in the official Gazette, make rules for carrying out the purposes of this Act.(2) In particular and without prejudice to the generality of the foregoing power such rules may provide for the following matters:-(a)\tperson who shall be qualified to undertake operation for enucleation of the eyes of the donor;(b) \tthe hospital or other places at which enucleation may be carried out;(c) \tpreservation of the eyes donated for giving effect to the donation; and(d) \tsuch other matters as are necessary to properly give effect to donations."
+    },
+    {
+      "section_content": "9. The Blind Relief (Donation of Eyes) Ordinance, 1975 (Ord. V of 1975), is hereby repealed."
+    }
+  ],
+  "footnotes": [],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-493.html",
+  "fetch_timestamp": "2025-07-19 02:16:33",
+  "csv_metadata": {
+    "act_title_from_csv": "The Blind Relief (Donation of Eye) Act, 1975",
+    "act_no_from_csv": "XXV",
+    "act_year_from_csv": "1975",
+    "is_repealed": false
+  },
+  "token_count": 919,
+  "language": "english",
+  "government_context": {
+    "govt_system": "Military Rule",
+    "position_head_govt": "President",
+    "head_govt_name": "Abu Sadat Mohammad Sayem",
+    "head_govt_designation": "President (Military-backed)",
+    "how_got_power": "Military coup/counter-coup",
+    "period_years": "1975-1977",
+    "years_in_power": 2
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:22",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 797,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:27",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:05",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:10",
+    "previous_token_count": 797,
+    "accurate_token_count": 919
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "Early Independent Bangladesh",
+      "year_range": "1971-1975",
+      "act_year": 1975
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Laws Continuance Enforcement Order 1971",
+        "Constitution of Bangladesh 1972"
+      ],
+      "court_system": [
+        "Supreme Court with High Court and Appellate Divisions",
+        "Subordinate Courts"
+      ],
+      "legal_basis": "Secular constitutional democracy with British-inherited laws",
+      "enforcement_mechanism": "Independent judiciary and civil courts"
+    },
+    "government_system": {
+      "type": "Parliamentary Democracy",
+      "structure": "Westminster-style parliamentary system",
+      "revenue_collection": "National taxation system",
+      "administrative_units": [
+        "Divisions",
+        "Districts",
+        "Thanas",
+        "Unions"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Bangladesh Police (continuing Police Act 1861)",
+      "military_police": "Bangladesh Army and security forces",
+      "jurisdiction": "National police force"
+    },
+    "land_relations": {
+      "tenure_system": "Continuation of 1950 Act with modifications",
+      "property_rights": "Constitutional property rights",
+      "revenue_system": "State land revenue collection",
+      "peasant_status": "Land ceiling laws and redistribution efforts"
+    },
+    "key_characteristics": [
+      "Secular constitution with four principles",
+      "Continuation of colonial-era laws",
+      "War crimes tribunals establishment",
+      "Nationalization policies",
+      "Special Powers Act 1974"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:27"
+  }
+}

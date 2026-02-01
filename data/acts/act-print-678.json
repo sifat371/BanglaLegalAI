@@ -1,0 +1,334 @@
+{
+  "act_title": "The Khulna City Corporation Ordinance, 1984",
+  "act_no": "LXXII",
+  "act_year": "1984",
+  "publication_date": "19/07/2025",
+  "sections": [],
+  "footnotes": [
+    {
+      "footnote_text": "1The word “City” was substituted for the word “Municipal” by section 6 of the Local Government Laws (Amendment) Act, 1990 (Act No. LVI of 1990)."
+    },
+    {
+      "footnote_text": "2The word “City” was substituted for the word “Municipal” by section 6 of the Local Government Laws (Amendment) Act, 1990 (Act No. LVI of 1990)."
+    },
+    {
+      "footnote_text": "3Clause (14) was omitted by section 2 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)."
+    },
+    {
+      "footnote_text": "4The word “City” was substituted for the word “Municipal” by section 6 of the Local Government Laws (Amendment) Act, 1990 (Act No. LVI of 1990)."
+    },
+    {
+      "footnote_text": "5Section 3A was inserted by section 2 of the Khulna City Corporation (Amendment) Act, 2004 (Act No. XX of 2004)."
+    },
+    {
+      "footnote_text": "6Section 4 was substituted by section  2 of the Khulna City Corporation (Amendment) Act, 1999 (Act No. III of 1999)."
+    },
+    {
+      "footnote_text": "7Section 6 was substituted by section 2 of the Khulna City Corporation (Amendment) Act, 1992 (Act No. VI of 1992)."
+    },
+    {
+      "footnote_text": "8The colon (:) was substituted for the full-stop (.) and thereafter the proviso was added by section 6 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)."
+    },
+    {
+      "footnote_text": "9The words and commas “Commissioners, other than commissioners of reserved seats,” were substituted for the words “elected Commissioners” by section 6 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)."
+    },
+    {
+      "footnote_text": "10The commas and words “, other than commissioners of reserved seats,” were omitted by section 3 of the Khulna City Corporation (Amendment) Act, 1999 (Act No. III of 1999)."
+    },
+    {
+      "footnote_text": "11The word “elected” was omitted by section 6 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)."
+    },
+    {
+      "footnote_text": "121. The words “Oath of office” were substituted for the words “Oath of Commissioners” by section 7 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)."
+    },
+    {
+      "footnote_text": "13Sub-section (1) was substituted by section 7 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)."
+    },
+    {
+      "footnote_text": "14The words and commas “The Mayor and every Commissioner, other than official Commissioner, shall, before entering upon his office or taking his seat,” were substituted for the words and commas “Every Commissioner, other than official Commissioners, shall, before taking his seat,” by section 6 of the Khulna Municipal Corporation (Amendment) Ordinance, 1986 (Ordinance No. LV of 1986)."
+    },
+    {
+      "footnote_text": "15The commas and words “, other than official Commissioner,” were omitted by section 9 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)."
+    },
+    {
+      "footnote_text": "16Section 9 was substituted by section 10 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)."
+    },
+    {
+      "footnote_text": "17Section 10 was substituted by section 11 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)."
+    },
+    {
+      "footnote_text": "18The words “as Mayor and Commissioner” were substituted for the words “and nomination as Commissioner” by section 12 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)."
+    },
+    {
+      "footnote_text": "19The words “as Mayor or a Commissioner” were substituted for the words “or nominated as a Commissioner” by section 12 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)."
+    },
+    {
+      "footnote_text": "20The words “as Mayor or” were substituted for the words “or nominated as” by section 12 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)."
+    },
+    {
+      "footnote_text": "21The semi-colon (;) was substituted for the full-stop (.) and thereafter clause (g) and the explanation were inserted by section 7 of the Local Government Laws (Amendment) Act, 1987 (Act No. XXIII of 1987)."
+    },
+    {
+      "footnote_text": "22The semi-colon (;) was substituted for the full-stop (.) and thereafter clause (h) was added by section 6 of the Local Government Laws (Amendment) Act, 1990 (Act No. LVI of 1990)."
+    },
+    {
+      "footnote_text": "23Clauses (h) and (i) were substituted for former clause (h) by section 12 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)."
+    },
+    {
+      "footnote_text": "24Sub-sections (2A) and (2B) were inserted by section 12 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)."
+    },
+    {
+      "footnote_text": "25Sub-section (4) was added by section 12 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)."
+    },
+    {
+      "footnote_text": "26The words “office of Mayor and seat of Commissioner” were substituted for the words “seats of Commissioners and offices of Mayor and Deputy Mayor” by section 13 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)"
+    },
+    {
+      "footnote_text": "27The words “office of Mayor and seat of a Commissioner” were substituted for the words and commas “seat of a Commissioner, other than an official Commissioner,” by section 13 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)"
+    },
+    {
+      "footnote_text": "28The words “the Mayor or a Commissioner” were substituted for the words “a Commissioner” by section 13 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)"
+    },
+    {
+      "footnote_text": "29The words “the Mayor or the Commissioner” were substituted for the words “the Commissioner” by section 13 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)"
+    },
+    {
+      "footnote_text": "30The words “the Mayor or the Commissioner” were substituted for the words “the Commissioner” by section 13 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)"
+    },
+    {
+      "footnote_text": "31The words “the Mayor or a Commissioner” were substituted for the words “a Commissioner” by section 13 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)"
+    },
+    {
+      "footnote_text": "32Sub-section (4) was substituted by section 13 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)"
+    },
+    {
+      "footnote_text": "33The words and commas “or a nomination, as the case may be,” were omitted by section 14 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)."
+    },
+    {
+      "footnote_text": "34The words “or made” were omitted by section 14 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)."
+    },
+    {
+      "footnote_text": "35The words “or nominated” were omitted by section 14 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)."
+    },
+    {
+      "footnote_text": "36The words “Mayor or” were omitted by section 10 of the Khulna Municipal Corporation (Amendment) Ordinance, 1986 (Ordinance No. LV of 1986)."
+    },
+    {
+      "footnote_text": "37The word “Deputy” was omitted by section 14 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)."
+    },
+    {
+      "footnote_text": "38The words “ninety days” were substituted for the words “one month” by section 14 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)."
+    },
+    {
+      "footnote_text": "39The words “Mayor and” were omitted by section 11 of the Khulna Municipal Corporation (Amendment) Ordinance, 1986 (Ordinance No. LV of 1986)"
+    },
+    {
+      "footnote_text": "40The word “Deputy” was omitted by section 15 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)"
+    },
+    {
+      "footnote_text": "41The words “Mayor and the” were omitted by section 11 of the Khulna Municipal Corporation (Amendment) Ordinance, 1986 (Ordinance No. LV of 1986)"
+    },
+    {
+      "footnote_text": "42The word “Mayor” was substituted for the words “Deputy Mayor” by section 15 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)"
+    },
+    {
+      "footnote_text": "43Section 17 was substituted by section 16 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)."
+    },
+    {
+      "footnote_text": "44Section 18 was substituted by section 5 of the Khulna City Corporation (Amendment) Act, 1999 (Act No. III of 1999)."
+    },
+    {
+      "footnote_text": "45Section 20A was inserted by section 6 of the Khulna City Corporation (Amendment) Act, 1999 (Act No. III of 1999)"
+    },
+    {
+      "footnote_text": "46Section 22 was substituted by section 19 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)."
+    },
+    {
+      "footnote_text": "47Section 22A was inserted by section 20 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)."
+    },
+    {
+      "footnote_text": "48The commas and words “, other than Commissioners in reserved seats,” were omitted by section 7 of the Khulna City Corporation (Amendment) Act, 1999 (Act No. III of 1999)."
+    },
+    {
+      "footnote_text": "49The words and commas “elections of Mayor and Commissioners, other than the Commissioners in reserved seats,” were substituted for the words “elections of Commissioners” by section 21 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)."
+    },
+    {
+      "footnote_text": "50The words and commas “, other than the Commissioners in reserved seats,” were omitted by section 8 of the Khulna City Corporation (Amendment) Act, 1999 (Act No. III of 1999)."
+    },
+    {
+      "footnote_text": "51The words “Mayor and Commissioners” were substituted for the word “Commissioners” by section 22 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)."
+    },
+    {
+      "footnote_text": "52The words and commas “Mayor and Commissioners, other than Commissioners in reserved seats,” were substituted for the words “Commissioners” by section 22 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)."
+    },
+    {
+      "footnote_text": "53The words and commas “, other than Commissioners in reserved seats,” were omitted by section 9 of the Khulna City Corporation (Amendment) Act, 1999 (Act No. III of 1999)."
+    },
+    {
+      "footnote_text": "54Section 27A was inserted by section 24 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)."
+    },
+    {
+      "footnote_text": "55The words “the Deputy Mayor or” were omitted by section 23 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)."
+    },
+    {
+      "footnote_text": "56The words “or the Deputy Mayor” were omitted by section 25 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)."
+    },
+    {
+      "footnote_text": "57The words and figure “the Commissioner authorised by the Mayor under section 17” were substituted for the words “the Deputy Mayor” by section 26 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)"
+    },
+    {
+      "footnote_text": "58The words and figure “by the Commissioner authorised by the Mayor under section 17” were substituted for the words “by the Deputy Mayor” by section 26 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)"
+    },
+    {
+      "footnote_text": "59Sub-section (7) was added by section 26 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)"
+    },
+    {
+      "footnote_text": "60The words “and the Deputy Mayor” were omitted by section 27 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)."
+    },
+    {
+      "footnote_text": "61The words “one thousand seven hundred twenty five Taka” were substituted for the words “one thousand taka” by section 28 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)."
+    },
+    {
+      "footnote_text": "62The comma and word “, pension” was omitted by section 6 of the Local Government Laws (Amendment) Act, 1988 (Act No. VIII of 1988)."
+    },
+    {
+      "footnote_text": "63The words “pension and” were omitted by section 6 of the Local Government Laws (Amendment) Act, 1988 (Act No. VIII of 1988)."
+    },
+    {
+      "footnote_text": "64The words “pension or” were omitted by section 6 of the Local Government Laws (Amendment) Act, 1988 (Act No. VIII of 1988)."
+    },
+    {
+      "footnote_text": "65Clause (ff) was inserted by section 6 of the Local Government Laws (Amendment) Act, 1988 (Act No. VIII of 1988)."
+    },
+    {
+      "footnote_text": "66The words and comma “the Deputy Mayor,” were omitted by section 29 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)."
+    },
+    {
+      "footnote_text": "67The words and comma “the Deputy Mayor,” were omitted by section 30 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)."
+    },
+    {
+      "footnote_text": "68The words and comma “the Deputy Mayor,” were omitted by section 30 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)."
+    },
+    {
+      "footnote_text": "69The word “or” was added and thereafter clause (e) was inserted by section 31 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)."
+    },
+    {
+      "footnote_text": "70The word and comma “Mayor, ” was omitted by section 12 of the Khulna Municipal Corporation (Amendment) Ordinance, 1986 (Ordinance No. LV of 1986)."
+    },
+    {
+      "footnote_text": "71The word “Deputy” was omitted by section 31 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)."
+    },
+    {
+      "footnote_text": "72The words “by such person or authority as the Government may appoint in this behalf” were substituted for the words “by the Mayor” by section 31 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)."
+    },
+    {
+      "footnote_text": "73Section 148 was substituted by section 6 of the Local Government Laws (Amendment) Act, 1990 (Act No. LVI of 1990)."
+    },
+    {
+      "footnote_text": "74The words “or the Deputy Mayor” were omitted by section 32 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)."
+    },
+    {
+      "footnote_text": "75The words “or the Deputy Mayor” were omitted by section 33 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)."
+    },
+    {
+      "footnote_text": "76The words “or the Deputy Mayor” were omitted by section 33 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)."
+    },
+    {
+      "footnote_text": "77The words and comma “Deputy Mayor,” were omitted by section 34 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)."
+    },
+    {
+      "footnote_text": "78The comma and words “, the Deputy Mayor” were omitted by section 34 of the Khulna City Corporation (Amendment) Act, 1993 (Act No. X of 1993)."
+    },
+    {
+      "footnote_text": "79Section 167A was inserted by section 3 the Khulna City Corporation (Amendment) Act, 2004 (Act No. XX of 2004)"
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-678.html",
+  "fetch_timestamp": "2025-07-19 02:21:17",
+  "csv_metadata": {
+    "act_title_from_csv": "The Khulna City Corporation Ordinance, 1984  [Repealed]",
+    "act_no_from_csv": "LXXII",
+    "act_year_from_csv": "1984",
+    "is_repealed": true
+  },
+  "token_count": 2218,
+  "language": "unknown",
+  "government_context": {
+    "govt_system": "Military Rule",
+    "position_head_govt": "President",
+    "head_govt_name": "Lt. Gen. Hussain Muhammad Ershad",
+    "head_govt_designation": "President of Bangladesh (Military ruler)",
+    "how_got_power": "Military coup",
+    "period_years": "1982-1990",
+    "years_in_power": 8
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:22",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "unknown",
+    "token_count": 2093,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:28",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:09",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:11",
+    "previous_token_count": 2093,
+    "accurate_token_count": 2218
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "Military Rule Era",
+      "year_range": "1975-1990",
+      "act_year": 1984
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Martial Law Proclamations",
+        "5th Amendment (1979)",
+        "7th Amendment (1986)"
+      ],
+      "court_system": [
+        "Supreme Court (limited powers)",
+        "Martial Law Courts",
+        "Civil Courts"
+      ],
+      "legal_basis": "Military decrees with constitutional validation",
+      "enforcement_mechanism": "Military tribunals and civil courts"
+    },
+    "government_system": {
+      "type": "Military Rule/Martial Law",
+      "structure": "Military government with civilian facade",
+      "revenue_collection": "Centralized military administration",
+      "administrative_units": [
+        "Divisions",
+        "Districts",
+        "Upazilas (1982)",
+        "Unions"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Police under military control",
+      "military_police": "Enhanced military and paramilitary forces",
+      "jurisdiction": "Military-controlled law enforcement"
+    },
+    "land_relations": {
+      "tenure_system": "Land reforms under military government",
+      "property_rights": "Military government modifications",
+      "revenue_system": "Upazila system for administration",
+      "peasant_status": "Rural development programs"
+    },
+    "key_characteristics": [
+      "Suspension of democratic institutions",
+      "Constitutional amendments under military rule",
+      "Emergency provisions and martial law",
+      "Upazila system introduction (1982)",
+      "Gradual transition to controlled democracy"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:28"
+  }
+}

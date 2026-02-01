@@ -1,0 +1,106 @@
+{
+  "act_title": "THE MYMENSINGH PARTIALLY EXCLUDED AREAS TENANCY REGULATION, 1942.",
+  "act_no": "VIII",
+  "act_year": "1942",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "(1) This Regulation may be calledTHE MYMENSINGH PARTIALLY EXCLUDED AREAS TENANCY REGULATION, 1942.(2) It extends to the partially excluded areas of the district of Mymensingh"
+    },
+    {
+      "section_content": "In this Regulation-the word “tenant” has the same meaning as in the Mymensingh Partially Excluded Areas Tenancy Regulation, 1940;all other words and expressions used in this Regulationand used in the Bengal Tenancy Act, 1885, have the same meaning as in that Act."
+    },
+    {
+      "section_content": "3.  Notwithstanding anything contained in the Bengal Tenancy Act, 1885, or in any other law for the time being in force-(a)   the Court shall, in a suit brought against a tenure- holder, raiyat or under-raiyat for recovery of an arrear of rent which has become  due on or before the thirteenth day of April, 1945, order, at the time of passing a decree in such suit, that the amount of such decree shall be payable in such number of annual installments, not being less than three, and on such dates as the Court thinks fit and that, if the judgment debtor defaults in making payment of any such installment, the whole of the decretal amount then due shall be recoverable;(b)      the Court executing a decree passed 1[on or before the thirteenth day of April, 1945] for an arrear of rent against a tenure-holder, raiyat or under-raiyat shall, before ordering the sale of the tenure, holding or any portion thereof in respect of which such arrear of rent became due, allow the judgment-debtor to pay the decretal amount in such number of annual installments, not being less than three, and on such dates as the Court thinks fit and order that, if the judgment-debtor defaults in making payment of any such installment, the whole of the decretal amount then due shall be recoverable."
+    }
+  ],
+  "footnotes": [],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-1332.html",
+  "fetch_timestamp": "2025-07-19 02:09:50",
+  "csv_metadata": {
+    "act_title_from_csv": "THE MYMENSINGH PARTIALLY EXCLUDED AREAS TENANCY REGULATION, 1942.",
+    "act_no_from_csv": "VIII",
+    "act_year_from_csv": "1942",
+    "is_repealed": false
+  },
+  "token_count": 454,
+  "language": "english",
+  "government_context": {
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Governor of Bengal",
+    "head_govt_name": "Sir John Arthur Herbert",
+    "head_govt_designation": "Governor of Bengal Province",
+    "how_got_power": "British Crown appointment",
+    "period_years": "1939-1943",
+    "years_in_power": 4
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:20",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 310,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:25",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:35:54",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:04",
+    "previous_token_count": 310,
+    "accurate_token_count": 454
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "British Crown Rule",
+      "year_range": "1858-1947",
+      "act_year": 1942
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Government of India Act 1858",
+        "Indian Penal Code 1860",
+        "Code of Civil Procedure 1908",
+        "Evidence Act 1872"
+      ],
+      "court_system": [
+        "High Courts (1861)",
+        "District Courts",
+        "Magistrate Courts"
+      ],
+      "legal_basis": "Codified British-Indian legal system",
+      "enforcement_mechanism": "Imperial Police Service and civil courts"
+    },
+    "government_system": {
+      "type": "Crown Colony Administration",
+      "structure": "Viceroy and provincial governors",
+      "revenue_collection": "Imperial taxation system",
+      "administrative_units": [
+        "Provinces",
+        "Districts",
+        "Sub-districts"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Police Act 1861 - structured police force",
+      "military_police": "Imperial Police Service",
+      "jurisdiction": "Provincial police under colonial control"
+    },
+    "land_relations": {
+      "tenure_system": "Zamindari, Ryotwari, and Mahalwari systems",
+      "property_rights": "Colonial property law framework",
+      "revenue_system": "Land revenue administration",
+      "peasant_status": "Various tenant classes with limited rights"
+    },
+    "key_characteristics": [
+      "Codification of laws (Penal Code, CPC, Evidence Act)",
+      "Structured civil service system",
+      "Constitutional developments (1909, 1919, 1935 Acts)",
+      "Bengal Tenancy Act 1885 and amendments",
+      "Emergency powers and martial law provisions"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:25"
+  }
+}

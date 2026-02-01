@@ -1,0 +1,122 @@
+{
+  "act_title": "The Criminal Law (Industrial Areas) Amendment Act, 1942 (Bengal Act)",
+  "act_no": "IV",
+  "act_year": "1942",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. (1) This Act may be called the2[* * *] Criminal Law (Industrial Areas) Amendment Act, 1942.(2) This section and section 2 extend to the whole of3[Bangladesh], except the district of Sylhet and the remaining provisions of this Act shall extend to any area declared to be an industrial area under section 2."
+    },
+    {
+      "section_content": "2.\tThe4[* * *] Government may, by notification in the official Gazette, declare any area to be an industrial area for the purposes of this Act."
+    },
+    {
+      "section_content": "3.\tAny person found, between sunset and sunrise-(a)\tarmed with any dangerous or offensive instrument whatsoever, with intent to commit any criminal act;(b) \tdisguised in any manner with intent to commit any criminal act;(c)\tin any dwelling house or other building whatsoever, without being able satisfactorily to account for his presence therein; orany person previously convicted of theft found between sunset and sunrise on board any vessel or boat, or lying or loitering in any bazar, street, yard, thoroughfare or other place who shall not give any satisfactory account of himself; orany person having in his possession, without lawful excuse (the proof of which excuse shall be on such person) any instrument of house-breaking;may be taken into custody by any police-officer without a warrant, and shall be liable, on summary conviction before a Magistrate, to imprisonment, for a term which may extend to three months.Explanation.- In this section the word “street” means any road, lane, footway, square, court, alley or passage, whether a thoroughfare or not, to which the public have, permanently or temporarily, a right of access."
+    },
+    {
+      "section_content": "4. (1) Whoever has in his possession, or conveys in any manner, or offers for sale or pawn, anything which there is reason to believe to have been stolen or fraudulently obtained shall, if he fails to account for such possession or such act to the satisfaction of the Magistrate, be liable to fine which may extend to one hundred Taka, or to imprisonment, for a term which may extend to six months.(2) If any person charged under sub-section (1) in respect of anything declares that he received such thing from some person, or that he was employed as a carrier, agent or servant to convey such thing for some other person, the Magistrate, after such further inquiry (if any) as he may deem necessary, may summon  such  other  person,  and  any  former  or  pretended purchaser or other person through whose possession such thing is alleged to have passed, to appear before him, and may examine such person and any witnesses who are produced to testify to such receipt, employment or possession; and, if it appears to such Magistrate that any such person had possession of such thing and had reasonable cause to believe that it was stolen or fraudulently obtained, the Magistrate may punish him with fine which may extend to one hundred Taka, or with imprisonment, for a term which may extend to six months."
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1Throughout this Act, the word “Taka” was substituted for the word “rupees” by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "2The word “Bengal” was omitted by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "3The word “Bangladesh” was substituted for the words “East Pakistan” by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "4The word “Provincial” was omitted by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-193.html",
+  "fetch_timestamp": "2025-07-19 02:09:51",
+  "csv_metadata": {
+    "act_title_from_csv": "The Criminal Law (Industrial Areas) Amendment Act, 1942 (Bengal Act)",
+    "act_no_from_csv": "IV",
+    "act_year_from_csv": "1942",
+    "is_repealed": false
+  },
+  "token_count": 761,
+  "language": "english",
+  "government_context": {
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Governor of Bengal",
+    "head_govt_name": "Sir John Arthur Herbert",
+    "head_govt_designation": "Governor of Bengal Province",
+    "how_got_power": "British Crown appointment",
+    "period_years": "1939-1943",
+    "years_in_power": 4
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:21",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 615,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:26",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:35:59",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:08",
+    "previous_token_count": 615,
+    "accurate_token_count": 761
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "British Crown Rule",
+      "year_range": "1858-1947",
+      "act_year": 1942
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Government of India Act 1858",
+        "Indian Penal Code 1860",
+        "Code of Civil Procedure 1908",
+        "Evidence Act 1872"
+      ],
+      "court_system": [
+        "High Courts (1861)",
+        "District Courts",
+        "Magistrate Courts"
+      ],
+      "legal_basis": "Codified British-Indian legal system",
+      "enforcement_mechanism": "Imperial Police Service and civil courts"
+    },
+    "government_system": {
+      "type": "Crown Colony Administration",
+      "structure": "Viceroy and provincial governors",
+      "revenue_collection": "Imperial taxation system",
+      "administrative_units": [
+        "Provinces",
+        "Districts",
+        "Sub-districts"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Police Act 1861 - structured police force",
+      "military_police": "Imperial Police Service",
+      "jurisdiction": "Provincial police under colonial control"
+    },
+    "land_relations": {
+      "tenure_system": "Zamindari, Ryotwari, and Mahalwari systems",
+      "property_rights": "Colonial property law framework",
+      "revenue_system": "Land revenue administration",
+      "peasant_status": "Various tenant classes with limited rights"
+    },
+    "key_characteristics": [
+      "Codification of laws (Penal Code, CPC, Evidence Act)",
+      "Structured civil service system",
+      "Constitutional developments (1909, 1919, 1935 Acts)",
+      "Bengal Tenancy Act 1885 and amendments",
+      "Emergency powers and martial law provisions"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:26"
+  }
+}

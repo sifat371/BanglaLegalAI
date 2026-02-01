@@ -1,0 +1,121 @@
+{
+  "act_title": "The Sairat Mahals (Management) Ordinance, 1959 (East Pakistan Ordinance)",
+  "act_no": "VI",
+  "act_year": "1959",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. (1) This Ordinance may be called the Sairat Mahals (Management) Ordinance, 1959.(2) It extends to the whole of1[Bangladesh].(3) It shall come into force at once."
+    },
+    {
+      "section_content": "2. (1) Where any share of any hat, bazar, fishery or ferry has vested in the Government as a result of acquisition under the2[* * *] State Acquisition and Tenancy Act, 1950, or otherwise, the Government may, by notification in the official Gazette, assume the right of possession, management and control of the remaining share or shares of such hat, bazar, fishery or ferry.(2) Immediately upon the publication of a notification under sub-section (1), the right of possession, management and control of such share or shares in the hat, bazar, fishery or ferry shall pass on to the Government.(3) Where the right of possession, management and control of any share in any hat, bazar, fishery or ferry has passed on to the Government under sub-section (2), the owner of such share shall, from the date of such passing on till the date of vesting of such share in the Government as a result of acquisition under the provisions of the3[* * *] State Acquisition and Tenancy Act, 1950, or otherwise, receive from the Government in respect of such share as compensation for use and occupation for each year or part of a year an amount which will bear such proportion to the net income realised by the Government  for the entire property for that year or part of a year as such share bears to the whole property.(4) In calculating the net income referred to in sub-section (3) for any such property for any year or part of a year, there shall be deducted from the gross proceeds received by the Government from such property on account of such year or part of a year,-(a) \tany rent payable on account of such year or part of a year for such property to any superior landlord whose interests have not been acquired;(b)\tall expenses incurred for khas management of the property where the Government manages the property in khas;(c)\tin case the property is let out by the Government, the cost of advertisement and holding the sale, any refund or abatement that may have to be made to the lessee under the terms of the lease and other expenses, if any, incurred by the Government  in connection with the management of such property."
+    },
+    {
+      "section_content": "3. No Court shall entertain any suit or proceeding to restrain the Government from assuming the right of possession, management and control of any share in any hat, bazar, fishery or ferry in pursuance of any notification issued under sub-section (1) of section 2."
+    },
+    {
+      "section_content": "4. The Government may, at any time, by notification in the official Gazette, relinquish possession, management and control of a share or shares of which possession, management and control have been assumed under section 2 and upon publication of such notification, the right of possession, management and control shall pass back to the previous owners."
+    },
+    {
+      "section_content": "5. The Government may, by notification in the official Gazette, make rules for the purpose of carrying into effect the provisions of this Ordinance."
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1The word “ Bangladesh” was substituted for the words “ East Pakistan” by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "2The words “East Pakistan” were omitted by Article 6 of theBangladesh (Adaptation of Existing Laws) Order, 1972(President’s Order No. 48 of 1972)"
+    },
+    {
+      "footnote_text": "3The words “East Pakistan” were omitted by Article 6 of theBangladesh (Adaptation of Existing Laws) Order, 1972(President’s Order No. 48 of 1972)"
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-284.html",
+  "fetch_timestamp": "2025-07-19 02:11:56",
+  "csv_metadata": {
+    "act_title_from_csv": "The Sairat Mahals (Management) Ordinance, 1959 (East Pakistan Ordinance)",
+    "act_no_from_csv": "VI",
+    "act_year_from_csv": "1959",
+    "is_repealed": false
+  },
+  "token_count": 759,
+  "language": "english",
+  "government_context": {
+    "govt_system": "Military Rule",
+    "position_head_govt": "President of Pakistan",
+    "head_govt_name": "General Ayub Khan",
+    "head_govt_designation": "President of Pakistan (Military regime)",
+    "how_got_power": "Military coup",
+    "period_years": "1958-1969",
+    "years_in_power": 11
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:21",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 618,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:26",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:01",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:09",
+    "previous_token_count": 618,
+    "accurate_token_count": 759
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "East Pakistan Period",
+      "year_range": "1947-1971",
+      "act_year": 1959
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Government of India Act 1935 (adapted)",
+        "Pakistan Constitution 1956",
+        "Pakistan Constitution 1962"
+      ],
+      "court_system": [
+        "Dhaka High Court (1948)",
+        "District Courts",
+        "Federal Court/Supreme Court of Pakistan"
+      ],
+      "legal_basis": "Adapted British-Indian laws with Islamic provisions",
+      "enforcement_mechanism": "Pakistani legal system"
+    },
+    "government_system": {
+      "type": "Federal Parliamentary (1947-1958), Presidential (1958-1971)",
+      "structure": "Provincial government under federal system",
+      "revenue_collection": "Federal and provincial taxation",
+      "administrative_units": [
+        "Province",
+        "Districts",
+        "Thanas"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "East Bengal/East Pakistan Police",
+      "military_police": "Pakistan Army and paramilitary forces",
+      "jurisdiction": "Provincial police under federal oversight"
+    },
+    "land_relations": {
+      "tenure_system": "East Bengal State Acquisition and Tenancy Act 1950",
+      "property_rights": "Abolition of zamindari system",
+      "revenue_system": "Direct government land revenue",
+      "peasant_status": "Farmers as direct tenants to state"
+    },
+    "key_characteristics": [
+      "Zamindari abolition (1951)",
+      "Language movement legal issues (1952)",
+      "Military rule periods (1958-1971)",
+      "Constitutional crises and martial law",
+      "Bengali autonomy demands and legal frameworks"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:26"
+  }
+}

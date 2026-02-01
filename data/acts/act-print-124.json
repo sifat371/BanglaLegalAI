@@ -1,0 +1,128 @@
+{
+  "act_title": "The Police (Incitement to Disaffection) Act, 1922",
+  "act_no": "XXII",
+  "act_year": "1922",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1.(1) This Act may be called thePolice (Incitement to Disaffection) Act, 1922.(2) \tIt extends to the whole of Bangladesh.(3) \tIt shall come into force in2[Bangladesh or part thereof] on such date as the3[Government] may, by notification in the official Gazette, direct."
+    },
+    {
+      "section_content": "2. \tIn this Act, the expression \"member of a police-force\" means any person appointed or enrolled for the performance of police duties under any enactment specified in the Schedule."
+    },
+    {
+      "section_content": "3. Whoever intentionally causes or attempts to cause, or does any act which he knows is likely to cause, disaffection towards Bangladesh or the Government established by law in Bangladesh amongst the members of a police-force, or induces or attempts to induce, or does any act which he knows is     likely to induce, any member of a police-force to withhold his services or to commit a breach of discipline shall be punished with  imprisonment  which  may  extend  to  six months, or with fine which may extend to two hundred4[Taka], or with both.Explanation- Expressions of disapprobation of the measures of the Government with a view to obtain their alteration by lawful means, or of disapprobation of the administrative or other action of the Government, do not constitute an offence under this section unless they cause or are made for the purpose of causing or are likely to cause disaffection."
+    },
+    {
+      "section_content": "4.\tNothing shall be deemed to be an offence under this Act which is done in good faith-(a) \tfor the purpose of promoting the welfare or interests of any member of a police-force by inducing him to withhold his services in any manner authorized by law; or(b) \tby or on behalf of any association formed for the purpose of furthering the interests of members of a police-force as such, where the association has been authorized or recognized by the Government and the act done is done under any rules or articles of the association which have been approved by the Government."
+    },
+    {
+      "section_content": "5. \tNo Court shall proceed to the trial of any offence under this Act except with the previous sanction, or on the complaint, of the District Magistrate."
+    },
+    {
+      "section_content": "6.(1) No Court inferior to that of a Magistrate of the first class shall try any offence under this Act.(2) \tNotwithstanding anything contained in Chapter XXII of theCode of Criminal Procedure, 1898, no offence under this Act shall be triable summarily."
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1Throughout this Act, except otherwise provided, the word \"Bangladesh\" was substituted, for the word \"Pakistan\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "2The words \"Bangladesh or part thereof\" were substituted, for the words \"any Province or part of a Province\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "3The word \"Government\" was substituted, for the words \"Provincial Government\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "4The word \"Taka\" was substituted, for the word \"rupees\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-124.html",
+  "fetch_timestamp": "2025-07-19 02:08:00",
+  "csv_metadata": {
+    "act_title_from_csv": "The Police (Incitement to Disaffection) Act, 1922",
+    "act_no_from_csv": "XXII",
+    "act_year_from_csv": "1922",
+    "is_repealed": false
+  },
+  "token_count": 675,
+  "language": "english",
+  "government_context": {
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Governor of Bengal",
+    "head_govt_name": "Earl of Lytton (Victor Bulwer-Lytton)",
+    "head_govt_designation": "Governor of Bengal Province",
+    "how_got_power": "British Crown appointment",
+    "period_years": "1922-1927",
+    "years_in_power": 5
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:19",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 531,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:25",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:35:52",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:02",
+    "previous_token_count": 531,
+    "accurate_token_count": 675
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "British Crown Rule",
+      "year_range": "1858-1947",
+      "act_year": 1922
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Government of India Act 1858",
+        "Indian Penal Code 1860",
+        "Code of Civil Procedure 1908",
+        "Evidence Act 1872"
+      ],
+      "court_system": [
+        "High Courts (1861)",
+        "District Courts",
+        "Magistrate Courts"
+      ],
+      "legal_basis": "Codified British-Indian legal system",
+      "enforcement_mechanism": "Imperial Police Service and civil courts"
+    },
+    "government_system": {
+      "type": "Crown Colony Administration",
+      "structure": "Viceroy and provincial governors",
+      "revenue_collection": "Imperial taxation system",
+      "administrative_units": [
+        "Provinces",
+        "Districts",
+        "Sub-districts"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Police Act 1861 - structured police force",
+      "military_police": "Imperial Police Service",
+      "jurisdiction": "Provincial police under colonial control"
+    },
+    "land_relations": {
+      "tenure_system": "Zamindari, Ryotwari, and Mahalwari systems",
+      "property_rights": "Colonial property law framework",
+      "revenue_system": "Land revenue administration",
+      "peasant_status": "Various tenant classes with limited rights"
+    },
+    "key_characteristics": [
+      "Codification of laws (Penal Code, CPC, Evidence Act)",
+      "Structured civil service system",
+      "Constitutional developments (1909, 1919, 1935 Acts)",
+      "Bengal Tenancy Act 1885 and amendments",
+      "Emergency powers and martial law provisions"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:25"
+  }
+}

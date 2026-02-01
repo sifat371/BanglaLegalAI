@@ -1,0 +1,110 @@
+{
+  "act_title": "The Civil Courts (Amendment) Act, 2021",
+  "act_no": "০৫",
+  "act_year": "2021",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "১।(১) এই আইনTheCivil Courts (Amendment) Act, 2021নামে অভিহিত হইবে।(২) ইহা অবিলম্বে কার্যকর হইবে।"
+    },
+    {
+      "section_content": "২।TheCivil Courts Act, 1887(Act No. XII of 1887),অতঃপর উক্তActবলিয়াউল্লিখিত, এরsection 19এরপরিবর্তে নিম্নরূপsection 19প্রতিস্থাপিত হইবে, যথা :-“19. (1) Save as otherwise provided by any enactment for the time being in force, the jurisdiction of a Senior Assistant Judge and an Assistant Judge shall extend to all suits of which the value does not exceed 25 (twenty five) lac Taka and 15 (fifteen) lac Taka respectively.(2) The District Judge shall transfer the suit or proceeding pending before the Joint District Judge Court or the Senior Assistant Judge Court to the competent court within 90 (ninety) days from the date of enforcement of theCivil Courts (Amendment) Act, 2021.(3) If any suit or proceeding is transferred under sub-section (2), the suit or proceeding shall start from the stage at which it was transferred.”।"
+    },
+    {
+      "section_content": "৩।উক্তActএরsection 21এরsub-section (1)এর পরিবর্তে নিম্নরূপsub-section (1)এবং(1A)প্রতিস্থাপিত হইবে, যথা:-“(1) Save as aforesaid, an appeal from a decree or order of a Joint District Judge shall lie-(a)  to the District Judge where the value of the original suit in which or in any proceeding arising out of which the decree or order was made did not exceed 5 (five) crore Taka; and(b)  to the High Court Division in any other case.(1A) No appeal or proceeding pending before the High Court Division shall be transferred to the District Judge only because of the enhancement of pecuniary jurisdiction of a District Judge by theCivil Courts (Amendment) Act, 2021.”।"
+    },
+    {
+      "section_content": "৪।The Civil Courts (Amendment) Act, 2016(২০১৬ সনের ১৩ নং আইন) এতদ্দ্বারা রহিত করা হইল।"
+    }
+  ],
+  "footnotes": [],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-1370.html",
+  "fetch_timestamp": "2025-07-19 02:40:40",
+  "csv_metadata": {
+    "act_title_from_csv": "The Civil Courts (Amendment) Act, 2021",
+    "act_no_from_csv": "০৫",
+    "act_year_from_csv": "২০২১",
+    "is_repealed": false
+  },
+  "token_count": 395,
+  "language": "bengali",
+  "government_context": {
+    "govt_system": "Parliamentary Democracy (increasingly authoritarian)",
+    "position_head_govt": "Prime Minister",
+    "head_govt_name": "Sheikh Hasina",
+    "head_govt_designation": "Prime Minister of Bangladesh",
+    "how_got_power": "Democratic election (2009), subsequent controversial elections (2014, 2018, 2024)",
+    "period_years": "2009-2024",
+    "years_in_power": 15
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:20",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "bengali",
+    "token_count": 279,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:25",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:35:55",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:04",
+    "previous_token_count": 279,
+    "accurate_token_count": 395
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "Awami League Dominance",
+      "year_range": "2008-2024",
+      "act_year": 2021
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "15th Amendment (2011)",
+        "Cyber Security Act 2023",
+        "Digital Security Act",
+        "International Crimes Tribunal Act"
+      ],
+      "court_system": [
+        "Supreme Court",
+        "High Court Division",
+        "Specialized Tribunals"
+      ],
+      "legal_basis": "Constitutional parliamentary system",
+      "enforcement_mechanism": "Politicized judicial system"
+    },
+    "government_system": {
+      "type": "Parliamentary Democracy (increasingly authoritarian)",
+      "structure": "Single-party dominance",
+      "revenue_collection": "Modernized tax system",
+      "administrative_units": [
+        "8 Divisions",
+        "64 Districts",
+        "492 Upazilas",
+        "4,554 Unions"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Politicized police force",
+      "military_police": "RAB, Police, Border Guards",
+      "jurisdiction": "Centralized political control"
+    },
+    "land_relations": {
+      "tenure_system": "Market-based with disputes",
+      "property_rights": "Development-focused acquisition",
+      "revenue_system": "Digital land records",
+      "peasant_status": "Modernization and displacement issues"
+    },
+    "key_characteristics": [
+      "Caretaker system abolition",
+      "War crimes tribunals",
+      "Digital governance initiatives",
+      "Authoritarian drift",
+      "Student movement repressions"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:25"
+  }
+}

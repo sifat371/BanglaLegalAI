@@ -1,0 +1,104 @@
+{
+  "act_title": "The Bangladesh Insurance Corporation (Dissolution) Order, 1972 (President's Order)",
+  "act_no": "161",
+  "act_year": "1972",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. (1) This Order may be called the Bangladesh Insurance Corporation (Dissolution) Order, 1972.(2) It extends to the whole of Bangladesh.(3) It shall come into force at once."
+    },
+    {
+      "section_content": "2. In this Order, unless there is anything repugnant in the subject or context,-(a) \t“Bangladesh Insurance Corporation” means the Bangladesh Insurance Corporation established by the Bangladesh Insurance Corporation Order, 1972 (P.O. No. 18 of 1972);(b) \t“Corporation” means the Teesta Bima Corporation established by theBangladesh Insurance (Nationalisation) Order, 1972(P.O. No. 95 of 1972);(c) \t“Government” means the Government of the People's Republic of Bangladesh;(d) \t“Insurer” means an insurer as defined in theInsurance Act, 1938(Act IV of 1938), who carries on Insurance business in Bangladesh and includes a provident Society as defined in section 65 of that Act;(e) \t“Pakistan Insurance Corporation” means the Pakistan Insurance Corporation established by the Pakistan Insurance Corporation Act, 1952 (Act XXXVIII of 1952); and(f) \t“subsidiary Corporation” means the Karnaphuli Bima Corporation, the Teesta Bima Corporation, the Surma Jiban Bima Corporation or the Rupsa Jiban Bima Corporation established by Article 4 of theBangladesh Insurance (Nationalisation) Order, 1972(P.O. No. 95 of 1972)."
+    },
+    {
+      "section_content": "3. Notwithstanding anything contained in any other law for the time being in force, on the commencement of this Order-(a) \tThe Bangladesh Insurance Corporation shall stand dissolved with effect from 1st January, 1973;(b) \tall assets of the Bangladesh Insurance Corporation, except such cash assets which the Government may, by order, specify, shall stand transferred to, and vested in the Corporation:Explanation 1 – The expression “assets” includes rights, privileges, authorities, powers, properties, both movable and immovable, including cash balance, bank deposits, reserve funds, general reserves, investments, deposits and all other interests and rights in or arising out of such properties and all books of accounts and documents;Explanation 2 – The expression “Cash assets” includes cash balances, bank deposits, reserve funds, general reserves, investments deposits and all other interests and rights therein or arising thereout;(c) \tall cash assets of the Bangladesh Insurance Corporation which are not vested in the Corporation under sub-clause (b) shall be administered and disposed of in such manner as the Government may direct;(d) \tall offices and establishments of the Bangladesh Insurance Corporation shall be deemed to be offices and establishments of the Corporation;(e) \tsuch officers and employees of the Bangladesh Insurance Corporation who are citizens of, and employed in, Bangladesh shall be deemed to be officers and employees of the Corporation as may be specified by the Corporation on such terms and conditions as the Corporation may determine:Provided that the provisions of Article 19 of theBangladesh Insurance (Nationalisation) Order, 1972(P.O. No. 95 of 1972), shall apply to all officers and employees who are employed by the Corporation by virtue of this sub-clause:Provided further that the Government may, by order, direct the Corporation to appoint such officers and employees of the Pakistan Insurance Corporation employed outside Bangladesh on such terms and conditions as the Government may determine;(f) \tall suits and other legal proceedings by or against the Bangladesh Insurance Corporation shall be deemed to be suits and proceedings by or against the Corporation;(g) \tall such liabilities or classes of liabilities (including book debts) of the Bangladesh Insurance Corporation as may be determined by the Government shall be liabilities or classes of liabilities of the Corporation, and shall be administered by the Corporation in the manner to be specified by the Government;(h) \tall amounts due to the insurers vested in the Teesta Bima Corporation and the Karnaphuli Bima Corporation established under theBangladesh Insurance (Nationalisation) Order, 1972(P.O. No. 95 of 1972) in respect of the reinsurance and the national co-insurance scheme shall be determined and the amount so determined to be due to the Karnaphuli Bima Corporation shall be paid to the Karnaphuli Bima Corporation;(i) \tThe Corporation shall pay to such shareholders of the Pakistan Insurance Corporation as are citizens of Bangladesh in respect of such shares as have not already vested in the Government by or under any law, and such compensation shall be determined and distributed among the shareholders in the manner prescribed by rules made under theBangladesh Insurance (Nationalisation) Order, 1972(P.O. No. 95 of 1972) for the purpose of making payment of compensation to the shareholders of an insurer:Provided that the total compensation payable under this clause shall not exceed the total paid up value of the shares held by the shareholders, among whom such compensation is to be distributed.(j) \tthe Bangladesh Insurance Corporation Order, 1972 (P.O. No. 18 of 1972) shall stand repealed."
+    }
+  ],
+  "footnotes": [],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-425.html",
+  "fetch_timestamp": "2025-07-19 02:14:30",
+  "csv_metadata": {
+    "act_title_from_csv": "The Bangladesh Insurance Corporation (Dissolution) Order, 1972 (President's Order)",
+    "act_no_from_csv": "161",
+    "act_year_from_csv": "1972",
+    "is_repealed": false
+  },
+  "token_count": 884,
+  "language": "english",
+  "government_context": {
+    "govt_system": "Parliamentary Democracy",
+    "position_head_govt": "Prime Minister",
+    "head_govt_name": "Sheikh Mujibur Rahman",
+    "head_govt_designation": "Prime Minister of Bangladesh",
+    "how_got_power": "Post-independence constitutional government",
+    "period_years": "1972-1973",
+    "years_in_power": 1
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:21",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 758,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:27",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:04",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:10",
+    "previous_token_count": 758,
+    "accurate_token_count": 884
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "Early Independent Bangladesh",
+      "year_range": "1971-1975",
+      "act_year": 1972
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Laws Continuance Enforcement Order 1971",
+        "Constitution of Bangladesh 1972"
+      ],
+      "court_system": [
+        "Supreme Court with High Court and Appellate Divisions",
+        "Subordinate Courts"
+      ],
+      "legal_basis": "Secular constitutional democracy with British-inherited laws",
+      "enforcement_mechanism": "Independent judiciary and civil courts"
+    },
+    "government_system": {
+      "type": "Parliamentary Democracy",
+      "structure": "Westminster-style parliamentary system",
+      "revenue_collection": "National taxation system",
+      "administrative_units": [
+        "Divisions",
+        "Districts",
+        "Thanas",
+        "Unions"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Bangladesh Police (continuing Police Act 1861)",
+      "military_police": "Bangladesh Army and security forces",
+      "jurisdiction": "National police force"
+    },
+    "land_relations": {
+      "tenure_system": "Continuation of 1950 Act with modifications",
+      "property_rights": "Constitutional property rights",
+      "revenue_system": "State land revenue collection",
+      "peasant_status": "Land ceiling laws and redistribution efforts"
+    },
+    "key_characteristics": [
+      "Secular constitution with four principles",
+      "Continuation of colonial-era laws",
+      "War crimes tribunals establishment",
+      "Nationalization policies",
+      "Special Powers Act 1974"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:27"
+  }
+}

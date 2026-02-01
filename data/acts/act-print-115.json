@@ -1,0 +1,127 @@
+{
+  "act_title": "The Cruelty to Animals Act, 1920",
+  "act_no": "I",
+  "act_year": "1920",
+  "publication_date": "19/07/2025",
+  "sections": [],
+  "footnotes": [
+    {
+      "footnote_text": "1The word \"Bengal\" was omitted by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "2Clauses (2) and (3) were omitted by East Pakistan Repealing and Amending Ordinance, 1962 (Ordinance No. XIII of 1962)"
+    },
+    {
+      "footnote_text": "3Sections 6A and 6B were inserted by the Bengal Cruelty to Animals (Amendment) Act, 1938 (Act No. I of 1938)"
+    },
+    {
+      "footnote_text": "4The words \"a Paurashava\" were substituted, for the words and comma \"a Municipal Committee or Town Committee, as the case may be\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "5Section 12A was inserted by the Bengal Cruelty to Animals (Amendment) Act, 1926 (Act No. VII of 1926)"
+    },
+    {
+      "footnote_text": "6Clause (bb) was inserted by section 6 of the Bengal Cruelty to Animals (Amendment) Act, 1926 (Act No. VII of 1926)"
+    },
+    {
+      "footnote_text": "7Clause (hh) was inserted by section 6 of the Bengal Cruelty to Animals (Amendment) Act, 1926 (Act No. VII of 1926)"
+    },
+    {
+      "footnote_text": "8The words \"Penal Code\" were substituted, for the words \"Pakistan Penal Code\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "9The words \"Penal Code\" were substituted, for the words \"Pakistan Penal Code\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "10The words \"Paurashava or the Zilla Board\" were substituted, for the words \"Municipal Committee or the District Council\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-115.html",
+  "fetch_timestamp": "2025-07-19 02:07:52",
+  "csv_metadata": {
+    "act_title_from_csv": "The Cruelty to Animals Act, 1920 [Repealed]",
+    "act_no_from_csv": "I",
+    "act_year_from_csv": "1920",
+    "is_repealed": true
+  },
+  "token_count": 421,
+  "language": "unknown",
+  "government_context": {
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Governor of Bengal",
+    "head_govt_name": "Earl of Ronaldshay (Lawrence Dundas)",
+    "head_govt_designation": "Governor of Bengal Province",
+    "how_got_power": "British Crown appointment",
+    "period_years": "1917-1922",
+    "years_in_power": 5
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:19",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "unknown",
+    "token_count": 277,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:24",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:35:50",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:01",
+    "previous_token_count": 277,
+    "accurate_token_count": 421
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "British Crown Rule",
+      "year_range": "1858-1947",
+      "act_year": 1920
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Government of India Act 1858",
+        "Indian Penal Code 1860",
+        "Code of Civil Procedure 1908",
+        "Evidence Act 1872"
+      ],
+      "court_system": [
+        "High Courts (1861)",
+        "District Courts",
+        "Magistrate Courts"
+      ],
+      "legal_basis": "Codified British-Indian legal system",
+      "enforcement_mechanism": "Imperial Police Service and civil courts"
+    },
+    "government_system": {
+      "type": "Crown Colony Administration",
+      "structure": "Viceroy and provincial governors",
+      "revenue_collection": "Imperial taxation system",
+      "administrative_units": [
+        "Provinces",
+        "Districts",
+        "Sub-districts"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Police Act 1861 - structured police force",
+      "military_police": "Imperial Police Service",
+      "jurisdiction": "Provincial police under colonial control"
+    },
+    "land_relations": {
+      "tenure_system": "Zamindari, Ryotwari, and Mahalwari systems",
+      "property_rights": "Colonial property law framework",
+      "revenue_system": "Land revenue administration",
+      "peasant_status": "Various tenant classes with limited rights"
+    },
+    "key_characteristics": [
+      "Codification of laws (Penal Code, CPC, Evidence Act)",
+      "Structured civil service system",
+      "Constitutional developments (1909, 1919, 1935 Acts)",
+      "Bengal Tenancy Act 1885 and amendments",
+      "Emergency powers and martial law provisions"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:24"
+  }
+}

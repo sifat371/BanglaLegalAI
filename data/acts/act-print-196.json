@@ -1,0 +1,119 @@
+{
+  "act_title": "The Armed Forces (Special Powers) Ordinance, 1942",
+  "act_no": "XLI",
+  "act_year": "1942",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. (1) This Ordinance may be called theArmed Forces (Special Powers) Ordinance, 1942.(2) It extends to the whole of Bangladesh.(3) It shall come into force at once."
+    },
+    {
+      "section_content": "2. (1) Any officer not below the rank of Captain in the military forces of Bangladesh and any officer holding equivalent rank either in the naval or air forces of Bangladesh or in the forces of a foreign power allied with Bangladesh or in the forces of a foreign authority recognised by Government as competent to maintain armed forces for service in association with the forces of Bangladesh2[* * *] may, if in his opinion it is necessary for the proper performance of his duty so to do, by general or special order in writing, require any personnel under his command to use such force as may be necessary, even to the causing of death, against any person who-(a)\tfails to halt when challenged by a sentry, or(b)\tdoes, attempts to do, or appears to be about to do or attempt to do, any such act as would endanger or damage any property of any description whatsoever which it is the duty of such officer to protect;and it shall be lawful for such personnel, when so ordered, to use such force against such person.(2) The use of force against any person in obedience to an order under sub section (1) shall include the power to arrest and take into custody such person, and the use of such force as may be necessary, even to the causing of death, in order to effect such arrest."
+    },
+    {
+      "section_content": "3. Any person arrested and taken into custody under this Ordinance shall, as soon as practicable, be made over, together with a report of the circumstances occasioning the arrest, to the officer in charge of the nearest police station, or where the said person is a person subject to military law, to the appropriate military officer."
+    },
+    {
+      "section_content": "4.  No prosecution, suit or other legal proceedings for any order purporting to be made under this Ordinance or for any act purporting to be done in obedience to any such order shall be instituted in any Court except with the previous sanction of the3[Government], and notwithstanding anything contained in any other law for the time being in force, no person purporting in good faith to make such an order or to do any act in obedience thereto shall, whatever consequences ensue, be liable therefore."
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1Throughout this Ordinance, the word “Bangladesh” was substituted for the word “Pakistan” by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "2The words “or in the military forces of an Acceding State or non Acceding State serving in association with any such forces as aforesaid” were omitted by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "3The word “Government” was substituted for the words “Central Government” by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-196.html",
+  "fetch_timestamp": "2025-07-19 02:09:53",
+  "csv_metadata": {
+    "act_title_from_csv": "The Armed Forces (Special Powers) Ordinance, 1942",
+    "act_no_from_csv": "XLI",
+    "act_year_from_csv": "1942",
+    "is_repealed": false
+  },
+  "token_count": 670,
+  "language": "english",
+  "government_context": {
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Governor of Bengal",
+    "head_govt_name": "Sir John Arthur Herbert",
+    "head_govt_designation": "Governor of Bengal Province",
+    "how_got_power": "British Crown appointment",
+    "period_years": "1939-1943",
+    "years_in_power": 4
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:21",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 527,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:26",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:35:59",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:08",
+    "previous_token_count": 527,
+    "accurate_token_count": 670
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "British Crown Rule",
+      "year_range": "1858-1947",
+      "act_year": 1942
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Government of India Act 1858",
+        "Indian Penal Code 1860",
+        "Code of Civil Procedure 1908",
+        "Evidence Act 1872"
+      ],
+      "court_system": [
+        "High Courts (1861)",
+        "District Courts",
+        "Magistrate Courts"
+      ],
+      "legal_basis": "Codified British-Indian legal system",
+      "enforcement_mechanism": "Imperial Police Service and civil courts"
+    },
+    "government_system": {
+      "type": "Crown Colony Administration",
+      "structure": "Viceroy and provincial governors",
+      "revenue_collection": "Imperial taxation system",
+      "administrative_units": [
+        "Provinces",
+        "Districts",
+        "Sub-districts"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Police Act 1861 - structured police force",
+      "military_police": "Imperial Police Service",
+      "jurisdiction": "Provincial police under colonial control"
+    },
+    "land_relations": {
+      "tenure_system": "Zamindari, Ryotwari, and Mahalwari systems",
+      "property_rights": "Colonial property law framework",
+      "revenue_system": "Land revenue administration",
+      "peasant_status": "Various tenant classes with limited rights"
+    },
+    "key_characteristics": [
+      "Codification of laws (Penal Code, CPC, Evidence Act)",
+      "Structured civil service system",
+      "Constitutional developments (1909, 1919, 1935 Acts)",
+      "Bengal Tenancy Act 1885 and amendments",
+      "Emergency powers and martial law provisions"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:26"
+  }
+}

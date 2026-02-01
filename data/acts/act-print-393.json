@@ -1,0 +1,132 @@
+{
+  "act_title": "The Bangladesh (Demonetisation of Bank Notes) Order, 1972 (President's Order)",
+  "act_no": "61",
+  "act_year": "1972",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1.   (a) \tThis Order may be called as the Bangladesh (Demonetisation of Bank Notes) Order, 1972.(b)\tIt extends to the whole of Bangladesh.(c)\tIt shall come into force at once."
+    },
+    {
+      "section_content": "2. In this Order, unless the context otherwise requires-(a)\t“Government” means the Government of the People's Republic of Bangladesh.(b)\t“Prescribed” means prescribed by rules made under this Order."
+    },
+    {
+      "section_content": "3. This Order shall take effect notwithstanding anything inconsistent therewith in any other law for the time being in force."
+    },
+    {
+      "section_content": "4. All Pakistani Bank notes of Rs. 10 and Rs. 5 denominations which were made legal tender in Bangladesh in pursuance of the Bangladesh Bank (Temporary) Order, 1971, dated the 25th December, 1971, made and promulgated by the Acting President of the People's Republic of Bangladesh, shall on the 8th June, 1972, cease to be legal tender within the meaning of the State Bank of Pakistan Act, 1956 (XXXIII of 1956) as adapted in Bangladesh."
+    },
+    {
+      "section_content": "5. All holders of Bank notes specified in Article 4 shall surrender them to any of the branches/sub-branches/pay offices of the scheduled banks or to any office of the Bangladesh Bank at Dacca, Chittagong, Khulna and Bogra or to any treasury/sub-treasury or to any Head Post Office and Departmental Sub-Post Office in Bangladesh to such extent and in such manner as may be prescribed by the Bangladesh Bank, with the approval of the Government, and notified in the official Gazette, on the following dates:-Thursday the 8th June, 1972Friday the 9th June, 1972Saturday the 10th June, 1972Sunday the 11th June, 1972Monday the 12th June, 19721[Tuesday the 13th June, 1972Wednesday the 14th June, 1972]whereafter these Bank notes shall not be accepted."
+    },
+    {
+      "section_content": "6. A person who has surrendered any Bank notes under Article 5 shall be entitled to receive the amount equivalent to the value of the Bank notes so surrendered by him from such bank or agency, to such extent and in such manner as may be prescribed by the Bangladesh Bank with the approval of the Government and notified in the official Gazette."
+    },
+    {
+      "section_content": "7. Bangladesh Bank with the approval of the Government, may, for the purposes of this Order, make such rules or issue such directives to such person or authority as it may deem necessary, and it would be mandatory for such persons or authority to execute such rules or directives as may be issued by the Government or Bangladesh Bank under this clause."
+    },
+    {
+      "section_content": "8. No provision of this Order, nor any action taken thereunder, shall be called in question by or before any Court of Law."
+    },
+    {
+      "section_content": "9. Whoever fails to take any action required of him by this Order or by any rule made or by any directive issued under Article 7 or furnished false information to the person receiving the surrendered Bank notes shall be punishable with rigorous imprisonment which may extend to three years, or with fine of Taka 10,000.00 or with both."
+    },
+    {
+      "section_content": "2[10. Notwithstanding anything contained in this Order or any other order or law for the time being in force, the Bangladesh Bank may with the approval of the Government pay exchange value of demonetised Pakistani Bank Notes of 10 and 5 rupee denominations which were held by Courts or Customs Authorities (including those of Indian Courts and Customs Authorities, seized between the 26th of March, 1971 and 16th December, 1971) as alamat or exhibit or as pieces of evidence or seized by or under orders of such Courts/authorities or kept in some legal custody in consequence thereof and were released after the 14th June, 1972 subject to production of evidence to the satisfaction of the authorities concerned.]"
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1Added by Article 2 of the Bangladesh (Demonetisation of Bank Notes) (Amendment) Order, 1972 (President’s Order No. 66 of 1972)"
+    },
+    {
+      "footnote_text": "2Article 10 was added by Article 2 of the Bangladesh (Demonetisation of Bank Notes) (Amendment) Order, 1972 (President’s Order No. 118 of 1972)"
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-393.html",
+  "fetch_timestamp": "2025-07-19 02:15:04",
+  "csv_metadata": {
+    "act_title_from_csv": "The Bangladesh (Demonetisation of Bank Notes) Order, 1972 (President's Order)",
+    "act_no_from_csv": "61",
+    "act_year_from_csv": "1972",
+    "is_repealed": false
+  },
+  "token_count": 789,
+  "language": "english",
+  "government_context": {
+    "govt_system": "Parliamentary Democracy",
+    "position_head_govt": "Prime Minister",
+    "head_govt_name": "Sheikh Mujibur Rahman",
+    "head_govt_designation": "Prime Minister of Bangladesh",
+    "how_got_power": "Post-independence constitutional government",
+    "period_years": "1972-1973",
+    "years_in_power": 1
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:21",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 662,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:27",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:03",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:09",
+    "previous_token_count": 662,
+    "accurate_token_count": 789
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "Early Independent Bangladesh",
+      "year_range": "1971-1975",
+      "act_year": 1972
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Laws Continuance Enforcement Order 1971",
+        "Constitution of Bangladesh 1972"
+      ],
+      "court_system": [
+        "Supreme Court with High Court and Appellate Divisions",
+        "Subordinate Courts"
+      ],
+      "legal_basis": "Secular constitutional democracy with British-inherited laws",
+      "enforcement_mechanism": "Independent judiciary and civil courts"
+    },
+    "government_system": {
+      "type": "Parliamentary Democracy",
+      "structure": "Westminster-style parliamentary system",
+      "revenue_collection": "National taxation system",
+      "administrative_units": [
+        "Divisions",
+        "Districts",
+        "Thanas",
+        "Unions"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Bangladesh Police (continuing Police Act 1861)",
+      "military_police": "Bangladesh Army and security forces",
+      "jurisdiction": "National police force"
+    },
+    "land_relations": {
+      "tenure_system": "Continuation of 1950 Act with modifications",
+      "property_rights": "Constitutional property rights",
+      "revenue_system": "State land revenue collection",
+      "peasant_status": "Land ceiling laws and redistribution efforts"
+    },
+    "key_characteristics": [
+      "Secular constitution with four principles",
+      "Continuation of colonial-era laws",
+      "War crimes tribunals establishment",
+      "Nationalization policies",
+      "Special Powers Act 1974"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:27"
+  }
+}

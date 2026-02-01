@@ -1,0 +1,109 @@
+{
+  "act_title": "The Bangladesh Consumer Supplies Corporation (Repeal) Act, 1981",
+  "act_no": "III",
+  "act_year": "1981",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. (1) This Act may be called theBangladesh Consumer Supplies Corporation (Repeal) Act, 1981.(2) It shall be deemed to have come into force on the 25th day of March, 1981."
+    },
+    {
+      "section_content": "2. The Bangladesh Consumer Supplies Corporation Order, 1972 (P.O. No. 47 of 1972), hereinafter referred to as the said Order, is hereby repealed."
+    },
+    {
+      "section_content": "3. Notwithstanding the repeal of the said Order and anything contained in any other law for the time being in force or in any contract or legal instrument, upon such repeal,-(a) \tall assets and liabilities of the Bangladesh Consumer Supplies Corporation established by the said Order, hereinafter referred to as the said Corporation, shall, in accordance with such arrangement as the Government may determine, stand transferred to the Bangladesh Consumer Supplies Company Limited, hereinafter referred to as the Company;Explanation.- The expression “assets” includes all rights, powers, authorities and privileges and all property, movable and immovable, including lands, buildings, works, vehicles, cash balance, reserve funds, bank deposits, investments and all other rights and interests in, or arising out of, such property and all books of accounts, registers, records and all other documents of whatever nature relating thereto;(b) \tall suits and other legal proceedings instituted by or against the said Corporation shall be deemed to have been instituted by or against the Company and may be continued or proceeded with accordingly;(c) \tall Officers and other employees of the said Corporation shall stand transferred to the Company and shall hold office or service in the Company on such terms and conditions as the Company may determine:Provided that an Officer or other employee so transferred shall have the option not to continue in the service of the Company."
+    },
+    {
+      "section_content": "4. (1) The Bangladesh Consumer Supplies Corporation (Repeal) Ordinance, 1981 (Ord. IV of 1981), is hereby repealed.(2) Notwithstanding such repeal, anything done or any action taken or any order made under the said Ordinance shall be deemed to have been done, taken or made, as the case may be, under the corresponding provision of this Act."
+    }
+  ],
+  "footnotes": [],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-612.html",
+  "fetch_timestamp": "2025-07-19 02:18:32",
+  "csv_metadata": {
+    "act_title_from_csv": "The Bangladesh Consumer Supplies Corporation (Repeal) Act, 1981",
+    "act_no_from_csv": "III",
+    "act_year_from_csv": "1981",
+    "is_repealed": false
+  },
+  "token_count": 478,
+  "language": "english",
+  "government_context": {
+    "govt_system": "Democracy",
+    "position_head_govt": "President",
+    "head_govt_name": "Abdus Sattar",
+    "head_govt_designation": "President of Bangladesh",
+    "how_got_power": "Constitutional succession after Zia's assassination, elected",
+    "period_years": "1981-1982",
+    "years_in_power": 1
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:22",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 354,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:27",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:08",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:11",
+    "previous_token_count": 354,
+    "accurate_token_count": 478
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "Military Rule Era",
+      "year_range": "1975-1990",
+      "act_year": 1981
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Martial Law Proclamations",
+        "5th Amendment (1979)",
+        "7th Amendment (1986)"
+      ],
+      "court_system": [
+        "Supreme Court (limited powers)",
+        "Martial Law Courts",
+        "Civil Courts"
+      ],
+      "legal_basis": "Military decrees with constitutional validation",
+      "enforcement_mechanism": "Military tribunals and civil courts"
+    },
+    "government_system": {
+      "type": "Military Rule/Martial Law",
+      "structure": "Military government with civilian facade",
+      "revenue_collection": "Centralized military administration",
+      "administrative_units": [
+        "Divisions",
+        "Districts",
+        "Upazilas (1982)",
+        "Unions"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Police under military control",
+      "military_police": "Enhanced military and paramilitary forces",
+      "jurisdiction": "Military-controlled law enforcement"
+    },
+    "land_relations": {
+      "tenure_system": "Land reforms under military government",
+      "property_rights": "Military government modifications",
+      "revenue_system": "Upazila system for administration",
+      "peasant_status": "Rural development programs"
+    },
+    "key_characteristics": [
+      "Suspension of democratic institutions",
+      "Constitutional amendments under military rule",
+      "Emergency provisions and martial law",
+      "Upazila system introduction (1982)",
+      "Gradual transition to controlled democracy"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:27"
+  }
+}

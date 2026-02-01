@@ -1,0 +1,119 @@
+{
+  "act_title": "The Jatiya Rakkhi Bahini (Absorption in the Army) Ordinance, 1975",
+  "act_no": "LII",
+  "act_year": "1975",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. (1) The Ordinance may be called theJatiya Rakkhi Bahini (Absorption in the Army) Ordinance, 1975.(2) It shall be deemed to have come into force on the 3rd day of September,1975."
+    },
+    {
+      "section_content": "2. In this Ordinance, unless there is anything repugnant in the subject or context,-(a)\t“Bahini” means the Jatiya Rakkhi Bahini constituted under the Order;(b) \t“commencement of this Ordinance” means the 3rd day of September, 1975;(c) \t“member of the Bahini” means a person appointed or enrolled in the Bahini under the Order;(d) \t“Order” means the Jatiya Rakkhi Bahini Order, 1972 (P.O. No. 21 of 1972)."
+    },
+    {
+      "section_content": "3. The provisions of this Ordinance and any order made thereunder shall have effect notwithstanding anything contained in the Order or in any other law for the time being in force, or in any contract, agreement, document or other instrument."
+    },
+    {
+      "section_content": "4. On the commencement of this Ordinance,-(a)\tall members of the Bahini, who are willing to serve in the Bangladesh Army and found suitable in all respects for such service, shall be appointed in the Bangladesh Army on such terms and conditions as the Government may determine;(b) \tall rights and assets and all property, movable or immovable, cash and bank balances, funds, arms, ammunition, explosives, wireless sets, equipment, stores, vehicles, vessels, and work shops, and all rights and interests in or arising out of such property, of the Bahini shall be transferred to the Bangladesh Army, or to such other Defence Service or branch thereof, in such manner as the Government may, by order, specify;(c)\tall debts, obligations and liabilities incurred, all contracts entered into, all agreements made, and all matters and things engaged to be done, by, with or for the Bahini shall be deemed to have been incurred, entered into, made or engaged to be done by, with or for the Bangladesh Army or such other Defence Service or branch thereof as the Government may, by order, specify;(d) \tall deeds, bonds, agreements, powers of attorney, documents and other instruments of whatever nature to which the Bahini is a party or which are in favour of the Bahini shall be enforceable and of effect by, against or in favour of the Bangladesh Army or such other Defence Service or branch thereof as the Government may, by order, specify as if in place of the Bahini the Bangladesh Army or the Defence Service or branch thereof specified in the order had been named therein;(e) \tall budget grants made and sums sanctioned for the Bahini shall be deemed to be budget grants made and sums sanctioned for the Bangladesh Army;(f) \tall projects and schemes of the Bahini shall be deemed to be projects and schemes of the Bangladesh Army;(g) \tall suits and other legal proceedings by or against the Bahini shall be deemed to be suits and proceedings by or against the Bangladesh Army and may be proceeded or otherwise dealt with accordingly."
+    },
+    {
+      "section_content": "5. As soon as may be after action under clauses (a) and (b) of section 4 has been taken and the accounts of the Bahini have been audited, the Government shall, by notification in the official Gazette appoint a date on which the Bahini Organisation shall stand abolished."
+    },
+    {
+      "section_content": "6. On the abolition of the Bahini Organisation under section 5, the Order shall stand repealed."
+    },
+    {
+      "section_content": "7. (1) The Director-General of the Bahini shall, for the purpose of giving effect to the provisions of clauses (a) and (b) of section 4 and abolition of the Bahini Organisation, take such steps as he deems necessary or as the Government may direct.(2) The Government shall make available to the Director-General such staff and fund as may be necessary for the discharge of his functions under this Ordinance."
+    },
+    {
+      "section_content": "8. If any difficulty arises in giving effect to the provisions of this Ordinance, the Government may, by order, do anything which appears to it to be necessary for the purpose of removing the difficulty, and any such order shall be deemed to be, and given effect to as, part of the provisions of this Ordinance."
+    }
+  ],
+  "footnotes": [],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-505.html",
+  "fetch_timestamp": "2025-07-19 02:16:41",
+  "csv_metadata": {
+    "act_title_from_csv": "The Jatiya Rakkhi Bahini (Absorption in the Army) Ordinance, 1975",
+    "act_no_from_csv": "LII",
+    "act_year_from_csv": "1975",
+    "is_repealed": false
+  },
+  "token_count": 813,
+  "language": "english",
+  "government_context": {
+    "govt_system": "Military Rule",
+    "position_head_govt": "President",
+    "head_govt_name": "Abu Sadat Mohammad Sayem",
+    "head_govt_designation": "President (Military-backed)",
+    "how_got_power": "Military coup/counter-coup",
+    "period_years": "1975-1977",
+    "years_in_power": 2
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:22",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 689,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:27",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:05",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:10",
+    "previous_token_count": 689,
+    "accurate_token_count": 813
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "Early Independent Bangladesh",
+      "year_range": "1971-1975",
+      "act_year": 1975
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Laws Continuance Enforcement Order 1971",
+        "Constitution of Bangladesh 1972"
+      ],
+      "court_system": [
+        "Supreme Court with High Court and Appellate Divisions",
+        "Subordinate Courts"
+      ],
+      "legal_basis": "Secular constitutional democracy with British-inherited laws",
+      "enforcement_mechanism": "Independent judiciary and civil courts"
+    },
+    "government_system": {
+      "type": "Parliamentary Democracy",
+      "structure": "Westminster-style parliamentary system",
+      "revenue_collection": "National taxation system",
+      "administrative_units": [
+        "Divisions",
+        "Districts",
+        "Thanas",
+        "Unions"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Bangladesh Police (continuing Police Act 1861)",
+      "military_police": "Bangladesh Army and security forces",
+      "jurisdiction": "National police force"
+    },
+    "land_relations": {
+      "tenure_system": "Continuation of 1950 Act with modifications",
+      "property_rights": "Constitutional property rights",
+      "revenue_system": "State land revenue collection",
+      "peasant_status": "Land ceiling laws and redistribution efforts"
+    },
+    "key_characteristics": [
+      "Secular constitution with four principles",
+      "Continuation of colonial-era laws",
+      "War crimes tribunals establishment",
+      "Nationalization policies",
+      "Special Powers Act 1974"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:27"
+  }
+}

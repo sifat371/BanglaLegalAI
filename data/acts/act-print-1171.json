@@ -1,0 +1,119 @@
+{
+  "act_title": "উন্নয়ন সারচার্জ ও লেভী (আরোপ ও আদায়) আইন, ২০১৫",
+  "act_no": "২০",
+  "act_year": "2015",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "১।  (১) এই আইনউন্নয়ন সারচার্জ ও লেভী (আরোপ ও আদায়) আইন, ২০১৫নামে অভিহিত হইবে।(২) ইহা অবিলম্বে কার্যকর হইবে।"
+    },
+    {
+      "section_content": "২। বিষয় বা প্রসঙ্গের পরিপন্থী কোন কিছু না থাকিলে, এই আইনে -(১)  ‘‘তফসিল’’ অর্থ এই আইনের কোন তফসিল;(২) ‘‘লেভী’’ অর্থ কোন পণ্য বা সেবার উপর আমদানি, উৎপাদন বা সরবরাহ পর্যায়ে     আরোপিত শুল্ক, কর, ফি বা চার্জ; এবং(৩) ‘‘সারচার্জ’’ অর্থ কোন পণ্য বা সেবার উপর আমদানি, উৎপাদন বা সরবরাহ পর্যায়ে আরোপিত এইরূপ কোন ফি বা চার্জ, যাহা উক্ত পণ্য বা সেবার উপর বিদ্যমান কর, ফি বা চার্জ এর অতিরিক্ত হিসাবে আরোপিত।"
+    },
+    {
+      "section_content": "৩। আপাততঃ বলবৎ অন্য কোন আইনে যাহা কিছুই থাকুক না কেন, সরকার -(ক) প্রথম তফসিলের কলাম (২) এ বর্ণিত বিষয়ের উপর কলাম (৩) এ উল্লিখিত হারে উন্নয়ন সারচার্জ; এবং(খ) দ্বিতীয় তফসিলের কলাম (২) এ বর্ণিত বিষয়ের উপর কলাম (৩) এ উল্লিখিত হারে লেভী, আরোপ করিতে পারিবে।"
+    },
+    {
+      "section_content": "৪। সরকার, সরকারি গেজেটে প্রজ্ঞাপন দ্বারা, তৎকর্তৃক আরোপিত শর্তে ও নির্ধারিত মেয়াদে, ধারা ৩ এর অধীন আরোপিত উন্নয়ন সারচার্জ ও লেভী আদায় করিতে পারিবে।"
+    },
+    {
+      "section_content": "৫। সরকার, সময় সময়, সরকারি গেজেটে প্রজ্ঞাপন দ্বারা, তফসিল সংশোধন করিতে পারিবে।"
+    },
+    {
+      "section_content": "৬। এই আইনের উদ্দেশ্য পূরণকল্পে সরকার, সরকারি গেজেটে প্রজ্ঞাপন দ্বারা, বিধি প্রণয়ন করিতে পারিবে।"
+    }
+  ],
+  "footnotes": [],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-1171.html",
+  "fetch_timestamp": "2025-07-19 02:35:22",
+  "csv_metadata": {
+    "act_title_from_csv": "উন্নয়ন সারচার্জ ও লেভী (আরোপ ও আদায়) আইন, ২০১৫",
+    "act_no_from_csv": "২০",
+    "act_year_from_csv": "২০১৫",
+    "is_repealed": false
+  },
+  "token_count": 325,
+  "language": "bengali",
+  "government_context": {
+    "govt_system": "Parliamentary Democracy (increasingly authoritarian)",
+    "position_head_govt": "Prime Minister",
+    "head_govt_name": "Sheikh Hasina",
+    "head_govt_designation": "Prime Minister of Bangladesh",
+    "how_got_power": "Democratic election (2009), subsequent controversial elections (2014, 2018, 2024)",
+    "period_years": "2009-2024",
+    "years_in_power": 15
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:19",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "bengali",
+    "token_count": 206,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:25",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:35:51",
+    "legal_context_recovery_attempted": true,
+    "legal_context_recovery_timestamp": "2025-07-19 20:42:50",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:01",
+    "previous_token_count": 206,
+    "accurate_token_count": 325
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "Awami League Dominance",
+      "year_range": "2008-2024",
+      "act_year": 2015
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "15th Amendment (2011)",
+        "Cyber Security Act 2023",
+        "Digital Security Act",
+        "International Crimes Tribunal Act"
+      ],
+      "court_system": [
+        "Supreme Court",
+        "High Court Division",
+        "Specialized Tribunals"
+      ],
+      "legal_basis": "Constitutional parliamentary system",
+      "enforcement_mechanism": "Politicized judicial system"
+    },
+    "government_system": {
+      "type": "Parliamentary Democracy (increasingly authoritarian)",
+      "structure": "Single-party dominance",
+      "revenue_collection": "Modernized tax system",
+      "administrative_units": [
+        "8 Divisions",
+        "64 Districts",
+        "492 Upazilas",
+        "4,554 Unions"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Politicized police force",
+      "military_police": "RAB, Police, Border Guards",
+      "jurisdiction": "Centralized political control"
+    },
+    "land_relations": {
+      "tenure_system": "Market-based with disputes",
+      "property_rights": "Development-focused acquisition",
+      "revenue_system": "Digital land records",
+      "peasant_status": "Modernization and displacement issues"
+    },
+    "key_characteristics": [
+      "Caretaker system abolition",
+      "War crimes tribunals",
+      "Digital governance initiatives",
+      "Authoritarian drift",
+      "Student movement repressions"
+    ],
+    "context_added_timestamp": "2025-07-19 20:42:50",
+    "recovery_note": "Legal context added after year translation recovery"
+  }
+}

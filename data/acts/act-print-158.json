@@ -1,0 +1,122 @@
+{
+  "act_title": "The Foreign Relations Act, 1932",
+  "act_no": "XII",
+  "act_year": "1932",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1.(1) This Act may be called theForeign Relations Act, 1932.(2) It extends to the whole of Bangladesh."
+    },
+    {
+      "section_content": "2. Where an offence falling under Chapter XXI of the2[Penal Code] is committed against a Ruler of a State outside but adjoining Bangladesh, or against the consort or son or principal Minister of such Ruler, the Government may make, or authorize any person to make, a complaint in writing of such offence, and, notwithstanding anything contained in section 198 of theCode of Criminal Procedure, 1898, any Court competent in other respects to take cognizance of such offence may take cognizance thereof on such compliant."
+    },
+    {
+      "section_content": "3. The provisions of sections 99A to 99G of theCode of Criminal Procedure, 1898, and of sections 27B to 27D of thePost Office Act, 1898, shall apply in the case of any book, newspaper or other document containing matter which is defamatory of a Ruler of a State outside but adjoining Bangladesh or of the consort or son or principal Minister of such Ruler and tends to prejudice the maintenance of friendly relations between the Government of Bangladesh and the Government of such State, in like manner as they apply in the case of a book, newspaper or document containing seditious matter within the meaning of those sections:3[* * *]"
+    },
+    {
+      "section_content": "4. Where, in any trial of an offence upon a compliant under section 2, or in any proceeding before4[the High Court Division] arising out of section 3, there is a question whether any person is a Ruler of any State, or is the consort or son or principal Minister of such Ruler, a certificate under the hand of a Secretary to the Government that such person is such Ruler, consort, son or principal Minister shall be conclusive proof of that fact."
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1Throughout this Act, except otherwise provided, the words \"Bangladesh\" and \"Government\" were substituted for the words \"Pakistan\" and \"Central Government\" respectively by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "2The words \"Penal Code\" were substituted, for the words \"Pakistan Penal Code\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)."
+    },
+    {
+      "footnote_text": "3Proviso to section 3 was omitted by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act VIII of 1973)"
+    },
+    {
+      "footnote_text": "4The words \"the High Court Division\" were substituted, for the words \"a High Court\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-158.html",
+  "fetch_timestamp": "2025-07-19 02:08:56",
+  "csv_metadata": {
+    "act_title_from_csv": "The Foreign Relations Act, 1932",
+    "act_no_from_csv": "XII",
+    "act_year_from_csv": "1932",
+    "is_repealed": false
+  },
+  "token_count": 574,
+  "language": "english",
+  "government_context": {
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Governor of Bengal",
+    "head_govt_name": "Sir John Anderson",
+    "head_govt_designation": "Governor of Bengal Province",
+    "how_got_power": "British Crown appointment",
+    "period_years": "1932-1937",
+    "years_in_power": 5
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:20",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 434,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:26",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:35:59",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:08",
+    "previous_token_count": 434,
+    "accurate_token_count": 574
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "British Crown Rule",
+      "year_range": "1858-1947",
+      "act_year": 1932
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Government of India Act 1858",
+        "Indian Penal Code 1860",
+        "Code of Civil Procedure 1908",
+        "Evidence Act 1872"
+      ],
+      "court_system": [
+        "High Courts (1861)",
+        "District Courts",
+        "Magistrate Courts"
+      ],
+      "legal_basis": "Codified British-Indian legal system",
+      "enforcement_mechanism": "Imperial Police Service and civil courts"
+    },
+    "government_system": {
+      "type": "Crown Colony Administration",
+      "structure": "Viceroy and provincial governors",
+      "revenue_collection": "Imperial taxation system",
+      "administrative_units": [
+        "Provinces",
+        "Districts",
+        "Sub-districts"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Police Act 1861 - structured police force",
+      "military_police": "Imperial Police Service",
+      "jurisdiction": "Provincial police under colonial control"
+    },
+    "land_relations": {
+      "tenure_system": "Zamindari, Ryotwari, and Mahalwari systems",
+      "property_rights": "Colonial property law framework",
+      "revenue_system": "Land revenue administration",
+      "peasant_status": "Various tenant classes with limited rights"
+    },
+    "key_characteristics": [
+      "Codification of laws (Penal Code, CPC, Evidence Act)",
+      "Structured civil service system",
+      "Constitutional developments (1909, 1919, 1935 Acts)",
+      "Bengal Tenancy Act 1885 and amendments",
+      "Emergency powers and martial law provisions"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:26"
+  }
+}

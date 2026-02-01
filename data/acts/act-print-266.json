@@ -1,0 +1,109 @@
+{
+  "act_title": "The Law of Evidence Amendment Act, 1956 (East Pakistan Act)",
+  "act_no": "XVIII",
+  "act_year": "1956",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. (1) This Act may be called the Law of Evidence Amendment Act, 1956.(2) It extends to the whole of1[Bangladesh].(3) It shall be deemed to have come into force on the 15th day of August, 1947."
+    },
+    {
+      "section_content": "(4) Notwithstanding anything contained in theEvidence Act, 1872, copies of common records of the divided districts of Bengal and Assam in the custody of a public officer, the originals whereof are either in West Bengal or Assam, shall be deemed to be public document within the meaning of clause (1) of section 74 of theEvidence Act, 1872and other provisions of the said Act shall apply accordingly.Explanation.- 'Common records' mean and include documents of public nature in the custody of a public officer immediately before the 15th day of August, 1947, relating to a district or part of a district, which has fallen partly in2[the then East Pakistan (now Bangladesh)] and partly in India as a result of the award of the Boundary Commission appointed under section 3 of the Indian Independence Act, 1947."
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1The word “Bangladesh” was substituted for the words “East Pakistan” by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "2The words and brackets “the then East Pakistan (now Bangladesh)” were substituted for the word “Pakistan” by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-266.html",
+  "fetch_timestamp": "2025-07-19 02:11:35",
+  "csv_metadata": {
+    "act_title_from_csv": "The Law of Evidence Amendment Act, 1956 (East Pakistan Act)",
+    "act_no_from_csv": "XVIII",
+    "act_year_from_csv": "1956",
+    "is_repealed": false
+  },
+  "token_count": 400,
+  "language": "english",
+  "government_context": {
+    "govt_system": "Republic of Pakistan",
+    "position_head_govt": "President of Pakistan",
+    "head_govt_name": "Iskander Ali Mirza",
+    "head_govt_designation": "President of Islamic Republic of Pakistan",
+    "how_got_power": "Constitutional election/transition",
+    "period_years": "1956-1958",
+    "years_in_power": 2
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:21",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 256,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:26",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:01",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:09",
+    "previous_token_count": 256,
+    "accurate_token_count": 400
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "East Pakistan Period",
+      "year_range": "1947-1971",
+      "act_year": 1956
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Government of India Act 1935 (adapted)",
+        "Pakistan Constitution 1956",
+        "Pakistan Constitution 1962"
+      ],
+      "court_system": [
+        "Dhaka High Court (1948)",
+        "District Courts",
+        "Federal Court/Supreme Court of Pakistan"
+      ],
+      "legal_basis": "Adapted British-Indian laws with Islamic provisions",
+      "enforcement_mechanism": "Pakistani legal system"
+    },
+    "government_system": {
+      "type": "Federal Parliamentary (1947-1958), Presidential (1958-1971)",
+      "structure": "Provincial government under federal system",
+      "revenue_collection": "Federal and provincial taxation",
+      "administrative_units": [
+        "Province",
+        "Districts",
+        "Thanas"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "East Bengal/East Pakistan Police",
+      "military_police": "Pakistan Army and paramilitary forces",
+      "jurisdiction": "Provincial police under federal oversight"
+    },
+    "land_relations": {
+      "tenure_system": "East Bengal State Acquisition and Tenancy Act 1950",
+      "property_rights": "Abolition of zamindari system",
+      "revenue_system": "Direct government land revenue",
+      "peasant_status": "Farmers as direct tenants to state"
+    },
+    "key_characteristics": [
+      "Zamindari abolition (1951)",
+      "Language movement legal issues (1952)",
+      "Military rule periods (1958-1971)",
+      "Constitutional crises and martial law",
+      "Bengali autonomy demands and legal frameworks"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:26"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "act_title": "The Reciprocity Act, 1943",
+  "act_no": "IX",
+  "act_year": "1943",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. (1) This Act may be called theReciprocity Act, 1943.(2) It extends to the whole of Bangladesh.(3) It shall come into force on the 1st day of September, 1943."
+    },
+    {
+      "section_content": "2.  In this Act, unless there is anything repugnant in the subject or context,-(a)\t“British possession” means any part of His Majesty's dominions and includes a protectorate or other territory administered by a British possession as a mandatory on behalf of the League of Nations; and where parts of those dominions are under both a central and a local legislature, the expression shall mean either each part under a local legislature or all parts under the central legislature.(b)\t“entry” includes landing at any port in Bangladesh  during the stay in Bangladesh of a ship or aircraft on its way to a destination outside Bangladesh."
+    },
+    {
+      "section_content": "3. Where by the law or practice of any British possession persons of Bangladesh, Indian or Pakistani origin are subject in that British possession to disabilities in respect of entry into, or travel, residence, the acquisition, holding or disposal of property, the enjoyment of educational facilities, the holding of public office, the carrying on of any occupation, trade, business or profession, or the exercise of the franchise in, that British possession, to which in respect of the like matters in Bangladesh  persons domiciled in that British possession are not subject in Bangladesh, the Government may, by notification in the official Gazette, direct that the same disabilities or disabilities as similar thereto as may be shall, notwithstanding anything contained in any other law for the time being in force, be imposed in Bangladesh on persons not being of Bangladesh, Indian or Pakistani origin  who are domiciled in that British possession."
+    },
+    {
+      "section_content": "4. If any person alleged to be domiciled in any British Possession and to be subject to the provisions of this Act pleads that he is not so domiciled, or that the provisions of this Act do not apply to him, the onus of proving the truth of such a plea shall be on him."
+    },
+    {
+      "section_content": "5. [Direction imposing disabilities in respect of entry, travel and residence not to apply to armed forces.- Omitted by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973).]"
+    },
+    {
+      "section_content": "6. (1) The Government may, by notification in the official Gazette, make rules for carrying out the purposes of this Act.(2) In particular and without prejudice to the generality of the foregoing power, rules made under this section may provide-(a)\tfor the setting up of machinery to ascertain the disabilities in respect of any of the matters specified in section 3 to which persons of Bangladesh, Indian or Pakistani origin are subject in any British possession;(b) \tfor the establishment of a suitable agency to administer the rules and for defining its functions and powers;(c)\tfor specifying the disabilities that shall, when a direction has been made under section 3, be imposed in Bangladesh on persons not being of Bangladesh, Indian or Pakistani origin who are domiciled in any British possession and for the imposition on them of the disabilities so specified;(d)\tfor the enforcement, by the prescription of a penalty by way of imprisonment or fine or both, of any rule made under clause (c);(e)\tfor authorising the arrest of any person contravening or reasonably suspected of contravening any rule made under clause (c), and for prescribing the duties of public servants and others in regard to such arrests."
+    },
+    {
+      "section_content": "7. [Repeal of Act III of 1924.- Omitted by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973).]"
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1Throughout this Act, the words “Bangladesh”, “Government” and “Bangladesh, India or Pakistani origin” were substituted for the words “Pakistan”, “Central Government” and “Indo-Pakistan origin” respectively by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-200.html",
+  "fetch_timestamp": "2025-07-19 02:09:57",
+  "csv_metadata": {
+    "act_title_from_csv": "The Reciprocity Act, 1943",
+    "act_no_from_csv": "IX",
+    "act_year_from_csv": "1943",
+    "is_repealed": false
+  },
+  "token_count": 801,
+  "language": "english",
+  "government_context": {
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Governor of Bengal",
+    "head_govt_name": "Sir John Arthur Herbert",
+    "head_govt_designation": "Governor of Bengal Province",
+    "how_got_power": "British Crown appointment",
+    "period_years": "1939-1943",
+    "years_in_power": 4
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:21",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 661,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:26",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:35:59",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:08",
+    "previous_token_count": 661,
+    "accurate_token_count": 801
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "British Crown Rule",
+      "year_range": "1858-1947",
+      "act_year": 1943
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Government of India Act 1858",
+        "Indian Penal Code 1860",
+        "Code of Civil Procedure 1908",
+        "Evidence Act 1872"
+      ],
+      "court_system": [
+        "High Courts (1861)",
+        "District Courts",
+        "Magistrate Courts"
+      ],
+      "legal_basis": "Codified British-Indian legal system",
+      "enforcement_mechanism": "Imperial Police Service and civil courts"
+    },
+    "government_system": {
+      "type": "Crown Colony Administration",
+      "structure": "Viceroy and provincial governors",
+      "revenue_collection": "Imperial taxation system",
+      "administrative_units": [
+        "Provinces",
+        "Districts",
+        "Sub-districts"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Police Act 1861 - structured police force",
+      "military_police": "Imperial Police Service",
+      "jurisdiction": "Provincial police under colonial control"
+    },
+    "land_relations": {
+      "tenure_system": "Zamindari, Ryotwari, and Mahalwari systems",
+      "property_rights": "Colonial property law framework",
+      "revenue_system": "Land revenue administration",
+      "peasant_status": "Various tenant classes with limited rights"
+    },
+    "key_characteristics": [
+      "Codification of laws (Penal Code, CPC, Evidence Act)",
+      "Structured civil service system",
+      "Constitutional developments (1909, 1919, 1935 Acts)",
+      "Bengal Tenancy Act 1885 and amendments",
+      "Emergency powers and martial law provisions"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:26"
+  }
+}

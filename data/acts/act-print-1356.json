@@ -1,0 +1,109 @@
+{
+  "act_title": "THE CHITTAGONG HILL-TRACTS (TARIFF AND CUSTOMS) REGULATION, 1952",
+  "act_no": "REGULATION",
+  "act_year": "1953",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. (1) This Regulation may be calledTHE CHITTAGONG HILL-TRACTS (TARIFF AND CUSTOMS) REGULATION, 1952.(2) It shall come into force at once."
+    },
+    {
+      "section_content": "2. (1) The enactments specified in Schedule I annexed hereto shall, subject to the amendments mentioned in the fourth column thereof, apply to the Chittagong Hill-tracts.(2) The enactment specified in Schedule II annexed hereto shall, to the extent mentioned in the fourth column thereof, apply to the Chittagong Hill-tracts."
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1The word \"Government\" was replaced, for the words \"Governor\" by Article 9 of theBangladesh (Adaptation of Existing Laws) Order, 1972(President's Order No. 48 of 1972)."
+    },
+    {
+      "footnote_text": "2The word \"Government\" was replaced, for the words \"Governor of East Bengal\" by Article 9 of theBangladesh (Adaptation of Existing Laws) Order, 1972(President's Order No. 48 of 1972)."
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-1356.html",
+  "fetch_timestamp": "2025-07-19 02:11:05",
+  "csv_metadata": {
+    "act_title_from_csv": "THE CHITTAGONG HILL-TRACTS (TARIFF AND CUSTOMS) REGULATION, 1952",
+    "act_no_from_csv": "I",
+    "act_year_from_csv": "1953",
+    "is_repealed": false
+  },
+  "token_count": 282,
+  "language": "english",
+  "government_context": {
+    "govt_system": "Dominion of Pakistan",
+    "position_head_govt": "Governor-General of Pakistan",
+    "head_govt_name": "Ghulam Muhammad",
+    "head_govt_designation": "Governor-General of Pakistan",
+    "how_got_power": "Constitutional appointment",
+    "period_years": "1951-1955",
+    "years_in_power": 4
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:20",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 144,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:25",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:35:55",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:04",
+    "previous_token_count": 144,
+    "accurate_token_count": 282
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "East Pakistan Period",
+      "year_range": "1947-1971",
+      "act_year": 1953
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Government of India Act 1935 (adapted)",
+        "Pakistan Constitution 1956",
+        "Pakistan Constitution 1962"
+      ],
+      "court_system": [
+        "Dhaka High Court (1948)",
+        "District Courts",
+        "Federal Court/Supreme Court of Pakistan"
+      ],
+      "legal_basis": "Adapted British-Indian laws with Islamic provisions",
+      "enforcement_mechanism": "Pakistani legal system"
+    },
+    "government_system": {
+      "type": "Federal Parliamentary (1947-1958), Presidential (1958-1971)",
+      "structure": "Provincial government under federal system",
+      "revenue_collection": "Federal and provincial taxation",
+      "administrative_units": [
+        "Province",
+        "Districts",
+        "Thanas"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "East Bengal/East Pakistan Police",
+      "military_police": "Pakistan Army and paramilitary forces",
+      "jurisdiction": "Provincial police under federal oversight"
+    },
+    "land_relations": {
+      "tenure_system": "East Bengal State Acquisition and Tenancy Act 1950",
+      "property_rights": "Abolition of zamindari system",
+      "revenue_system": "Direct government land revenue",
+      "peasant_status": "Farmers as direct tenants to state"
+    },
+    "key_characteristics": [
+      "Zamindari abolition (1951)",
+      "Language movement legal issues (1952)",
+      "Military rule periods (1958-1971)",
+      "Constitutional crises and martial law",
+      "Bengali autonomy demands and legal frameworks"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:25"
+  }
+}

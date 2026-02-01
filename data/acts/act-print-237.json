@@ -1,0 +1,136 @@
+{
+  "act_title": "The Army and Air Force Reserves Act, 1950",
+  "act_no": "XLVII",
+  "act_year": "1950",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. This Act may be called the1[Army and Air Force] Reserves Act, 1950."
+    },
+    {
+      "section_content": "2. In this Act, unless there is anything repugnant in the subject or context,-“prescribed” means prescribed by rules made under this Act;“Reserves” means the Reserves of the Bangladesh Army or of the Bangladesh Air Force;“reservist” means a member of the Reserves."
+    },
+    {
+      "section_content": "3. (1) The Reserves shall consist of the categories specified in the Schedule to this Act.(2) The Government may, by notification in the official Gazette, add to, amend or vary the Schedule to this Act."
+    },
+    {
+      "section_content": "4. An Army reservist shall be subject to the2[* * *]Army Act, 1952, and the rules and  regulations  made thereunder  and an Air Force reservist shall be subject to the3[* * *]  Air  Force Act, 1953, and the rules and regulations made thereunder, in such manner and to such extent as may be prescribed."
+    },
+    {
+      "section_content": "5. A  reservist shall be liable to serve without the limits of Bangladesh as well as within those limits."
+    },
+    {
+      "section_content": "6. (1) The Government may make rules to carry out the purposes of this Act.(2) In particular and without prejudice to the generality of the foregoing power, such rules may-(a)\tprovide for the constitution of, and the appointment or transfer of any person as a reservist to, the reserves;(b)\tprescribe the service obligations to which reservists shall be liable;(c)\tprescribe periodical training for any category of reservists;(d)\tprovide for and regulate the pay and allowances of reservists;(e)\tprescribe the authorities by whom and the conditions subject to which the services of reservists may be terminated;(f)\tprovide for and regulate the gratuities or compensation, if any, to be paid to reservists or any category of reservists, or to any dependents of reservists; and(g)\tprovide for any other matter which under this Act is to be or may be prescribed.(3) All rules made under this Act shall be published in the official Gazette and on such publication shall have effect as if enacted in this Act."
+    },
+    {
+      "section_content": "4[7. The Government may make regulations for all or any of the purposes of this Act, other than those specified in section 6.]"
+    },
+    {
+      "section_content": "8. [Amendment of Act VIII of 1911.- Omitted by section 3 and the 2nd Schedule of the Central Laws (Statute Reform) Ordinance, 1960 (Ordinance No. XXI of 1960).]"
+    },
+    {
+      "section_content": "9. [Repeal.- Repealed by section 2 and the 1st Schedule. of the Repealing and Amending Ordinance, 1965 (Ordinance No. X of 1965).]"
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1The words “Army and Air Force” were substituted for the words “Pakistan (Army and Air Force)” by section 3(b) of প্রতিরক্ষা কর্মবিভাগ (কতিপয় আইন সংশোধন) আইন, ২০১৬ (২০১৬ সনের ১৫ নং আইন)।"
+    },
+    {
+      "footnote_text": "2The words “Indian Army Act, 1911 or the Pakistan” were omitted by section 3(c)(i) of প্রতিরক্ষা কর্মবিভাগ (কতিপয় আইন সংশোধন) আইন, ২০১৬ (২০১৬ সনের ১৫ নং আইন)।"
+    },
+    {
+      "footnote_text": "3The words “Indian Air Force Act, 1932 or the Pakistan” were omitted by section 3(c)(ii) of প্রতিরক্ষা কর্মবিভাগ (কতিপয় আইন সংশোধন) আইন, ২০১৬ (২০১৬ সনের ১৫ নং আইন)।"
+    },
+    {
+      "footnote_text": "4Section 7 was substituted by section 3(d) of প্রতিরক্ষা কর্মবিভাগ (কতিপয় আইন সংশোধন) আইন, ২০১৬ (২০১৬ সনের ১৫ নং আইন)।"
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-237.html",
+  "fetch_timestamp": "2025-07-19 02:10:38",
+  "csv_metadata": {
+    "act_title_from_csv": "The Army and Air Force Reserves Act, 1950",
+    "act_no_from_csv": "XLVII",
+    "act_year_from_csv": "1950",
+    "is_repealed": false
+  },
+  "token_count": 665,
+  "language": "english",
+  "government_context": {
+    "govt_system": "Dominion of Pakistan",
+    "position_head_govt": "Governor-General of Pakistan",
+    "head_govt_name": "Khawaja Nazimuddin",
+    "head_govt_designation": "Governor-General of Pakistan",
+    "how_got_power": "Constitutional succession",
+    "period_years": "1948-1951",
+    "years_in_power": 3
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:21",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 527,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:26",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:00",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:08",
+    "previous_token_count": 527,
+    "accurate_token_count": 665
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "East Pakistan Period",
+      "year_range": "1947-1971",
+      "act_year": 1950
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Government of India Act 1935 (adapted)",
+        "Pakistan Constitution 1956",
+        "Pakistan Constitution 1962"
+      ],
+      "court_system": [
+        "Dhaka High Court (1948)",
+        "District Courts",
+        "Federal Court/Supreme Court of Pakistan"
+      ],
+      "legal_basis": "Adapted British-Indian laws with Islamic provisions",
+      "enforcement_mechanism": "Pakistani legal system"
+    },
+    "government_system": {
+      "type": "Federal Parliamentary (1947-1958), Presidential (1958-1971)",
+      "structure": "Provincial government under federal system",
+      "revenue_collection": "Federal and provincial taxation",
+      "administrative_units": [
+        "Province",
+        "Districts",
+        "Thanas"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "East Bengal/East Pakistan Police",
+      "military_police": "Pakistan Army and paramilitary forces",
+      "jurisdiction": "Provincial police under federal oversight"
+    },
+    "land_relations": {
+      "tenure_system": "East Bengal State Acquisition and Tenancy Act 1950",
+      "property_rights": "Abolition of zamindari system",
+      "revenue_system": "Direct government land revenue",
+      "peasant_status": "Farmers as direct tenants to state"
+    },
+    "key_characteristics": [
+      "Zamindari abolition (1951)",
+      "Language movement legal issues (1952)",
+      "Military rule periods (1958-1971)",
+      "Constitutional crises and martial law",
+      "Bengali autonomy demands and legal frameworks"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:26"
+  }
+}

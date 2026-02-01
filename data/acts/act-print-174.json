@@ -1,0 +1,143 @@
+{
+  "act_title": "The Famine Insurance Fund Act, 1937 (Bengal Act)",
+  "act_no": "III",
+  "act_year": "1938",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. This Act may be called the2[* * *] Famine Insurance Fund Act, 1937."
+    },
+    {
+      "section_content": "2. In this Act, unless there is anything repugnant in the subject or context, “Fund” means the Bangladesh, Famine Insurance Fund established under section 3."
+    },
+    {
+      "section_content": "3. On the commencement of this Act, the Government shall establish in and for Bangladesh3[* * *] a Fund, called the Bangladesh Famine Insurance Fund.The Fund shall consist of -(i)\tthe contribution by the Government under section 4;(ii)\tsuch other sums as the Government may contribute to the Fund under section 7; and(iii)\tthe interest which may from time to time accrue on the securities in which the sums to the credit of the Fund may be invested or re-invested under section 6."
+    },
+    {
+      "section_content": "4. As soon as may be after the commencement of this Act, the Government, shall, for the purpose of the establishment of the Fund, make an initial contribution to the Fund, of the sum of ten lakhs of Taka."
+    },
+    {
+      "section_content": "5. Expenditure from the Fund shall not be incurred except upon the relief of famine and the relief of distress caused by serious drought, flood, earthquake or other natural calamities:Provided that, if at any time, the total amount of the Fund exceeds twelve lakhs of Taka the Government may utilise such excess to meet expenditure on protective irrigation works and other works for the prevention of famine or flood or to pay debt charges for which the Government may from time to time be liable, including interest, sinking fund charges and redemption charges."
+    },
+    {
+      "section_content": "6. The Government shall from time to time invest or re-invest in its own securities4[* * *] all sums to the credit of the Fund, which may not be immediately required for any of the purposes mentioned in section 5."
+    },
+    {
+      "section_content": "7. (1) The Accounts of the Fund shall be made up at the end of each financial year, the securities, if any, belonging to the Fund, being valued at their market value on the last day of such year and an abstract of such Accounts shall be placed before5[Parliament] every year along with the annual financial statement6[* * *].(2) If the Accounts so made up in respect of any year show that the balance at the credit of the Fund falls short of twelve lakhs of Taka the deficiency shall be made up by contribution from the revenues of the Government:Provided that if the deficiency exceeds two lakhs of Taka, it may be made up in annual instalments, the amount of each instalment except the last being not less than two lakhs of Taka."
+    },
+    {
+      "section_content": "8. All contributions made under this Act to the Fund are hereby declared to be expenditure charged upon the revenues of Government."
+    },
+    {
+      "section_content": "9. The Government may make rules, consistent with this Act, for the purpose of giving effect to the provisions of this Act."
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1Throughout this Act, the words “Bangladesh”, “Government” and “Taka” were substituted for the words “East Pakistan”, “Provincial Government” or “Province” or “the Province”  and “rupees” respectively by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "2The word “Bengal” was omitted by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "3The comma and words “, except the district of Sylhet” were omitted by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "4The words “or in the securities of the Central Government” were omitted by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "5The word “Parliament” was substituted for the words “East Pakistan Provincial Assembly”, by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "6The words “of the Province” were omitted by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-174.html",
+  "fetch_timestamp": "2025-07-19 02:09:14",
+  "csv_metadata": {
+    "act_title_from_csv": "The Famine Insurance Fund Act, 1937 (Bengal Act)",
+    "act_no_from_csv": "III",
+    "act_year_from_csv": "1938",
+    "is_repealed": false
+  },
+  "token_count": 825,
+  "language": "english",
+  "government_context": {
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Governor of Bengal",
+    "head_govt_name": "Lord Brabourne (Michael Knatchbull)",
+    "head_govt_designation": "Governor of Bengal Province",
+    "how_got_power": "British Crown appointment",
+    "period_years": "1937-1939",
+    "years_in_power": 2
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:20",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 681,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:26",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:35:59",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:08",
+    "previous_token_count": 681,
+    "accurate_token_count": 825
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "British Crown Rule",
+      "year_range": "1858-1947",
+      "act_year": 1938
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Government of India Act 1858",
+        "Indian Penal Code 1860",
+        "Code of Civil Procedure 1908",
+        "Evidence Act 1872"
+      ],
+      "court_system": [
+        "High Courts (1861)",
+        "District Courts",
+        "Magistrate Courts"
+      ],
+      "legal_basis": "Codified British-Indian legal system",
+      "enforcement_mechanism": "Imperial Police Service and civil courts"
+    },
+    "government_system": {
+      "type": "Crown Colony Administration",
+      "structure": "Viceroy and provincial governors",
+      "revenue_collection": "Imperial taxation system",
+      "administrative_units": [
+        "Provinces",
+        "Districts",
+        "Sub-districts"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Police Act 1861 - structured police force",
+      "military_police": "Imperial Police Service",
+      "jurisdiction": "Provincial police under colonial control"
+    },
+    "land_relations": {
+      "tenure_system": "Zamindari, Ryotwari, and Mahalwari systems",
+      "property_rights": "Colonial property law framework",
+      "revenue_system": "Land revenue administration",
+      "peasant_status": "Various tenant classes with limited rights"
+    },
+    "key_characteristics": [
+      "Codification of laws (Penal Code, CPC, Evidence Act)",
+      "Structured civil service system",
+      "Constitutional developments (1909, 1919, 1935 Acts)",
+      "Bengal Tenancy Act 1885 and amendments",
+      "Emergency powers and martial law provisions"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:26"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "act_title": "The Municipal Taxation Act, 1881",
+  "act_no": "XI",
+  "act_year": "1881",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. This Act may be called theMunicipal Taxation Act, 1881."
+    },
+    {
+      "section_content": "It extends to the whole of2[Bangladesh]."
+    },
+    {
+      "section_content": "2. In this Act “Municipal Committee”3[includes a Paurashava or a Municipal Corporation] or a body of Municipal Commissioners constituted by or under the provisions of any enactment for the time being in force."
+    },
+    {
+      "section_content": "3. Notwithstanding anything contained in any enactment for the time being in force, the Government may, by an order in writing, prohibit the levy by a Municipal Committee of any specified tax-(a)\tpayable by any person subject to4[theArmy Act, 1952, the Naval Discipline Ordinance, 1961 ortheAir Force Act, 1953]  who is compelled by the exigencies of Military, Naval or Air-force duty to reside within the limits of a municipality;The Government may, by a like order, rescind any such prohibition."
+    },
+    {
+      "section_content": "3A. \tNotwithstanding anything in any enactment for the time being in force, the Government may by an order in writing prohibit the levy by a Municipal Committee of any specified tax payable by the Government and may by a like order rescind any such prohibition."
+    },
+    {
+      "section_content": "4. So long as any order made under section 3, prohibiting the levy of a tax on any person mentioned in that section remains in force, the Government shall be liable to pay to the Municipal Committee mentioned in the order the amount which otherwise would have been payable to such Committee by such person:Provided that the Government shall not be liable to pay any sum in respect of any horse which such person is bound, by the regulations of the service to which he belongs, to keep."
+    },
+    {
+      "section_content": "5. So long as any order made under section 3A prohibiting the levy of any tax payable by the Government, remains in force, the said Government shall be liable to pay to the Municipal Committee, in lieu of such tax, such sums (if any) as an officer from time to time appointed in this behalf by the Government may, having regard to all the circumstances of the case, from time to time determine to be fair and reasonable."
+    },
+    {
+      "section_content": "6. If any question arises whether any duty is military, naval or air-force duty within the meaning of this Act, the decision of the Government thereon shall be conclusive.If any question arises whether any person is compelled as aforesaid to reside within the limits of a municipality or is bound as aforesaid to keep any horse, the decision thereon of such authority as the Government may, from time to time, appoint in this behalf shall be conclusive."
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1Throughout this Act, except otherwise provided, the word “Government” was substituted, for the words “Provincial Government” or “Central Government” by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "2The word \"Bangladesh\" was substituted, for the word \"Pakistan\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "3The words “includes a Paurashava or a Municipal Corporation” were substituted, for the words “includes a Municipal Corporation” by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "4The words, commas and figures “theArmy Act, 1952, the Naval Discipline Ordinance, 1961 or theAir Force Act, 1953” were substituted, for the words, commas, figures and bracket “the Army Act, the Indian Army Act, 1911 or the PakistanArmy Act, 1952, the Naval Discipline Act or that Act as modified by the Pakistan Navy (Discipline) Act, 1934, the Air Force Act or the Indian Air Force Act, 1932 or the PakistanAir Force Act, 1953” by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-44.html",
+  "fetch_timestamp": "2025-07-19 02:05:49",
+  "csv_metadata": {
+    "act_title_from_csv": "The Municipal Taxation Act, 1881",
+    "act_no_from_csv": "XI",
+    "act_year_from_csv": "1881",
+    "is_repealed": false
+  },
+  "token_count": 767,
+  "language": "english",
+  "government_context": {
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Lieutenant Governor of Bengal",
+    "head_govt_name": "Sir Ashley Eden",
+    "head_govt_designation": "Lieutenant Governor of Bengal Presidency",
+    "how_got_power": "British Crown appointment",
+    "period_years": "1877-1882",
+    "years_in_power": 5
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:21",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 625,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:27",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:04",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:10",
+    "previous_token_count": 625,
+    "accurate_token_count": 767
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "British Crown Rule",
+      "year_range": "1858-1947",
+      "act_year": 1881
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Government of India Act 1858",
+        "Indian Penal Code 1860",
+        "Code of Civil Procedure 1908",
+        "Evidence Act 1872"
+      ],
+      "court_system": [
+        "High Courts (1861)",
+        "District Courts",
+        "Magistrate Courts"
+      ],
+      "legal_basis": "Codified British-Indian legal system",
+      "enforcement_mechanism": "Imperial Police Service and civil courts"
+    },
+    "government_system": {
+      "type": "Crown Colony Administration",
+      "structure": "Viceroy and provincial governors",
+      "revenue_collection": "Imperial taxation system",
+      "administrative_units": [
+        "Provinces",
+        "Districts",
+        "Sub-districts"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Police Act 1861 - structured police force",
+      "military_police": "Imperial Police Service",
+      "jurisdiction": "Provincial police under colonial control"
+    },
+    "land_relations": {
+      "tenure_system": "Zamindari, Ryotwari, and Mahalwari systems",
+      "property_rights": "Colonial property law framework",
+      "revenue_system": "Land revenue administration",
+      "peasant_status": "Various tenant classes with limited rights"
+    },
+    "key_characteristics": [
+      "Codification of laws (Penal Code, CPC, Evidence Act)",
+      "Structured civil service system",
+      "Constitutional developments (1909, 1919, 1935 Acts)",
+      "Bengal Tenancy Act 1885 and amendments",
+      "Emergency powers and martial law provisions"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:27"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "act_title": "The Bangladesh (Taking Over of Control and Management of Industrial and Commercial Concerns) Order, 1972 (Acting President's Order)",
+  "act_no": "1",
+  "act_year": "1972",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. (1) This Order may be called the Bangladesh (Taking  Over of Control and Management of Industrial and Commercial Concerns) Order, 1972.(2) It extends to the whole of Bangladesh.(3) It shall come into force at once."
+    },
+    {
+      "section_content": "2. (1) Where the owners, directors or managers, or majority of the owners, directors or managers, of any industrial or commercial concern have left Bangladesh or are not available to control and manage the concern, or where, in the opinion of the Government of Bangladesh, the owners or directors of any industrial or commercial concern cannot be allowed, in the public interest, to control and manage the concern, the Government of Bangladesh may, notwithstanding anything contained in any law for the time being in force or in any instrument or document relating to the incorporation, registration, creation, constitution or formation of the concern,1[* * *] take  over  its  control  and  management,  or  appoint  a Management Board or Administrator, or direct any autonomous or semi-autonomous body or any other authority, to take over its control and management.(2) Where2[the Government of Bangladesh takes over the control or management of any industrial or commercial concern under clause (1),] all the powers and duties of the owners, directors, Board of Directors and managers of the concern, including the power to operate bank accounts, shall vest in the Government of Bangladesh. Management Board, Administrator, autonomous or semi-autonomous body or the authority, as the case may be, which takes over the control and management of the concern.3[(2A) The Government may, from time to time, publish for general information lists of Industrial and Commercial Concerns taken over under this Order.](3) The Management Board or the Administrator appointed under clause (1) shall hold office for such period and on such terms and conditions as the Government of Bangladesh may specify.(4) An autonomous or semi-autonomous body or an authority taking over the control and management of any industrial and commercial concern under clause (1) shall act on such terms and conditions as the Government of Bangladesh may specify."
+    },
+    {
+      "section_content": "3. The Management Board, Administrator, autonomous or semi-autonomous body or the authority controlling and managing  any  industrial  or  commercial  concern  under  this Order shall exercise powers and perform duties under the direct supervision and control of the Government of Bangladesh, and shall submit such statements and furnish such information to the Government of Bangladesh as it may direct or require from time to time."
+    },
+    {
+      "section_content": "4. No action taken under this Order shall be called in question by or before any court of law."
+    },
+    {
+      "section_content": "5. For the purpose of this Order, “industrial and commercial concern” includes any insurance company, factory or shop, but does not include any bank."
+    },
+    {
+      "section_content": "6. (1) The Acting President's Order No. 1-35/71/13, dated the 26th December, 1971, is hereby repealed.(2) Notwithstanding the repeal, all notifications issued under the said Order shall be deemed to have been issued under the relevant provision of this Order.(3) No liability shall attach to the Government of Bangladesh or any official for anything done in good faith or any order made under the said Order."
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1The words and comma “by notification in the official Gazette,” were omitted by Article 2 of the Bangladesh (Taking over of Control and Management of Industrial and Commercial Concerns) (Amendment) Order, 1972 (President’s Order No.  151 of 1972)"
+    },
+    {
+      "footnote_text": "2The words, brackets, figure and comma “the Government of Bangladesh takes over the control or management of any industrial or commercial concern under clause (1),” were substituted for the words, brackets, figure and comma “a notification is published under clause (1) in respect of any industrial or commercial concern,” by Article 2 of the Bangladesh (Taking over of Control and Management of Industrial and Commercial Concerns) (Amendment) Order, 1972 (President’s Order No.  151 of 1972)"
+    },
+    {
+      "footnote_text": "3Clause (2A) was inserted by Article 2 of the Bangladesh (Taking over of Control and Management of Industrial and Commercial Concerns) (Amendment) Order, 1972 (President’s Order No.  151 of 1972)"
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-368.html",
+  "fetch_timestamp": "2025-07-19 02:14:37",
+  "csv_metadata": {
+    "act_title_from_csv": "The Bangladesh (Taking Over of Control and Management of Industrial and Commercial Concerns) Order, 1972 (Acting President's Order)",
+    "act_no_from_csv": "1",
+    "act_year_from_csv": "1972",
+    "is_repealed": false
+  },
+  "token_count": 817,
+  "language": "english",
+  "government_context": {
+    "govt_system": "Parliamentary Democracy",
+    "position_head_govt": "Prime Minister",
+    "head_govt_name": "Sheikh Mujibur Rahman",
+    "head_govt_designation": "Prime Minister of Bangladesh",
+    "how_got_power": "Post-independence constitutional government",
+    "period_years": "1972-1973",
+    "years_in_power": 1
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:21",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 682,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:27",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:03",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:09",
+    "previous_token_count": 682,
+    "accurate_token_count": 817
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "Early Independent Bangladesh",
+      "year_range": "1971-1975",
+      "act_year": 1972
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Laws Continuance Enforcement Order 1971",
+        "Constitution of Bangladesh 1972"
+      ],
+      "court_system": [
+        "Supreme Court with High Court and Appellate Divisions",
+        "Subordinate Courts"
+      ],
+      "legal_basis": "Secular constitutional democracy with British-inherited laws",
+      "enforcement_mechanism": "Independent judiciary and civil courts"
+    },
+    "government_system": {
+      "type": "Parliamentary Democracy",
+      "structure": "Westminster-style parliamentary system",
+      "revenue_collection": "National taxation system",
+      "administrative_units": [
+        "Divisions",
+        "Districts",
+        "Thanas",
+        "Unions"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Bangladesh Police (continuing Police Act 1861)",
+      "military_police": "Bangladesh Army and security forces",
+      "jurisdiction": "National police force"
+    },
+    "land_relations": {
+      "tenure_system": "Continuation of 1950 Act with modifications",
+      "property_rights": "Constitutional property rights",
+      "revenue_system": "State land revenue collection",
+      "peasant_status": "Land ceiling laws and redistribution efforts"
+    },
+    "key_characteristics": [
+      "Secular constitution with four principles",
+      "Continuation of colonial-era laws",
+      "War crimes tribunals establishment",
+      "Nationalization policies",
+      "Special Powers Act 1974"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:27"
+  }
+}

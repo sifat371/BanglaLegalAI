@@ -1,0 +1,110 @@
+{
+  "act_title": "The Printing Corporation (Vesting) Order, 1972 (President's Order)",
+  "act_no": "81",
+  "act_year": "1972",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. (1) This Order may be called the Printing Corporation (Vesting) Order, 1972.(2) It shall come into force at once."
+    },
+    {
+      "section_content": "2. In this Order, unless the context otherwise requires,-(a) “Government” means the Government of the People's Republic of Bangladesh;(b) “Printing Corporation” means the undertaking in Bangladesh of the Printing Corporation of Pakistan Limited registered as a Public Limited Company under the Companies Act, 1913 (Act VII of 1913);(c) “Undertaking” includes any business, asset, right, power, authority and privilege, and any property movable and immovable, including land, building, press, machinery, cash or bank balance, reserve fund, investments, and any other right or interest in, or arising out of, such property and any book of accounts, register, record and any other document of whatever nature relating thereto."
+    },
+    {
+      "section_content": "3. Notwithstanding anything contained in any other law for the time being in force or in any memorandum or articles of association, or in any contract or agreement, or in any deed or other instrument, on the commencement of this Order,-(a) \tthe entire undertaking of the Printing Corporation shall stand transferred to, and vest in, the Government;(b)\tall debts and liabilities incurred, all obligations undertaken, all contracts entered into and all agreements made, by or with the Printing Corporation shall, unless the Government otherwise directs, stand transferred to, and be deemed to have been incurred, undertaken, entered into, or made by or with, the Government;(c)\tall suits and other legal proceedings instituted by or against the Printing Corporation in Bangladesh before the commencement of this Order shall, unless the Government otherwise directs, be deemed to have been instituted by or against the Government and may be continued or proceeded with accordingly;(d)\tall officers and other employees of the Printing Corporation shall stand transferred to the Government on such terms and conditions as the Government may determine:Provided that an officer or other employee so transferred shall have the option not to continue in the service of the Government."
+    },
+    {
+      "section_content": "4. The Government may, for the purpose of removing any difficulty arising out of, or in connection with, or in relation to the transfer of the undertaking of the Printing Corporation under Article 3, make such order as it considers expedient and any such order shall be deemed to be, and given effect to as, part of the provisions of this Order."
+    },
+    {
+      "section_content": "5. The Government may, by notification in the official Gazette, make rules for carrying out the purposes of this Order"
+    }
+  ],
+  "footnotes": [],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-404.html",
+  "fetch_timestamp": "2025-07-19 02:14:00",
+  "csv_metadata": {
+    "act_title_from_csv": "The Printing Corporation (Vesting) Order, 1972 (President's Order)",
+    "act_no_from_csv": "81",
+    "act_year_from_csv": "1972",
+    "is_repealed": false
+  },
+  "token_count": 550,
+  "language": "english",
+  "government_context": {
+    "govt_system": "Parliamentary Democracy",
+    "position_head_govt": "Prime Minister",
+    "head_govt_name": "Sheikh Mujibur Rahman",
+    "head_govt_designation": "Prime Minister of Bangladesh",
+    "how_got_power": "Post-independence constitutional government",
+    "period_years": "1972-1973",
+    "years_in_power": 1
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:21",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 425,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:27",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:04",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:10",
+    "previous_token_count": 425,
+    "accurate_token_count": 550
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "Early Independent Bangladesh",
+      "year_range": "1971-1975",
+      "act_year": 1972
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Laws Continuance Enforcement Order 1971",
+        "Constitution of Bangladesh 1972"
+      ],
+      "court_system": [
+        "Supreme Court with High Court and Appellate Divisions",
+        "Subordinate Courts"
+      ],
+      "legal_basis": "Secular constitutional democracy with British-inherited laws",
+      "enforcement_mechanism": "Independent judiciary and civil courts"
+    },
+    "government_system": {
+      "type": "Parliamentary Democracy",
+      "structure": "Westminster-style parliamentary system",
+      "revenue_collection": "National taxation system",
+      "administrative_units": [
+        "Divisions",
+        "Districts",
+        "Thanas",
+        "Unions"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Bangladesh Police (continuing Police Act 1861)",
+      "military_police": "Bangladesh Army and security forces",
+      "jurisdiction": "National police force"
+    },
+    "land_relations": {
+      "tenure_system": "Continuation of 1950 Act with modifications",
+      "property_rights": "Constitutional property rights",
+      "revenue_system": "State land revenue collection",
+      "peasant_status": "Land ceiling laws and redistribution efforts"
+    },
+    "key_characteristics": [
+      "Secular constitution with four principles",
+      "Continuation of colonial-era laws",
+      "War crimes tribunals establishment",
+      "Nationalization policies",
+      "Special Powers Act 1974"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:27"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "act_title": "The Carriage of Goods by Sea Act, 1925",
+  "act_no": "XXVI",
+  "act_year": "1925",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1.(1) This Act may be called theCarriage of Goods by Sea Act, 1925.(2) \tIt extends to the whole of Bangladesh."
+    },
+    {
+      "section_content": "2. \tSubject to the provisions of this Act, the rules set out in the Schedule (hereinafter referred to as \" the Rules\") shall have effect in relation to and in connection with the carriage of goods by sea in ships carrying goods from any port in Bangladesh to any other port whether in or outside Bangladesh."
+    },
+    {
+      "section_content": "3. There shall not be implied in any contract for the carriage of goods by sea to which the Rules apply any absolute undertaking by the carrier of the goods to provide a seaworthy ship."
+    },
+    {
+      "section_content": "4. \tEvery bill of lading, or similar document of title, issued in Bangladesh which contains or is evidence of any contract to which the Rules apply, shall contain an express statement that it is to have effect subject to the provisions of the said Rules as applied by this Act."
+    },
+    {
+      "section_content": "5. \tArticle VI of the Rules shall, in relation to-(a) \tthe carriage of goods by sea in sailing ships carrying goods from any port in Bangladesh to any other port whether in or outside Bangladesh, and(b) \tthe carriage of goods by sea in ships carrying goods from a port in Bangladesh notified in this behalf in the official Gazette by the Government to a port2[in India, Ceylon or Pakistan] specified in the said notification,have effect as though the said Article referred to goods any class instead of to particular goods and as though the proviso to the second paragraph of the said Article were omitted."
+    },
+    {
+      "section_content": "6. Where under the custom of any trade the weight of any bulk cargo inserted in the bill of lading is a weight ascertained or accepted by a third party other than the carrier or the shipper and the fact that the weight is so ascertained or accepted is stated in the bill of lading, then, notwithstanding anything in the Rules, the bill of lading shall not be deemed to be prima facie evidence against the carrier of the receipt of goods of the weight so inserted in the bill of lading, and the accuracy thereof at the time of shipment shall not be deemed to have been guaranteed by the shipper."
+    },
+    {
+      "section_content": "7.(1) Nothing in this Act shall affect the operation of sections four hundred and forty six to four hundred and fifty, both inclusive, five hundred and two, and five hundred and three of the Merchant Shipping Act, 1894, as amended by any subsequent enactment, or the operation of any other enactment for the time being in force limiting the liability of the owners of sea-going vessels.(2) \tThe Rules shall not be virtue of this Act apply to any contract for the carriage of goods by sea before such day, not being earlier than the first day of January, 1926, as the Government may, by notification in the official Gazette, appoint, nor to any bill of lading or similar document of title issued, whether before or after such day as aforesaid, in pursuance of any such contract as aforesaid."
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1Throughout this Act, except otherwise provided, the words “Bangladesh” and \"Government\" were substituted, for the words “Pakistan” and “Central Government” respectively by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "2The words and comma \"in India, Ceylon or Pakistan\" were substituted, for the words \"in India or Ceylon\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-137.html",
+  "fetch_timestamp": "2025-07-19 02:08:24",
+  "csv_metadata": {
+    "act_title_from_csv": "The Carriage of Goods by Sea Act, 1925",
+    "act_no_from_csv": "XXVI",
+    "act_year_from_csv": "1925",
+    "is_repealed": false
+  },
+  "token_count": 757,
+  "language": "english",
+  "government_context": {
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Governor of Bengal",
+    "head_govt_name": "Earl of Lytton (Victor Bulwer-Lytton)",
+    "head_govt_designation": "Governor of Bengal Province",
+    "how_got_power": "British Crown appointment",
+    "period_years": "1922-1927",
+    "years_in_power": 5
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:20",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 612,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:25",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:35:55",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:04",
+    "previous_token_count": 612,
+    "accurate_token_count": 757
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "British Crown Rule",
+      "year_range": "1858-1947",
+      "act_year": 1925
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Government of India Act 1858",
+        "Indian Penal Code 1860",
+        "Code of Civil Procedure 1908",
+        "Evidence Act 1872"
+      ],
+      "court_system": [
+        "High Courts (1861)",
+        "District Courts",
+        "Magistrate Courts"
+      ],
+      "legal_basis": "Codified British-Indian legal system",
+      "enforcement_mechanism": "Imperial Police Service and civil courts"
+    },
+    "government_system": {
+      "type": "Crown Colony Administration",
+      "structure": "Viceroy and provincial governors",
+      "revenue_collection": "Imperial taxation system",
+      "administrative_units": [
+        "Provinces",
+        "Districts",
+        "Sub-districts"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Police Act 1861 - structured police force",
+      "military_police": "Imperial Police Service",
+      "jurisdiction": "Provincial police under colonial control"
+    },
+    "land_relations": {
+      "tenure_system": "Zamindari, Ryotwari, and Mahalwari systems",
+      "property_rights": "Colonial property law framework",
+      "revenue_system": "Land revenue administration",
+      "peasant_status": "Various tenant classes with limited rights"
+    },
+    "key_characteristics": [
+      "Codification of laws (Penal Code, CPC, Evidence Act)",
+      "Structured civil service system",
+      "Constitutional developments (1909, 1919, 1935 Acts)",
+      "Bengal Tenancy Act 1885 and amendments",
+      "Emergency powers and martial law provisions"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:25"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "act_title": "শেখ হাসিনা জাতীয় যুব উন্নয়ন ইনস্টিটিউট (সংশোধন) অধ্যাদেশ, ২০২৪",
+  "act_no": "০৬",
+  "act_year": "2024",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "১।   (১) এই অধ্যাদেশশেখ হাসিনা জাতীয় যুব উন্নয়ন ইনস্টিটিউট (সংশোধন) অধ্যাদেশ, ২০২৪নামে অভিহিত হইবে।(২) ইহা অবিলম্বে কার্যকর হইবে।"
+    },
+    {
+      "section_content": "২।  শেখ হাসিনাজাতীয় যুব উন্নয়ন ইনস্টিটিউট আইন, ২০১৮(২০১৮ সনের ১৪ নং আইন), অতঃপর উক্ত আইন বলিয়া উল্লিখিত, এর ধারা ১ এর উপ-ধারা (১) এ উল্লিখিত \"শেখ হাসিনা\" শব্দগুলি বিলুপ্ত হইবে।"
+    },
+    {
+      "section_content": "৩।   উক্ত আইনের ধারা ২ এর দফা (১) এ উল্লিখিত \"শেখ হাসিনা\" শব্দগুলি বিলুপ্ত হইবে।"
+    },
+    {
+      "section_content": "৪।  উক্ত আইনের ধারা ৩ এর উপ-ধারা (১) এ উল্লিখিত \"শেখ হাসিনা জাতীয় যুব উন্নয়ন ইনস্টিটিউট (Sheikh Hasina National Institute of Youth Development)\" শব্দগুলি ও বন্ধনীর পরিবর্তে \"জাতীয় যুব উন্নয়ন ইনস্টিটিউট (National Institute of Youth Development)\" শব্দগুলি ও বন্ধনী প্রতিস্থাপিত হইবে।"
+    },
+    {
+      "section_content": "৫।  এই অধ্যাদেশ প্রবর্তনের সঙ্গে সঙ্গে উক্ত আইনের অধীন প্রণীত কোনো বিধি বা প্রবিধান, ইস্যুকৃত কোনো আদেশ বা বিজ্ঞপ্তি বা সম্পাদিত যে কোনো দলিলে উল্লিখিত \"শেখ হাসিনা\" শব্দগুলি বিলুপ্ত হইবে।"
+    }
+  ],
+  "footnotes": [],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-1502.html",
+  "fetch_timestamp": "2025-07-19 02:44:05",
+  "csv_metadata": {
+    "act_title_from_csv": "শেখ হাসিনা জাতীয় যুব উন্নয়ন ইনস্টিটিউট (সংশোধন) অধ্যাদেশ, ২০২৪",
+    "act_no_from_csv": "০৬",
+    "act_year_from_csv": "২০২৪",
+    "is_repealed": false
+  },
+  "token_count": 272,
+  "language": "bengali",
+  "government_context": {
+    "govt_system": "Interim Government",
+    "position_head_govt": "Chief Adviser",
+    "head_govt_name": "Prof. Muhammad Yunus",
+    "head_govt_designation": "Chief Adviser of Interim Government",
+    "how_got_power": "Student uprising/mass revolution against Sheikh Hasina",
+    "period_years": "2024-2025",
+    "years_in_power": 1
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:20",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "bengali",
+    "token_count": 156,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:26",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:35:58",
+    "legal_context_recovery_attempted": true,
+    "legal_context_recovery_timestamp": "2025-07-19 20:42:57",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:07",
+    "previous_token_count": 156,
+    "accurate_token_count": 272
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "Awami League Dominance",
+      "year_range": "2008-2024",
+      "act_year": 2024
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "15th Amendment (2011)",
+        "Cyber Security Act 2023",
+        "Digital Security Act",
+        "International Crimes Tribunal Act"
+      ],
+      "court_system": [
+        "Supreme Court",
+        "High Court Division",
+        "Specialized Tribunals"
+      ],
+      "legal_basis": "Constitutional parliamentary system",
+      "enforcement_mechanism": "Politicized judicial system"
+    },
+    "government_system": {
+      "type": "Parliamentary Democracy (increasingly authoritarian)",
+      "structure": "Single-party dominance",
+      "revenue_collection": "Modernized tax system",
+      "administrative_units": [
+        "8 Divisions",
+        "64 Districts",
+        "492 Upazilas",
+        "4,554 Unions"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Politicized police force",
+      "military_police": "RAB, Police, Border Guards",
+      "jurisdiction": "Centralized political control"
+    },
+    "land_relations": {
+      "tenure_system": "Market-based with disputes",
+      "property_rights": "Development-focused acquisition",
+      "revenue_system": "Digital land records",
+      "peasant_status": "Modernization and displacement issues"
+    },
+    "key_characteristics": [
+      "Caretaker system abolition",
+      "War crimes tribunals",
+      "Digital governance initiatives",
+      "Authoritarian drift",
+      "Student movement repressions"
+    ],
+    "context_added_timestamp": "2025-07-19 20:42:57",
+    "recovery_note": "Legal context added after year translation recovery"
+  }
+}

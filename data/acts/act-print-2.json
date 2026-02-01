@@ -1,0 +1,115 @@
+{
+  "act_title": "The Public Accountant's Default Act, 1850",
+  "act_no": "XII",
+  "act_year": "1850",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. Every public accountant shall give security for the due discharge of the trusts of his office, and for the due account of all moneys which shall come into his possession or control, by reason of his office."
+    },
+    {
+      "section_content": "2. In default of any Act having special reference to the office of any public accountant, the security given shall be of such amount and kind, real or personal, or both, and with such sureties (regard being had to the nature of the office), as shall be required by any rules made or to be made from time to time, by the authority by which each public accountant is appointed to his office."
+    },
+    {
+      "section_content": "3. For the purposes of sections 1 and 2 of this Act, the expression “public accountant” means any person who as Official Assignee or Trustee, or as sarbarahkar, is entrusted with the receipt, custody or control of any moneys or securities for money, or the management of any lands belonging to any other person or persons; and for the purposes of sections 4 and 5 of this Act the expression shall also include any person who, by reason of any office held by him in the service of the State is entrusted with the receipt, custody or control of any moneys or securities for money, or the management of any lands belonging to the Government."
+    },
+    {
+      "section_content": "4. The person or persons at the head of the office to which any public accountant belongs may proceed against any such public accountant and his securities for any loss or defalcation in his accounts, as if the amount thereof were an arrear of land-revenue due to Government."
+    },
+    {
+      "section_content": "5. All Regulations and Acts now or hereafter to be in force for the recovery of arrears of land-revenue due to Government, and for recovery of damages by any person wrongfully proceeded against for any such arrear shall apply, with such changes in the forms of procedure as are necessary to make them applicable to the case, to the proceedings against and by such public accountant."
+    },
+    {
+      "section_content": "6. [Repealed by the Repealing Act, 1870 (Act No. XIV of 1870).]"
+    }
+  ],
+  "footnotes": [],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-2.html",
+  "fetch_timestamp": "2025-07-19 02:04:29",
+  "csv_metadata": {
+    "act_title_from_csv": "The Public Accountant's Default Act, 1850",
+    "act_no_from_csv": "XII",
+    "act_year_from_csv": "1850",
+    "is_repealed": false
+  },
+  "token_count": 507,
+  "language": "english",
+  "government_context": {
+    "govt_system": "Company Rule",
+    "position_head_govt": "Governor-General of India",
+    "head_govt_name": "Earl of Dalhousie (James Broun-Ramsay)",
+    "head_govt_designation": "Governor-General of India",
+    "how_got_power": "Company appointment",
+    "period_years": "1848-1856",
+    "years_in_power": 8
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:21",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 371,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:26",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:35:59",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:08",
+    "previous_token_count": 371,
+    "accurate_token_count": 507
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "East India Company Rule",
+      "year_range": "1773-1858",
+      "act_year": 1850
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Regulating Act 1773",
+        "Bengal Regulations",
+        "Anglo-Muhammadan Law",
+        "Cornwallis Code 1793"
+      ],
+      "court_system": [
+        "Supreme Court at Fort William (1774)",
+        "District Courts",
+        "Company Courts"
+      ],
+      "legal_basis": "Hybrid of British common law and Islamic/Hindu personal law",
+      "enforcement_mechanism": "Company magistrates and British judicial system"
+    },
+    "government_system": {
+      "type": "Company Rule under Parliamentary Oversight",
+      "structure": "Governor-General in Council system",
+      "revenue_collection": "Diwani rights (1765) - Company tax collection",
+      "administrative_units": [
+        "Presidencies",
+        "Districts",
+        "Thanas"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Company Police established",
+      "military_police": "Sepoys and Company military",
+      "jurisdiction": "District-based police system"
+    },
+    "land_relations": {
+      "tenure_system": "Permanent Settlement (1793)",
+      "property_rights": "Zamindars as proprietors",
+      "revenue_system": "Fixed land revenue to Company",
+      "peasant_status": "Tenants under zamindari system"
+    },
+    "key_characteristics": [
+      "Dual Government (1765-1772)",
+      "Introduction of British legal concepts",
+      "Permanent Settlement creating landed gentry",
+      "Regulation through British parliamentary acts",
+      "Bengal Regulation 10 of 1804 for martial law"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:26"
+  }
+}

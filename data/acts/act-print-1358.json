@@ -1,0 +1,109 @@
+{
+  "act_title": "THE CHITTAGONG HILL-TRACTS CINEMATOGRAPH REGULATION, 1954",
+  "act_no": "REGULATION",
+  "act_year": "1955",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. This Regulation may be called the Chittagong Hill- tracts Cinematograph Regulation, 1954."
+    },
+    {
+      "section_content": "2. TheCinematograph Act, 1918, together with Rules made thereunder, shall, subject to the modification shown below, apply to the Chittagong Hill-tracts:-Modification.Sub-section (3) of section 1 shall beomitted."
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1The word \"Government\" was replaced for the words \"Governor\" by Article 9 of theBangladesh (Adaptation of Existing Laws) Order, 1972(President's Order No. 48 of 1972)."
+    },
+    {
+      "footnote_text": "2The word \"Government\" was replaced, for the words \"Governor of East Bengal\" by Article 9 of theBangladesh (Adaptation of Existing Laws) Order, 1972(President's Order No. 48 of 1972)."
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-1358.html",
+  "fetch_timestamp": "2025-07-19 02:11:30",
+  "csv_metadata": {
+    "act_title_from_csv": "THE CHITTAGONG HILL-TRACTS CINEMATOGRAPH REGULATION, 1954",
+    "act_no_from_csv": "I",
+    "act_year_from_csv": "1955",
+    "is_repealed": false
+  },
+  "token_count": 248,
+  "language": "english",
+  "government_context": {
+    "govt_system": "Dominion of Pakistan",
+    "position_head_govt": "Governor-General of Pakistan",
+    "head_govt_name": "Iskander Mirza",
+    "head_govt_designation": "Governor-General of Pakistan",
+    "how_got_power": "Constitutional appointment",
+    "period_years": "1955-1956",
+    "years_in_power": 1
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:20",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 112,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:25",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:35:55",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:04",
+    "previous_token_count": 112,
+    "accurate_token_count": 248
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "East Pakistan Period",
+      "year_range": "1947-1971",
+      "act_year": 1955
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Government of India Act 1935 (adapted)",
+        "Pakistan Constitution 1956",
+        "Pakistan Constitution 1962"
+      ],
+      "court_system": [
+        "Dhaka High Court (1948)",
+        "District Courts",
+        "Federal Court/Supreme Court of Pakistan"
+      ],
+      "legal_basis": "Adapted British-Indian laws with Islamic provisions",
+      "enforcement_mechanism": "Pakistani legal system"
+    },
+    "government_system": {
+      "type": "Federal Parliamentary (1947-1958), Presidential (1958-1971)",
+      "structure": "Provincial government under federal system",
+      "revenue_collection": "Federal and provincial taxation",
+      "administrative_units": [
+        "Province",
+        "Districts",
+        "Thanas"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "East Bengal/East Pakistan Police",
+      "military_police": "Pakistan Army and paramilitary forces",
+      "jurisdiction": "Provincial police under federal oversight"
+    },
+    "land_relations": {
+      "tenure_system": "East Bengal State Acquisition and Tenancy Act 1950",
+      "property_rights": "Abolition of zamindari system",
+      "revenue_system": "Direct government land revenue",
+      "peasant_status": "Farmers as direct tenants to state"
+    },
+    "key_characteristics": [
+      "Zamindari abolition (1951)",
+      "Language movement legal issues (1952)",
+      "Military rule periods (1958-1971)",
+      "Constitutional crises and martial law",
+      "Bengali autonomy demands and legal frameworks"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:25"
+  }
+}

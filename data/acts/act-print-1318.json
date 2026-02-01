@@ -1,0 +1,119 @@
+{
+  "act_title": "THE1[***] GOVERNMENT INDEMNITY REGULATION, 1822",
+  "act_no": "XI",
+  "act_year": "1822",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "2. [Repeals.] Rep. by the Amending Act, 1903 (1 of 1903)."
+    },
+    {
+      "section_content": "3.to 35. Rep. by the Bengal Land-revenue Sales Act, 1841 (XII of 1841)."
+    },
+    {
+      "section_content": "36. If a Collector shall at any time, being so instructed by either the Government or the Board, purchase on account of the Government an estate exposed to sale for the recovery of arrears of revenue, the rules applicable to the management of ordinary malguzari mahals held khas or farmed shall be considered applicable to such estate, and also to all other estates the property of the Government, according as they may be held khas or let in farm."
+    },
+    {
+      "section_content": "37. [Collector’s power to punish for contempt.] Rep. by the Bengal Land-revenue Sales Act, 1841 (XII of 1841)."
+    },
+    {
+      "section_content": "38. It is hereby declared and enacted that the Government is not and shall not be held liable for any error or irregularity which may have occurred, or shall, occur, in any order, proceeding or decree of any Court of judicature, whether a revenue or other officer of the Government may or may not have been, or shall or shall not be, employed in giving effect to the order, proceeding or decree deemed to be erroneous or irregular.Nor shall any officer of the Government be held liable for anything done or suffered in conformity with an order, proceeding or decree of a Court as aforesaid: and if any person or persons shall sue the Government or any officer of the Government for anything done or suffered under an order, proceeding or decree of Court as aforesaid, such person or persons shall be non-suited, with costs.The same principle is and shall be held applicable to all orders proceedings or decrees made, held or passed by any public officer, in virtue of powers vested in him for the judicial cognisance of any pleas, suits, complaints or information, whatsoever, unless otherwise specially provided."
+    },
+    {
+      "section_content": "39. [Saving of Ben. Reg. I of 1821.] Rep. by the Bengal Land- revenue Sales Act, 1841 (XII of 1841)."
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1The word \"Bengal\" was omitted by Article 6 of theBangladesh (Adaptation of Existing Laws) Order, 1972(President’s Order No. 48 of 1972)."
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-1318.html",
+  "fetch_timestamp": "2025-07-19 02:04:25",
+  "csv_metadata": {
+    "act_title_from_csv": "THE [***] GOVERNMENT INDEMNITY REGULATION, 1822",
+    "act_no_from_csv": "XI",
+    "act_year_from_csv": "1822",
+    "is_repealed": false
+  },
+  "token_count": 510,
+  "language": "english",
+  "government_context": {
+    "govt_system": "Company Rule",
+    "position_head_govt": "Governor-General of India",
+    "head_govt_name": "Marquess of Hastings (Francis Rawdon-Hastings)",
+    "head_govt_designation": "Governor-General of India (ex-officio Governor of Bengal)",
+    "how_got_power": "Company appointment",
+    "period_years": "1813-1823",
+    "years_in_power": 10
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:20",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 370,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:25",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:35:54",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:04",
+    "previous_token_count": 370,
+    "accurate_token_count": 510
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "East India Company Rule",
+      "year_range": "1773-1858",
+      "act_year": 1822
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Regulating Act 1773",
+        "Bengal Regulations",
+        "Anglo-Muhammadan Law",
+        "Cornwallis Code 1793"
+      ],
+      "court_system": [
+        "Supreme Court at Fort William (1774)",
+        "District Courts",
+        "Company Courts"
+      ],
+      "legal_basis": "Hybrid of British common law and Islamic/Hindu personal law",
+      "enforcement_mechanism": "Company magistrates and British judicial system"
+    },
+    "government_system": {
+      "type": "Company Rule under Parliamentary Oversight",
+      "structure": "Governor-General in Council system",
+      "revenue_collection": "Diwani rights (1765) - Company tax collection",
+      "administrative_units": [
+        "Presidencies",
+        "Districts",
+        "Thanas"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Company Police established",
+      "military_police": "Sepoys and Company military",
+      "jurisdiction": "District-based police system"
+    },
+    "land_relations": {
+      "tenure_system": "Permanent Settlement (1793)",
+      "property_rights": "Zamindars as proprietors",
+      "revenue_system": "Fixed land revenue to Company",
+      "peasant_status": "Tenants under zamindari system"
+    },
+    "key_characteristics": [
+      "Dual Government (1765-1772)",
+      "Introduction of British legal concepts",
+      "Permanent Settlement creating landed gentry",
+      "Regulation through British parliamentary acts",
+      "Bengal Regulation 10 of 1804 for martial law"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:25"
+  }
+}

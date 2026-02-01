@@ -1,0 +1,316 @@
+{
+  "act_title": "The Petroleum Act, 1934",
+  "act_no": "XXX",
+  "act_year": "1934",
+  "publication_date": "19/07/2025",
+  "sections": [],
+  "footnotes": [
+    {
+      "footnote_text": "1The words and comma \"refining, blending or reclaiming by recycling\" were substituted, for the words and comma \"refining, blending\" by section 2 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)."
+    },
+    {
+      "footnote_text": "2Clauses (b) and (bb) were substituted, for clause (b) by section 3 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)."
+    },
+    {
+      "footnote_text": "3The comma and words \", and includes moving from one place to another in Pakistan across territory which is not part of Pakistan\" were omitted by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)."
+    },
+    {
+      "footnote_text": "4The comma and words \", otherwise than during the course of transport\" were omitted by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)."
+    },
+    {
+      "footnote_text": "5A semi-colon was substituted, for the full-stop at the end of clause (h) and thereafter clauses (i), (j), (k) and (l) were added by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)."
+    },
+    {
+      "footnote_text": "6The word and figure \"class II\" were substituted, for the word \"non-dangerous\" by section 3 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)."
+    },
+    {
+      "footnote_text": "7The word and figure \"class I\" were substituted, for the word \"dangerous\" by section 3 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)."
+    },
+    {
+      "footnote_text": "8The words and figures \"class I and class II\" were substituted, for the words \"dangerous and non-dangerous\" by section 3 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)."
+    },
+    {
+      "footnote_text": "9The words \"store or distribute\" were substituted, for the words \"or store\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)."
+    },
+    {
+      "footnote_text": "10The word and figure \"class I\" were substituted, for the word \"dangerous\" by section 4 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)."
+    },
+    {
+      "footnote_text": "11The comma and words \", store or distribute\" were substituted, for the words \"or store\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)."
+    },
+    {
+      "footnote_text": "12The word and figure \"class I\" were substituted, for the word \"dangerous\" by section 4 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)."
+    },
+    {
+      "footnote_text": "13The word and figure \"class I\" were substituted, for the word \"dangerous\" by section 4 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)."
+    },
+    {
+      "footnote_text": "14The comma and words \", storage and distribution\" were substituted, for the words \"and storage\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)."
+    },
+    {
+      "footnote_text": "15The word \"and\" was omitted by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)."
+    },
+    {
+      "footnote_text": "16Clauses (l), (m), (n), (o) and (p) were substituted, for clause (l) by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)."
+    },
+    {
+      "footnote_text": "17The words and comma \"refine, blend or reclaim by recycling\" were substituted, for the words \"refine or blend\" by section 5 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)"
+    },
+    {
+      "footnote_text": "18The words and comma \"refined, blended or reclaimed by recycling\" were substituted, for the words \"refined or blended\" by section 5 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)."
+    },
+    {
+      "footnote_text": "19The words and comma \"refined, blended or reclaimed by recycling\" were substituted, for the words \"refined or blended\" by section 5 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)."
+    },
+    {
+      "footnote_text": "20The word and figure \"class I\" were substituted, for the word \"dangerous\" by section 6 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)."
+    },
+    {
+      "footnote_text": "21The word and figure \"class I\" were substituted, for the word \"dangerous\" by section 6 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)."
+    },
+    {
+      "footnote_text": "22The word and figure \"class I\" were substituted, for the word \"dangerous\" by section 6 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)."
+    },
+    {
+      "footnote_text": "23The words \"nine litres\" were substituted, for the words \"two gallons\" by section 6 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)."
+    },
+    {
+      "footnote_text": "24The word and figure \"class I\" were substituted, for the word \"dangerous\" by section 6 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)."
+    },
+    {
+      "footnote_text": "25The word and figure \"class II\" were substituted, for the words \"non-dangerous\" by section 7 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)."
+    },
+    {
+      "footnote_text": "26The words \"two thousand litres\" were substituted, for the words \"five hundred gallons\" by section 7 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)."
+    },
+    {
+      "footnote_text": "27The words \"one thousand litres\" were substituted, for the words \"two hundred gallons\" by section 7 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)"
+    },
+    {
+      "footnote_text": "28The word and figure \"class I\" were substituted, for the words \"dangerous\" by section 8 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)."
+    },
+    {
+      "footnote_text": "29The words \"twenty-five litres\" were substituted, for the words \"six gallons\" by section 8 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)."
+    },
+    {
+      "footnote_text": "30The word and figure \"Class I\" was substituted, for the words \"Dangerous\" by section 8 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)."
+    },
+    {
+      "footnote_text": "31The words \"one litre\" were substituted, for the words \"one quart\" by section 8 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)."
+    },
+    {
+      "footnote_text": "32The words \"twenty litres\" were substituted, for the words \"five gallons\" by section 8 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)."
+    },
+    {
+      "footnote_text": "33The word and figure \"class I\" were substituted, for the words \"dangerous\" by section 9 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)."
+    },
+    {
+      "footnote_text": "34The words \"ninety litres\" were substituted, for the words \"twenty gallons\" by section 9 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)."
+    },
+    {
+      "footnote_text": "35The word and figure \"class I\" were substituted, for the words \"dangerous\" by section 9 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)."
+    },
+    {
+      "footnote_text": "36The words \"ninety litres\" were substituted, for the words \"twenty gallons\" by section 9 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)."
+    },
+    {
+      "footnote_text": "37The word and figure \"class I\" were substituted, for the words \"dangerous\" by section 9 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)."
+    },
+    {
+      "footnote_text": "38The words \"twenty-five litres\" were substituted, for the words \"six gallons\" by section 9 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)."
+    },
+    {
+      "footnote_text": "39The words \"the railway\" were substituted, for letter and word \"a railway\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)."
+    },
+    {
+      "footnote_text": "40Section 11 was substituted, for the former section 11 by section 10 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)"
+    },
+    {
+      "footnote_text": "41The words and comma \"stored, distributed\" were substituted, for the words \"stored\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)."
+    },
+    {
+      "footnote_text": "42The words and comma \"refined, blended or reclaimed by recycling\" were substituted, for the words \"refined or blended\" by section 12 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)."
+    },
+    {
+      "footnote_text": "43The words and comma \"stored, distributed\" were substituted, for the words \"stored\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)."
+    },
+    {
+      "footnote_text": "44The words and comma \"refined, blended or reclaimed by recycling\" were substituted, for the words \"refined or blended\" by section 12 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)."
+    },
+    {
+      "footnote_text": "45The word and figure \"class I\" were substituted, for the word \"dangerous\" by section 13 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)."
+    },
+    {
+      "footnote_text": "46The word and figure \"class II\" were substituted, for the word \"non-dangerous\" respectively by section 13 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)."
+    },
+    {
+      "footnote_text": "47The word and figure \"class II\" were substituted, for the word \"non-dangerous\" by section 13 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)."
+    },
+    {
+      "footnote_text": "48The word and figure \"class I\" were substituted, for the word \"dangerous\" by section 13 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)."
+    },
+    {
+      "footnote_text": "49The word and figure \"class II\" were substituted, for the word \"non-dangerous\" respectively by section 13 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)."
+    },
+    {
+      "footnote_text": "50The word and figure \"class II\" were substituted, for the word \"non-dangerous\" respectively by section 13 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)."
+    },
+    {
+      "footnote_text": "51The words and comma \"stores, distributes\" were substituted, for the word \"stores\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)."
+    },
+    {
+      "footnote_text": "52The words and comma \"refines, blends or reclaims by recycling\" were substituted, for the words \"refines or blends\" by section 14 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)."
+    },
+    {
+      "footnote_text": "53The comma and words \", stored or distributed\" were substituted, for the words \"or stored\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)."
+    },
+    {
+      "footnote_text": "54The words and comma \"stored, distributed\" were substituted, for the word \"stored\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)."
+    },
+    {
+      "footnote_text": "55The words and comma \"refined, blended or reclaimed by recycling\" were substituted, for the words \"refined or blended\" by section 14 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)."
+    },
+    {
+      "footnote_text": "56The words and comma \"stored, distributed\" were substituted, for the word \"stored\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)."
+    },
+    {
+      "footnote_text": "57The words and comma \"refined, blended or reclaimed by recycling\" were substituted, for the words \"refined or blended\" by section 14 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)."
+    },
+    {
+      "footnote_text": "58The words and commas \"with imprisonment for a term which may extend to three months, or with fine which may extend to five thousand Taka, or with both\" were substituted, for the words \"with fine which may extend to five hundred Taka\" by section 14 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)."
+    },
+    {
+      "footnote_text": "59The words and commas \"with imprisonment for a term which may extend to six months, or with fine which may extend to ten thousand Taka, or with both\" were substituted, for the words \"with fine which may extend to two thousand Taka\" by section 14 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)."
+    },
+    {
+      "footnote_text": "60The comma and words \", storing or distributing\" were substituted, for the words \"or storing\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act VIII of 1973)."
+    },
+    {
+      "footnote_text": "61The comma and words \", store or distribute\" were substituted, for the words \"or store\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act VIII of 1973)."
+    },
+    {
+      "footnote_text": "62The words \"High Court Division\" were substituted, for the words \"High Court\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)."
+    },
+    {
+      "footnote_text": "63The words and comma \"stored, distributed\" were substituted, for the words \"stored\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "64The words and comma \"refined, blended or reclaimed by recycling\" were substituted, for the words \"refined or blended\" by section 15 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)"
+    },
+    {
+      "footnote_text": "65The words \"and to the Chief Inspector of Explosives in Bangladesh\" were inserted by section 16 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)"
+    },
+    {
+      "footnote_text": "66Section 28A was inserted by section 17 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)"
+    },
+    {
+      "footnote_text": "67The words, commas and figures \"unless section 8 of the Coroners Act, 1871, is applicable to the circumstances\" were omitted by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)."
+    },
+    {
+      "footnote_text": "68The words, brackets and figure \"and of any inquiry held by a coroner in a case to which sub-section (1) refers\" were omitted by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)."
+    },
+    {
+      "footnote_text": "69The words \"and the Provincial Government\" were omitted by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)."
+    },
+    {
+      "footnote_text": "70Section 28A was inserted by section 17 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance No. XXXIX of 1986)."
+    },
+    {
+      "footnote_text": "71The words and comma \"storage, distribution' were substituted, for the word \"storage\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)."
+    },
+    {
+      "footnote_text": "72The words and comma \"refining, blending or reclaiming by recycling\" were substituted, for the words \"refining or blending\" by section 18 of the Petroleum (Amendment) Ordinance, 1986 (Ordinance NO. XXXIX of 1986)."
+    },
+    {
+      "footnote_text": "73The words \"province or\" were omitted by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)."
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-166.html",
+  "fetch_timestamp": "2025-07-19 02:09:04",
+  "csv_metadata": {
+    "act_title_from_csv": "The Petroleum Act, 1934  [Repealed]",
+    "act_no_from_csv": "XXX",
+    "act_year_from_csv": "1934",
+    "is_repealed": true
+  },
+  "token_count": 2301,
+  "language": "unknown",
+  "government_context": {
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Governor of Bengal",
+    "head_govt_name": "Sir John Anderson",
+    "head_govt_designation": "Governor of Bengal Province",
+    "how_got_power": "British Crown appointment",
+    "period_years": "1932-1937",
+    "years_in_power": 5
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:20",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "unknown",
+    "token_count": 2161,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:26",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:35:59",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:08",
+    "previous_token_count": 2161,
+    "accurate_token_count": 2301
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "British Crown Rule",
+      "year_range": "1858-1947",
+      "act_year": 1934
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Government of India Act 1858",
+        "Indian Penal Code 1860",
+        "Code of Civil Procedure 1908",
+        "Evidence Act 1872"
+      ],
+      "court_system": [
+        "High Courts (1861)",
+        "District Courts",
+        "Magistrate Courts"
+      ],
+      "legal_basis": "Codified British-Indian legal system",
+      "enforcement_mechanism": "Imperial Police Service and civil courts"
+    },
+    "government_system": {
+      "type": "Crown Colony Administration",
+      "structure": "Viceroy and provincial governors",
+      "revenue_collection": "Imperial taxation system",
+      "administrative_units": [
+        "Provinces",
+        "Districts",
+        "Sub-districts"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Police Act 1861 - structured police force",
+      "military_police": "Imperial Police Service",
+      "jurisdiction": "Provincial police under colonial control"
+    },
+    "land_relations": {
+      "tenure_system": "Zamindari, Ryotwari, and Mahalwari systems",
+      "property_rights": "Colonial property law framework",
+      "revenue_system": "Land revenue administration",
+      "peasant_status": "Various tenant classes with limited rights"
+    },
+    "key_characteristics": [
+      "Codification of laws (Penal Code, CPC, Evidence Act)",
+      "Structured civil service system",
+      "Constitutional developments (1909, 1919, 1935 Acts)",
+      "Bengal Tenancy Act 1885 and amendments",
+      "Emergency powers and martial law provisions"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:26"
+  }
+}

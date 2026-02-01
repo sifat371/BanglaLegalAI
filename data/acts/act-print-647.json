@@ -1,0 +1,96 @@
+{
+  "act_title": "The National Archives Ordinance, 1983",
+  "act_no": "XXXIX",
+  "act_year": "1983",
+  "publication_date": "19/07/2025",
+  "sections": [],
+  "footnotes": [],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-647.html",
+  "fetch_timestamp": "2025-07-19 02:19:33",
+  "csv_metadata": {
+    "act_title_from_csv": "The National Archives Ordinance, 1983  [Repealed]",
+    "act_no_from_csv": "XXXIX",
+    "act_year_from_csv": "1983",
+    "is_repealed": true
+  },
+  "token_count": 142,
+  "language": "unknown",
+  "government_context": {
+    "govt_system": "Military Rule",
+    "position_head_govt": "President",
+    "head_govt_name": "Lt. Gen. Hussain Muhammad Ershad",
+    "head_govt_designation": "President of Bangladesh (Military ruler)",
+    "how_got_power": "Military coup",
+    "period_years": "1982-1990",
+    "years_in_power": 8
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:22",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "unknown",
+    "token_count": 18,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:28",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:08",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:11",
+    "previous_token_count": 18,
+    "accurate_token_count": 142
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "Military Rule Era",
+      "year_range": "1975-1990",
+      "act_year": 1983
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Martial Law Proclamations",
+        "5th Amendment (1979)",
+        "7th Amendment (1986)"
+      ],
+      "court_system": [
+        "Supreme Court (limited powers)",
+        "Martial Law Courts",
+        "Civil Courts"
+      ],
+      "legal_basis": "Military decrees with constitutional validation",
+      "enforcement_mechanism": "Military tribunals and civil courts"
+    },
+    "government_system": {
+      "type": "Military Rule/Martial Law",
+      "structure": "Military government with civilian facade",
+      "revenue_collection": "Centralized military administration",
+      "administrative_units": [
+        "Divisions",
+        "Districts",
+        "Upazilas (1982)",
+        "Unions"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Police under military control",
+      "military_police": "Enhanced military and paramilitary forces",
+      "jurisdiction": "Military-controlled law enforcement"
+    },
+    "land_relations": {
+      "tenure_system": "Land reforms under military government",
+      "property_rights": "Military government modifications",
+      "revenue_system": "Upazila system for administration",
+      "peasant_status": "Rural development programs"
+    },
+    "key_characteristics": [
+      "Suspension of democratic institutions",
+      "Constitutional amendments under military rule",
+      "Emergency provisions and martial law",
+      "Upazila system introduction (1982)",
+      "Gradual transition to controlled democracy"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:28"
+  }
+}

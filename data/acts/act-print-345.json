@@ -1,0 +1,121 @@
+{
+  "act_title": "The Ex-Government Servants (Employment with Foreign Governments) (Prohibition) Act, 1966",
+  "act_no": "XII",
+  "act_year": "1966",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. (1) This Act may be called theEx-Government Servants (Employment with Foreign Governments) (Prohibition) Act, 1966.(2) It extends to the whole of Bangladesh.(3) It shall come into force at once."
+    },
+    {
+      "section_content": "2. In this Act, unless there is anything repugnant in the subject or context,-(a) \t“ex-Government servant” means any person who was, at any time, appointed or employed as an officer or2[employee of the Government] and has ceased to be so appointed or employed;(b)\t“foreign agency” means any office or establishment of the diplomatic or consular representative of a foreign Government by whatever name called, and includes any information, public relations, trade or commercial agency, service centre or foundation established or maintained by any such Government or by any person who is a national of a foreign country; and(c)\t“foreign Government” means the Government of a foreign country."
+    },
+    {
+      "section_content": "3. (1) No ex-Government servant shall, except with the previous permission in writing of the3[Government], seek or take up employment as an officer or servant of a foreign Government or a foreign agency.(2) [Omitted by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973).]"
+    },
+    {
+      "section_content": "4. Whoever contravenes the provisions of section 3 shall be punishable with imprisonment for a term which may extend to one year, or with fine which may extend to five thousand4[Taka], or with both."
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1Throughout this Act, the word “Bangladesh” was substituted for the word “Pakistan” by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "2The words “employee of the Government” were substituted for the words “servant of the Central Government or a Provincial Government” by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "3The word “Government” was substituted for the words “Central Government” by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "4The word “Taka” was substituted for the word “rupees” by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-345.html",
+  "fetch_timestamp": "2025-07-19 02:13:18",
+  "csv_metadata": {
+    "act_title_from_csv": "The Ex-Government Servants (Employment with Foreign Governments) (Prohibition) Act, 1966",
+    "act_no_from_csv": "XII",
+    "act_year_from_csv": "1966",
+    "is_repealed": false
+  },
+  "token_count": 516,
+  "language": "english",
+  "government_context": {
+    "govt_system": "Military Rule",
+    "position_head_govt": "President of Pakistan",
+    "head_govt_name": "General Ayub Khan",
+    "head_govt_designation": "President of Pakistan (Military regime)",
+    "how_got_power": "Military coup",
+    "period_years": "1958-1969",
+    "years_in_power": 11
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:21",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 374,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:26",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:02",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:09",
+    "previous_token_count": 374,
+    "accurate_token_count": 516
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "East Pakistan Period",
+      "year_range": "1947-1971",
+      "act_year": 1966
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Government of India Act 1935 (adapted)",
+        "Pakistan Constitution 1956",
+        "Pakistan Constitution 1962"
+      ],
+      "court_system": [
+        "Dhaka High Court (1948)",
+        "District Courts",
+        "Federal Court/Supreme Court of Pakistan"
+      ],
+      "legal_basis": "Adapted British-Indian laws with Islamic provisions",
+      "enforcement_mechanism": "Pakistani legal system"
+    },
+    "government_system": {
+      "type": "Federal Parliamentary (1947-1958), Presidential (1958-1971)",
+      "structure": "Provincial government under federal system",
+      "revenue_collection": "Federal and provincial taxation",
+      "administrative_units": [
+        "Province",
+        "Districts",
+        "Thanas"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "East Bengal/East Pakistan Police",
+      "military_police": "Pakistan Army and paramilitary forces",
+      "jurisdiction": "Provincial police under federal oversight"
+    },
+    "land_relations": {
+      "tenure_system": "East Bengal State Acquisition and Tenancy Act 1950",
+      "property_rights": "Abolition of zamindari system",
+      "revenue_system": "Direct government land revenue",
+      "peasant_status": "Farmers as direct tenants to state"
+    },
+    "key_characteristics": [
+      "Zamindari abolition (1951)",
+      "Language movement legal issues (1952)",
+      "Military rule periods (1958-1971)",
+      "Constitutional crises and martial law",
+      "Bengali autonomy demands and legal frameworks"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:26"
+  }
+}

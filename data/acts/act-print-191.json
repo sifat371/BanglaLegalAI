@@ -1,0 +1,125 @@
+{
+  "act_title": "The Railways (Local Authorities' Taxation) Act, 1941",
+  "act_no": "XXV",
+  "act_year": "1941",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. (1) This Act may be called theRailways (Local Authorities' Taxation) Act, 1941.(2) It extends to the whole of1[Bangladesh]."
+    },
+    {
+      "section_content": "2. In this Act-(a)\t“local authority” means a local authority as defined in theGeneral Clauses Act, 1897, and includes any authority legally entitled to or entrusted with the control or management of any fund for the maintenance of watchmen or for the conservancy, of a river;(b)\t“railway administration” has the meaning assigned to the expression in clause (6) of section 3 of theRailways Act, 1890."
+    },
+    {
+      "section_content": "3. (1) In respect of property vested in the Government, being property of the railway, the railway administration shall be liable to pay any tax in aid of the funds of any local authority, if the Government, by notification in the official Gazette, declares it to be so liable.(2) While a notification under sub-section (1) is in force, the railway administration shall be liable to pay to the local authority either the tax mentioned in the notification or in lieu thereof such sum, if any, as a person appointed in this behalf by the Government may, having regard to the services rendered to the railway and all the relevant circumstances of the case, from time to time determine to be fair and reasonable. The person so appointed shall be a person who is or has been a Judge of2[the Supreme Court] or a District Judge."
+    },
+    {
+      "section_content": "4. The Government may, by notification in the official Gazette, revoke or vary and notification issued under clause (1) of section 135 of theRailways Act, 1890; and where a notification is so revoked any liability arising out of the notification to pay any tax to any local authority shall cease, and where a notification is so varied the liability arising out of the notification shall be varied accordingly."
+    },
+    {
+      "section_content": "5. Nothing in this Act shall be construed as debarring3[the railway] administration4[* * *] from entering into a contract with any local authority for the supply of water or light or for the scavenging of railway premises, or for any other service which the local authority may be rendering or be prepared to render within any part of the local area under its control."
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1The word “Bangladesh” was substituted for the word “Pakistan” by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "2The words “the Supreme Court” were substituted for the words “a High Court” by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "3The words “the railway” were substituted for the words “any railway” by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "4The words “administering a railway” were omitted by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-191.html",
+  "fetch_timestamp": "2025-07-19 02:09:47",
+  "csv_metadata": {
+    "act_title_from_csv": "The Railways (Local Authorities' Taxation) Act, 1941",
+    "act_no_from_csv": "XXV",
+    "act_year_from_csv": "1941",
+    "is_repealed": false
+  },
+  "token_count": 640,
+  "language": "english",
+  "government_context": {
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Governor of Bengal",
+    "head_govt_name": "Sir John Arthur Herbert",
+    "head_govt_designation": "Governor of Bengal Province",
+    "how_got_power": "British Crown appointment",
+    "period_years": "1939-1943",
+    "years_in_power": 4
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:21",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 497,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:26",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:35:59",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:08",
+    "previous_token_count": 497,
+    "accurate_token_count": 640
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "British Crown Rule",
+      "year_range": "1858-1947",
+      "act_year": 1941
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Government of India Act 1858",
+        "Indian Penal Code 1860",
+        "Code of Civil Procedure 1908",
+        "Evidence Act 1872"
+      ],
+      "court_system": [
+        "High Courts (1861)",
+        "District Courts",
+        "Magistrate Courts"
+      ],
+      "legal_basis": "Codified British-Indian legal system",
+      "enforcement_mechanism": "Imperial Police Service and civil courts"
+    },
+    "government_system": {
+      "type": "Crown Colony Administration",
+      "structure": "Viceroy and provincial governors",
+      "revenue_collection": "Imperial taxation system",
+      "administrative_units": [
+        "Provinces",
+        "Districts",
+        "Sub-districts"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Police Act 1861 - structured police force",
+      "military_police": "Imperial Police Service",
+      "jurisdiction": "Provincial police under colonial control"
+    },
+    "land_relations": {
+      "tenure_system": "Zamindari, Ryotwari, and Mahalwari systems",
+      "property_rights": "Colonial property law framework",
+      "revenue_system": "Land revenue administration",
+      "peasant_status": "Various tenant classes with limited rights"
+    },
+    "key_characteristics": [
+      "Codification of laws (Penal Code, CPC, Evidence Act)",
+      "Structured civil service system",
+      "Constitutional developments (1909, 1919, 1935 Acts)",
+      "Bengal Tenancy Act 1885 and amendments",
+      "Emergency powers and martial law provisions"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:26"
+  }
+}

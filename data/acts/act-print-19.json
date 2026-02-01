@@ -1,0 +1,131 @@
+{
+  "act_title": "The Alluvion (Amendment) Act, 1868",
+  "act_no": "IV",
+  "act_year": "1868",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. [Repealed by the Repealing Act, 1873 (Act No. XII of 1873).]"
+    },
+    {
+      "section_content": "2. It is hereby declared that when any islands shall, under the provisions of clause 3, section 4, of Regulation XI of 1825, be at the disposal of Government, all lands gained by gradual accession to such island, whether from a recess of the river or of the sea, shall be considered an increment to such island, and shall be equally at the disposal of Government."
+    },
+    {
+      "section_content": "3. Whenever it shall appear to the local revenue-authorities that an island has been thrown up in a large and navigable river liable to be taken possession of by Government (under clause 3, section 4, of Regulation XI of 1825), the local revenue-authorities shall take immediate possession of the same for Government, and shall assess and settle the land according to rules in force in that behalf, reporting their proceedings forthwith1[for the approval of the Board of Land Administration], whose order thereupon, in regard to the assessment, shall be final:Provided, however, that any party aggrieved by the act of the revenue-authorities in taking possession of any island as aforesaid shall be at liberty to contest the same by a regular suit in the Civil Court."
+    },
+    {
+      "section_content": "4. Any island of which possession may have been taken by the local revenue-authorities on behalf of Government under section 3 of this Act shall not be deemed to have become an accession to the property of any person by reason of such channel becoming fordable after possession of such island shall have been so taken."
+    },
+    {
+      "section_content": "5. Whenever an island, of which possession shall have been taken by Government under section 3 of this Act, shall become attached to the mainland, any person having an estate or interest in any part of the riparian mainland to which such island may become attached while it is in the possession of Government may apply to the Collector to take measures for the construction of ways, paths and roads on the island: the costs thereof to be equally divided between the applicant and the2[Government]."
+    },
+    {
+      "section_content": "6. Thereupon the Collector may require the applicant to make such deposit of money as to the Collector shall seem sufficient, and, on such deposit being made, the Collector shall proceed to lay out and construct such ways, paths and roads in and through the island as he may deem necessary for securing access to the river or sea from the land to which the island may have become attached."
+    },
+    {
+      "section_content": "7. In every case the applicant shall be liable to pay and make good to the3[Government] one-half of the costs of laying out and constructing such ways, paths and roads as aforesaid, and any moneys due from the applicant under the provisions of this section may be deducted and retained by the Collector out of the deposit so made by the applicant as aforesaid."
+    },
+    {
+      "section_content": "8. Every way, road and path, which shall be laid out or appointed under the provisions aforesaid, shall be deemed a public highway."
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1The words “for the approval of the Board of Land Administration” were substituted, for the words “for the approval of the Government” by Schedule of the Laws (Amendment) Ordinance, 1982 (Ordinance No. XLI of 1982)."
+    },
+    {
+      "footnote_text": "2The word “Government” was substituted, for the words “Provincial Government” by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)."
+    },
+    {
+      "footnote_text": "3The word “Government” was substituted, for the words “Provincial Government” by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)."
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-19.html",
+  "fetch_timestamp": "2025-07-19 02:05:00",
+  "csv_metadata": {
+    "act_title_from_csv": "The Alluvion (Amendment) Act, 1868",
+    "act_no_from_csv": "IV",
+    "act_year_from_csv": "1868",
+    "is_repealed": false
+  },
+  "token_count": 752,
+  "language": "english",
+  "government_context": {
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Lieutenant Governor of Bengal",
+    "head_govt_name": "Sir William Grey",
+    "head_govt_designation": "Lieutenant Governor of Bengal Presidency",
+    "how_got_power": "British Crown appointment",
+    "period_years": "1867-1871",
+    "years_in_power": 4
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:21",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 610,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:26",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:35:59",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:08",
+    "previous_token_count": 610,
+    "accurate_token_count": 752
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "British Crown Rule",
+      "year_range": "1858-1947",
+      "act_year": 1868
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Government of India Act 1858",
+        "Indian Penal Code 1860",
+        "Code of Civil Procedure 1908",
+        "Evidence Act 1872"
+      ],
+      "court_system": [
+        "High Courts (1861)",
+        "District Courts",
+        "Magistrate Courts"
+      ],
+      "legal_basis": "Codified British-Indian legal system",
+      "enforcement_mechanism": "Imperial Police Service and civil courts"
+    },
+    "government_system": {
+      "type": "Crown Colony Administration",
+      "structure": "Viceroy and provincial governors",
+      "revenue_collection": "Imperial taxation system",
+      "administrative_units": [
+        "Provinces",
+        "Districts",
+        "Sub-districts"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Police Act 1861 - structured police force",
+      "military_police": "Imperial Police Service",
+      "jurisdiction": "Provincial police under colonial control"
+    },
+    "land_relations": {
+      "tenure_system": "Zamindari, Ryotwari, and Mahalwari systems",
+      "property_rights": "Colonial property law framework",
+      "revenue_system": "Land revenue administration",
+      "peasant_status": "Various tenant classes with limited rights"
+    },
+    "key_characteristics": [
+      "Codification of laws (Penal Code, CPC, Evidence Act)",
+      "Structured civil service system",
+      "Constitutional developments (1909, 1919, 1935 Acts)",
+      "Bengal Tenancy Act 1885 and amendments",
+      "Emergency powers and martial law provisions"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:26"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "act_title": "The Jute Companies (Acquisition of Shares) Ordinance, 1975",
+  "act_no": "XXXVI",
+  "act_year": "1975",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. (1) This Ordinance may be called theJute Companies (Acquisition of Shares) Ordinance, 1975.(2) It shall be deemed to have come into force-(a)\tin so far as it relates to M/S Helal Jute Press Limited and M/S Rangpur Jute Press Limited, on the 2nd day of January, 1972;(b) \tin so far as it relates to M/S Khan Brothers Limited, on the 31st day of August, 1972."
+    },
+    {
+      "section_content": "2. In this Ordinance, unless there is anything repugnant in the subject or context,-(a)\t“commencement of this Ordinance” means-(i)\tin so far as it relates to M/S Helal Jute Press Limited and M/S Rangpur Jute Press Limited, the 2nd day of January, 1972;(ii)\tin so far as it relates to M/S Khan Brothers Limited, the 31st day of August, 1972;(b)\t“jute company” means M/S Helal Jute Press Limited, M/S Rangpur Jute Press Limited, or M/S Khan Brothers Limited."
+    },
+    {
+      "section_content": "3. The provisions of this Ordinance shall have effect notwithstanding anything inconsistent therewith contained in any other law for the time being in force."
+    },
+    {
+      "section_content": "4. On the commencement of this Ordinance, the shares in every jute company, which have not already vested in the Government by or under any law for the time being in force, shall, by virtue of this section, stand vested in, and allotted to, the Government free of any trust, mortgage, charge, lien, interest or other encumbrance whatsoever, and the Government shall, as from such commencement, be the sole shareholder of such jute company."
+    },
+    {
+      "section_content": "5. Notwithstanding anything contained in any memorandum or articles of association of any jute company, or in any agreement, contract or other instrument whatsoever, the Government may, in respect of such jute company,-(a)\ttake such measures and do such things as it deems necessary or expedient for the purpose of efficient management of the affairs and business of such jute company;(b)\tdissolve the Board of Directors of such jute company, or constitute a new Board of Directors, or remove a Director, or appoint a new Director;(c)\tmodify or amend the memorandum or articles of association of such jute company or any agreement, contract or other instrument entered into or executed by or on behalf of or with such jute company."
+    },
+    {
+      "section_content": "6. Every provision in any law or in any memorandum or articles of association of any jute company providing for any consequence to follow, or requiring any act or thing to be done, or entitling any person to do any act or thing or to take any action whatsoever, as a result of a reduction in the number of the members of such jute company below a certain number, shall be of no effect in relation to such jute company."
+    },
+    {
+      "section_content": "7. The Government may, by rules, modify in their application to any jute company any of the provisions of the Companies Act, 1913 (VII of 1913), or of any rules made thereunder."
+    },
+    {
+      "section_content": "8. The Government shall pay in respect of the shares vested in it under section 4 such compensation as may be determined by it:Provided that such compensation shall not exceed the paid up value of such shares."
+    },
+    {
+      "section_content": "9. It is hereby declared that the provisions of this Ordinance are made to give effect to the fundamental principles of state policy set out in articles 10 and 13(a) in Part II of the Constitution of the People's Republic of Bangladesh."
+    },
+    {
+      "section_content": "10. Notwithstanding any judgment, decree or order of any court, anything done, or purported to have been done, or any action taken, or purported to have been taken, in respect of any jute company under the Bangladesh Abandoned Property (Control, Management and Disposal) Order, 1972 (P.O. No. 16 of 1972), or under Acting President's Order No. IM-35/71/13, dated the 26th December, 1971, or under theBangladesh (Taking Over of Control and Management of Industrial and Commercial Concerns) Order, 1972(A.P.O. No. I of 1972), shall be deemed to have been done or taken in respect thereof under this Ordinance."
+    }
+  ],
+  "footnotes": [],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-498.html",
+  "fetch_timestamp": "2025-07-19 02:16:36",
+  "csv_metadata": {
+    "act_title_from_csv": "The Jute Companies (Acquisition of Shares) Ordinance, 1975",
+    "act_no_from_csv": "XXXVI",
+    "act_year_from_csv": "1975",
+    "is_repealed": false
+  },
+  "token_count": 793,
+  "language": "english",
+  "government_context": {
+    "govt_system": "Military Rule",
+    "position_head_govt": "President",
+    "head_govt_name": "Abu Sadat Mohammad Sayem",
+    "head_govt_designation": "President (Military-backed)",
+    "how_got_power": "Military coup/counter-coup",
+    "period_years": "1975-1977",
+    "years_in_power": 2
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:22",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 671,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:27",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:05",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:10",
+    "previous_token_count": 671,
+    "accurate_token_count": 793
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "Early Independent Bangladesh",
+      "year_range": "1971-1975",
+      "act_year": 1975
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Laws Continuance Enforcement Order 1971",
+        "Constitution of Bangladesh 1972"
+      ],
+      "court_system": [
+        "Supreme Court with High Court and Appellate Divisions",
+        "Subordinate Courts"
+      ],
+      "legal_basis": "Secular constitutional democracy with British-inherited laws",
+      "enforcement_mechanism": "Independent judiciary and civil courts"
+    },
+    "government_system": {
+      "type": "Parliamentary Democracy",
+      "structure": "Westminster-style parliamentary system",
+      "revenue_collection": "National taxation system",
+      "administrative_units": [
+        "Divisions",
+        "Districts",
+        "Thanas",
+        "Unions"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Bangladesh Police (continuing Police Act 1861)",
+      "military_police": "Bangladesh Army and security forces",
+      "jurisdiction": "National police force"
+    },
+    "land_relations": {
+      "tenure_system": "Continuation of 1950 Act with modifications",
+      "property_rights": "Constitutional property rights",
+      "revenue_system": "State land revenue collection",
+      "peasant_status": "Land ceiling laws and redistribution efforts"
+    },
+    "key_characteristics": [
+      "Secular constitution with four principles",
+      "Continuation of colonial-era laws",
+      "War crimes tribunals establishment",
+      "Nationalization policies",
+      "Special Powers Act 1974"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:27"
+  }
+}

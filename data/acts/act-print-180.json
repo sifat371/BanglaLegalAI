@@ -1,0 +1,125 @@
+{
+  "act_title": "The Dissolution of Muslim Marriages Act, 1939",
+  "act_no": "VIII",
+  "act_year": "1939",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. (1) This Act may be called theDissolution of Muslim Marriages Act, 1939.(2) It extends to the whole of1[Bangladesh]."
+    },
+    {
+      "section_content": "2. A woman married under Muslim law shall be entitled to obtain a decree for the dissolution of her marriage on any one or more of the following grounds, namely:-(i) \tthat the whereabouts of the husband have not been known for a period of four years;(ii)\tthat the husband has neglected or has failed to provide for her maintenance for a period of two years;2[(iia) that the husband has taken an additional wife in contravention of the provisions of theMuslim Family Laws Ordinance, 1961;](iii)\tthat the husband has been sentenced to imprisonment for a period of seven years or upwards;(iv)\tthat the husband has failed to perform, without reasonable cause, his marital obligations for a period of three years;(v)\tthat the husband was impotent at the time of the marriage and continues to be so;(vi)\tthat the husband has been insane for a period of two years or is suffering from leprosy or a virulent venereal disease;(vii) that she, having been given in marriage by her father or other guardian before she attained the age of3[eighteen years], repudiated the marriage before attaining the age of4[nineteen years]:Provided that the marriage has not been consummated;(viii) \tthat the husband treats her with cruelty, that is to say,-(a)\thabitually assaults her or makes her life miserable by cruelty of conduct even if such conduct does not amount to physical ill-treatment, or(b)\tassociates with women of evil repute or leads an infamous life, or(c)\tattempts to force her to lead an immoral life, or(d)\tdisposes of her property or prevents her exercising her legal rights over it, or(e)\tobstructs her in the observance of her religious profession or practice, or(f)\tif he has more wives than one, does not treat her equitably in accordance with the injunctions of the Qoran;(ix)\ton any other ground which is recognised as valid for the dissolution of marriage under Muslim law:Provided that-(a)\tno decree shall be passed on ground (iii) until the sentence has become final;(b)\ta decree passed on ground (i) shall not take effect for a period of six months from the date of such decree, and if the husband appears either in person or through an authorised agent within that period and satisfies the Court that he is prepared to perform his conjugal duties, the Court shall set aside the said decree; and(c)\tbefore passing a decree on ground (v) the Court shall, on application by the husband, make an order requiring the husband to satisfy the Court within a period of one year from the date of such order that he has ceased to be impotent, and if the husband so satisfies the Court within such period, no decree shall be passed on the said ground."
+    },
+    {
+      "section_content": "3. In a suit to which clause (i) of section 2 applies-(a)\tthe names and address of the persons who would have been the heirs of the husband under Muslim law if he had died on the date of the filing of the plaint shall be stated in the plaint,(b)\tnotice of the suit shall be served on such persons, and(c)\tsuch person shall have the right to be heard in the suit:Provided that paternal uncle and brother of the husband, if any, shall be cited as party even if he or they are not heirs."
+    },
+    {
+      "section_content": "4. The renunciation of Islam by a married Muslim woman or her conversion to a faith other than Islam shall not by itself operate to dissolve her marriage:\tProvided that after such renunciation, or conversion, the woman shall be entitled to obtain a decree for the dissolution of her marriage on any of the grounds mentioned in section 2:Provided further that the provisions of this section shall not apply to a woman converted to Islam from some other faith who re-embraces her former faith."
+    },
+    {
+      "section_content": "5. Nothing contained in this Act shall affect any right which a married woman may have under Muslim law to her dower or any part thereof on the dissolution of her marriage."
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1The word “Bangladesh” was substituted for the word “Pakistan” by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "2Clause (iia) was inserted by section 13 of theMuslim Family Laws Ordinance, 1961(Act No. VIII of 1961)"
+    },
+    {
+      "footnote_text": "3The words “eighteen years” were substituted for the words “sixteen years” by section 2 of the Dissolution of Muslim Marriages (Amendment) Ordinance,1986 (Ordinance No. XXV of 1986)"
+    },
+    {
+      "footnote_text": "4The words “nineteen years” were substituted for the words “eighteen years” by section 2 of the Dissolution of Muslim Marriages (Amendment) Ordinance,1986 (Ordinance No. XXV of 1986)"
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-180.html",
+  "fetch_timestamp": "2025-07-19 02:09:27",
+  "csv_metadata": {
+    "act_title_from_csv": "The Dissolution of Muslim Marriages Act, 1939",
+    "act_no_from_csv": "VIII",
+    "act_year_from_csv": "1939",
+    "is_repealed": false
+  },
+  "token_count": 944,
+  "language": "english",
+  "government_context": {
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Governor of Bengal",
+    "head_govt_name": "Sir John Arthur Herbert",
+    "head_govt_designation": "Governor of Bengal Province",
+    "how_got_power": "British Crown appointment",
+    "period_years": "1939-1943",
+    "years_in_power": 4
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:20",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 801,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:26",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:35:59",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:08",
+    "previous_token_count": 801,
+    "accurate_token_count": 944
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "British Crown Rule",
+      "year_range": "1858-1947",
+      "act_year": 1939
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Government of India Act 1858",
+        "Indian Penal Code 1860",
+        "Code of Civil Procedure 1908",
+        "Evidence Act 1872"
+      ],
+      "court_system": [
+        "High Courts (1861)",
+        "District Courts",
+        "Magistrate Courts"
+      ],
+      "legal_basis": "Codified British-Indian legal system",
+      "enforcement_mechanism": "Imperial Police Service and civil courts"
+    },
+    "government_system": {
+      "type": "Crown Colony Administration",
+      "structure": "Viceroy and provincial governors",
+      "revenue_collection": "Imperial taxation system",
+      "administrative_units": [
+        "Provinces",
+        "Districts",
+        "Sub-districts"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Police Act 1861 - structured police force",
+      "military_police": "Imperial Police Service",
+      "jurisdiction": "Provincial police under colonial control"
+    },
+    "land_relations": {
+      "tenure_system": "Zamindari, Ryotwari, and Mahalwari systems",
+      "property_rights": "Colonial property law framework",
+      "revenue_system": "Land revenue administration",
+      "peasant_status": "Various tenant classes with limited rights"
+    },
+    "key_characteristics": [
+      "Codification of laws (Penal Code, CPC, Evidence Act)",
+      "Structured civil service system",
+      "Constitutional developments (1909, 1919, 1935 Acts)",
+      "Bengal Tenancy Act 1885 and amendments",
+      "Emergency powers and martial law provisions"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:26"
+  }
+}

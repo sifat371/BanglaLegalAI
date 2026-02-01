@@ -1,0 +1,131 @@
+{
+  "act_title": "THE1[***] ALLUVION AND DILUVION REGULATION, 1825",
+  "act_no": "XI",
+  "act_year": "1825",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "2. Whenever any clear and definite usage of Shikast paiwast respecting the disjunction and junction of land by the encroachment or recess of a river may have been immemorially established, for determining the rights of the proprietors of two or more contiguous estates divided by a river (such as that the main channel of the river dividing the estates shall be the constant boundary between them, whatever changes may take place in the course of the river, by encroachment on one side and accession on the other), the usage so established shall govern the decision of all claims and disputes relative to alluvial land between the parties whose estates may be liable to such usage."
+    },
+    {
+      "section_content": "3. Where there may be no local usage of the nature referred to in the preceding section, the general rules declared in the following section shall be applied to the determination of all claims and disputes relative to lands gained by alluvion or by dereliction either of a river or the sea."
+    },
+    {
+      "section_content": "4. First.-When land may be gained by gradual accession, whether from the recess of a river or of the sea, it shall be considered an increment to the tenure of the person to whose land or estate it is thus annexed, whether such land or estate be held immediately from the Government by a zamindar or other superior landholder, or as a subordinate tenure by any description of undertenant whatever:"
+    },
+    {
+      "section_content": "Provided that the increment of land thus obtained shall not entitle the person in possession of the estate or tenure to which the land may be annexed to a right of property or permanent interest therein beyond that possessed by him in the estate or tenure to which the land may be annexed, and shall not in any case be understood to exempt the holder of it from the payment to the Government of any assessment for the public revenue to which it may be liable under the provisions of Regulation II, 1819, or of any other Regulation in force.Nor, if annexed to a subordinate tenure held under a superior landholder, shall the under-tenant, whether a Khudkasht raiyat, holding a maurusi istimari tenure at a fixed rate of rent per bigha, or any other description of under-tenant liable by his engagements, or by established usage, to an increase of rent for the land annexed to his tenure by alluvion, be considered exempt from the payment of any increase of rent to which he may be justly liable."
+    },
+    {
+      "section_content": "Second.-The above rule shall not be considered applicable to cases in which a river, by a sudden change of its course, may break through and intersect an estate, without any gradual encroachment, or may by the violence of stream separate a considerable piece of land from one estate and join it to another estate, without destroying the identity and preventing the recognition of the land so removed.In such cases the land, on being clearly recognised, shall remain the property of its original owner."
+    },
+    {
+      "section_content": "Third.-When a char or island may be thrown up in a large navigable river (the bed of which is not the property of an individual), or in the sea, and the channel of the river or sea between such island and the shore may not be fordable, it shall, according to established usage, be at the disposal of the Government."
+    },
+    {
+      "section_content": "But if the channel between such island and the shore be fordable at any season of the year, it shall be considered an accession to the land, tenure or tenures of the person or persons whose estate or estates may be most contiguous to it, subject to the several provisions specified in the first clause of this section with respect to increment of land by gradual accession."
+    },
+    {
+      "section_content": "Fourth.- In small and shallow rivers, the beds of which, with the jalkar right of fishery, may have been heretofore recognised as the property of individuals, any sandbank or char that may be thrown up shall, as hitherto belong to the proprietor of the bed of the river, subject to the provisions stated in the first clause of the present section."
+    },
+    {
+      "section_content": "Fifth.- In all other cases, namely, in all cases of claims and disputes respecting land gained by alluvion or by dereliction of a river or the sea, which are not specifically provided for by the rules contained in this Regulation, the Courts of Justice, in deciding upon such claims and disputes, shall be guided by the best evidence they may be able to obtain of established local usage, if there be any applicable to the case, or, if not, by general principles of equity and justice."
+    },
+    {
+      "section_content": "5. Nothing in this Regulation shall be construed to justify any encroachments by individuals on the beds or channels of navigable rivers, or to prevent Zila Magistrate or any other officers of the Government who may be duly empowered for that purpose from removing obstacles which appear to interfere with the safe and customary navigation of such rivers, or which shall in any respect obstruct the passage of boats by tracking on the banks of such rivers, or otherwise."
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1The word \"Bengal\" was omitted by Article 6 of theBangladesh (Adaptation of Existing Laws) Order, 1972(President’s Order No. 48 of 1972)."
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-1319.html",
+  "fetch_timestamp": "2025-07-19 02:04:26",
+  "csv_metadata": {
+    "act_title_from_csv": "THE [***] ALLUVION AND DILUVION REGULATION, 1825",
+    "act_no_from_csv": "XI",
+    "act_year_from_csv": "1825",
+    "is_repealed": false
+  },
+  "token_count": 1026,
+  "language": "english",
+  "government_context": {
+    "govt_system": "Company Rule",
+    "position_head_govt": "Governor-General of India",
+    "head_govt_name": "Lord Amherst (William Amherst)",
+    "head_govt_designation": "Governor-General of India",
+    "how_got_power": "Company appointment",
+    "period_years": "1823-1828",
+    "years_in_power": 5
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:20",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 890,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:25",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:35:54",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:04",
+    "previous_token_count": 890,
+    "accurate_token_count": 1026
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "East India Company Rule",
+      "year_range": "1773-1858",
+      "act_year": 1825
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Regulating Act 1773",
+        "Bengal Regulations",
+        "Anglo-Muhammadan Law",
+        "Cornwallis Code 1793"
+      ],
+      "court_system": [
+        "Supreme Court at Fort William (1774)",
+        "District Courts",
+        "Company Courts"
+      ],
+      "legal_basis": "Hybrid of British common law and Islamic/Hindu personal law",
+      "enforcement_mechanism": "Company magistrates and British judicial system"
+    },
+    "government_system": {
+      "type": "Company Rule under Parliamentary Oversight",
+      "structure": "Governor-General in Council system",
+      "revenue_collection": "Diwani rights (1765) - Company tax collection",
+      "administrative_units": [
+        "Presidencies",
+        "Districts",
+        "Thanas"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Company Police established",
+      "military_police": "Sepoys and Company military",
+      "jurisdiction": "District-based police system"
+    },
+    "land_relations": {
+      "tenure_system": "Permanent Settlement (1793)",
+      "property_rights": "Zamindars as proprietors",
+      "revenue_system": "Fixed land revenue to Company",
+      "peasant_status": "Tenants under zamindari system"
+    },
+    "key_characteristics": [
+      "Dual Government (1765-1772)",
+      "Introduction of British legal concepts",
+      "Permanent Settlement creating landed gentry",
+      "Regulation through British parliamentary acts",
+      "Bengal Regulation 10 of 1804 for martial law"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:25"
+  }
+}

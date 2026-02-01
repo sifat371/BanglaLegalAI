@@ -1,0 +1,129 @@
+{
+  "act_title": "The Bangladesh Names and Emblems (Prevention of Unauthorised Use) Order, 1972 (President's Order)",
+  "act_no": "45",
+  "act_year": "1972",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. (1) This Order may be called the Bangladesh Names and Emblems (Prevention of Unauthorised Use) Order, 1972.(2) It extends to the whole of Bangladesh and applies to all citizens of Bangladesh wherever they may be.(3) It shall come into force at once."
+    },
+    {
+      "section_content": "2. In this Order, unless there is anything repugnant in the subject or context,-(a)\t“competent authority” means any authority competent under any law for the time being in force to grant a patent or to register a trade-mark or design or a company, firm or other body of persons;(b) \t“design” means the design as defined in clause (5) of section 2 of thePatents And Designs Act, 1911(Act II of 1911);(c) \t“emblem” means the flag, emblem, seal, insignia or coat-of-arms specified in the Schedule and includes a pictorial or illustrative representation or colourable imitation of any emblem;(d) \t“Government” means the Government of the People's Republic of Bangladesh;(e) \t“name” means a name specified in the Schedule and includes any abbreviation of a name;(f) \t“Patent” means a patent as defined in clause (11) of section 2 of thePatents And Designs Act, 1911(Act II of 1911);(g)\t“trade-mark” means a trade-mark as defined in clause (1) of sub-section (1) of section 2 of theTrade Marks Act, 1940(Act V of 1940)."
+    },
+    {
+      "section_content": "3. (1) No person shall, except with the previous permission in writing of, and in accordance with the conditions, if any, imposed by, the Government or any officer authorised by it in this behalf, use or continue to use a name or emblem in any trade-mark or design or in the title of any patent or for the purposes of any trade, business, calling or profession, or for any other purpose whatsoever.(2) Whoever contravenes the provisions of clause (1) shall be punished with fine which may extend to1[ten thousand taka]."
+    },
+    {
+      "section_content": "4. (1) Notwithstanding anything contained in any other law for the time being in force, no competent authority shall-(a)\tregister a trade-mark or design which bears a name or an emblem,(b) \tregister a company or firm or other body of persons which bears a name, or(c) \tgrant a patent in respect of an invention which bears in its title a name.(2) If any question arises whether or not a trade-mark or design bears an emblem, the competent authority shall refer it to the Government whose decision thereon shall be final."
+    },
+    {
+      "section_content": "5. The Government may, by notification in the official Gazette, add to, amend or alter the Schedule and any such addition, amendment, or alternation shall have effect as if it had been made by this Order."
+    },
+    {
+      "section_content": "6. No person shall be proceeded against for an offence under this Order except with the previous sanction of the Government or an officer authorised by it in this behalf by a general or special order."
+    },
+    {
+      "section_content": "7. The provisions of this Order shall be in addition to and not in derogation of any other law for the time being in force."
+    },
+    {
+      "section_content": "8. (1) The Government may, by notification in the official Gazette, make rules for carrying out the purposes of this Order.(2) In making any rule under clause (1) the Government may provide that a contravention of the rule shall be punishable with fine which may extend to2[five thousand taka]."
+    },
+    {
+      "section_content": "9. The Pakistan Names and Emblems (Prevention of Unauthorised Use) Act, 1957 (Act XXVIII of 1957), in its application to Bangladesh, is hereby repealed."
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1The words “ten thousand taka” were substituted for the words “one thousand takas” by section 2 of the Bangladesh Names and Emblems (Prevention of Unauthorised Use) (Amendment) Ordinance, 1985 (Ordinance No. XXXV of 1985)"
+    },
+    {
+      "footnote_text": "2The words “five thousand taka” were substituted for the words “two hundred takas” by section 3 of the Bangladesh Names and Emblems (Prevention of Unauthorised Use) (Amendment) Ordinance, 1985 (Ordinance No. XXXV of 1985)"
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-386.html",
+  "fetch_timestamp": "2025-07-19 02:14:54",
+  "csv_metadata": {
+    "act_title_from_csv": "The Bangladesh Names and Emblems (Prevention of Unauthorised Use) Order, 1972 (President's Order)",
+    "act_no_from_csv": "45",
+    "act_year_from_csv": "1972",
+    "is_repealed": false
+  },
+  "token_count": 782,
+  "language": "english",
+  "government_context": {
+    "govt_system": "Parliamentary Democracy",
+    "position_head_govt": "Prime Minister",
+    "head_govt_name": "Sheikh Mujibur Rahman",
+    "head_govt_designation": "Prime Minister of Bangladesh",
+    "how_got_power": "Post-independence constitutional government",
+    "period_years": "1972-1973",
+    "years_in_power": 1
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:21",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 652,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:27",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:03",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:09",
+    "previous_token_count": 652,
+    "accurate_token_count": 782
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "Early Independent Bangladesh",
+      "year_range": "1971-1975",
+      "act_year": 1972
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Laws Continuance Enforcement Order 1971",
+        "Constitution of Bangladesh 1972"
+      ],
+      "court_system": [
+        "Supreme Court with High Court and Appellate Divisions",
+        "Subordinate Courts"
+      ],
+      "legal_basis": "Secular constitutional democracy with British-inherited laws",
+      "enforcement_mechanism": "Independent judiciary and civil courts"
+    },
+    "government_system": {
+      "type": "Parliamentary Democracy",
+      "structure": "Westminster-style parliamentary system",
+      "revenue_collection": "National taxation system",
+      "administrative_units": [
+        "Divisions",
+        "Districts",
+        "Thanas",
+        "Unions"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Bangladesh Police (continuing Police Act 1861)",
+      "military_police": "Bangladesh Army and security forces",
+      "jurisdiction": "National police force"
+    },
+    "land_relations": {
+      "tenure_system": "Continuation of 1950 Act with modifications",
+      "property_rights": "Constitutional property rights",
+      "revenue_system": "State land revenue collection",
+      "peasant_status": "Land ceiling laws and redistribution efforts"
+    },
+    "key_characteristics": [
+      "Secular constitution with four principles",
+      "Continuation of colonial-era laws",
+      "War crimes tribunals establishment",
+      "Nationalization policies",
+      "Special Powers Act 1974"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:27"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "act_title": "The Bills of Lading Act, 1856",
+  "act_no": "IX",
+  "act_year": "1856",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. Every consignee of goods named in a bill of lading, and every endorsee of a bill of lading to whom the property in the goods therein mentioned shall pass, upon or by reason of such consignment or endorsement shall have transferred to and vested in him all rights of suit, and be subject to the same liabilities in respect of such goods as if the contract contained in the bill of lading had been made with himself."
+    },
+    {
+      "section_content": "2. Nothing herein contained shall prejudice or affect any right of stoppage in transitu, or any right to claim freight against the original shipper or owner, or any liability of the consignee or endorsee by reason or in consequence of his being such consignee or endorsee, or of his receipt of the goods by reason or in consequence of such consignment or endorsement."
+    },
+    {
+      "section_content": "3. Every bill of lading in the hands of a consignee or endorsee for valuable consideration, representing goods to have been shipped on board a vessel, shall be conclusive evidence of such shipment as against the master or other person signing the same, notwithstanding that such goods or some part thereof may not have been so shipped, unless such holder of the bill of lading shall have had actual notice at the time of receiving the same that the goods had not in fact been laden on board:Provided that the master or other person so signing may exonerate himself, in respect of such misrepresentation, by showing that it was caused without any default on his part, and wholly by the fraud of the shipper or of the holder, or some person under whom the holder claims."
+    }
+  ],
+  "footnotes": [],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-8.html",
+  "fetch_timestamp": "2025-07-19 02:04:33",
+  "csv_metadata": {
+    "act_title_from_csv": "The Bills of Lading Act, 1856",
+    "act_no_from_csv": "IX",
+    "act_year_from_csv": "1856",
+    "is_repealed": false
+  },
+  "token_count": 431,
+  "language": "english",
+  "government_context": {
+    "govt_system": "Company Rule",
+    "position_head_govt": "Governor-General of India",
+    "head_govt_name": "Earl Canning (Charles Canning)",
+    "head_govt_designation": "Governor-General of India",
+    "how_got_power": "Company appointment",
+    "period_years": "1856-1858",
+    "years_in_power": 2
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:23",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 296,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:28",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:11",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:14",
+    "previous_token_count": 296,
+    "accurate_token_count": 431
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "East India Company Rule",
+      "year_range": "1773-1858",
+      "act_year": 1856
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Regulating Act 1773",
+        "Bengal Regulations",
+        "Anglo-Muhammadan Law",
+        "Cornwallis Code 1793"
+      ],
+      "court_system": [
+        "Supreme Court at Fort William (1774)",
+        "District Courts",
+        "Company Courts"
+      ],
+      "legal_basis": "Hybrid of British common law and Islamic/Hindu personal law",
+      "enforcement_mechanism": "Company magistrates and British judicial system"
+    },
+    "government_system": {
+      "type": "Company Rule under Parliamentary Oversight",
+      "structure": "Governor-General in Council system",
+      "revenue_collection": "Diwani rights (1765) - Company tax collection",
+      "administrative_units": [
+        "Presidencies",
+        "Districts",
+        "Thanas"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Company Police established",
+      "military_police": "Sepoys and Company military",
+      "jurisdiction": "District-based police system"
+    },
+    "land_relations": {
+      "tenure_system": "Permanent Settlement (1793)",
+      "property_rights": "Zamindars as proprietors",
+      "revenue_system": "Fixed land revenue to Company",
+      "peasant_status": "Tenants under zamindari system"
+    },
+    "key_characteristics": [
+      "Dual Government (1765-1772)",
+      "Introduction of British legal concepts",
+      "Permanent Settlement creating landed gentry",
+      "Regulation through British parliamentary acts",
+      "Bengal Regulation 10 of 1804 for martial law"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:28"
+  }
+}

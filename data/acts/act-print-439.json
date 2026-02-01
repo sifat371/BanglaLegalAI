@@ -1,0 +1,119 @@
+{
+  "act_title": "The Bangladesh Girl Guides Association Act, 1973",
+  "act_no": "XXXI",
+  "act_year": "1973",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. (1) This Act may be called theBangladesh Girl Guides Association Act, 1973.(2) It shall come into force at once and shall be deemed to have taken effect on the 16th day of December, 1971."
+    },
+    {
+      "section_content": "2. Notwithstanding anything contained in any other law, the erstwhile East Pakistan Branch of the Pakistan Girl Guides Association shall, on the commencement of this Act, cease to be a branch of that Association and shall, become a body corporate, by the name of the Bangladesh Girl Guides Association, hereafter in this Act referred to as the Association, having perpetual succession and a common seal, with power, subject to the rules made or deemed to have been made under section 4, to acquire, hold and dispose of property, movable or immovable, for the purposes of the Association, and shall by the said name sue and be sued."
+    },
+    {
+      "section_content": "3. Notwithstanding anything contained in any other law, on the commencement of this Act, all assets of the Pakistan Girl Guides Association in Bangladesh shall stand transferred to and vested in the Association.Explanation.- The expression “assets” includes all rights, powers, authorities and privileges, all property, movable and immovable, including lands, buildings, cash balances, bank deposits, reserve funds, investments and all other rights and interests in, or arising out of, such property and all books of accounts, registers, records and all other documents of whatever nature relating thereto."
+    },
+    {
+      "section_content": "4. The constitution, powers and functions of the Association shall be such as may be prescribed by rules to be made by the Association, with the previous approval of the Government, and until such rules are made, the rules applicable to the erstwhile East Pakistan Branch of the Pakistan Girl Guides Association, and in force immediately before the commencement of this Act, shall mutatis mutandis, continue in force and be deemed to have been made under this section."
+    },
+    {
+      "section_content": "5. The Association shall have the sole and exclusive right to have and to use all emblems, badges, uniforms and decorations, descriptive or designating marks and titles, now or heretofore used by the Association and also the title “Girl Guides” or, saving the title of any unit of the Armed Forces of Bangladesh or any Forces attached to or serving with such forces, any title containing the word “Guides” or any grammatical variation thereof, and shall also have the sole and exclusive right to manufacture, have or use any emblem, badge, decoration, uniform, descriptive or designating mark or title hereafter adopted by the Association for carrying out its objects."
+    },
+    {
+      "section_content": "6. (1) Whoever contravenes any provision of section 5 shall be punishable with fine.(2) If such contravention is committed by a company, association or body of individuals, every member thereof who is knowingly a party to the contravention shall be deemed to be guilty of such contravention."
+    },
+    {
+      "section_content": "7. Nothing in this Act shall affect the right of any person to continue to use for a period of two months from the commencement of this Act any sign which it was not unlawful for him to use immediately before such commencement."
+    },
+    {
+      "section_content": "8. The Girl Guides Association Ordinance, 1960 (Ord. XLIV of 1960) is hereby repealed."
+    }
+  ],
+  "footnotes": [],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-439.html",
+  "fetch_timestamp": "2025-07-19 02:15:30",
+  "csv_metadata": {
+    "act_title_from_csv": "The Bangladesh Girl Guides Association Act, 1973",
+    "act_no_from_csv": "XXXI",
+    "act_year_from_csv": "1973",
+    "is_repealed": false
+  },
+  "token_count": 664,
+  "language": "english",
+  "government_context": {
+    "govt_system": "Parliamentary Democracy",
+    "position_head_govt": "Prime Minister",
+    "head_govt_name": "Sheikh Mujibur Rahman",
+    "head_govt_designation": "Prime Minister of Bangladesh",
+    "how_got_power": "Democratic election (1973)",
+    "period_years": "1973-1975",
+    "years_in_power": 2
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:21",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 540,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:27",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:04",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:10",
+    "previous_token_count": 540,
+    "accurate_token_count": 664
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "Early Independent Bangladesh",
+      "year_range": "1971-1975",
+      "act_year": 1973
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Laws Continuance Enforcement Order 1971",
+        "Constitution of Bangladesh 1972"
+      ],
+      "court_system": [
+        "Supreme Court with High Court and Appellate Divisions",
+        "Subordinate Courts"
+      ],
+      "legal_basis": "Secular constitutional democracy with British-inherited laws",
+      "enforcement_mechanism": "Independent judiciary and civil courts"
+    },
+    "government_system": {
+      "type": "Parliamentary Democracy",
+      "structure": "Westminster-style parliamentary system",
+      "revenue_collection": "National taxation system",
+      "administrative_units": [
+        "Divisions",
+        "Districts",
+        "Thanas",
+        "Unions"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Bangladesh Police (continuing Police Act 1861)",
+      "military_police": "Bangladesh Army and security forces",
+      "jurisdiction": "National police force"
+    },
+    "land_relations": {
+      "tenure_system": "Continuation of 1950 Act with modifications",
+      "property_rights": "Constitutional property rights",
+      "revenue_system": "State land revenue collection",
+      "peasant_status": "Land ceiling laws and redistribution efforts"
+    },
+    "key_characteristics": [
+      "Secular constitution with four principles",
+      "Continuation of colonial-era laws",
+      "War crimes tribunals establishment",
+      "Nationalization policies",
+      "Special Powers Act 1974"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:27"
+  }
+}

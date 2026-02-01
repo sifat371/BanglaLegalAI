@@ -1,0 +1,109 @@
+{
+  "act_title": "The Fatal Accidents Act, 1855",
+  "act_no": "XIII",
+  "act_year": "1855",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. Whenever the death of a person shall be caused by wrongful act, neglect or default, and the act, neglect or default is such as would (if death had not ensued) have entitled the party injured to maintain an action and recover damages in respect thereof, the party who would have been liable if death had not ensued shall be liable to an action or suit for damages, notwithstanding the death of the person injured, and although the death shall have been caused under such circumstances as amount in law to felony or other crime.Every such action or suit shall be for the benefit of the wife, husband, parent and child, if any, of the person whose death shall have been so caused, and shall be brought by and in the name of the executor, administrator or representative of the person deceased;and in every such action the Court may give such damages as it may think proportioned to the loss resulting from such death to the parties respectively, for whom and for whose benefit such action shall be brought; and the amount so recovered, after deducting all costs and expenses, including the costs not recovered from the defendant, shall be divided amongst the before mentioned parties, or any of them, in such shares as the Court by its judgment or decree shall direct."
+    },
+    {
+      "section_content": "2. Provided always that not more than one action or suit shall be brought for, and in respect of the same subject-matter of complaint: Provided that, in any such action or suit, the executor, administrator or representative of the deceased may insert a claim for and recover any pecuniary loss to the estate of the deceased occasioned by such wrongful act, neglect or default, which sum, when recovered, shall be deemed part of the assets of the estate of the deceased."
+    },
+    {
+      "section_content": "3. The plaint in any such action or suit shall give a full particular of the person or persons whom, or on whose behalf, such action or suit shall be brought, and of the nature of the claim in respect of which damages shall be sought to be recovered."
+    },
+    {
+      "section_content": "4. The following words and expressions are intended to have the meanings hereby assigned to them respectively, so far as such meanings are not excluded by the context or by the nature of the subject-matter; that is to say the word \"person\" shall apply to bodies politic and corporate; and the word \"parent\" shall include father and mother and grand-father and grand-mother; and the word \"child\" shall include son and daughter and grand-son and grand-daughter and step-son and step-daughter."
+    }
+  ],
+  "footnotes": [],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-7.html",
+  "fetch_timestamp": "2025-07-19 02:04:33",
+  "csv_metadata": {
+    "act_title_from_csv": "The Fatal Accidents Act, 1855",
+    "act_no_from_csv": "XIII",
+    "act_year_from_csv": "1855",
+    "is_repealed": false
+  },
+  "token_count": 585,
+  "language": "english",
+  "government_context": {
+    "govt_system": "Company Rule",
+    "position_head_govt": "Governor-General of India",
+    "head_govt_name": "Earl of Dalhousie (James Broun-Ramsay)",
+    "head_govt_designation": "Governor-General of India",
+    "how_got_power": "Company appointment",
+    "period_years": "1848-1856",
+    "years_in_power": 8
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:22",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 450,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:28",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:09",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:11",
+    "previous_token_count": 450,
+    "accurate_token_count": 585
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "East India Company Rule",
+      "year_range": "1773-1858",
+      "act_year": 1855
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Regulating Act 1773",
+        "Bengal Regulations",
+        "Anglo-Muhammadan Law",
+        "Cornwallis Code 1793"
+      ],
+      "court_system": [
+        "Supreme Court at Fort William (1774)",
+        "District Courts",
+        "Company Courts"
+      ],
+      "legal_basis": "Hybrid of British common law and Islamic/Hindu personal law",
+      "enforcement_mechanism": "Company magistrates and British judicial system"
+    },
+    "government_system": {
+      "type": "Company Rule under Parliamentary Oversight",
+      "structure": "Governor-General in Council system",
+      "revenue_collection": "Diwani rights (1765) - Company tax collection",
+      "administrative_units": [
+        "Presidencies",
+        "Districts",
+        "Thanas"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Company Police established",
+      "military_police": "Sepoys and Company military",
+      "jurisdiction": "District-based police system"
+    },
+    "land_relations": {
+      "tenure_system": "Permanent Settlement (1793)",
+      "property_rights": "Zamindars as proprietors",
+      "revenue_system": "Fixed land revenue to Company",
+      "peasant_status": "Tenants under zamindari system"
+    },
+    "key_characteristics": [
+      "Dual Government (1765-1772)",
+      "Introduction of British legal concepts",
+      "Permanent Settlement creating landed gentry",
+      "Regulation through British parliamentary acts",
+      "Bengal Regulation 10 of 1804 for martial law"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:28"
+  }
+}

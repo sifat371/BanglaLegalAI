@@ -1,0 +1,118 @@
+{
+  "act_title": "The Rural Electrification Board Ordinance, 1977",
+  "act_no": "LI",
+  "act_year": "1977",
+  "publication_date": "19/07/2025",
+  "sections": [],
+  "footnotes": [
+    {
+      "footnote_text": "1Clause (e) was substituted by section 2 of the Rural Electrification Board (Amendment) Act, 2002 (Act No. XXII of 2002)"
+    },
+    {
+      "footnote_text": "2The word “four” was substituted for the word “three” by section 2 of the Rural Electrification Board (Second Amendment) Act, 2001 (Act No. XXVII of 2001)"
+    },
+    {
+      "footnote_text": "3Section 9A was inserted by section 3 of the Rural Electrification Board (Amendment) Ordinance, 1985 (Ordinance No. LIII of 1985)"
+    },
+    {
+      "footnote_text": "4The words “in this Ordinance or” were inserted by section 2 of the Rural Electrification Board (Amendment) Ordinance, 1985 (Ordinance No. LIII of 1985)"
+    },
+    {
+      "footnote_text": "5The words “including one in a municipality” were inserted by section 2 of the Rural Electrification Board (Amendment) Ordinance, 1985 (Ordinance No. LIII of 1985)"
+    },
+    {
+      "footnote_text": "6The words “and any power generating station run by any person or entity under a contract with the Government” were inserted by section 2 of the Rural Electrification Board (Amendment) Act, 2001 (Act No. XXVI of 2001)"
+    },
+    {
+      "footnote_text": "7Section 23A was inserted by section 2 of the Rural Electrification Board (Amendment) Act, 1988 (Act No. XXIV of 1988)"
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-557.html",
+  "fetch_timestamp": "2025-07-19 02:17:40",
+  "csv_metadata": {
+    "act_title_from_csv": "The Rural Electrification Board Ordinance, 1977 [Repealed]",
+    "act_no_from_csv": "LI",
+    "act_year_from_csv": "1977",
+    "is_repealed": true
+  },
+  "token_count": 320,
+  "language": "unknown",
+  "government_context": {
+    "govt_system": "Military Rule transitioning to Democracy",
+    "position_head_govt": "President",
+    "head_govt_name": "Ziaur Rahman",
+    "head_govt_designation": "President of Bangladesh",
+    "how_got_power": "Military takeover, later legitimized through referendum and election",
+    "period_years": "1977-1981",
+    "years_in_power": 4
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:22",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "unknown",
+    "token_count": 191,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:27",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:06",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:11",
+    "previous_token_count": 191,
+    "accurate_token_count": 320
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "Military Rule Era",
+      "year_range": "1975-1990",
+      "act_year": 1977
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Martial Law Proclamations",
+        "5th Amendment (1979)",
+        "7th Amendment (1986)"
+      ],
+      "court_system": [
+        "Supreme Court (limited powers)",
+        "Martial Law Courts",
+        "Civil Courts"
+      ],
+      "legal_basis": "Military decrees with constitutional validation",
+      "enforcement_mechanism": "Military tribunals and civil courts"
+    },
+    "government_system": {
+      "type": "Military Rule/Martial Law",
+      "structure": "Military government with civilian facade",
+      "revenue_collection": "Centralized military administration",
+      "administrative_units": [
+        "Divisions",
+        "Districts",
+        "Upazilas (1982)",
+        "Unions"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Police under military control",
+      "military_police": "Enhanced military and paramilitary forces",
+      "jurisdiction": "Military-controlled law enforcement"
+    },
+    "land_relations": {
+      "tenure_system": "Land reforms under military government",
+      "property_rights": "Military government modifications",
+      "revenue_system": "Upazila system for administration",
+      "peasant_status": "Rural development programs"
+    },
+    "key_characteristics": [
+      "Suspension of democratic institutions",
+      "Constitutional amendments under military rule",
+      "Emergency provisions and martial law",
+      "Upazila system introduction (1982)",
+      "Gradual transition to controlled democracy"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:27"
+  }
+}

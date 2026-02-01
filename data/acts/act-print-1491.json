@@ -1,0 +1,128 @@
+{
+  "act_title": "The Excises and Salt Act and the Finance Act (Chittagong Hill-tracts) Regulation, 1944",
+  "act_no": "NO",
+  "act_year": "1944",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. (1) This Regulation may be called the2[***]Excises and Salt Act and the Finance Act (Chittagong Hill-tracts) Regulation, 1944.(2) It shall come into force at once."
+    },
+    {
+      "section_content": "2. The3[***]Excises and Salt Act, 1944, with the exception of sub-section (3) of section 1 of that Act shall apply to the Chittagong Hill-tracts and shall be deemed to have applied to the said tracts with effect from the 1st day of April, 1944."
+    },
+    {
+      "section_content": "3. The Finance Act, 1944, with the exception of sections 4, 7 and 8 of that Act shall apply to the Chittagong Hill-tracts and shall be deemed to have applied to the said tracts with effect from the 1st day of April, 1944 :Provided that section 6 of, and the Second Schedule to, the Finance Act, 1944, shall not so apply and shall not be so deemed to have applied to the indigenous hill-men in the said tracts."
+    },
+    {
+      "section_content": "4. Anything done or any action taken or any proceedings commenced before the commencement of this Regulation which, if the4[***]Excises and Salt Act, 1944, or the Finance Act, 1944, had applied to the Chittagong Hill-tracts with effect from the 1st day of April, 1944, could have been validly done, taken or commenced, shall not be invalid by reason of the fact that the5[***]Excises and Salt Act, 1944, or the Finance Act, 1944, as the case may be, did not so apply but shall be deemed to have been done, taken or commenced in exercise of the powers conferred by or under the6[***]Excises and Salt Act, 1944or the Finance Act, 1944, as the case may be, as if it had applied to the said tracts with effect from the 1st day of April, 1944."
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1The word \"Central\" was omitted by Section 3, Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)."
+    },
+    {
+      "footnote_text": "2The word \"Central\" was omitted by Section 3, Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)."
+    },
+    {
+      "footnote_text": "3The word \"Central\" was omitted by Section 3, Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)."
+    },
+    {
+      "footnote_text": "4The word \"Central\" was omitted by Section 3, Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)."
+    },
+    {
+      "footnote_text": "5The word \"Central\" was omitted by Section 3, Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)."
+    },
+    {
+      "footnote_text": "6The word \"Central\" was omitted by Section 3, Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)."
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-1491.html",
+  "fetch_timestamp": "2025-07-19 02:10:02",
+  "csv_metadata": {
+    "act_title_from_csv": "The Excises and Salt Act and the Finance Act (Chittagong Hill-tracts) Regulation, 1944",
+    "act_no_from_csv": "NO II",
+    "act_year_from_csv": "1944",
+    "is_repealed": false
+  },
+  "token_count": 589,
+  "language": "english",
+  "government_context": {
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Governor of Bengal",
+    "head_govt_name": "Lord Casey (Richard Casey)",
+    "head_govt_designation": "Governor of Bengal Province",
+    "how_got_power": "British Crown appointment",
+    "period_years": "1944-1946",
+    "years_in_power": 2
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:20",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 439,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:26",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:35:57",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:07",
+    "previous_token_count": 439,
+    "accurate_token_count": 589
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "British Crown Rule",
+      "year_range": "1858-1947",
+      "act_year": 1944
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Government of India Act 1858",
+        "Indian Penal Code 1860",
+        "Code of Civil Procedure 1908",
+        "Evidence Act 1872"
+      ],
+      "court_system": [
+        "High Courts (1861)",
+        "District Courts",
+        "Magistrate Courts"
+      ],
+      "legal_basis": "Codified British-Indian legal system",
+      "enforcement_mechanism": "Imperial Police Service and civil courts"
+    },
+    "government_system": {
+      "type": "Crown Colony Administration",
+      "structure": "Viceroy and provincial governors",
+      "revenue_collection": "Imperial taxation system",
+      "administrative_units": [
+        "Provinces",
+        "Districts",
+        "Sub-districts"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Police Act 1861 - structured police force",
+      "military_police": "Imperial Police Service",
+      "jurisdiction": "Provincial police under colonial control"
+    },
+    "land_relations": {
+      "tenure_system": "Zamindari, Ryotwari, and Mahalwari systems",
+      "property_rights": "Colonial property law framework",
+      "revenue_system": "Land revenue administration",
+      "peasant_status": "Various tenant classes with limited rights"
+    },
+    "key_characteristics": [
+      "Codification of laws (Penal Code, CPC, Evidence Act)",
+      "Structured civil service system",
+      "Constitutional developments (1909, 1919, 1935 Acts)",
+      "Bengal Tenancy Act 1885 and amendments",
+      "Emergency powers and martial law provisions"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:26"
+  }
+}

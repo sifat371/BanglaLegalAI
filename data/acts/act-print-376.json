@@ -1,0 +1,110 @@
+{
+  "act_title": "The Bangladesh Constituent Assembly Members (Cessation of Membership) Order, 1972 (P.O.)",
+  "act_no": "23",
+  "act_year": "1972",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. (1) This Order may be called the Bangladesh Constituent Assembly Members (Cessation of Membership) Order, 1972.(2) It extends to the whole of Bangladesh.(3) It shall come into force at once."
+    },
+    {
+      "section_content": "2. In this Order, unless there is anything repugnant in the subject or context,-(a)\t“Constituent Assembly” means the Constituent Assembly of Bangladesh; and(b)\t“Political Party” includes a group or combination of persons who operate within or outside the Constituent Assembly under a distinctive name or hold themselves out as a group distinct from other groups for the purpose of propagating any political opinion or engaging in any other political activity."
+    },
+    {
+      "section_content": "3. (1) If any person who is a Member of the Constituent Assembly on the basis of an election in which he was a candidate on the basis of his having been nominated and granted a ticket by a political party,-(i) \tresigns from it; or(ii) \tis expelled by such political party; he shall cease to be a member of the Constituent Assembly for the unexpired period of his term as such member.(2) The Speaker of the Constituent Assembly, and till such time as there is a Speaker, the Secretary of the Constituent Assembly, shall, upon receipt by him of a notice in writing from the Secretary of the political party concerned of the resignation or of the order of expulsion made by the political party in respect of the member concerned, notify in the official Gazette the cessation of membership of the member concerned, who shall cease to be a member of the Constituent Assembly from the date of such notification.(3) The notice served by the Secretary of the political party concerned under clause (2) of the resignation or the order of expulsion shall be conclusive evidence of such resignation or such expulsion and no Court, Tribunal or body shall have power to enquire into the validity of such resignation, or the order of expulsion or any proceedings upon which it is based."
+    },
+    {
+      "section_content": "4. For removal of doubt it is declared that a person who ceases to be a member of the Constituent Assembly under the provisions of this Order shall not be disqualified from being a candidate in any election to fill a seat in such Assembly provided that he is not disqualified from doing so under any other law."
+    },
+    {
+      "section_content": "5. No Court shall call into question any order passed or any action taken on this Order."
+    }
+  ],
+  "footnotes": [],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-376.html",
+  "fetch_timestamp": "2025-07-19 02:14:45",
+  "csv_metadata": {
+    "act_title_from_csv": "The Bangladesh Constituent Assembly Members (Cessation of Membership) Order, 1972 (P.O.)",
+    "act_no_from_csv": "23",
+    "act_year_from_csv": "1972",
+    "is_repealed": false
+  },
+  "token_count": 551,
+  "language": "english",
+  "government_context": {
+    "govt_system": "Parliamentary Democracy",
+    "position_head_govt": "Prime Minister",
+    "head_govt_name": "Sheikh Mujibur Rahman",
+    "head_govt_designation": "Prime Minister of Bangladesh",
+    "how_got_power": "Post-independence constitutional government",
+    "period_years": "1972-1973",
+    "years_in_power": 1
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:21",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 423,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:27",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:03",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:09",
+    "previous_token_count": 423,
+    "accurate_token_count": 551
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "Early Independent Bangladesh",
+      "year_range": "1971-1975",
+      "act_year": 1972
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Laws Continuance Enforcement Order 1971",
+        "Constitution of Bangladesh 1972"
+      ],
+      "court_system": [
+        "Supreme Court with High Court and Appellate Divisions",
+        "Subordinate Courts"
+      ],
+      "legal_basis": "Secular constitutional democracy with British-inherited laws",
+      "enforcement_mechanism": "Independent judiciary and civil courts"
+    },
+    "government_system": {
+      "type": "Parliamentary Democracy",
+      "structure": "Westminster-style parliamentary system",
+      "revenue_collection": "National taxation system",
+      "administrative_units": [
+        "Divisions",
+        "Districts",
+        "Thanas",
+        "Unions"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Bangladesh Police (continuing Police Act 1861)",
+      "military_police": "Bangladesh Army and security forces",
+      "jurisdiction": "National police force"
+    },
+    "land_relations": {
+      "tenure_system": "Continuation of 1950 Act with modifications",
+      "property_rights": "Constitutional property rights",
+      "revenue_system": "State land revenue collection",
+      "peasant_status": "Land ceiling laws and redistribution efforts"
+    },
+    "key_characteristics": [
+      "Secular constitution with four principles",
+      "Continuation of colonial-era laws",
+      "War crimes tribunals establishment",
+      "Nationalization policies",
+      "Special Powers Act 1974"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:27"
+  }
+}

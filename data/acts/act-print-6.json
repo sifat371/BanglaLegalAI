@@ -1,0 +1,103 @@
+{
+  "act_title": "The Legal Representative Suits Act, 1855",
+  "act_no": "XII",
+  "act_year": "1855",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. An action may be maintained by the executors, administrators or representatives of any person deceased for any wrong committed in the time of such person, which has occasioned pecuniary loss to his estate, for which wrong an action might have been maintained by such person, so as such wrong shall have been committed within one year before his death; and the damages, when recovered, shall be part of the personal estate of such person:and further, an action may be maintained against the executors or administrators or heirs or representatives of any person deceased for any wrong committed by him in his lifetime for which he would have been subject to an action, so as such wrong shall have been committed within one year before such person's death; and the damages to be recovered in such action shall, if recovered against an executor or administrator bound to administer according to the English law, be payable in like order of administration as the simple contract debts of such person."
+    },
+    {
+      "section_content": "2. No action commenced under the provisions of this Act shall abate by reason of the death of either party, but the same may be continued by or against the executors, administrators or representatives of the party deceased: Provided that, in any case in which any such action shall be continued against the executors, administrators or representatives of a deceased party, such executors, administrators or representatives may set up a want of assets as a defence to the action, either wholly or in part, in the same manner as if the action had been originally commenced against them."
+    }
+  ],
+  "footnotes": [],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-6.html",
+  "fetch_timestamp": "2025-07-19 02:04:32",
+  "csv_metadata": {
+    "act_title_from_csv": "The Legal Representative Suits Act, 1855",
+    "act_no_from_csv": "XII",
+    "act_year_from_csv": "1855",
+    "is_repealed": false
+  },
+  "token_count": 421,
+  "language": "english",
+  "government_context": {
+    "govt_system": "Company Rule",
+    "position_head_govt": "Governor-General of India",
+    "head_govt_name": "Earl of Dalhousie (James Broun-Ramsay)",
+    "head_govt_designation": "Governor-General of India",
+    "how_got_power": "Company appointment",
+    "period_years": "1848-1856",
+    "years_in_power": 8
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:22",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 285,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:27",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:07",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:11",
+    "previous_token_count": 285,
+    "accurate_token_count": 421
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "East India Company Rule",
+      "year_range": "1773-1858",
+      "act_year": 1855
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Regulating Act 1773",
+        "Bengal Regulations",
+        "Anglo-Muhammadan Law",
+        "Cornwallis Code 1793"
+      ],
+      "court_system": [
+        "Supreme Court at Fort William (1774)",
+        "District Courts",
+        "Company Courts"
+      ],
+      "legal_basis": "Hybrid of British common law and Islamic/Hindu personal law",
+      "enforcement_mechanism": "Company magistrates and British judicial system"
+    },
+    "government_system": {
+      "type": "Company Rule under Parliamentary Oversight",
+      "structure": "Governor-General in Council system",
+      "revenue_collection": "Diwani rights (1765) - Company tax collection",
+      "administrative_units": [
+        "Presidencies",
+        "Districts",
+        "Thanas"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Company Police established",
+      "military_police": "Sepoys and Company military",
+      "jurisdiction": "District-based police system"
+    },
+    "land_relations": {
+      "tenure_system": "Permanent Settlement (1793)",
+      "property_rights": "Zamindars as proprietors",
+      "revenue_system": "Fixed land revenue to Company",
+      "peasant_status": "Tenants under zamindari system"
+    },
+    "key_characteristics": [
+      "Dual Government (1765-1772)",
+      "Introduction of British legal concepts",
+      "Permanent Settlement creating landed gentry",
+      "Regulation through British parliamentary acts",
+      "Bengal Regulation 10 of 1804 for martial law"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:27"
+  }
+}

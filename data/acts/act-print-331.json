@@ -1,0 +1,114 @@
+{
+  "act_title": "The Diplomatic Immunities (Conferences with Commonwealth Countries) Act, 1963",
+  "act_no": "II",
+  "act_year": "1963",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. (1) This Act may be called theDiplomatic Immunities (Conferences with Commonwealth Countries) Act, 1963.(2) It extends to the whole of Bangladesh.(3) It shall come into force at once."
+    },
+    {
+      "section_content": "2. In this Act, unless there is anything repugnant in the subject or context,-(a)\t“envoy” means the envoy of a foreign sovereign power duly accredited in Bangladesh;(b)\t“list” means a list compiled and published under section 4, and includes any amendment of such list;(c)\t“official staff” means officials employed directly under the orders of a representative included in a list;(d)\t“Secretary” means the Secretary to the Government of Bangladesh in the Ministry concerned with the convening or sponsoring of a conference."
+    },
+    {
+      "section_content": "3. If the Government is satisfied that the Government of any country within the Commonwealth has made provision for extending to the representatives of the Government of Bangladesh attending conferences in that country and their official staff immunities similar to those provided for in this Act, it may, by notification in the official Gazette, declare that this Act applies to such country, and thereupon the provisions of this Act shall, during the period such notification remains in force, apply accordingly."
+    },
+    {
+      "section_content": "4. (1) Where a conference is held in Bangladesh and is attended by representatives of the Government of Bangladesh and of the Government or Governments of one or more countries to which this Act applies, the Secretary shall compile, and cause to be published in the official Gazette, a list of the representatives of such Government or Governments and members of their official staffs, showing separately-(a)\tthe representatives; and(b)\tthe members of the official staffs-(i)\twho are not citizens of Bangladesh, or who are not deemed to be such citizens; and(ii)\twho are, or are deemed to be, such citizens.(2) Whenever it appears to the Secretary that any person ceases or begins to be qualified for inclusion in a list, he may amend the list and cause the amendment, or, if he thinks fit, an amended list, to be published in the official Gazette.(3) Every list or amendment published under this section in relation to any conference shall include a statement of the date from which the list or amendment takes or took effect."
+    },
+    {
+      "section_content": "5. (1) Every representative who is for the time being included in a list shall, subject to the provisions of sub-section (3), be entitled to the immunity from suit and legal process, and to the inviolability of residence, official premises and official archives, to which he would be entitled if he were an envoy.(2) Every member of the official staff who is for the time being included in a list shall, subject to the provisions of sub-section (3), be entitled to the immunity from suit and legal process to which he would be entitled if the representative under whose orders he is employed were an envoy.(3) Where a representative or a member of an official staff is or is deemed to be a citizen of Bangladesh, he shall not, except in respect of things done or omitted to be done in the course of the performance of his duties as such representative or member, be entitled to the immunity mentioned in sub-section (1) or, as the case may be, sub-section (2)."
+    },
+    {
+      "section_content": "6. If any question arises as to whether any person is or was included or not included at any time among the persons entitled to any immunity under this Act, the official Gazette containing the list, as effective for the time being, shall be conclusive proof of the fact that the person is or was so included or not so included."
+    }
+  ],
+  "footnotes": [],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-331.html",
+  "fetch_timestamp": "2025-07-19 02:13:06",
+  "csv_metadata": {
+    "act_title_from_csv": "The Diplomatic Immunities (Conferences with Commonwealth Countries) Act, 1963",
+    "act_no_from_csv": "II",
+    "act_year_from_csv": "1963",
+    "is_repealed": false
+  },
+  "token_count": 759,
+  "language": "english",
+  "government_context": {
+    "govt_system": "Military Rule",
+    "position_head_govt": "President of Pakistan",
+    "head_govt_name": "General Ayub Khan",
+    "head_govt_designation": "President of Pakistan (Military regime)",
+    "how_got_power": "Military coup",
+    "period_years": "1958-1969",
+    "years_in_power": 11
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:21",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 618,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:26",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:02",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:09",
+    "previous_token_count": 618,
+    "accurate_token_count": 759
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "East Pakistan Period",
+      "year_range": "1947-1971",
+      "act_year": 1963
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Government of India Act 1935 (adapted)",
+        "Pakistan Constitution 1956",
+        "Pakistan Constitution 1962"
+      ],
+      "court_system": [
+        "Dhaka High Court (1948)",
+        "District Courts",
+        "Federal Court/Supreme Court of Pakistan"
+      ],
+      "legal_basis": "Adapted British-Indian laws with Islamic provisions",
+      "enforcement_mechanism": "Pakistani legal system"
+    },
+    "government_system": {
+      "type": "Federal Parliamentary (1947-1958), Presidential (1958-1971)",
+      "structure": "Provincial government under federal system",
+      "revenue_collection": "Federal and provincial taxation",
+      "administrative_units": [
+        "Province",
+        "Districts",
+        "Thanas"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "East Bengal/East Pakistan Police",
+      "military_police": "Pakistan Army and paramilitary forces",
+      "jurisdiction": "Provincial police under federal oversight"
+    },
+    "land_relations": {
+      "tenure_system": "East Bengal State Acquisition and Tenancy Act 1950",
+      "property_rights": "Abolition of zamindari system",
+      "revenue_system": "Direct government land revenue",
+      "peasant_status": "Farmers as direct tenants to state"
+    },
+    "key_characteristics": [
+      "Zamindari abolition (1951)",
+      "Language movement legal issues (1952)",
+      "Military rule periods (1958-1971)",
+      "Constitutional crises and martial law",
+      "Bengali autonomy demands and legal frameworks"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:26"
+  }
+}

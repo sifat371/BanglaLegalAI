@@ -1,0 +1,114 @@
+{
+  "act_title": "The Stamp Duties (Additional Modes of Payment) Act, 1974",
+  "act_no": "LXXI",
+  "act_year": "1974",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. (1) This Act may be called theStamp Duties (Additional Modes of Payment) Act, 1974.(2) It shall be deemed to have come into force on the 4th day of November, 1974."
+    },
+    {
+      "section_content": "2. (1) Notwithstanding anything contained in theStamp Act, 1899(II of 1899) (hereinafter referred to as the said Act), or in any other law for the time being in force, where any instrument is required or intended to be registered under theRegistration Act, 1908(XVI of 1908), all duties with which such instrument is chargeable under the said Act may be paid-(a)\tto the registering officer in cash, if the duties do not exceed three hundred taka; or(b) \tby chalan in a Treasury or Sub-Treasury, or any branch of a Bank performing the functions of a Treasury or Sub-Treasury, or any branch of a Bank authorised by the Government in this behalf, by notification in the official Gazette1[; or(c) \tby an account-payee pay order or an account-payee bank draft issued by a scheduled bank specified by or under rules:Provided that the Government may, by notification in the official Gazette, direct that any stamp duty in excess of the amount specified in the notification shall be paid only by such pay order, bank draft or chalan.]2[(2) Where an instrument is presented to a registering officer for registration and the stamp duty is paid to him in cash or is shown to have been paid by chalan, pay order or bank draft under sub-section (1), that officer shall endorse the payment of the stamp duty on the instrument in the manner prescribed by rules, and upon such endorsement the instrument shall be deemed to have been duly stamped within the meaning of the said Act.]"
+    },
+    {
+      "section_content": "3. The Government may, by notification in the official Gazette, make rules for carrying out the purposes of this Act."
+    },
+    {
+      "section_content": "4. (1) The Stamp Duties (Additional Modes of Payment) Ordinance, 1974 (Ord. XXIII of 1974), is hereby repealed.(2) Notwithstanding such repeal, anything done or any action taken under the said Ordinance shall be deemed to have been done or taken, as the case may be, under the corresponding provision of this Act."
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1The semi-colon (;) and word \"; or\" were substituted for the full-stop (.) and thereafter clause (c) and the proviso were inserted by section 52 of the Finance Act, 2000 (Act No. XV of 2000)"
+    },
+    {
+      "footnote_text": "2Sub-section (2) was substituted by section 52 of the Finance Act, 2000 (Act No. XV of 2000)"
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-482.html",
+  "fetch_timestamp": "2025-07-19 02:16:23",
+  "csv_metadata": {
+    "act_title_from_csv": "The Stamp Duties (Additional Modes of Payment) Act, 1974",
+    "act_no_from_csv": "LXXI",
+    "act_year_from_csv": "1974",
+    "is_repealed": false
+  },
+  "token_count": 554,
+  "language": "english",
+  "government_context": {
+    "govt_system": "Parliamentary Democracy",
+    "position_head_govt": "Prime Minister",
+    "head_govt_name": "Sheikh Mujibur Rahman",
+    "head_govt_designation": "Prime Minister of Bangladesh",
+    "how_got_power": "Democratic election (1973)",
+    "period_years": "1973-1975",
+    "years_in_power": 2
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:22",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 428,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:27",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:05",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:10",
+    "previous_token_count": 428,
+    "accurate_token_count": 554
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "Early Independent Bangladesh",
+      "year_range": "1971-1975",
+      "act_year": 1974
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Laws Continuance Enforcement Order 1971",
+        "Constitution of Bangladesh 1972"
+      ],
+      "court_system": [
+        "Supreme Court with High Court and Appellate Divisions",
+        "Subordinate Courts"
+      ],
+      "legal_basis": "Secular constitutional democracy with British-inherited laws",
+      "enforcement_mechanism": "Independent judiciary and civil courts"
+    },
+    "government_system": {
+      "type": "Parliamentary Democracy",
+      "structure": "Westminster-style parliamentary system",
+      "revenue_collection": "National taxation system",
+      "administrative_units": [
+        "Divisions",
+        "Districts",
+        "Thanas",
+        "Unions"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Bangladesh Police (continuing Police Act 1861)",
+      "military_police": "Bangladesh Army and security forces",
+      "jurisdiction": "National police force"
+    },
+    "land_relations": {
+      "tenure_system": "Continuation of 1950 Act with modifications",
+      "property_rights": "Constitutional property rights",
+      "revenue_system": "State land revenue collection",
+      "peasant_status": "Land ceiling laws and redistribution efforts"
+    },
+    "key_characteristics": [
+      "Secular constitution with four principles",
+      "Continuation of colonial-era laws",
+      "War crimes tribunals establishment",
+      "Nationalization policies",
+      "Special Powers Act 1974"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:27"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "act_title": "The Hindu Widow's Re-marriage Act, 1856",
+  "act_no": "XV",
+  "act_year": "1856",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. No marriage contracted between Hindus shall be invalid, and the issue of no such marriage shall be illegitimate, by reason of the woman having been previously married or betrothed to another person who was dead at the time of such marriage, any custom and any interpretation of Hindu law to the contrary notwithstanding."
+    },
+    {
+      "section_content": "2. All rights and interests which any widow may have in her deceased husband's property by way of maintenance, or by inheritance to her husband or to his lineal successors, or by virtue of any will or testamentary disposition conferring upon her, without express permission to re-marry, only a limited interest in such property, with no power of alienating the same, shall upon her re-marriage cease and determine as if she had then died; and the next heirs of her deceased husband, or other persons entitled to the property on her death, shall thereupon succeed to the same."
+    },
+    {
+      "section_content": "3. On the re-marriage of a Hindu widow, if neither the widow nor any other person has been expressly constituted by the will or testamentary disposition of the deceased husband the guardian of his children the father or paternal grandfather or the mother or paternal grandmother, of the deceased husband, or any male relative of the deceased husband, may petition the highest Court having original jurisdiction in civil cases in the place where the deceased husband was domiciled at the time of his death for the appointment of some proper person to be guardian of the said children, and thereupon it shall be lawful for the said Court, if it shall think fit, to appoint such guardian, who when appointed shall be entitled to have the care and custody of the said children, or of any of them during their minority, in the place of their mother; and in making such appointment the Court shall be guided, so far as may be by the laws and rules in force touching the guardianship of children who have neither father nor mother:Provided that, when the said children have not property of their own sufficient for their support and proper education whilst minors, no such appointment shall be made otherwise than with the consent of the mother unless the proposed guardian shall have given security for the support and proper education of the children whilst minors."
+    },
+    {
+      "section_content": "4. Nothing in this Act contained shall be construed to render any widow who, at the time of the death of any person leaving any property, is a childless widow, capable of inheriting the whole or any share of such property, if before the passing of this Act, she would have been incapable of inheriting the same by reason of her being childless widow."
+    },
+    {
+      "section_content": "5. Except as in the three preceding sections is provided, a widow shall not, by reason of her re-marriage forfeit any property or any right to which she would otherwise be entitled; and every widow who has re-married shall have the same rights of inheritance as she would have had, had such marriage been her first marriage."
+    },
+    {
+      "section_content": "6. Whatever words spoken, ceremonies performed or engagements made on the marriage of a Hindu female who has not been previously married, are sufficient to constitute a valid marriage, shall have the same effect if spoken, performed or made on the marriage of a Hindu widow; and no marriage shall be declared invalid on the ground that such words, ceremonies or engagements are inapplicable to the case of a widow."
+    },
+    {
+      "section_content": "7. If the widow re-marrying is a minor whose marriage has not been consummated, she shall not re-marry without the consent of her father, or if she has no father, of her paternal grandfather, or if she has no such grandfather, of her mother, or, failing all these, of her elder brother, or failing also brothers, of her next male relative."
+    },
+    {
+      "section_content": "All persons knowingly abetting a marriage made contrary to the provisions of this section shall be liable to imprisonment for any term not exceeding one year or to fine or to both."
+    },
+    {
+      "section_content": "And all marriages made contrary to the provisions of this section may be declared void by a Court of law; Provided, that in any question regarding the validity of a marriage made contrary to the provisions of this section, such consent as is aforesaid shall be presumed until the contrary is proved, and that no such marriage shall be declared void after it has been consummated."
+    },
+    {
+      "section_content": "In the case of a widow who is of full age, or whose marriage has been consummated, her own consent shall be sufficient consent to constitute her re-marriage lawful and valid."
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1The words “established in the territories in the possession and under the Government of East India Company” were omitted by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-9.html",
+  "fetch_timestamp": "2025-07-19 02:04:34",
+  "csv_metadata": {
+    "act_title_from_csv": "The Hindu Widow's Re-marriage Act, 1856",
+    "act_no_from_csv": "XV",
+    "act_year_from_csv": "1856",
+    "is_repealed": false
+  },
+  "token_count": 957,
+  "language": "english",
+  "government_context": {
+    "govt_system": "Company Rule",
+    "position_head_govt": "Governor-General of India",
+    "head_govt_name": "Earl Canning (Charles Canning)",
+    "head_govt_designation": "Governor-General of India",
+    "how_got_power": "Company appointment",
+    "period_years": "1856-1858",
+    "years_in_power": 2
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:23",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 822,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:29",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:13",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:16",
+    "previous_token_count": 822,
+    "accurate_token_count": 957
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "East India Company Rule",
+      "year_range": "1773-1858",
+      "act_year": 1856
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Regulating Act 1773",
+        "Bengal Regulations",
+        "Anglo-Muhammadan Law",
+        "Cornwallis Code 1793"
+      ],
+      "court_system": [
+        "Supreme Court at Fort William (1774)",
+        "District Courts",
+        "Company Courts"
+      ],
+      "legal_basis": "Hybrid of British common law and Islamic/Hindu personal law",
+      "enforcement_mechanism": "Company magistrates and British judicial system"
+    },
+    "government_system": {
+      "type": "Company Rule under Parliamentary Oversight",
+      "structure": "Governor-General in Council system",
+      "revenue_collection": "Diwani rights (1765) - Company tax collection",
+      "administrative_units": [
+        "Presidencies",
+        "Districts",
+        "Thanas"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Company Police established",
+      "military_police": "Sepoys and Company military",
+      "jurisdiction": "District-based police system"
+    },
+    "land_relations": {
+      "tenure_system": "Permanent Settlement (1793)",
+      "property_rights": "Zamindars as proprietors",
+      "revenue_system": "Fixed land revenue to Company",
+      "peasant_status": "Tenants under zamindari system"
+    },
+    "key_characteristics": [
+      "Dual Government (1765-1772)",
+      "Introduction of British legal concepts",
+      "Permanent Settlement creating landed gentry",
+      "Regulation through British parliamentary acts",
+      "Bengal Regulation 10 of 1804 for martial law"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:29"
+  }
+}

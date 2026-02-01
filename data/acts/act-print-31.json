@@ -1,0 +1,128 @@
+{
+  "act_title": "1The Foreign Recruiting Act, 1874",
+  "act_no": "IV",
+  "act_year": "1874",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. This Act may be called theForeign Recruiting Act, 1874."
+    },
+    {
+      "section_content": "It extends to the whole of Bangladesh.2. In this Act-\"Foreign State\" includes any person or persons exercising or assuming to exercise the powers of Government in or over any country, colony, province or people beyond the limits of Bangladesh."
+    },
+    {
+      "section_content": "3. If any person is, within the limits of Bangladesh, obtaining or attempting to obtain recruits for the service of any Foreign State in any capacity, the Government may, by order in writing, either prohibit such person from so doing, or permit him to do so subject to any conditions which the Government thinks fit to impose."
+    },
+    {
+      "section_content": "4. The Government may from time to time, by general order notified in the official Gazette, either prohibit recruiting for the service or any Foreign State, or impose upon such recruiting any conditions which it thinks fit."
+    },
+    {
+      "section_content": "5. The Government may rescind or vary any order made under this Act in such manner as it thinks fit."
+    },
+    {
+      "section_content": "6. Whoever, in violation of the prohibition of the     Government, or of any condition subject to which permission to recruit may have been accorded,-(a)\tinduces or attempts to induce any person to accept or agree to accept or to proceed to any place with a view to obtaining any commission or employment in the service of any Foreign State, or(b)\tknowingly aids in the engagement of any person so induced, by forwarding or conveying him or by advancing money or in any other way whatever,shall be liable to imprisonment for a term which may extend to seven years, or to fine to such amount as the Court thinks fit, or to both."
+    },
+    {
+      "section_content": "7. Any offence against this Act may be inquired into and tried, as well in any district in which the person accused may be found, as in any district in which it might be inquired into and tried under the provisions of the3[Code of Criminal Procedure, 1898]."
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1Throughout this Act, except otherwise provided, the words \"Bangladesh\" and \"Government\" were substituted, for the words \"Pakistan\" and \"Central Government\" respectively by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)."
+    },
+    {
+      "footnote_text": "2Throughout this Act, except otherwise provided, the words \"Bangladesh\" and \"Government\" were substituted, for the words \"Pakistan\" and \"Central Government\" respectively by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "3The words, comma and figure \"Code of Criminal Procedure, 1898\" were substituted, for the words \"Code of Criminal Procedure\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-31.html",
+  "fetch_timestamp": "2025-07-19 02:05:27",
+  "csv_metadata": {
+    "act_title_from_csv": "The Foreign Recruiting Act, 1874",
+    "act_no_from_csv": "IV",
+    "act_year_from_csv": "1874",
+    "is_repealed": false
+  },
+  "token_count": 597,
+  "language": "english",
+  "government_context": {
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Lieutenant Governor of Bengal",
+    "head_govt_name": "Sir Richard Temple",
+    "head_govt_designation": "Lieutenant Governor of Bengal Presidency",
+    "how_got_power": "British Crown appointment",
+    "period_years": "1874-1877",
+    "years_in_power": 3
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:21",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 455,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:26",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:02",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:09",
+    "previous_token_count": 455,
+    "accurate_token_count": 597
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "British Crown Rule",
+      "year_range": "1858-1947",
+      "act_year": 1874
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Government of India Act 1858",
+        "Indian Penal Code 1860",
+        "Code of Civil Procedure 1908",
+        "Evidence Act 1872"
+      ],
+      "court_system": [
+        "High Courts (1861)",
+        "District Courts",
+        "Magistrate Courts"
+      ],
+      "legal_basis": "Codified British-Indian legal system",
+      "enforcement_mechanism": "Imperial Police Service and civil courts"
+    },
+    "government_system": {
+      "type": "Crown Colony Administration",
+      "structure": "Viceroy and provincial governors",
+      "revenue_collection": "Imperial taxation system",
+      "administrative_units": [
+        "Provinces",
+        "Districts",
+        "Sub-districts"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Police Act 1861 - structured police force",
+      "military_police": "Imperial Police Service",
+      "jurisdiction": "Provincial police under colonial control"
+    },
+    "land_relations": {
+      "tenure_system": "Zamindari, Ryotwari, and Mahalwari systems",
+      "property_rights": "Colonial property law framework",
+      "revenue_system": "Land revenue administration",
+      "peasant_status": "Various tenant classes with limited rights"
+    },
+    "key_characteristics": [
+      "Codification of laws (Penal Code, CPC, Evidence Act)",
+      "Structured civil service system",
+      "Constitutional developments (1909, 1919, 1935 Acts)",
+      "Bengal Tenancy Act 1885 and amendments",
+      "Emergency powers and martial law provisions"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:26"
+  }
+}

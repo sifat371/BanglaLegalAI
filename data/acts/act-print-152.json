@@ -1,0 +1,113 @@
+{
+  "act_title": "The Hindu Gains of Learning Act, 1930",
+  "act_no": "XXX",
+  "act_year": "1930",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. (1) This Act may be called theHindu Gains of Learning Act, 1930.(2) It extends to the whole of1[Bangladesh]."
+    },
+    {
+      "section_content": "2. In this Act, unless there is anything repugnant in the subject or context,-(a) \t\"acquirer\" means a member of a Hindu undivided family, who acquired gains of learning;(b) \t\"gains of learning\" means all acquisitions of property made substantially by means of learning, whether such acquisitions be made before or after the commencement of this Act and whether such acquisitions be the ordinary or the extraordinary result of such learning; and(c) \t\"learning\" means education, whether elementary, technical, scientific, special or general, and training of every kind which is usually intended to enable a person to pursue any trade, industry, profession or a vocation in life."
+    },
+    {
+      "section_content": "3. Notwithstanding any custom, rule or interpretation of the Hindu Law, no gains of learning shall be held not to be the exclusive and separate property of the acquirer merely by reason of-(a) \this learning having been, in whole or in part, imparted to him by any member, living or deceased, of his family, or with the aid of the joint funds of his family, or with the aid of the funds of any member thereof, or(b) \thimself of his family having, while he was acquiring his learning, been maintained of supported, wholly or in part, by the joint funds of his family, or by the funds of any member thereof."
+    },
+    {
+      "section_content": "4. This Act shall not be deemed in any way to affect-(a) \tthe terms or incidents of any transfer of property made or effected before the commencement of this Act,(b) \tthe validity, invalidity, effect or consequences of anything already suffered or done before the commencement of this Act,(c) \tany right or liability created under a partition, or an agreement for a partition, of joint family property made before the commencement of this Act, or(d) \tany remedy or proceeding in respect of such right or liability; or to render invalid or in any way affect anything done before the commencement of this Act in any proceeding pending in a Court at such commencement; and any such remedy and any such proceeding as is herein referred to may be enforced, instituted or continued, as the case may be, as if this Act had not been passed."
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1The word \"Bangladesh\" was substituted, for the word \"Pakistan\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-152.html",
+  "fetch_timestamp": "2025-07-19 02:08:50",
+  "csv_metadata": {
+    "act_title_from_csv": "The Hindu Gains of Learning Act, 1930",
+    "act_no_from_csv": "XXX",
+    "act_year_from_csv": "1930",
+    "is_repealed": false
+  },
+  "token_count": 568,
+  "language": "english",
+  "government_context": {
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Governor of Bengal",
+    "head_govt_name": "Sir Francis Stanley Jackson",
+    "head_govt_designation": "Governor of Bengal Province",
+    "how_got_power": "British Crown appointment",
+    "period_years": "1927-1932",
+    "years_in_power": 5
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:20",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 425,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:26",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:35:58",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:07",
+    "previous_token_count": 425,
+    "accurate_token_count": 568
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "British Crown Rule",
+      "year_range": "1858-1947",
+      "act_year": 1930
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Government of India Act 1858",
+        "Indian Penal Code 1860",
+        "Code of Civil Procedure 1908",
+        "Evidence Act 1872"
+      ],
+      "court_system": [
+        "High Courts (1861)",
+        "District Courts",
+        "Magistrate Courts"
+      ],
+      "legal_basis": "Codified British-Indian legal system",
+      "enforcement_mechanism": "Imperial Police Service and civil courts"
+    },
+    "government_system": {
+      "type": "Crown Colony Administration",
+      "structure": "Viceroy and provincial governors",
+      "revenue_collection": "Imperial taxation system",
+      "administrative_units": [
+        "Provinces",
+        "Districts",
+        "Sub-districts"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Police Act 1861 - structured police force",
+      "military_police": "Imperial Police Service",
+      "jurisdiction": "Provincial police under colonial control"
+    },
+    "land_relations": {
+      "tenure_system": "Zamindari, Ryotwari, and Mahalwari systems",
+      "property_rights": "Colonial property law framework",
+      "revenue_system": "Land revenue administration",
+      "peasant_status": "Various tenant classes with limited rights"
+    },
+    "key_characteristics": [
+      "Codification of laws (Penal Code, CPC, Evidence Act)",
+      "Structured civil service system",
+      "Constitutional developments (1909, 1919, 1935 Acts)",
+      "Bengal Tenancy Act 1885 and amendments",
+      "Emergency powers and martial law provisions"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:26"
+  }
+}

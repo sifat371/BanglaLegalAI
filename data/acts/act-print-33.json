@@ -1,0 +1,119 @@
+{
+  "act_title": "The Majority Act, 1875",
+  "act_no": "IX",
+  "act_year": "1875",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. This Act may be called theMajority Act, 1875. It extends to the whole of Bangladesh;and it shall come into force and have effect only on the expiration of three months from the passing thereof."
+    },
+    {
+      "section_content": "2. Nothing herein contained shall affect-(a)\tthe capacity of any person to act in the following matters (namely),- marriage, dower, divorce and adoption;(b)\tthe religion or religious rites and usages of any class of citizens of Bangladesh; or(c)\tthe capacity of any person who before this Act comes into force has attained majority under the Law applicable to him."
+    },
+    {
+      "section_content": "3. Subject as aforesaid, every minor of whose person or property or both a guardian, other than a guardian for a suit within the meaning of2[Schedule I, Order XXXII of theCode of Civil Procedure, 1908,] has been or shall be appointed or declared  by  any  Court  of Justice before the minor has attainedthe age of eighteen years, and every minor of whose property the superintendence has been or shall be assumed by any Court of Wards before the minor has attained that age shall, notwithstanding anything contained in3[Succession Act, 1925,] or in any other enactment, be deemed to have attained his majority when he shall have completed his age of twenty-one years and not before.Subject as aforesaid, every other person domiciled in Bangladesh shall be deemed to have attained his majority when he shall have completed his age of eighteen years and not before."
+    },
+    {
+      "section_content": "4. In computing the age of any person, the day on which he was born is to be included as a whole day, and he shall be deemed to have attained majority, if he falls within the first paragraph of section 3, at the beginning of the twenty-first anniversary of that day, and if he falls within the second paragraph of section 3, at the beginning of the eighteenth anniversary of that day.Illustrations(a) \tZ is born in Bangladesh on the first day of January, 1949, and has a Bangladesh domicile. A guardian of his person is appointed by a Court of Justice. Z attains majority at the first moment of the first day of January, 1970.(b) Z is born in Bangladesh on the twenty-ninth day of February, 1948 and has a Bangladesh domicile. A guardian of his property is appointed by a Court of Justice. Z attains majority at the first moment of the twenty-eighth day of February, 1969.(c)\tZ is born on the first day of January, 1948. He acquires a domicile in Bangladesh. No guardian is appointed of his person or property by any Court of Justice, nor is he under the jurisdiction of any Court of Wards. Z attains majority at the first moment of the first day of January, 1966."
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1Throughout this Act, except otherwise provided, the word \"Bangladesh\" was substituted, for the words \"Pakistan\" or \"the Province\" respectively by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "2The words, letters, commas and figure \"Schedule I, Order XXXII of theCode of Civil Procedure, 1908,\" were substituted, for the words and letter \"Chapter XXXI of the Code of Civil Procedure\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "3The words, commas and figure \"Succession Act, 1925,\" were substituted, for the words, letter and figure \"Indian Succession Act (No. X of 1865)\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act VIII of 1973)"
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-33.html",
+  "fetch_timestamp": "2025-07-19 02:05:30",
+  "csv_metadata": {
+    "act_title_from_csv": "The Majority Act, 1875",
+    "act_no_from_csv": "IX",
+    "act_year_from_csv": "1875",
+    "is_repealed": false
+  },
+  "token_count": 736,
+  "language": "english",
+  "government_context": {
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Lieutenant Governor of Bengal",
+    "head_govt_name": "Sir Richard Temple",
+    "head_govt_designation": "Lieutenant Governor of Bengal Presidency",
+    "how_got_power": "British Crown appointment",
+    "period_years": "1874-1877",
+    "years_in_power": 3
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:21",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 595,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:26",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:02",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:09",
+    "previous_token_count": 595,
+    "accurate_token_count": 736
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "British Crown Rule",
+      "year_range": "1858-1947",
+      "act_year": 1875
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Government of India Act 1858",
+        "Indian Penal Code 1860",
+        "Code of Civil Procedure 1908",
+        "Evidence Act 1872"
+      ],
+      "court_system": [
+        "High Courts (1861)",
+        "District Courts",
+        "Magistrate Courts"
+      ],
+      "legal_basis": "Codified British-Indian legal system",
+      "enforcement_mechanism": "Imperial Police Service and civil courts"
+    },
+    "government_system": {
+      "type": "Crown Colony Administration",
+      "structure": "Viceroy and provincial governors",
+      "revenue_collection": "Imperial taxation system",
+      "administrative_units": [
+        "Provinces",
+        "Districts",
+        "Sub-districts"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Police Act 1861 - structured police force",
+      "military_police": "Imperial Police Service",
+      "jurisdiction": "Provincial police under colonial control"
+    },
+    "land_relations": {
+      "tenure_system": "Zamindari, Ryotwari, and Mahalwari systems",
+      "property_rights": "Colonial property law framework",
+      "revenue_system": "Land revenue administration",
+      "peasant_status": "Various tenant classes with limited rights"
+    },
+    "key_characteristics": [
+      "Codification of laws (Penal Code, CPC, Evidence Act)",
+      "Structured civil service system",
+      "Constitutional developments (1909, 1919, 1935 Acts)",
+      "Bengal Tenancy Act 1885 and amendments",
+      "Emergency powers and martial law provisions"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:26"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "act_title": "The Judicial Officer's Protection Act, 1850",
+  "act_no": "XVIII",
+  "act_year": "1850",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. No Judge, Magistrate, Justice of the Peace, Collector or other person acting judicially shall be liable to be sued in any Civil Court for any act done or ordered to be done by him in the discharge of his judicial duty, whether or not within the limits of his jurisdiction: Provided that he at the time, in good faith, believed himself to have jurisdiction to do or order the act complained of; and no officer of any Court or other person, bound to execute the lawful warrants or orders of any such Judge, Magistrate, Justice of the Peace, Collector or other person acting judicially shall be liable to be sued in any Civil Court, for the execution of any warrant or order, which he would be bound to execute, if within the jurisdiction of the person issuing the same."
+    }
+  ],
+  "footnotes": [],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-3.html",
+  "fetch_timestamp": "2025-07-19 02:04:30",
+  "csv_metadata": {
+    "act_title_from_csv": "The Judicial Officer's Protection Act, 1850",
+    "act_no_from_csv": "XVIII",
+    "act_year_from_csv": "1850",
+    "is_repealed": false
+  },
+  "token_count": 295,
+  "language": "english",
+  "government_context": {
+    "govt_system": "Company Rule",
+    "position_head_govt": "Governor-General of India",
+    "head_govt_name": "Earl of Dalhousie (James Broun-Ramsay)",
+    "head_govt_designation": "Governor-General of India",
+    "how_got_power": "Company appointment",
+    "period_years": "1848-1856",
+    "years_in_power": 8
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:21",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 159,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:26",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:01",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:09",
+    "previous_token_count": 159,
+    "accurate_token_count": 295
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "East India Company Rule",
+      "year_range": "1773-1858",
+      "act_year": 1850
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Regulating Act 1773",
+        "Bengal Regulations",
+        "Anglo-Muhammadan Law",
+        "Cornwallis Code 1793"
+      ],
+      "court_system": [
+        "Supreme Court at Fort William (1774)",
+        "District Courts",
+        "Company Courts"
+      ],
+      "legal_basis": "Hybrid of British common law and Islamic/Hindu personal law",
+      "enforcement_mechanism": "Company magistrates and British judicial system"
+    },
+    "government_system": {
+      "type": "Company Rule under Parliamentary Oversight",
+      "structure": "Governor-General in Council system",
+      "revenue_collection": "Diwani rights (1765) - Company tax collection",
+      "administrative_units": [
+        "Presidencies",
+        "Districts",
+        "Thanas"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Company Police established",
+      "military_police": "Sepoys and Company military",
+      "jurisdiction": "District-based police system"
+    },
+    "land_relations": {
+      "tenure_system": "Permanent Settlement (1793)",
+      "property_rights": "Zamindars as proprietors",
+      "revenue_system": "Fixed land revenue to Company",
+      "peasant_status": "Tenants under zamindari system"
+    },
+    "key_characteristics": [
+      "Dual Government (1765-1772)",
+      "Introduction of British legal concepts",
+      "Permanent Settlement creating landed gentry",
+      "Regulation through British parliamentary acts",
+      "Bengal Regulation 10 of 1804 for martial law"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:26"
+  }
+}

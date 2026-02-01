@@ -1,0 +1,140 @@
+{
+  "act_title": "The Destruction of Records Act, 1917",
+  "act_no": "V",
+  "act_year": "1917",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. \tThis Act may be called theDestruction of Records Act, 1917."
+    },
+    {
+      "section_content": "2. \t[Repealed by the Government of India (Adaptation of Indian Laws) Order, 1937.]"
+    },
+    {
+      "section_content": "3.(1) The authorities hereinafter specified may, from time to time, make rules for the disposal, by destruction or otherwise, of such documents as are, in the opinion of the authority making the rules, not of sufficient public value to justify their preservation.(2) \tThe authorities shall be-(a) \tin the case of documents in the possession or custody of1[the Supreme Court] or of the Courts of Civil or Criminal jurisdiction subordinate thereto,-2[the Supreme Court];(b) \tin the case of documents in the possession or custody of Revenue Courts and officers,-The3[Board of Land Administration]; and4[(c) in the case of documents in the possession or custody of any other public officer, the Government or any officer specially authorized in that behalf by the Government.](3) \tRules made under this section by5[the Supreme Court] or by an officer specially authorized in that behalf by6[the Government] shall be subject to the previous approval of the7[the Government]8[* * *]."
+    },
+    {
+      "section_content": "4.\t[Omitted by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973).]"
+    },
+    {
+      "section_content": "5. \tNothing in this Act shall be deemed to authorize the destruction of any document which, under the provisions of any law for the time being in force, is to be kept and maintained."
+    },
+    {
+      "section_content": "6. \t[Repealed by the Repealing Act, 1927 (Act No. XII of 1927).]"
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1The words \"the Supreme Court\" were substituted, for the words \"a High Court\" or \"the High Court\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "2The words \"the Supreme Court\" were substituted, for the words \"a High Court\" or \"the High Court\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "3The words \"Board of Land Administration\" were substituted, for the word \"Government\" by section 4 and Schedule of the Laws (Amendment) Ordinance, 1982 (Ordinance No. XLI of 1982)"
+    },
+    {
+      "footnote_text": "4Clause (c) was substituted, for clause (c) by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "5The words \"the Supreme Court\" were substituted, for the words \"any High Court\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "6The words \"the Government\" were substituted, for the words \"any Provincial Government\" or \"the Provincial Government\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "7The words \"the Government\" were substituted, for the words \"any Provincial Government\" or \"the Provincial Government\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "8The semi-colon and words \"; and rules made by an officer specially authorized in that behalf by the Central Government shall be subject to the previous approval of the Central Government\" were omitted by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-106.html",
+  "fetch_timestamp": "2025-07-19 02:07:45",
+  "csv_metadata": {
+    "act_title_from_csv": "The Destruction of Records Act, 1917",
+    "act_no_from_csv": "V",
+    "act_year_from_csv": "1917",
+    "is_repealed": false
+  },
+  "token_count": 675,
+  "language": "english",
+  "government_context": {
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Governor of Bengal",
+    "head_govt_name": "Earl of Ronaldshay (Lawrence Dundas)",
+    "head_govt_designation": "Governor of Bengal Province",
+    "how_got_power": "British Crown appointment",
+    "period_years": "1917-1922",
+    "years_in_power": 5
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:18",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 532,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:24",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:35:48",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:00",
+    "previous_token_count": 532,
+    "accurate_token_count": 675
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "British Crown Rule",
+      "year_range": "1858-1947",
+      "act_year": 1917
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Government of India Act 1858",
+        "Indian Penal Code 1860",
+        "Code of Civil Procedure 1908",
+        "Evidence Act 1872"
+      ],
+      "court_system": [
+        "High Courts (1861)",
+        "District Courts",
+        "Magistrate Courts"
+      ],
+      "legal_basis": "Codified British-Indian legal system",
+      "enforcement_mechanism": "Imperial Police Service and civil courts"
+    },
+    "government_system": {
+      "type": "Crown Colony Administration",
+      "structure": "Viceroy and provincial governors",
+      "revenue_collection": "Imperial taxation system",
+      "administrative_units": [
+        "Provinces",
+        "Districts",
+        "Sub-districts"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Police Act 1861 - structured police force",
+      "military_police": "Imperial Police Service",
+      "jurisdiction": "Provincial police under colonial control"
+    },
+    "land_relations": {
+      "tenure_system": "Zamindari, Ryotwari, and Mahalwari systems",
+      "property_rights": "Colonial property law framework",
+      "revenue_system": "Land revenue administration",
+      "peasant_status": "Various tenant classes with limited rights"
+    },
+    "key_characteristics": [
+      "Codification of laws (Penal Code, CPC, Evidence Act)",
+      "Structured civil service system",
+      "Constitutional developments (1909, 1919, 1935 Acts)",
+      "Bengal Tenancy Act 1885 and amendments",
+      "Emergency powers and martial law provisions"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:24"
+  }
+}

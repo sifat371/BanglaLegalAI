@@ -1,0 +1,118 @@
+{
+  "act_title": "The Carriage by Air (International Convention) Act, 1966",
+  "act_no": "IX",
+  "act_year": "1966",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. (1) This Act may be called theCarriage by Air (International Convention) Act, 1966.(2) It extends to the whole of Bangladesh.(3) It shall come into force at once and shall be deemed to have taken effect on the first day of August, 1963."
+    },
+    {
+      "section_content": "2. (1) The rules contained in the First Schedule, being the provisions of the Convention for the unification of certain rules relating to international carriage by air known as “the Warsaw Convention as amended at The Hague, 1955”, hereinafter referred to as the Convention, shall, subject to the provisions of this Act, have the force of law in Bangladesh in relation to any carriage by air to which those rules apply, irrespective of the nationality of the aircraft performing the carriage.(2) The Government may, by notification in the official Gazette, certify who are the High Contracting Parties to the Convention, in respect of what territories they are parties, and to what extent they have availed themselves of the Additional Protocol to the Convention, and any such notification shall be conclusive evidence of the matters certified therein.(3) Notwithstanding anything contained in theFatal Accidents Act, 1855, or any other law for the time being in force, the rules contained in the First Schedule shall, in all cases to which those rules apply, determine the liability of a carrier in respect of the death of a passenger, and the rules contained in the Second Schedule shall determine the persons by whom and for whose benefit and the manner in which such liability may be enforced.(4) Any sum in francs mentioned in rule 22 of the First Schedule shall, for the purpose of any action against a carrier, be converted into rupees at the rate of exchange prevailing on the date on which the amount of damages to be paid by the carrier is ascertained by the Court.(5) Any reference in the First Schedule-(a)\tto the territory of any High Contracting Party to the Convention shall be construed as a reference to all the territories in respect of which he is a party; and(b)\tto agents of the carrier shall be construed as including a reference to servants of the carrier."
+    },
+    {
+      "section_content": "3. (1) Every High Contracting Party to the Convention who has not availed himself of the provisions of the Additional Protocol thereto shall, for the purposes of any suit brought in a Court in Bangladesh in accordance with the provisions of rule 28 of the First Schedule to enforce a claim in respect of carriage undertaken by him, be deemed to have submitted to the jurisdiction of that Court and to be a person for the purposes of theCode of Civil Procedure, 1908.(2) The2[High Court Division] may make rules of procedure providing for all matters which may be expedient to enable such suits to be instituted and carried on.(3) Nothing in this section shall authorise any Court to attach or sell any property of a High Contracting Party to the Convention."
+    },
+    {
+      "section_content": "4. The Government may, by notification in the official Gazette, apply the rules contained in the First Schedule and any provision of section 2 to such carriage by air, not being international carriage by air as defined in the First Schedule, as may be specified in the notification, subject, however, to such exceptions, adaptations and modifications, if any, as may be so specified."
+    },
+    {
+      "section_content": "5. TheCarriage By Air Act, 1934, shall,-(a)\tin so far as it relates to carriage by air to which the rules contained in the First Schedule to this Act may, for the time being, apply, stand repealed; and(b) \tto the extent it has not been so repealed, have effect subject to the modification that for the provisions of the Second Schedule to that Act the provisions of the Second Schedule to this Act shall be substituted."
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1Throughout this Act, the words “Bangladesh” and “Government” were substituted for the words “Pakistan” and “Central Government” respectively by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "2The words “High Court Division” were substituted for the words “High Court” by Article 7(1)(a) of theBangladesh (Adaptation of Existing Laws) Order, 1972(President’s Order No. 48 of 1972) as amended by the Bangladesh Adaptation of Existing Laws (Amendment) Order, 1972 (President’s Order No. 150 of 1972)"
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-344.html",
+  "fetch_timestamp": "2025-07-19 02:13:17",
+  "csv_metadata": {
+    "act_title_from_csv": "The Carriage by Air (International Convention) Act, 1966",
+    "act_no_from_csv": "IX",
+    "act_year_from_csv": "1966",
+    "is_repealed": false
+  },
+  "token_count": 874,
+  "language": "english",
+  "government_context": {
+    "govt_system": "Military Rule",
+    "position_head_govt": "President of Pakistan",
+    "head_govt_name": "General Ayub Khan",
+    "head_govt_designation": "President of Pakistan (Military regime)",
+    "how_got_power": "Military coup",
+    "period_years": "1958-1969",
+    "years_in_power": 11
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:21",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 734,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:26",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:02",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:09",
+    "previous_token_count": 734,
+    "accurate_token_count": 874
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "East Pakistan Period",
+      "year_range": "1947-1971",
+      "act_year": 1966
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Government of India Act 1935 (adapted)",
+        "Pakistan Constitution 1956",
+        "Pakistan Constitution 1962"
+      ],
+      "court_system": [
+        "Dhaka High Court (1948)",
+        "District Courts",
+        "Federal Court/Supreme Court of Pakistan"
+      ],
+      "legal_basis": "Adapted British-Indian laws with Islamic provisions",
+      "enforcement_mechanism": "Pakistani legal system"
+    },
+    "government_system": {
+      "type": "Federal Parliamentary (1947-1958), Presidential (1958-1971)",
+      "structure": "Provincial government under federal system",
+      "revenue_collection": "Federal and provincial taxation",
+      "administrative_units": [
+        "Province",
+        "Districts",
+        "Thanas"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "East Bengal/East Pakistan Police",
+      "military_police": "Pakistan Army and paramilitary forces",
+      "jurisdiction": "Provincial police under federal oversight"
+    },
+    "land_relations": {
+      "tenure_system": "East Bengal State Acquisition and Tenancy Act 1950",
+      "property_rights": "Abolition of zamindari system",
+      "revenue_system": "Direct government land revenue",
+      "peasant_status": "Farmers as direct tenants to state"
+    },
+    "key_characteristics": [
+      "Zamindari abolition (1951)",
+      "Language movement legal issues (1952)",
+      "Military rule periods (1958-1971)",
+      "Constitutional crises and martial law",
+      "Bengali autonomy demands and legal frameworks"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:26"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "act_title": "The Private Fisheries Protection Act, 1889",
+  "act_no": "II",
+  "act_year": "1889",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. (1) This Act may be called thePrivate Fisheries Protection Act, 1889.(2) It extends to the whole of2[Bangladesh]."
+    },
+    {
+      "section_content": "2. In this Act–“fish” includes shell-fish and turtles;“fixed engine” means any net, cage, trap or other contrivance for taking fish fixed in the soil or made stationary in any other way;“private waters” means waters-(a)\twhich are the exclusive property of any person; or(b)\tin which any person has an exclusive right of fishery, and in which fish are not confined but have means of ingress or egress."
+    },
+    {
+      "section_content": "3.  Any person who-(a)\tfishes in any private waters, not having a right to fish therein,(b)\terects, places, maintains or uses any fixed engine in private waters, or puts, or knowingly permits to be put, therein any matter for the purpose of catching or destroying fish without the permission of the person to whom the right of fishery therein belongs;shall be guilty of an offence, and shall be punished for a first offence with a fine not exceeding fifty Taka.and for a subsequent offence with imprisonment which may be simple or rigorous, for a term not exceeding one month or with a fine not exceeding two hundred Taka, or both:Provided that nothing herein contained shall apply to acts done by any person in the exercise of a bona fide claim of right, or shall prevent any person from angling with a rod and line or with a line only in any portion of a navigable river."
+    },
+    {
+      "section_content": "4. (1) Any fixed engine erected, placed, maintained or used in contravention of the last preceding section, and any fish taken by means of such engine, or otherwise in contravention of this Act, shall be forfeited."
+    },
+    {
+      "section_content": "(2) And such fixed engine may be removed or taken possession of by the Magistrate of the district, or such person as he empowers in this behalf."
+    },
+    {
+      "section_content": "5. Whoever enters upon land in the possession of another or upon private waters, with intent to commit any of the offences specified in section 3, shall be punished with a fine not exceeding fifty Taka."
+    },
+    {
+      "section_content": "6. Offences committed, under this Act shall be considered to be “cognizable offences” as defined in theCode of Criminal Procedure, 1898."
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1Throughout this Act, except otherwise provided, the word “Taka” was substituted, for the word “rupees” by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)."
+    },
+    {
+      "footnote_text": "2The word “Bangladesh” was substituted, for the words “East Pakistan” by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act VIII of 1973)"
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-61.html",
+  "fetch_timestamp": "2025-07-19 02:06:21",
+  "csv_metadata": {
+    "act_title_from_csv": "The Private Fisheries Protection Act, 1889",
+    "act_no_from_csv": "II",
+    "act_year_from_csv": "1889",
+    "is_repealed": false
+  },
+  "token_count": 575,
+  "language": "english",
+  "government_context": {
+    "govt_system": "Historical period - context not available",
+    "position_head_govt": "Unknown",
+    "head_govt_name": "Unknown",
+    "head_govt_designation": "Unknown",
+    "how_got_power": "Unknown",
+    "period_years": "1889",
+    "years_in_power": 0,
+    "note": "Government context not available for this historical period"
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:22",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 440,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:27",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:07",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:11",
+    "previous_token_count": 440,
+    "accurate_token_count": 575
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "British Crown Rule",
+      "year_range": "1858-1947",
+      "act_year": 1889
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Government of India Act 1858",
+        "Indian Penal Code 1860",
+        "Code of Civil Procedure 1908",
+        "Evidence Act 1872"
+      ],
+      "court_system": [
+        "High Courts (1861)",
+        "District Courts",
+        "Magistrate Courts"
+      ],
+      "legal_basis": "Codified British-Indian legal system",
+      "enforcement_mechanism": "Imperial Police Service and civil courts"
+    },
+    "government_system": {
+      "type": "Crown Colony Administration",
+      "structure": "Viceroy and provincial governors",
+      "revenue_collection": "Imperial taxation system",
+      "administrative_units": [
+        "Provinces",
+        "Districts",
+        "Sub-districts"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Police Act 1861 - structured police force",
+      "military_police": "Imperial Police Service",
+      "jurisdiction": "Provincial police under colonial control"
+    },
+    "land_relations": {
+      "tenure_system": "Zamindari, Ryotwari, and Mahalwari systems",
+      "property_rights": "Colonial property law framework",
+      "revenue_system": "Land revenue administration",
+      "peasant_status": "Various tenant classes with limited rights"
+    },
+    "key_characteristics": [
+      "Codification of laws (Penal Code, CPC, Evidence Act)",
+      "Structured civil service system",
+      "Constitutional developments (1909, 1919, 1935 Acts)",
+      "Bengal Tenancy Act 1885 and amendments",
+      "Emergency powers and martial law provisions"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:27"
+  }
+}

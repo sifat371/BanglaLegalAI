@@ -1,0 +1,109 @@
+{
+  "act_title": "The Destructive Insects and Pests Act, 1914",
+  "act_no": "II",
+  "act_year": "1914",
+  "publication_date": "19/07/2025",
+  "sections": [],
+  "footnotes": [
+    {
+      "footnote_text": "1The words, figures and comma \"section 16 of theCustoms Act, 1969\" were substituted, for the words, figures and comma \"section 19 of the Sea Customs Act, 1878\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "2The words, comma and figure \"Customs Act, 1969\" were substituted, for the words and comma \"law relating to Sea Customs, and the law for the time being in force relating to Sea Customs or any such article shall apply accordingly\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "3The words and figure \"or under section 4A\" were omitted by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "4The word \"Taka\" was substituted, for the word \"rupees\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-102.html",
+  "fetch_timestamp": "2025-07-19 02:07:43",
+  "csv_metadata": {
+    "act_title_from_csv": "The Destructive Insects and Pests Act, 1914  [Repealed]",
+    "act_no_from_csv": "II",
+    "act_year_from_csv": "1914",
+    "is_repealed": true
+  },
+  "token_count": 322,
+  "language": "unknown",
+  "government_context": {
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Governor of Bengal",
+    "head_govt_name": "Lord Carmichael (Thomas Gibson-Carmichael)",
+    "head_govt_designation": "Governor of Bengal Province",
+    "how_got_power": "British Crown appointment",
+    "period_years": "1912-1917",
+    "years_in_power": 5
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:18",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "unknown",
+    "token_count": 178,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:24",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:35:48",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:00",
+    "previous_token_count": 178,
+    "accurate_token_count": 322
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "British Crown Rule",
+      "year_range": "1858-1947",
+      "act_year": 1914
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Government of India Act 1858",
+        "Indian Penal Code 1860",
+        "Code of Civil Procedure 1908",
+        "Evidence Act 1872"
+      ],
+      "court_system": [
+        "High Courts (1861)",
+        "District Courts",
+        "Magistrate Courts"
+      ],
+      "legal_basis": "Codified British-Indian legal system",
+      "enforcement_mechanism": "Imperial Police Service and civil courts"
+    },
+    "government_system": {
+      "type": "Crown Colony Administration",
+      "structure": "Viceroy and provincial governors",
+      "revenue_collection": "Imperial taxation system",
+      "administrative_units": [
+        "Provinces",
+        "Districts",
+        "Sub-districts"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Police Act 1861 - structured police force",
+      "military_police": "Imperial Police Service",
+      "jurisdiction": "Provincial police under colonial control"
+    },
+    "land_relations": {
+      "tenure_system": "Zamindari, Ryotwari, and Mahalwari systems",
+      "property_rights": "Colonial property law framework",
+      "revenue_system": "Land revenue administration",
+      "peasant_status": "Various tenant classes with limited rights"
+    },
+    "key_characteristics": [
+      "Codification of laws (Penal Code, CPC, Evidence Act)",
+      "Structured civil service system",
+      "Constitutional developments (1909, 1919, 1935 Acts)",
+      "Bengal Tenancy Act 1885 and amendments",
+      "Emergency powers and martial law provisions"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:24"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "act_title": "The Registration of Foreigners Act, 1939",
+  "act_no": "XVI",
+  "act_year": "1939",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. (1) This Act may be called theRegistration of Foreigners Act, 1939.(2) It extends to the whole of Bangladesh."
+    },
+    {
+      "section_content": "2. \tIn this Act-(a)\t“foreigner” means a person who is not a citizen of Bangladesh;(b)\t“prescribed” means prescribed by rules made under this Act."
+    },
+    {
+      "section_content": "3. The Government may after previous publication, by notification in the official Gazette, make rules with respect to foreigners for any or all of the following purposes, that is to say-(a)\tfor requiring any foreigner entering, or being present in, Bangladesh to report his presence to a prescribed authority within such time and in such manner and with such particulars as may be prescribed;(b) \tfor requiring any foreigner moving from one place to another place in Bangladesh, to report, on arrival at such other place, his presence to a prescribed authority within such time and in such manner and with such particulars as may be prescribed;(c) \tfor requiring any foreigner who is about to leave Bangladesh to report the date of his intended departure and such other particulars as may be prescribed to such authority and within such period before departure as may be prescribed;(d)\tfor requiring any foreigner entering, being present in, or departing from, Bangladesh, to produce, on demand by a prescribed authority, such proof of his identity as may be prescribed;(e)\tfor requiring any person having the management of any hotel, boarding-house, sarai or any other premises of like nature to report the name of any foreigner residing therein for whatever duration, to a prescribed authority within such time and in such manner and with such particulars as may be prescribed;(f) \tfor requiring any person having the management or control of any vessel or aircraft to furnish to a prescribed authority such information as may be prescribed regarding any foreigner entering, or intending to depart from, Bangladesh, in such vessel or aircraft, and to furnish to such authority such assistance as may be necessary or prescribed for giving effect to this Act;(g)\tfor providing for such other incidental or supplementary matters as may appear to the Government necessary or expedient for giving effect to this Act."
+    },
+    {
+      "section_content": "4. If any question arises with reference to this Act or any rule made thereunder, whether any person is or is not a foreigner, or is or is not a foreigner of a particular class or description, the onus of proving that such person is not a foreigner or is not a foreigner of such particular class or description, as the case may be, shall, notwithstanding anything contained in theEvidence Act, 1872, lie upon such person."
+    },
+    {
+      "section_content": "5. Any person who contravenes, or attempts to contravene, or fails to comply with, any provision of any rule made under this Act shall be punished, if a foreigner, with imprisonment for a term which may extend to one year or with fine which may extend to one thousand Taka or with both, or if not a foreigner, with fine which may extend to five hundred Taka."
+    },
+    {
+      "section_content": "6. The Government may, by order, declare that any or all of the provisions of the rules made under this Act shall not apply, or shall apply only with such modifications or subject to such conditions as may be specified in the said order, to or in relation to any individual foreigner or any class or description of foreigner:Provided that a copy of every such order shall be placed on the table of1[Parliament] as soon as may be after its promulgation."
+    },
+    {
+      "section_content": "7. No suit, prosecution or other legal proceeding shall lie against any person for anything which is in good faith done or intended to be done under this Act."
+    },
+    {
+      "section_content": "8. The provisions of this Act shall be in addition to, and not in derogation of, the provisions of theForeigners Act, 1946and any other law for the time being in force."
+    },
+    {
+      "section_content": "9. [Application of Act to Acceding States.- Omitted by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973).]"
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1The word “Parliament” was substituted for the words “the Central Legislature” by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-182.html",
+  "fetch_timestamp": "2025-07-19 02:09:30",
+  "csv_metadata": {
+    "act_title_from_csv": "The Registration of Foreigners Act, 1939",
+    "act_no_from_csv": "XVI",
+    "act_year_from_csv": "1939",
+    "is_repealed": false
+  },
+  "token_count": 854,
+  "language": "english",
+  "government_context": {
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Governor of Bengal",
+    "head_govt_name": "Sir John Arthur Herbert",
+    "head_govt_designation": "Governor of Bengal Province",
+    "how_got_power": "British Crown appointment",
+    "period_years": "1939-1943",
+    "years_in_power": 4
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:20",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 712,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:26",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:35:59",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:08",
+    "previous_token_count": 712,
+    "accurate_token_count": 854
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "British Crown Rule",
+      "year_range": "1858-1947",
+      "act_year": 1939
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Government of India Act 1858",
+        "Indian Penal Code 1860",
+        "Code of Civil Procedure 1908",
+        "Evidence Act 1872"
+      ],
+      "court_system": [
+        "High Courts (1861)",
+        "District Courts",
+        "Magistrate Courts"
+      ],
+      "legal_basis": "Codified British-Indian legal system",
+      "enforcement_mechanism": "Imperial Police Service and civil courts"
+    },
+    "government_system": {
+      "type": "Crown Colony Administration",
+      "structure": "Viceroy and provincial governors",
+      "revenue_collection": "Imperial taxation system",
+      "administrative_units": [
+        "Provinces",
+        "Districts",
+        "Sub-districts"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Police Act 1861 - structured police force",
+      "military_police": "Imperial Police Service",
+      "jurisdiction": "Provincial police under colonial control"
+    },
+    "land_relations": {
+      "tenure_system": "Zamindari, Ryotwari, and Mahalwari systems",
+      "property_rights": "Colonial property law framework",
+      "revenue_system": "Land revenue administration",
+      "peasant_status": "Various tenant classes with limited rights"
+    },
+    "key_characteristics": [
+      "Codification of laws (Penal Code, CPC, Evidence Act)",
+      "Structured civil service system",
+      "Constitutional developments (1909, 1919, 1935 Acts)",
+      "Bengal Tenancy Act 1885 and amendments",
+      "Emergency powers and martial law provisions"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:26"
+  }
+}

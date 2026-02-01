@@ -1,0 +1,120 @@
+{
+  "act_title": "The Excise (Malt Liquors) Act, 1890",
+  "act_no": "XIII",
+  "act_year": "1890",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. (1) This Act may be called theExcise (Malt Liquors) Act, 1890:(2) [Repealed by the Repealing and Amending Act, 1914 (Act No.  X of 1914).]"
+    },
+    {
+      "section_content": "2-5. [Repealed by the Excise Act, 1896 (Act No. XII of 1896).]"
+    },
+    {
+      "section_content": "6-8. [Repealed by the Bengal Excise Act, 1909 (Act No. V of 1909).]"
+    },
+    {
+      "section_content": "9. The provisions of1[Customs Act, 1969,] with respect to the allowance of a drawback of excise-duty paid on spirit manufactured in2[Bangladesh] and exported to a foreign port, and with respect to the regulation of the drawback by the quantity of such spirit, shall apply also, so far as they can be made applicable, to fermented liquor made in3[Bangladesh] from malt and so exported and to the drawback of the excise-duty paid on such liquor."
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1The words, commas and figure “Customs Act, 1969,” were substituted, for the words, commas and figure “section 150 of the Sea Customs Act, 1878,” by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)."
+    },
+    {
+      "footnote_text": "2The word \"Bangladesh\" was substituted, for the word \"Pakistan\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)."
+    },
+    {
+      "footnote_text": "3The word \"Bangladesh\" was substituted, for the word \"Pakistan\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)."
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-66.html",
+  "fetch_timestamp": "2025-07-19 02:06:30",
+  "csv_metadata": {
+    "act_title_from_csv": "The Excise (Malt Liquors) Act, 1890",
+    "act_no_from_csv": "XIII",
+    "act_year_from_csv": "1890",
+    "is_repealed": false
+  },
+  "token_count": 374,
+  "language": "english",
+  "government_context": {
+    "govt_system": "Historical period - context not available",
+    "position_head_govt": "Unknown",
+    "head_govt_name": "Unknown",
+    "head_govt_designation": "Unknown",
+    "how_got_power": "Unknown",
+    "period_years": "1890",
+    "years_in_power": 0,
+    "note": "Government context not available for this historical period"
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:22",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 239,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:28",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:08",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:11",
+    "previous_token_count": 239,
+    "accurate_token_count": 374
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "British Crown Rule",
+      "year_range": "1858-1947",
+      "act_year": 1890
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Government of India Act 1858",
+        "Indian Penal Code 1860",
+        "Code of Civil Procedure 1908",
+        "Evidence Act 1872"
+      ],
+      "court_system": [
+        "High Courts (1861)",
+        "District Courts",
+        "Magistrate Courts"
+      ],
+      "legal_basis": "Codified British-Indian legal system",
+      "enforcement_mechanism": "Imperial Police Service and civil courts"
+    },
+    "government_system": {
+      "type": "Crown Colony Administration",
+      "structure": "Viceroy and provincial governors",
+      "revenue_collection": "Imperial taxation system",
+      "administrative_units": [
+        "Provinces",
+        "Districts",
+        "Sub-districts"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Police Act 1861 - structured police force",
+      "military_police": "Imperial Police Service",
+      "jurisdiction": "Provincial police under colonial control"
+    },
+    "land_relations": {
+      "tenure_system": "Zamindari, Ryotwari, and Mahalwari systems",
+      "property_rights": "Colonial property law framework",
+      "revenue_system": "Land revenue administration",
+      "peasant_status": "Various tenant classes with limited rights"
+    },
+    "key_characteristics": [
+      "Codification of laws (Penal Code, CPC, Evidence Act)",
+      "Structured civil service system",
+      "Constitutional developments (1909, 1919, 1935 Acts)",
+      "Bengal Tenancy Act 1885 and amendments",
+      "Emergency powers and martial law provisions"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:28"
+  }
+}

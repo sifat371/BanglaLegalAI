@@ -1,0 +1,115 @@
+{
+  "act_title": "The Chittagong Development Authority (Land Acquisition Validation) Ordinance, 1963 (East Pakistan Ordinance)",
+  "act_no": "VIII",
+  "act_year": "1963",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. (1) This Ordinance may be called the Chittagong Development Authority (Land Acquisition Validation) Ordinance, 1963.(2) It shall come into force at once."
+    },
+    {
+      "section_content": "2. Notwithstanding anything contained in the Chittagong Development Authority Ordinance, 1959, or in the East Bengal (Emergency) Requisition of Property Act, 1948, or in any judgment, decree or order of any Court, every acquisition of immovable property made or purported to have been made by the1[Government]  or Deputy Commissioner, as the case maybe, for the Chittagong Development Authority for any public purpose under the said Ordinance or Act, as the case may be, and which, immediately before such commencement, was used or occupied by the2[Government] or the said Authority or by any officer, shall, notwithstanding any defect in, or invalidity of, the enactment or order under which acquisition was made, be deemed for all purposes to have been validly made in accordance with law."
+    },
+    {
+      "section_content": "3. Notwithstanding anything contained in the Chittagong Development Authority Ordinance, 1959, or in the East Bengal (Emergency) Requisition of Property Act, 1948, or in any judgment, decree or order, all orders made or purported to have been made under the said Ordinance or Act before the commencement of this Ordinance in respect of lands acquired for the Chittagong Development Authority by the Deputy Commissioner or any officer shall be deemed to have been lawfully and validly made by him as if under proper authority and no such order shall be called in question in any Court."
+    },
+    {
+      "section_content": "4. Notwithstanding anything contained in any law for the time being in force or in any judgment, decree or order of any Court, anything done or action taken or purported to have been done or taken (including any declaration made, any notice or orders issued, assessments or payment of compensations made under the Chittagong Development Authority Ordinance, 1959, or the East Bengal (Emergency) Requisition of Property Act, 1948) shall be deemed to have been validly done, taken or made by or under the said Ordinance."
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1The word “Government” was substituted for the words “Provincial Government” by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "2The word “Government” was substituted for the words “Provincial Government” by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-336.html",
+  "fetch_timestamp": "2025-07-19 02:13:11",
+  "csv_metadata": {
+    "act_title_from_csv": "The Chittagong Development Authority (Land Acquisition Validation) Ordinance, 1963 (East Pakistan Ordinance)",
+    "act_no_from_csv": "VIII",
+    "act_year_from_csv": "1963",
+    "is_repealed": false
+  },
+  "token_count": 555,
+  "language": "english",
+  "government_context": {
+    "govt_system": "Military Rule",
+    "position_head_govt": "President of Pakistan",
+    "head_govt_name": "General Ayub Khan",
+    "head_govt_designation": "President of Pakistan (Military regime)",
+    "how_got_power": "Military coup",
+    "period_years": "1958-1969",
+    "years_in_power": 11
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:21",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 411,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:26",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:02",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:09",
+    "previous_token_count": 411,
+    "accurate_token_count": 555
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "East Pakistan Period",
+      "year_range": "1947-1971",
+      "act_year": 1963
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Government of India Act 1935 (adapted)",
+        "Pakistan Constitution 1956",
+        "Pakistan Constitution 1962"
+      ],
+      "court_system": [
+        "Dhaka High Court (1948)",
+        "District Courts",
+        "Federal Court/Supreme Court of Pakistan"
+      ],
+      "legal_basis": "Adapted British-Indian laws with Islamic provisions",
+      "enforcement_mechanism": "Pakistani legal system"
+    },
+    "government_system": {
+      "type": "Federal Parliamentary (1947-1958), Presidential (1958-1971)",
+      "structure": "Provincial government under federal system",
+      "revenue_collection": "Federal and provincial taxation",
+      "administrative_units": [
+        "Province",
+        "Districts",
+        "Thanas"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "East Bengal/East Pakistan Police",
+      "military_police": "Pakistan Army and paramilitary forces",
+      "jurisdiction": "Provincial police under federal oversight"
+    },
+    "land_relations": {
+      "tenure_system": "East Bengal State Acquisition and Tenancy Act 1950",
+      "property_rights": "Abolition of zamindari system",
+      "revenue_system": "Direct government land revenue",
+      "peasant_status": "Farmers as direct tenants to state"
+    },
+    "key_characteristics": [
+      "Zamindari abolition (1951)",
+      "Language movement legal issues (1952)",
+      "Military rule periods (1958-1971)",
+      "Constitutional crises and martial law",
+      "Bengali autonomy demands and legal frameworks"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:26"
+  }
+}

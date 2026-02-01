@@ -1,0 +1,116 @@
+{
+  "act_title": "The Bangladesh (Adaptation of Insurance Act) Order, 1972 (President's Order)",
+  "act_no": "19",
+  "act_year": "1972",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. (1) This Order may be called the Bangladesh (Adaptation of Insurance Act) Order, 1972.(2) It extends to the whole of Bangladesh.(3) It shall come into force at once and shall be deemed to have taken effect on the 16th day of December, 1971."
+    },
+    {
+      "section_content": "2.  TheInsurance Act, 1938(Act IV of 1938), hereinafter referred to as the said Act, shall, until repealed, altered or amended by the Legislature of Bangladesh or by any other competent authority, be subject to the adaptation specified in the following Articles."
+    },
+    {
+      "section_content": "3. In the said Act, reference to “Central Government” or “Provincial Government” shall, except where the context otherwise requires, be construed as reference to “Government of Bangladesh”."
+    },
+    {
+      "section_content": "4. In the said Act, reference to “Pakistan” or “Province” shall, except where the reference occurs in any citation or description of any law and except where the context otherwise requires, be construed as reference to “Bangladesh”."
+    },
+    {
+      "section_content": "5. In the said Act, reference to “Central Legislature” or “Provincial Legislature” shall, except where the context otherwise requires, be construed as reference to “Legislature of Bangladesh”."
+    },
+    {
+      "section_content": "6. In the said Act, reference to “State Bank of Pakistan” shall, except where the context otherwise requires, be construed as reference to “Bangladesh Bank”."
+    },
+    {
+      "section_content": "7. In the said Act, reference to “Federation” shall, except where the context otherwise requires, be construed as reference to, “People's Republic of Bangladesh”."
+    }
+  ],
+  "footnotes": [],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-374.html",
+  "fetch_timestamp": "2025-07-19 02:14:43",
+  "csv_metadata": {
+    "act_title_from_csv": "The Bangladesh (Adaptation of Insurance Act) Order, 1972 (President's Order)",
+    "act_no_from_csv": "19",
+    "act_year_from_csv": "1972",
+    "is_repealed": false
+  },
+  "token_count": 375,
+  "language": "english",
+  "government_context": {
+    "govt_system": "Parliamentary Democracy",
+    "position_head_govt": "Prime Minister",
+    "head_govt_name": "Sheikh Mujibur Rahman",
+    "head_govt_designation": "Prime Minister of Bangladesh",
+    "how_got_power": "Post-independence constitutional government",
+    "period_years": "1972-1973",
+    "years_in_power": 1
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:21",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 248,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:27",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:03",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:09",
+    "previous_token_count": 248,
+    "accurate_token_count": 375
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "Early Independent Bangladesh",
+      "year_range": "1971-1975",
+      "act_year": 1972
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Laws Continuance Enforcement Order 1971",
+        "Constitution of Bangladesh 1972"
+      ],
+      "court_system": [
+        "Supreme Court with High Court and Appellate Divisions",
+        "Subordinate Courts"
+      ],
+      "legal_basis": "Secular constitutional democracy with British-inherited laws",
+      "enforcement_mechanism": "Independent judiciary and civil courts"
+    },
+    "government_system": {
+      "type": "Parliamentary Democracy",
+      "structure": "Westminster-style parliamentary system",
+      "revenue_collection": "National taxation system",
+      "administrative_units": [
+        "Divisions",
+        "Districts",
+        "Thanas",
+        "Unions"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Bangladesh Police (continuing Police Act 1861)",
+      "military_police": "Bangladesh Army and security forces",
+      "jurisdiction": "National police force"
+    },
+    "land_relations": {
+      "tenure_system": "Continuation of 1950 Act with modifications",
+      "property_rights": "Constitutional property rights",
+      "revenue_system": "State land revenue collection",
+      "peasant_status": "Land ceiling laws and redistribution efforts"
+    },
+    "key_characteristics": [
+      "Secular constitution with four principles",
+      "Continuation of colonial-era laws",
+      "War crimes tribunals establishment",
+      "Nationalization policies",
+      "Special Powers Act 1974"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:27"
+  }
+}

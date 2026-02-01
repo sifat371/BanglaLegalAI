@@ -1,0 +1,119 @@
+{
+  "act_title": "The Bangladesh Laws (Amendment) Act, 1975",
+  "act_no": "XIII",
+  "act_year": "1975",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. (1) This Act may be called theBangladesh Laws (Amendment) Act, 1975.(2) It shall be deemed to have taken effect on the 25th day of January, 1975."
+    },
+    {
+      "section_content": "2. In theCadet College Ordinance, 1964(E. P. Ordinance II of 1964), in section 4A, in clause (a), for the words and comma “Prime Minister, Government” the word “President” shall be substituted."
+    },
+    {
+      "section_content": "3. In theBangladesh Special (Remuneration and Privileges) Order, 1972(P. O. No. 49 of 1972),-(a) \tin the preamble, in the first paragraph, for the words “Ministers of the Cabinet” the words “Members of the Council of Ministers” shall be substituted; and(b)\tin Article 2, for clause (b) the following shall be substituted, namely:-“(b)\t“Minister” means a member of the Council of Ministers and includes a Minister of State and a Deputy Minister but does not include the Prime Minister;”."
+    },
+    {
+      "section_content": "4. In theBangladesh (Whips) Order, 1972(P. O. No. 64 of 1972),-(a)\tin Article 3, in clause (4), for the words “Prime Minister” the word “President” shall be substituted; and(b)\tArticle 6 shall be omitted."
+    },
+    {
+      "section_content": "5. In theBangladesh (Freedom Fighters) Welfare Trust Order, 1972(P. O. No. 94 of 1972), in Article 7, in clause (1), in sub-clause (a), the words “nominated by the Prime Minister” shall be omitted."
+    },
+    {
+      "section_content": "6. In the Bangladesh Local Government (Union Parishad and Paurashava) Order, 1973 (P. O. No. 22 of 1973), in the preamble,-(a)\tthe first paragraph shall be omitted; and(b)\tin the second paragraph, the word “AND” shall be omitted."
+    },
+    {
+      "section_content": "7. In thePublic Servants (Retirement) Act, 1974(XII of 1974), in section 5, in sub-section (3), for the words “Prime Minister” the word “President” shall be substituted."
+    },
+    {
+      "section_content": "8. The Political Parties Act, 1962 (III of 1962), the Representation of the People (Supplementary) Order, 1973 (P. O. No. 8 of 1973), and the Bangladesh Laws (Amendment) Ordinance, 1975 (Ord. No. XIII of 1975), are hereby repealed."
+    }
+  ],
+  "footnotes": [],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-490.html",
+  "fetch_timestamp": "2025-07-19 02:16:30",
+  "csv_metadata": {
+    "act_title_from_csv": "The Bangladesh Laws (Amendment) Act, 1975",
+    "act_no_from_csv": "XIII",
+    "act_year_from_csv": "1975",
+    "is_repealed": false
+  },
+  "token_count": 444,
+  "language": "english",
+  "government_context": {
+    "govt_system": "Military Rule",
+    "position_head_govt": "President",
+    "head_govt_name": "Abu Sadat Mohammad Sayem",
+    "head_govt_designation": "President (Military-backed)",
+    "how_got_power": "Military coup/counter-coup",
+    "period_years": "1975-1977",
+    "years_in_power": 2
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:22",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 324,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:27",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:05",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:10",
+    "previous_token_count": 324,
+    "accurate_token_count": 444
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "Early Independent Bangladesh",
+      "year_range": "1971-1975",
+      "act_year": 1975
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Laws Continuance Enforcement Order 1971",
+        "Constitution of Bangladesh 1972"
+      ],
+      "court_system": [
+        "Supreme Court with High Court and Appellate Divisions",
+        "Subordinate Courts"
+      ],
+      "legal_basis": "Secular constitutional democracy with British-inherited laws",
+      "enforcement_mechanism": "Independent judiciary and civil courts"
+    },
+    "government_system": {
+      "type": "Parliamentary Democracy",
+      "structure": "Westminster-style parliamentary system",
+      "revenue_collection": "National taxation system",
+      "administrative_units": [
+        "Divisions",
+        "Districts",
+        "Thanas",
+        "Unions"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Bangladesh Police (continuing Police Act 1861)",
+      "military_police": "Bangladesh Army and security forces",
+      "jurisdiction": "National police force"
+    },
+    "land_relations": {
+      "tenure_system": "Continuation of 1950 Act with modifications",
+      "property_rights": "Constitutional property rights",
+      "revenue_system": "State land revenue collection",
+      "peasant_status": "Land ceiling laws and redistribution efforts"
+    },
+    "key_characteristics": [
+      "Secular constitution with four principles",
+      "Continuation of colonial-era laws",
+      "War crimes tribunals establishment",
+      "Nationalization policies",
+      "Special Powers Act 1974"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:27"
+  }
+}

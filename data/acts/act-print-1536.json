@@ -1,0 +1,106 @@
+{
+  "act_title": "জাতীয় সংসদের নির্বাচনি এলাকার সীমানা নির্ধারণ (সংশোধন) অধ্যাদেশ, ২০২৫",
+  "act_no": "২৩",
+  "act_year": "2025",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "১। (১) এই অধ্যাদেশজাতীয় সংসদের নির্বাচনি এলাকার সীমানা নির্ধারণ (সংশোধন) অধ্যাদেশ, ২০২৫নামে অভিহিত হইবে।(২) ইহা অবিলম্বে কার্যকর হইবে।"
+    },
+    {
+      "section_content": "২।জাতীয় সংসদের নির্বাচনি এলাকার সীমানা নির্ধারণ আইন, ২০২১(২০২১ সনের ১৪ নং আইন) এর ধারা ৮ এর উপ-ধারা (৩) এ উল্লিখিত “উপ-ধারা (১)” শব্দ, সংখ্যা, চিহ্ন ও বন্ধনীর পরিবর্তে “উপ-ধারা (২)” শব্দ, সংখ্যা, চিহ্ন ও বন্ধনী প্রতিস্থাপিত হইবে।"
+    }
+  ],
+  "footnotes": [],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-1536.html",
+  "fetch_timestamp": "2025-07-19 02:44:37",
+  "csv_metadata": {
+    "act_title_from_csv": "জাতীয় সংসদের নির্বাচনি এলাকার সীমানা নির্ধারণ (সংশোধন) অধ্যাদেশ, ২০২৫",
+    "act_no_from_csv": "২৩",
+    "act_year_from_csv": "২০২৫",
+    "is_repealed": false
+  },
+  "token_count": 198,
+  "language": "bengali",
+  "government_context": {
+    "govt_system": "Interim Government",
+    "position_head_govt": "Chief Adviser",
+    "head_govt_name": "Prof. Muhammad Yunus",
+    "head_govt_designation": "Chief Adviser of Interim Government",
+    "how_got_power": "Student uprising/mass revolution against Sheikh Hasina",
+    "period_years": "2024-2025",
+    "years_in_power": 1
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:20",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "bengali",
+    "token_count": 77,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:26",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:35:58",
+    "legal_context_recovery_attempted": true,
+    "legal_context_recovery_timestamp": "2025-07-19 20:42:58",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:08",
+    "previous_token_count": 77,
+    "accurate_token_count": 198
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "Interim Government Transition",
+      "year_range": "2024-2025",
+      "act_year": 2025
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Interim Government Ordinance 2024",
+        "Code of Civil Procedure amendments",
+        "Legal system reforms"
+      ],
+      "court_system": [
+        "Supreme Court (legitimizing interim govt)",
+        "High Court Division",
+        "Reform-focused courts"
+      ],
+      "legal_basis": "Constitutional necessity doctrine",
+      "enforcement_mechanism": "Reform-oriented legal system"
+    },
+    "government_system": {
+      "type": "Interim Advisory Government",
+      "structure": "Chief Adviser with Advisory Council",
+      "revenue_collection": "Transitional fiscal management",
+      "administrative_units": [
+        "8 Divisions",
+        "64 Districts",
+        "492 Upazilas",
+        "Unions"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Police under reform",
+      "military_police": "Army magistracy powers",
+      "jurisdiction": "Transitional law enforcement"
+    },
+    "land_relations": {
+      "tenure_system": "Under review for reforms",
+      "property_rights": "Constitutional protections maintained",
+      "revenue_system": "Digitalization efforts",
+      "peasant_status": "Focus on rural justice"
+    },
+    "key_characteristics": [
+      "Student uprising victory (July 2024)",
+      "Nobel laureate leadership",
+      "Constitutional reform agenda",
+      "Legal system modernization",
+      "Transitional justice mechanisms"
+    ],
+    "context_added_timestamp": "2025-07-19 20:42:58",
+    "recovery_note": "Legal context added after year translation recovery"
+  }
+}

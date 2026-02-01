@@ -1,0 +1,118 @@
+{
+  "act_title": "The Cattle (Prevention of Trespass) Ordinance, 1959 (East Pakistan Ordinance)",
+  "act_no": "XII",
+  "act_year": "1959",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. (1) This Ordinance may be called the1[* * *] Cattle (Prevention of Trespass) Ordinance, 1959.(2) It extends to the whole of2[Bangladesh].(3) It shall come into force on such date and in such areas as the3[Government] may, by notification in the official Gazette, direct."
+    },
+    {
+      "section_content": "2. (1) Any Police officer may take charge of any cattle which may be found straying in any street or trespassing on any land, and doing damage thereto or to the crop or produce thereon and may take or send the same to the nearest pound.(2) If any cattle is found straying in a street or trespassing on any land or doing damage thereto or to any plant or crop     or produce  thereon  with  the  knowledge  or connivance of the\tkeeper or where there is no keeper, the owner, such keeper or owner, as the case may be, shall, on conviction by a Magistrate, be punishable with fine which may extend to4[Tk] 200."
+    },
+    {
+      "section_content": "3. (1) All words and expressions used in this Ordinance and defined in the Cattle Trespass Act, 1871, shall be deemed to have the meanings respectively attributed to them by that Act.(2) The provisions of this Ordinance shall be in addition to and not in derogation of the provision of the Cattle Trespass Act, 1871."
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1The words “East Pakistan” were omitted by Article 6 of theBangladesh (Adaptation of Existing Laws) Order, 1972(President’s Order No. 48 of 1972)"
+    },
+    {
+      "footnote_text": "2The word “Bangladesh” was substituted for the words “East Pakistan” by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "3The word “Government” was substituted for the words “Provincial Government” by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "4The word “Tk” was substituted for the word “Rs” by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-285.html",
+  "fetch_timestamp": "2025-07-19 02:11:57",
+  "csv_metadata": {
+    "act_title_from_csv": "The Cattle (Prevention of Trespass) Ordinance, 1959 (East Pakistan Ordinance)",
+    "act_no_from_csv": "XII",
+    "act_year_from_csv": "1959",
+    "is_repealed": false
+  },
+  "token_count": 485,
+  "language": "english",
+  "government_context": {
+    "govt_system": "Military Rule",
+    "position_head_govt": "President of Pakistan",
+    "head_govt_name": "General Ayub Khan",
+    "head_govt_designation": "President of Pakistan (Military regime)",
+    "how_got_power": "Military coup",
+    "period_years": "1958-1969",
+    "years_in_power": 11
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:21",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 343,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:26",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:01",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:09",
+    "previous_token_count": 343,
+    "accurate_token_count": 485
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "East Pakistan Period",
+      "year_range": "1947-1971",
+      "act_year": 1959
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Government of India Act 1935 (adapted)",
+        "Pakistan Constitution 1956",
+        "Pakistan Constitution 1962"
+      ],
+      "court_system": [
+        "Dhaka High Court (1948)",
+        "District Courts",
+        "Federal Court/Supreme Court of Pakistan"
+      ],
+      "legal_basis": "Adapted British-Indian laws with Islamic provisions",
+      "enforcement_mechanism": "Pakistani legal system"
+    },
+    "government_system": {
+      "type": "Federal Parliamentary (1947-1958), Presidential (1958-1971)",
+      "structure": "Provincial government under federal system",
+      "revenue_collection": "Federal and provincial taxation",
+      "administrative_units": [
+        "Province",
+        "Districts",
+        "Thanas"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "East Bengal/East Pakistan Police",
+      "military_police": "Pakistan Army and paramilitary forces",
+      "jurisdiction": "Provincial police under federal oversight"
+    },
+    "land_relations": {
+      "tenure_system": "East Bengal State Acquisition and Tenancy Act 1950",
+      "property_rights": "Abolition of zamindari system",
+      "revenue_system": "Direct government land revenue",
+      "peasant_status": "Farmers as direct tenants to state"
+    },
+    "key_characteristics": [
+      "Zamindari abolition (1951)",
+      "Language movement legal issues (1952)",
+      "Military rule periods (1958-1971)",
+      "Constitutional crises and martial law",
+      "Bengali autonomy demands and legal frameworks"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:26"
+  }
+}

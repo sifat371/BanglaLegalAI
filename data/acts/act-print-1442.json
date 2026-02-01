@@ -1,0 +1,143 @@
+{
+  "act_title": "The Geneva Convention Implementing Act, 1936",
+  "act_no": "XIV",
+  "act_year": "1936",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. (1) This Act may be called theGeneva Convention Implementing Act, 1936.3[(2) It extends to the whole of4[Bangladesh].]"
+    },
+    {
+      "section_content": "5[2. No person other than a person entitled thereto under the Geneva Convention shall use, or in any manner exhibit, whether for the purpose of trade or business or for any other purpose or object whatsoever, the emblem or the designation \"Red Cross\", \"Red Crescent\", \"Red Lion and Sun\" or \"Sun\" or any sign of designation constituting an imitation thereof, irrespective of the date of the adoption of any such emblems or designation by such person:Provided that the emblem \"Red Cross\" may, with the permission in writing of the Society, be used in time of peace to identify vehicles used as ambulances or to mark the position of aid stations set up exclusively for giving free medical treatment to the wounded or sick.Explanation.- In this section,-(i) \"Geneva Convention\" means the Geneva Convention for the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the field, dated the twelfth day of August, 1949; and6[(ii) \"the Society\" means the Bangladesh Red Cross Society constituted under the Bangladesh Red Cross Society Order, 1973.]"
+    },
+    {
+      "section_content": "3. No person shall use for the purposes of his trade or business the heraldic emblem of the white cross on a red ground, being the federal colours of Switzerland, or any sign constituting a colourable imitation of that heraldic emblem."
+    },
+    {
+      "section_content": "4. Any person contravening the provisions of section 2 or section 3 shall be punishable with fine which may extend to fifty7[Taka], and when such Contravention is committed by a company, association or body of individuals, then, without prejudice to the liability of such company, association or body, every member thereof who is knowingly a party to the contravention shall be liable to the like penalty."
+    },
+    {
+      "section_content": "5. No criminal Court shall take cognizance of any offence punishable under this Act except with the previous sanction of the8[Government]9[***]."
+    },
+    {
+      "section_content": "6. [Saving.] Omitted by the Geneva Convention Implementing (Amdt.) Act, 1954 (III of 1954), s.4 (with effect from the 7th April, 1955)."
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1For Statement of Objects and Reasons, see Gazette of India, 1936, pt., page 310."
+    },
+    {
+      "footnote_text": "2Substituted by Act VIII of 1973, as amended by Act LIII of 1974, for \"the preamble and the enacting clause\" (w.e.f the 26th March, 1971)."
+    },
+    {
+      "footnote_text": "3Substituted by Ord. No. XXI of 1960, s. 3 and 2nd Sch. (w.e.f. the 14th October, 1955), for sub-section (2) as amended by A.O., 1949, and Act XXVI of 1951, s.8."
+    },
+    {
+      "footnote_text": "4Substituted by Act VIII of 1973, as amended by Act LIII of 1974, for \"Pakistan\" (w.e.f. the 26th March, 1971)."
+    },
+    {
+      "footnote_text": "5Substituted by Act XXI of 1963, s. 2, for section 2, which was substituted by Act III of 1954, s.2 (w.e.f. the 7th April, 1995)."
+    },
+    {
+      "footnote_text": "6Substituted by Act VIII of 1973, as amended by Act LIII of 1974, for \"clause (ii)\" (w.e.f. the 26th March, 1971)."
+    },
+    {
+      "footnote_text": "7Substituted ibid., for \"rupees\"."
+    },
+    {
+      "footnote_text": "8Substituted ibid., for \"Central Government\"."
+    },
+    {
+      "footnote_text": "9The words \"or the L.G.\" were omitted by A.O., 1937."
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-1442.html",
+  "fetch_timestamp": "2025-07-19 02:09:11",
+  "csv_metadata": {
+    "act_title_from_csv": "The Geneva Convention Implementing Act, 1936",
+    "act_no_from_csv": "XIV",
+    "act_year_from_csv": "1936",
+    "is_repealed": false
+  },
+  "token_count": 657,
+  "language": "english",
+  "government_context": {
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Governor of Bengal",
+    "head_govt_name": "Sir John Anderson",
+    "head_govt_designation": "Governor of Bengal Province",
+    "how_got_power": "British Crown appointment",
+    "period_years": "1932-1937",
+    "years_in_power": 5
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:20",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 516,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:25",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:35:56",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:06",
+    "previous_token_count": 516,
+    "accurate_token_count": 657
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "British Crown Rule",
+      "year_range": "1858-1947",
+      "act_year": 1936
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Government of India Act 1858",
+        "Indian Penal Code 1860",
+        "Code of Civil Procedure 1908",
+        "Evidence Act 1872"
+      ],
+      "court_system": [
+        "High Courts (1861)",
+        "District Courts",
+        "Magistrate Courts"
+      ],
+      "legal_basis": "Codified British-Indian legal system",
+      "enforcement_mechanism": "Imperial Police Service and civil courts"
+    },
+    "government_system": {
+      "type": "Crown Colony Administration",
+      "structure": "Viceroy and provincial governors",
+      "revenue_collection": "Imperial taxation system",
+      "administrative_units": [
+        "Provinces",
+        "Districts",
+        "Sub-districts"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Police Act 1861 - structured police force",
+      "military_police": "Imperial Police Service",
+      "jurisdiction": "Provincial police under colonial control"
+    },
+    "land_relations": {
+      "tenure_system": "Zamindari, Ryotwari, and Mahalwari systems",
+      "property_rights": "Colonial property law framework",
+      "revenue_system": "Land revenue administration",
+      "peasant_status": "Various tenant classes with limited rights"
+    },
+    "key_characteristics": [
+      "Codification of laws (Penal Code, CPC, Evidence Act)",
+      "Structured civil service system",
+      "Constitutional developments (1909, 1919, 1935 Acts)",
+      "Bengal Tenancy Act 1885 and amendments",
+      "Emergency powers and martial law provisions"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:25"
+  }
+}

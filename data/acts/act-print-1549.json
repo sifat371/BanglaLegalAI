@@ -1,0 +1,103 @@
+{
+  "act_title": "Code of Criminal Procedure (Amendment) Ordinance, 2025",
+  "act_no": "৩৬",
+  "act_year": "2025",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "১।  (১) এই অধ্যাদেশCode of Criminal Procedure (Amendment) Ordinance, 2025নামে অভিহিত হইবে।(২) ইহা অবিলম্বে কার্যকর হইবে।"
+    },
+    {
+      "section_content": "২।Code of Criminal Procedure, 1898(Act No. V of 1898) এর section 173 এর পর নিম্নরূপ নূতন section 173A সন্নিবেশিত হইবে, যথা:-“173A. Interim investigation report, etc.- (1) Notwithstanding anything contained in sub-section (1) of section 173, before completion of an investigation of any case under this Chapter, the Police Commissioner or the District Superintendent of Police or any other officer of equivalent rank supervising the investigation, as the case may be, may require the Investigating Officer to submit an interim investigation report as to the progress of the investigation of the case.(2) If the interim investigation report, as required, discloses that there is insufficient evidence against any accused, the Police Commissioner, the District Superintendent of Police or any other officer of equivalent rank supervising the investigation, as the case may be, may direct the Investigating Officer to submit the report to the Magistrate and upon receipt of such report, the Magistrate or the Tribunal, as the case may be, may, if satisfied, order to discharge such accused subject to sub-section (3), without prejudice to the continuation of investigation against the remaining accused persons.(3) Notwithstanding the discharge of any accused under sub-section (2), if, upon completion of the investigation, it appears on the basis of sufficient and substantive evidence that such person is involved in the commission of the alleged offence, the Investigating Officer shall not be precluded from including his name in the police report under section 173.”।"
+    }
+  ],
+  "footnotes": [],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-1549.html",
+  "fetch_timestamp": "2025-07-19 02:44:47",
+  "csv_metadata": {
+    "act_title_from_csv": "Code of Criminal Procedure (Amendment) Ordinance, 2025",
+    "act_no_from_csv": "৩৬",
+    "act_year_from_csv": "২০২৫",
+    "is_repealed": false
+  },
+  "token_count": 392,
+  "language": "bengali",
+  "government_context": {
+    "govt_system": "Interim Government",
+    "position_head_govt": "Chief Adviser",
+    "head_govt_name": "Prof. Muhammad Yunus",
+    "head_govt_designation": "Chief Adviser of Interim Government",
+    "how_got_power": "Student uprising/mass revolution against Sheikh Hasina",
+    "period_years": "2024-2025",
+    "years_in_power": 1
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:20",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "bengali",
+    "token_count": 273,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:26",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:35:59",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:08",
+    "previous_token_count": 273,
+    "accurate_token_count": 392
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "Interim Government Transition",
+      "year_range": "2024-2025",
+      "act_year": 2025
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Interim Government Ordinance 2024",
+        "Code of Civil Procedure amendments",
+        "Legal system reforms"
+      ],
+      "court_system": [
+        "Supreme Court (legitimizing interim govt)",
+        "High Court Division",
+        "Reform-focused courts"
+      ],
+      "legal_basis": "Constitutional necessity doctrine",
+      "enforcement_mechanism": "Reform-oriented legal system"
+    },
+    "government_system": {
+      "type": "Interim Advisory Government",
+      "structure": "Chief Adviser with Advisory Council",
+      "revenue_collection": "Transitional fiscal management",
+      "administrative_units": [
+        "8 Divisions",
+        "64 Districts",
+        "492 Upazilas",
+        "Unions"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Police under reform",
+      "military_police": "Army magistracy powers",
+      "jurisdiction": "Transitional law enforcement"
+    },
+    "land_relations": {
+      "tenure_system": "Under review for reforms",
+      "property_rights": "Constitutional protections maintained",
+      "revenue_system": "Digitalization efforts",
+      "peasant_status": "Focus on rural justice"
+    },
+    "key_characteristics": [
+      "Student uprising victory (July 2024)",
+      "Nobel laureate leadership",
+      "Constitutional reform agenda",
+      "Legal system modernization",
+      "Transitional justice mechanisms"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:26"
+  }
+}

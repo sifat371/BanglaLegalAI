@@ -1,0 +1,103 @@
+{
+  "act_title": "The Bangladesh Jute Corporation (Repeal) Ordinance, 1976",
+  "act_no": "XLIX",
+  "act_year": "1976",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. (1) This Ordinance may be called theBangladesh Jute Corporation (Repeal) Ordinance, 1976.(2) It shall come into force on the first day of July, 1976."
+    },
+    {
+      "section_content": "2. (1) On the coming into force of this Ordinance, the Bangladesh Jute Corporation Act, 1973 (XXVII of 1973), hereinafter referred to as the said Act, shall stand repealed.(2) Upon the repeal of the said Act,ÔÇö(a)\tall assets, rights, powers, authorities and privileges, and all property, movable and immovable, cash and bank balances, funds, investments and all other rights and interests in, or arising out of, such property, and all books of accounts, registers, records and documents, of the Bangladesh Jute Corporation, hereinafter referred to as the Jute Corporation, shall stand transferred to, and vest in, the Bangladesh Jute Marketing Corporation established under the Jute Marketing Corporation Act, 1957 (E.P. Act XII of 1957), hereinafter referred to as the Jute Marketing Corporation;(b)\tall debts and liabilities incurred, all obligations undertaken, all contracts entered into and all agreements made by or with the Jute Corporation and subsisting or having effect immediately before such repeal shall be deemed to have been incurred, undertaken, entered into or made by or with the Jute Marketing Corporation; \t(c) \tall Officers and other employees of the Jute Corporation shall stand transferred to and become officers and employees of the Jute Marketing Corporation and shall hold office or service in the Jute Marketing Corporation on the same terms and conditions as were enjoyed by them immediately before such repeal and shall continue to do so until these terms and conditions are altered by the Government or by the Jute Marketing Corporation:Provided that no officer or other employee whose services are so transferred shall be entitled to any compensation because of such transfer;(d)\tall suits and other legal proceedings instituted by or against the Jute Corporation before such repeal shall be deemed to be suits and proceeding by or against the Jute Marketing Corporation and shall be proceeded or otherwise dealt with accordingly.(3) The Government may, for the purpose of removing any difficulty in relation to the transfer and other matters specified in sub-section (2), make such orders as it considers expedient and any such order shall be deemed to be, and given effect to as, part of the provisions of this Ordinance."
+    }
+  ],
+  "footnotes": [],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-525.html",
+  "fetch_timestamp": "2025-07-19 02:17:19",
+  "csv_metadata": {
+    "act_title_from_csv": "The Bangladesh Jute Corporation (Repeal) Ordinance, 1976",
+    "act_no_from_csv": "XLIX",
+    "act_year_from_csv": "1976",
+    "is_repealed": false
+  },
+  "token_count": 521,
+  "language": "english",
+  "government_context": {
+    "govt_system": "Military Rule",
+    "position_head_govt": "President",
+    "head_govt_name": "Abu Sadat Mohammad Sayem",
+    "head_govt_designation": "President (Military-backed)",
+    "how_got_power": "Military coup/counter-coup",
+    "period_years": "1975-1977",
+    "years_in_power": 2
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:22",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 400,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:27",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:06",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:10",
+    "previous_token_count": 400,
+    "accurate_token_count": 521
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "Military Rule Era",
+      "year_range": "1975-1990",
+      "act_year": 1976
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Martial Law Proclamations",
+        "5th Amendment (1979)",
+        "7th Amendment (1986)"
+      ],
+      "court_system": [
+        "Supreme Court (limited powers)",
+        "Martial Law Courts",
+        "Civil Courts"
+      ],
+      "legal_basis": "Military decrees with constitutional validation",
+      "enforcement_mechanism": "Military tribunals and civil courts"
+    },
+    "government_system": {
+      "type": "Military Rule/Martial Law",
+      "structure": "Military government with civilian facade",
+      "revenue_collection": "Centralized military administration",
+      "administrative_units": [
+        "Divisions",
+        "Districts",
+        "Upazilas (1982)",
+        "Unions"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Police under military control",
+      "military_police": "Enhanced military and paramilitary forces",
+      "jurisdiction": "Military-controlled law enforcement"
+    },
+    "land_relations": {
+      "tenure_system": "Land reforms under military government",
+      "property_rights": "Military government modifications",
+      "revenue_system": "Upazila system for administration",
+      "peasant_status": "Rural development programs"
+    },
+    "key_characteristics": [
+      "Suspension of democratic institutions",
+      "Constitutional amendments under military rule",
+      "Emergency provisions and martial law",
+      "Upazila system introduction (1982)",
+      "Gradual transition to controlled democracy"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:27"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "act_title": "The Passport (Offences) Act, 1952",
+  "act_no": "LVI",
+  "act_year": "1952",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. (1) This Act may be called thePassport (Offences) Act, 1952.(2) It extends to the whole of Bangladesh and also applies to all citizens of Bangladesh wherever they may be.(3) It shall come into force at once."
+    },
+    {
+      "section_content": "2. In this Act the word “passport” means and includes any permit, visa or other travel document authorising the holder thereof to travel from Bangladesh to any other country, or from any other country to Bangladesh."
+    },
+    {
+      "section_content": "3. (1) Any person who,-(a)\tmakes, attests or verifies any statement which he does not know or believe to be true in any document which he knows or has reason to think will be used for obtaining a passport; or(b)\tmakes use of any statement which he knows or has reason to think to be untrue in any document for obtaining a passport; or(c)\twilfully conceals any fact which under the circumstances he ought to disclose for the purpose of obtaining a passport for himself or another person; or(d)\tforges, alters or tampers with any passport or with any document which he knows or has reason to believe will be used for obtaining a passport; or(e)\tuses a passport which he knows or has reason to believe to be forged, altered, or tampered with; or(f)\tis in wrongful possession for any purpose prejudicial to the interests of the State of a passport not lawfully issued to him; or(g)\ttraffics in passports;shall be punished with imprisonment  which may extend to two years or with a fine, or with both.Explanation.- A person who bona fide works for an applicant for a passport at the desire of the applicant though it may be for a gain does not traffic in passports within the meaning of this section.2[(2) No Court shall take cognizance of any offence under this section except with the previous sanction in writing of the Government.]"
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1Throughout this Act, unless otherwise provided, the word “Bangladesh”  was substituted for the word “Pakistan” by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "2Sub-section (2) was substituted by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-252.html",
+  "fetch_timestamp": "2025-07-19 02:11:04",
+  "csv_metadata": {
+    "act_title_from_csv": "The Passport (Offences) Act, 1952",
+    "act_no_from_csv": "LVI",
+    "act_year_from_csv": "1952",
+    "is_repealed": false
+  },
+  "token_count": 518,
+  "language": "english",
+  "government_context": {
+    "govt_system": "Dominion of Pakistan",
+    "position_head_govt": "Governor-General of Pakistan",
+    "head_govt_name": "Ghulam Muhammad",
+    "head_govt_designation": "Governor-General of Pakistan",
+    "how_got_power": "Constitutional appointment",
+    "period_years": "1951-1955",
+    "years_in_power": 4
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:21",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 383,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:26",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:00",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:08",
+    "previous_token_count": 383,
+    "accurate_token_count": 518
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "East Pakistan Period",
+      "year_range": "1947-1971",
+      "act_year": 1952
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Government of India Act 1935 (adapted)",
+        "Pakistan Constitution 1956",
+        "Pakistan Constitution 1962"
+      ],
+      "court_system": [
+        "Dhaka High Court (1948)",
+        "District Courts",
+        "Federal Court/Supreme Court of Pakistan"
+      ],
+      "legal_basis": "Adapted British-Indian laws with Islamic provisions",
+      "enforcement_mechanism": "Pakistani legal system"
+    },
+    "government_system": {
+      "type": "Federal Parliamentary (1947-1958), Presidential (1958-1971)",
+      "structure": "Provincial government under federal system",
+      "revenue_collection": "Federal and provincial taxation",
+      "administrative_units": [
+        "Province",
+        "Districts",
+        "Thanas"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "East Bengal/East Pakistan Police",
+      "military_police": "Pakistan Army and paramilitary forces",
+      "jurisdiction": "Provincial police under federal oversight"
+    },
+    "land_relations": {
+      "tenure_system": "East Bengal State Acquisition and Tenancy Act 1950",
+      "property_rights": "Abolition of zamindari system",
+      "revenue_system": "Direct government land revenue",
+      "peasant_status": "Farmers as direct tenants to state"
+    },
+    "key_characteristics": [
+      "Zamindari abolition (1951)",
+      "Language movement legal issues (1952)",
+      "Military rule periods (1958-1971)",
+      "Constitutional crises and martial law",
+      "Bengali autonomy demands and legal frameworks"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:26"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "act_title": "The Law Reports Act, 1875",
+  "act_no": "XVIII",
+  "act_year": "1875",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. This Act may be called theLaw Reports Act, 1875."
+    },
+    {
+      "section_content": "It extends to the whole of1[Bangladesh]."
+    },
+    {
+      "section_content": "2[And it shall come into force at once]."
+    },
+    {
+      "section_content": "2.  [Repealed by the Repealing Act, 1876 (Act No. XII of 1876).]"
+    },
+    {
+      "section_content": "3. No Court shall be bound to hear cited, or shall receive or treat as an authority binding on it, the report of any case decided3[* * *] by4[the Supreme Court], other than a report published under the authority of5[Government]."
+    },
+    {
+      "section_content": "4. Nothing herein contained shall be construed to give to any judicial decision any further or other authority than it would have had if this Act had not been passed."
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1The words \"Bangladesh\" was substituted, for the word \"Pakistan\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "2Third paragraph of section 1 was substituted, for the original third paragraph by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "3The words \"on or after the said day\" were omitted by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "4The words \"the Supreme Court\" were substituted, for the words \"any High Court\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "5The word \"Government\" was substituted, for the words \"a Provincial Government\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-34.html",
+  "fetch_timestamp": "2025-07-19 02:05:31",
+  "csv_metadata": {
+    "act_title_from_csv": "The Law Reports Act, 1875",
+    "act_no_from_csv": "XVIII",
+    "act_year_from_csv": "1875",
+    "is_repealed": false
+  },
+  "token_count": 411,
+  "language": "english",
+  "government_context": {
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Lieutenant Governor of Bengal",
+    "head_govt_name": "Sir Richard Temple",
+    "head_govt_designation": "Lieutenant Governor of Bengal Presidency",
+    "how_got_power": "British Crown appointment",
+    "period_years": "1874-1877",
+    "years_in_power": 3
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:21",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 269,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:26",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:02",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:09",
+    "previous_token_count": 269,
+    "accurate_token_count": 411
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "British Crown Rule",
+      "year_range": "1858-1947",
+      "act_year": 1875
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Government of India Act 1858",
+        "Indian Penal Code 1860",
+        "Code of Civil Procedure 1908",
+        "Evidence Act 1872"
+      ],
+      "court_system": [
+        "High Courts (1861)",
+        "District Courts",
+        "Magistrate Courts"
+      ],
+      "legal_basis": "Codified British-Indian legal system",
+      "enforcement_mechanism": "Imperial Police Service and civil courts"
+    },
+    "government_system": {
+      "type": "Crown Colony Administration",
+      "structure": "Viceroy and provincial governors",
+      "revenue_collection": "Imperial taxation system",
+      "administrative_units": [
+        "Provinces",
+        "Districts",
+        "Sub-districts"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Police Act 1861 - structured police force",
+      "military_police": "Imperial Police Service",
+      "jurisdiction": "Provincial police under colonial control"
+    },
+    "land_relations": {
+      "tenure_system": "Zamindari, Ryotwari, and Mahalwari systems",
+      "property_rights": "Colonial property law framework",
+      "revenue_system": "Land revenue administration",
+      "peasant_status": "Various tenant classes with limited rights"
+    },
+    "key_characteristics": [
+      "Codification of laws (Penal Code, CPC, Evidence Act)",
+      "Structured civil service system",
+      "Constitutional developments (1909, 1919, 1935 Acts)",
+      "Bengal Tenancy Act 1885 and amendments",
+      "Emergency powers and martial law provisions"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:26"
+  }
+}

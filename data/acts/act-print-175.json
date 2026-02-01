@@ -1,0 +1,562 @@
+{
+  "act_title": "The Insurance Act, 1938",
+  "act_no": "IV",
+  "act_year": "1938",
+  "publication_date": "19/07/2025",
+  "sections": [],
+  "footnotes": [
+    {
+      "footnote_text": "1Clause (2) was renumbered as clause (13D) by section 2 of the Insurance (Amendment) Act, 1958 (Act No. XXVII of 1958) and has been inserted after clause (13C) of this law"
+    },
+    {
+      "footnote_text": "2Clause (3) was substituted by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "3Clause (3A) was originally inserted by section 2 of the Insurance (Amendment) Act, 1953 (Act No. XI of 1953) and substituted by section 2 of the Insurance (Amendment) Ordinance, 1961 (Ordinance No. XXXIII of 1961)"
+    },
+    {
+      "footnote_text": "4Clauses (5A) and (5B) were inserted by section 2 of the Insurance (Amendment) Act, 1958 (Act No. XXVII of 1958)"
+    },
+    {
+      "footnote_text": "5Clauses (6A), (6B) and (6C) were inserted by section 2 of the Insurance (Amendment) Act, 1958 (Act No. XXVII of 1958)"
+    },
+    {
+      "footnote_text": "6Clause (7A) was inserted by section 2 of the Insurance (Amendment) Act, 1993 (Act No. XII of 1993)"
+    },
+    {
+      "footnote_text": "7Clause (8A) was inserted by section 2 of the Insurance (Amendment) Act, 1958 (Act No. XXVII of 1958)"
+    },
+    {
+      "footnote_text": "8The word “and” was omitted by section 2 of the Insurance (Amendment) Act, 1990 (Act No. XXVI of 1990)"
+    },
+    {
+      "footnote_text": "9Sub-clause (d) was added by section 2 of the Insurance (Amendment) Act, 1990 (Act No. XXVI of 1990)"
+    },
+    {
+      "footnote_text": "10Clauses (13A), (13B) and (13C) were inserted by section 2 of the Insurance (Amendment) Act, 1958 (Act No. XXVII of 1958)"
+    },
+    {
+      "footnote_text": "11Clause (13AA) was inserted by section 2 of the Insurance (Amendment) Ordinance, 1970 (Act No. XXV of 1970)"
+    },
+    {
+      "footnote_text": "12The words, brackets, figures and commas “clause (6B), excluding sub-clause (d) of clause (11) and clause (13A)” were substituted for the words, brackets, figures and comma “clauses (6B), (11) and 13(A)” by section 2 of the Insurance (Amendment) Act, 1993 (Act No. XII of 1993)"
+    },
+    {
+      "footnote_text": "13Clause (13C) was omitted by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "14The original clause (2) was renumbered as clause (13D) and has been inserted after clause (13C) accordingly by section 2 of the Insurance (Amendment) Act, 1958 (Act No. XXVII of 1958)."
+    },
+    {
+      "footnote_text": "15Clauses (14A) and (14B) were inserted by section 2 of the Insurance (Amendment) Act, 1958 (Act No. XXVII of 1958)"
+    },
+    {
+      "footnote_text": "16Clause (15) was substituted by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "17Sections 2A and 2B were inserted by section 2A of the Insurance (Amendment) Act, 1939 (Act No. XI of 1939)"
+    },
+    {
+      "footnote_text": "18Section 2C was inserted by section 3 of the Insurance (Amendment) Act, 1958 (Act No. XXVII of 1958)"
+    },
+    {
+      "footnote_text": "19The word “any” was substituted for the words, commas and figure “the Co-operative Societies Act, 1912, or under any other” by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "20Sub-section (1A) was inserted by section 2 of the Insurance (Amendment) Ordinance, 1984 (Ordinance No. L of 1984)"
+    },
+    {
+      "footnote_text": "21The words, brackets, letters and figures “specified in clause (c) of sub-section (1) of section 2C or to any Provident Society or Mutual Insurance Company” were omitted by section 3 of the Insurance (Amendment) Act, 1990 (Act No. XXVI of 1990)"
+    },
+    {
+      "footnote_text": "22The words “five lakh Taka” were substituted for the words “ten thousand Taka” by section 2 of the Insurance (Amendment) Act, 2004 (Act No. IV of 2004)"
+    },
+    {
+      "footnote_text": "23Sub-sections (5A) to (5D) were inserted by section 3 of the Insurance (Amendment) Act, 1940 (Act No. XX of 1940)"
+    },
+    {
+      "footnote_text": "24The words “five hundred Taka” were substituted for the words “twenty-five Taka” by section 2 of the Insurance (Amendment) Ordinance, 1984 (Ordinance No. L of 1984)"
+    },
+    {
+      "footnote_text": "25Section 3BBB was inserted by section 4 of the Insurance (Amendment) Act, 1990 (Act No. XXVI of 1990)."
+    },
+    {
+      "footnote_text": "26Section 3A was inserted by section 4 of the Insurance (Amendment) Act, 1941 (Act No. XIII of 1941)"
+    },
+    {
+      "footnote_text": "27The words “three Taka and fifty poisha” were substituted for the words “one Taka and fifty poisha” by section 3 of the Insurance (Amendment) Act, 2004 (Act No. IV of 2004)"
+    },
+    {
+      "footnote_text": "28The words “Sonali Bank” were substituted for the words “National Bank of Pakistan” by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "29Section 3AA was inserted by section 4 of the Insurance (Amendment) Ordinance, 1970 (Ordinance No. XXV of 1970)"
+    },
+    {
+      "footnote_text": "30Section 3B was inserted by section 4 of the Insurance (Amendment) Act, 1946 (Act No. VI of 1946)"
+    },
+    {
+      "footnote_text": "31Section 3BB was inserted by section 5 of the Insurance (Amendment) Ordinance, 1970 (Ordinance No. XXV of 1970)"
+    },
+    {
+      "footnote_text": "32Sections 3C and 3D were inserted by section 7 of the Insurance (Amendment) Act, 1958 (Act No. XXVII of 1958)."
+    },
+    {
+      "footnote_text": "33Sections 3E and 3F were inserted by section 8 of the Insurance (Amendment) Ordinance, 1970 (Ordinance No. XXV of 1970)"
+    },
+    {
+      "footnote_text": "34The words “twenty-thousand Taka” were substituted for the words “one thousand Taka” by section 4 of the Insurance (Amendment) Act, 2004 (Act No. IV of 2004)"
+    },
+    {
+      "footnote_text": "35The proviso was omitted by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "36Section 6 was substituted by section 5 of the Insurance (Amendment) Ordinance, 1984 (Ordinance No. L of 1984)"
+    },
+    {
+      "footnote_text": "37Sub-section (1) was substituted for sub-section (1) by section 6 of the Insurance (Amendment) Ordinance, 1984 (Ordinance No. L of 1984)"
+    },
+    {
+      "footnote_text": "38Sub-sections 9, (9A) and (9B) were substituted for the original sub-section (9), by section 4 of the Insurance (Amendment) Act, 1940 (Act No. XX of 1940)"
+    },
+    {
+      "footnote_text": "39Sub-sections 9, (9A) and (9B) were substituted for the original sub-section (9), by section 4 of the Insurance (Amendment) Act, 1940 (Act No. XX of 1940)"
+    },
+    {
+      "footnote_text": "40Sub-sections 9, (9A) and (9B) were substituted for the original sub-section (9), by section 4 of the Insurance (Amendment) Act, 1940 (Act No. XX of 1940)"
+    },
+    {
+      "footnote_text": "41Sub-sections 9, (9A) and (9B) were substituted for the original sub-section (9), by section 4 of the Insurance (Amendment) Act, 1940 (Act No. XX of 1940)"
+    },
+    {
+      "footnote_text": "42The words “two Taka” were substituted for the words “thirty seven poisha” by section 8 of the Insurance (Amendment) Ordinance, 1984 (Ordinance No. L of 1984)"
+    },
+    {
+      "footnote_text": "43Section 27B was inserted by section 14 of the Insurance (Amendment) Ordinance, 1970 (Ordinance No. XXV of 1970)"
+    },
+    {
+      "footnote_text": "44Clauses (i) and (ii) were substituted for clauses (i), (ii) and (iii) by section 2 of the Insurance (Amendment) Act, 2000 (Act No. XIV of 2000)"
+    },
+    {
+      "footnote_text": "45Sub-section (2A) was inserted by section 12 of the Insurance (Amendment) Ordinance, 1970 (Ordinance No. XXV of 1970)"
+    },
+    {
+      "footnote_text": "46Section 27A was inserted by section 5 of the Insurance (Amendment) Ordinance, 1960 (Ordinance No. V of 1960)"
+    },
+    {
+      "footnote_text": "47The words “as may be decided by the Board of Directors of the insurer” were substituted for the words “as may be prescribed” by section 3 of the Insurance (Amendment) Act, 1993 (Act No. XII of 1993)"
+    },
+    {
+      "footnote_text": "48The words “as may be decided by the Board of Directors of the insurer” were substituted for the words “as may be prescribed” by section 3 of the Insurance (Amendment) Act, 1993 (Act No. XII of 1993)"
+    },
+    {
+      "footnote_text": "49The words “as may be decided by the Board of Directors of the insurer” were substituted for the words “as may be prescribed” by section 3 of the Insurance (Amendment) Act, 1993 (Act No. XII of 1993)"
+    },
+    {
+      "footnote_text": "50The colon (:) was substituted for the semi-colon (;) at the end of sub-clause (c) and the proviso was added thereafter by section 3 of the Insurance (Amendment) Act, 1993 (Act No. XII of 1993)"
+    },
+    {
+      "footnote_text": "51Sections 32A and 32B were inserted by section 28 of the Insurance (Amendment) Act, 1958 (Act No. XXVII of 1958)"
+    },
+    {
+      "footnote_text": "52Sections 34A, 34B and 34C were inserted by section 18 of the Insurance (Amendment) Ordinance, 1970 (Ordinance No. XXV of 1970)"
+    },
+    {
+      "footnote_text": "53The words “in an Acceding State or in a non Acceding State” were omitted by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "54Sub-section (1) was substituted by section 4 of the Insurance (Amendment) Act, 1993 (Act No. XII of 1993)"
+    },
+    {
+      "footnote_text": "55Sub-section (1B) was inserted by section 6 of the Insurance (Amendment) Ordinance, 1960 (Ordinance No. V of 1960)"
+    },
+    {
+      "footnote_text": "56The words and commas “in any form an amount exceeding, in the case of life insurance business,” were substituted for the words “in any form of in respect of life insurance business an amount exceeding” by section 4 of the Insurance (Amendment) Act, 1993 (Act No. XII of 1993)"
+    },
+    {
+      "footnote_text": "57The words and commas “or, in the case of business of any other class, fifteen per cent” were inserted by section 4 of the Insurance (Amendment) Act, 1993 (Act No. XII of 1993)"
+    },
+    {
+      "footnote_text": "58The words and comma “life insurance policy only,” were substituted for the words “life insurance policy” by section 4 of the Insurance (Amendment) Act, 1993 (Act No. XII of 1993)"
+    },
+    {
+      "footnote_text": "59Second proviso to sub-section (2) was omitted by section 6 of the Insurance (Amendment) Act, 1990 (Act No. XXVI of 1990)"
+    },
+    {
+      "footnote_text": "60Sub-section (2A) was inserted by section 21 of the Insurance (Amendment) Act, 1946 (Act No. VI of 1946)"
+    },
+    {
+      "footnote_text": "61Sections 40A to 40D were inserted by section 34 of the Insurance (Amendment) Act, 1958 (Act No. XXVII of 1958)"
+    },
+    {
+      "footnote_text": "62Sub-sections (2) and (3) were substituted by section 5 of the Insurance (Amendment) Act, 1993 (Act No. XII of 1993)"
+    },
+    {
+      "footnote_text": "63Sub-sections (3A), (3B) and (3C) were inserted by section 20 of the Insurance (Amendment) Ordinance, 1970 (Ordinance No. XXV of 1970)"
+    },
+    {
+      "footnote_text": "64The commas, brackets and figures “, (2), (3)” were inserted by section 5 of the Insurance (Amendment) Act, 1993 (Act No. XII of 1993)"
+    },
+    {
+      "footnote_text": "65The comma and the words “, including commission or remuneration for procuring business” were inserted by section 6 of the Insurance (Amendment) Act, 1993 (Act No. XII of 1993)"
+    },
+    {
+      "footnote_text": "66The words “two hundred” were substituted for the words “twenty” by section 7 of the Insurance (Amendment) Act, 1993 (Act No. XII of 1993)"
+    },
+    {
+      "footnote_text": "67The words “three hundred” were substituted for the words “thirty” by section 7 of the Insurance (Amendment) Act, 1993 (Act No. XII of 1993)"
+    },
+    {
+      "footnote_text": "68Sub-sections (6), (7) and (8) were substituted by section 7 of the Insurance (Amendment) Act, 1993 (Act No. XII of 1993)"
+    },
+    {
+      "footnote_text": "69The words “two hundred Taka” were substituted for the words “one hundred Taka” by section 5 of the Insurance (Amendment) Act, 2004 (Act No. IV of 2004)"
+    },
+    {
+      "footnote_text": "70The words and commas “or clause (i) of sub-section (7)” were inserted by section 7 of the Insurance (Amendment) Act, 1993 (Act No. XII of 1993)"
+    },
+    {
+      "footnote_text": "71Sub-section (10) was inserted by section 7 of the Insurance (Amendment) Act, 1993 (Act No. XII of 1993)"
+    },
+    {
+      "footnote_text": "72The words and commas “or a licence in respect of general insurance business” were inserted by section 7 of the Insurance (Amendment) Act, 1993 (Act No. XII of 1993)"
+    },
+    {
+      "footnote_text": "73Section 42A was inserted by section 36 of the Insurance (Amendment) Act, 1958 (Act No. XXVII of 1958) and subsequently substituted by section 22 of the Insurance (Amendment) Ordinance, 1970 (Ordinance No. XXV of 1970)"
+    },
+    {
+      "footnote_text": "74The word “five” was substituted for the word “one” by section 8 of the Insurance (Amendment) Act, 1993 (Act No. XII of 1993)"
+    },
+    {
+      "footnote_text": "75The words “seven hundred and fifty” were substituted for the words “one hundred and fifty” by section 8 of the Insurance (Amendment) Act, 1993 (Act No. XII of 1993)"
+    },
+    {
+      "footnote_text": "76The words “seven hundred and fifty” were substituted for the words “one hundred and fifty” by section 8 of the Insurance (Amendment) Act, 1993 (Act No. XII of 1993)"
+    },
+    {
+      "footnote_text": "77The words “two hundred and fifty” were substituted for the words “twenty-five” by section 8 of the Insurance (Amendment) Act, 1993 (Act No. XII of 1993)"
+    },
+    {
+      "footnote_text": "78The words “seven hundred and fifty” were substituted for the words “one hundred and fifty” by section 8 of the Insurance (Amendment) Act, 1993 (Act No. XII of 1993)"
+    },
+    {
+      "footnote_text": "79Sub-sections (7), (8) and (9) were substituted by section 8 of the Insurance (Amendment) Act, 1993 (Act No. XII of 1993)"
+    },
+    {
+      "footnote_text": "80Section 42B was inserted by section 38 of the Insurance (Amendment) Act, 1958 (Act No. XXVII of 1958)"
+    },
+    {
+      "footnote_text": "81Section 43A was inserted by section 23 of the Insurance (Amendment) Ordinance, 1970 (Ordinance No. XXV of 1970)"
+    },
+    {
+      "footnote_text": "82Sections 44A and 44B were inserted by section 38 of the Insurance (Amendment) Act, 1958 (Act No. XXVII of 1958)"
+    },
+    {
+      "footnote_text": "83The words “two thousand Taka” were substituted for the words “fifty Taka” by section 6 of the Insurance (Amendment) Act, 2004 (Act No. IV of 2004)"
+    },
+    {
+      "footnote_text": "84The words “one thousand Taka” were substituted for the words “fifty Taka” by section 6 of the Insurance (Amendment) Act, 2004 (Act No. IV of 2004)"
+    },
+    {
+      "footnote_text": "85Sub-section (6A) was inserted by section 25 of the Insurance (Amendment) Ordinance, 1970 (Ordinance No. XXV of 1970)"
+    },
+    {
+      "footnote_text": "86Section 47A was inserted by section 39 of the Insurance (Amendment) Act, 1958 (Act No. XXVII of 1958)"
+    },
+    {
+      "footnote_text": "87Sections 47B to 47L were inserted by section 27 of the Insurance (Amendment) Ordinance, 1970 (Ordinance No. XXV of 1970)"
+    },
+    {
+      "footnote_text": "88The words “the Supreme Court” were substituted for the words “a High Court” by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "89Sections 48B, 48BB, 48BBB and 48BBBB were substituted for section 48B by section 11 of the Insurance (Amendment) Act, 1990 (Act No. XXVI of 1990)"
+    },
+    {
+      "footnote_text": "90Section 48B was substituted by section 3 of the Insurance (Amendment) Act, 2000 (Act No. XIV of 2000)"
+    },
+    {
+      "footnote_text": "91Sub-section (1A) was inserted by section 28 of the Insurance (Amendment) Ordinance, 1970 (Ordinance No. XXV of 1970)"
+    },
+    {
+      "footnote_text": "92Sub-section (2A) was inserted by section 3 of the Insurance (Amendment) Act, 1944 (Act No. VII of 1944)"
+    },
+    {
+      "footnote_text": "93Section 48A was inserted by section 24 of the Insurance (Amendment) Act, 1946 (Act No. VI of 1946) which was later substituted by section 29 of the Insurance (Amendment) Ordinance, 1970 (Ordinance No. XXV of 1970)"
+    },
+    {
+      "footnote_text": "94Section 48C was substituted by section 7 of the Insurance (Amendment) Act, 2004 (Act No. IV of 2004)"
+    },
+    {
+      "footnote_text": "95Section 48CC was substituted by section 9 of the Insurance (Amendment) Act, 1993 (Act No. XII of 1993)"
+    },
+    {
+      "footnote_text": "96The words, figures and comma “or to the Central Government under section 11 of the Indian Life Assurance Companies Act, 1912” were omitted by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "97The words, figures and comma “or to the Central Government under section 11 of the Indian Life Assurance Companies Act, 1912” were omitted by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "98Section 49A was inserted by section 9 of the Insurance (Amendment) Ordinance, 1961 (Ordinance No. XXXIII of 1961) which was later substituted by section 30 of the Insurance (Amendment) Ordinance, 1970 (Ordinance No. XXV of 1970)"
+    },
+    {
+      "footnote_text": "99The words “ninety” was substituted for the words “ninety-two and one-half” by Section 10 of the Insurance (Amendment) Act, 1993 (Act No. XII of 1993)"
+    },
+    {
+      "footnote_text": "100Section 50A was inserted by section 31 of the Insurance (Amendment) Ordinance, 1970 (Ordinance No. XXV of 1970)"
+    },
+    {
+      "footnote_text": "101The heading and sections 52A to 52H were inserted by section 9 of the Insurance (Amendment) Ordinance, 1960 (Ordinance No. V of 1960)"
+    },
+    {
+      "footnote_text": "102The words “Penal Code” were substituted for the words “Pakistan Penal Code” by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "103The words “Penal Code” were substituted for the words “Pakistan Penal Code” by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "104Section 53A was inserted by section 25 of the Insurance (Amendment) Act, 1946 (Act No. VI of 1946)"
+    },
+    {
+      "footnote_text": "105The word “Government” was substituted for the words “Provincial Government with the approval of the Central Government” by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "106Sub-section (3A) was inserted by section 32 of the Insurance (Amendment) Ordinance, 1970 (Ordinance No. XXV of 1970)"
+    },
+    {
+      "footnote_text": "107Sections 70A and 70B were inserted by section 40 of the Insurance (Amendment) Act, 1941 (Act No. XIII of 1941)"
+    },
+    {
+      "footnote_text": "108The words and comma “into the Imperial Bank of India acting as the agent of that Bank, or” were omitted by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "109Section 73A was inserted by section 32 of the Insurance (Amendment) Act, 1946 (Act No. VI of 1946)"
+    },
+    {
+      "footnote_text": "110The words “shall cause every scheme of insurance which it proposes to put into operation” were substituted for the commas, words and figure “, registered after the commencement of this Act, shall cause every scheme of insurance which it proposes to put into operation, and every provident society registered before the commencement of this Act under the provisions of the Provident Insurance Societies Act, 1912, shall cause any scheme which it proposes to put into operation for the first time after such commencement” by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "111Sub-section (3A) was inserted by section 13 of the Insurance (Amendment) Act, 1940 (Act No. XX of 1940)"
+    },
+    {
+      "footnote_text": "112Section 87A was inserted by section 38 of the Insurance (Amendment) Act, 1946 (Act No. VI of 1946)"
+    },
+    {
+      "footnote_text": "113The words “or an Acceding State or a non-Acceding State” were omitted by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "114Section 90A was inserted by section 40 of the Insurance (Amendment) Act, 1946 (Act No. VI of 1946)"
+    },
+    {
+      "footnote_text": "115The words “local” was omitted by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "116The words “circulating in the province in which the society is situated” were omitted by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "117The words “local” was omitted by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "118The words “circulating in the province in which the society is situated” were omitted by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "119Clause (b) was substituted by section 12 of the Insurance (Amendment) Ordinance, 1984 (Ordinance No. L of 1984)"
+    },
+    {
+      "footnote_text": "120The proviso to clause (b) was omitted by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)."
+    },
+    {
+      "footnote_text": "121The word “Life” was omitted by section 12 of the Insurance (Amendment) Ordinance, 1984 (Ordinance No. L of 1984)"
+    },
+    {
+      "footnote_text": "122Application of Act to Mutual Insurance Companies and Co-operative   [* * *] Insurance Societies"
+    },
+    {
+      "footnote_text": "123The word “Life” was omitted by section 12 of the Insurance (Amendment) Ordinance, 1984 (Ordinance No. L of 1984)"
+    },
+    {
+      "footnote_text": "124Sections 97, 98 and 98A were substituted for former sections 97, 98 and 98A, by section 12 of the Insurance (Amendment) Ordinance, 1984 (Ordinance No. L of 1984)"
+    },
+    {
+      "footnote_text": "125The word “Life” was omitted by section 12 of the Insurance (Amendment) Ordinance, 1984 (Ordinance No. L of 1984)"
+    },
+    {
+      "footnote_text": "126The word “Life” was omitted by section 12 of the Insurance (Amendment) Ordinance, 1984 (Ordinance No. L of 1984)"
+    },
+    {
+      "footnote_text": "127The word “Life” was omitted by section 12 of the Insurance (Amendment) Ordinance, 1984 (Ordinance No. L of 1984)"
+    },
+    {
+      "footnote_text": "128The proviso was omitted by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "129The word “Life” was omitted by section 12 of the Insurance (Amendment) Ordinance, 1984 (Ordinance No. L of 1984)"
+    },
+    {
+      "footnote_text": "130The words “of the Province in which the Co-operatives Life Insurance society is registered” were omitted by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "131The words “one lac Taka and not less than fifty thousand Taka” were substituted for the words “ten thousand Taka” by section 8 of the Insurance (Amendment) Act, 2004 (Act No. IV of 2004)"
+    },
+    {
+      "footnote_text": "132The words “ten thousand Taka” were substituted for the words “one thousand Taka” by section 8 of the Insurance (Amendment) Act, 2004 (Act No. IV of 2004)"
+    },
+    {
+      "footnote_text": "133The words “five thousand Taka” were substituted for the words “five hundred Taka” by section 13 of the Insurance (Amendment) Ordinance, 1984 (Ordinance No. L of 1984)"
+    },
+    {
+      "footnote_text": "134The words “five hundred Taka” were substituted for the words “two hundred and fifty Taka” by section 13 of the Insurance (Amendment) Ordinance, 1984 (Ordinance No. L of 1984)"
+    },
+    {
+      "footnote_text": "135The words “ten thousand Taka” were substituted for the words “two thousand Taka” by section 14 of the Insurance (Amendment) Ordinance, 1984 (Ordinance No. L of 1984)"
+    },
+    {
+      "footnote_text": "136The words “five thousand Taka” were substituted for the words “five hundred Taka” by section 14 of the Insurance (Amendment) Ordinance, 1984 (Ordinance No. L of 1984)"
+    },
+    {
+      "footnote_text": "137The words “ten thousand Taka” were substituted for the words “one thousand Taka” by section 15 of the Insurance (Amendment) Ordinance, 1984 (Ordinance No. L of 1984)"
+    },
+    {
+      "footnote_text": "138The words “ten thousand Taka” were substituted for the words “one thousand Taka” by section 16 of the Insurance (Amendment) Ordinance, 1984 (Ordinance No. L of 1984)"
+    },
+    {
+      "footnote_text": "139The words and brackets “within whose jurisdiction the registered office of the insurer is situate (hereinafter referred to as the High Court)” were omitted by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "140The words “Supreme Court” were substituted for the words “High Court” by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "141Section 106A was inserted by section 14 of the Insurance (Amendment) Act, 1940 (Act No. XX of 1940)"
+    },
+    {
+      "footnote_text": "142The words “Attorney-General” were substituted for the words “Advocate General of the Province where the principle place of the business in Pakistan of such insurer is situated” by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "143The words “Supreme Court” were substituted for the words “High Court” by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "144The words “within the territorial limits of whose jurisdiction the Tribunal sits to hear appeal” were omitted by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "145The words “Penal Code” were substituted for the words “Pakistan Penal Code” by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "146Sections 110A and 110B were inserted by section 15 of the Insurance (Amendment) Act, 1940 (Act No. XX of 1940)"
+    },
+    {
+      "footnote_text": "147Section 110C was inserted by section 47 of the Insurance (Amendment) Act, 1958 (Act No. XXVII of 1958)"
+    },
+    {
+      "footnote_text": "148Sub-sections (1), (1A), (1B) and (1C) were substituted  for the former sub-section (1) by section 36 of the Insurance (Amendment) Ordinance, 1970 (Ordinance No. XXV of 1970)"
+    },
+    {
+      "footnote_text": "149Sections 114A and 114B were inserted by section 38 of the Insurance (Amendment) Ordinance, 1970 (Ordinance No. XXV of 1970)"
+    },
+    {
+      "footnote_text": "150Clauses (aa) and (aaa) were inserted by section 37 of the Insurance (Amendment) Ordinance, 1970 (Ordinance No. XXV of 1970)"
+    },
+    {
+      "footnote_text": "151Clause (d) was omitted by section 48 of the Insurance (Amendment) Act, 1958 (Act No. XXVI of 1958)"
+    },
+    {
+      "footnote_text": "152Sections 116A was inserted by section 64 of the Insurance (Amendment) Act, 1941 (Act No. XIII of 1941)"
+    },
+    {
+      "footnote_text": "153The words, comma and figure “Industrial Relations Ordinance, 1969” were substituted for the words, comma and figure “Trade Unions Act, 1926” by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "154Sections 120A was inserted by section 50 of the Insurance (Amendment) Act, 1958 (Act No. XXVII of 1958)"
+    },
+    {
+      "footnote_text": "155Section 120AA was added by section 39 of the Insurance (Amendment) Ordinance, 1970 (Ordinance No. XXV of 1970)"
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-175.html",
+  "fetch_timestamp": "2025-07-19 02:09:23",
+  "csv_metadata": {
+    "act_title_from_csv": "The Insurance Act, 1938   [Repealed]",
+    "act_no_from_csv": "IV",
+    "act_year_from_csv": "1938",
+    "is_repealed": true
+  },
+  "token_count": 4103,
+  "language": "unknown",
+  "government_context": {
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Governor of Bengal",
+    "head_govt_name": "Lord Brabourne (Michael Knatchbull)",
+    "head_govt_designation": "Governor of Bengal Province",
+    "how_got_power": "British Crown appointment",
+    "period_years": "1937-1939",
+    "years_in_power": 2
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:20",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "unknown",
+    "token_count": 3962,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:26",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:35:59",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:08",
+    "previous_token_count": 3962,
+    "accurate_token_count": 4103
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "British Crown Rule",
+      "year_range": "1858-1947",
+      "act_year": 1938
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Government of India Act 1858",
+        "Indian Penal Code 1860",
+        "Code of Civil Procedure 1908",
+        "Evidence Act 1872"
+      ],
+      "court_system": [
+        "High Courts (1861)",
+        "District Courts",
+        "Magistrate Courts"
+      ],
+      "legal_basis": "Codified British-Indian legal system",
+      "enforcement_mechanism": "Imperial Police Service and civil courts"
+    },
+    "government_system": {
+      "type": "Crown Colony Administration",
+      "structure": "Viceroy and provincial governors",
+      "revenue_collection": "Imperial taxation system",
+      "administrative_units": [
+        "Provinces",
+        "Districts",
+        "Sub-districts"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Police Act 1861 - structured police force",
+      "military_police": "Imperial Police Service",
+      "jurisdiction": "Provincial police under colonial control"
+    },
+    "land_relations": {
+      "tenure_system": "Zamindari, Ryotwari, and Mahalwari systems",
+      "property_rights": "Colonial property law framework",
+      "revenue_system": "Land revenue administration",
+      "peasant_status": "Various tenant classes with limited rights"
+    },
+    "key_characteristics": [
+      "Codification of laws (Penal Code, CPC, Evidence Act)",
+      "Structured civil service system",
+      "Constitutional developments (1909, 1919, 1935 Acts)",
+      "Bengal Tenancy Act 1885 and amendments",
+      "Emergency powers and martial law provisions"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:26"
+  }
+}

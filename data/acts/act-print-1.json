@@ -1,0 +1,110 @@
+{
+  "act_title": "1The Districts Act, 1836",
+  "act_no": "XXI",
+  "act_year": "1836",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "It shall be lawful for the2[***] Government, by notification in the official Gazette, to create new districts in any part of Bangladesh.3[Government may, from time to time, alter the limits of the existing districts in any part of Bangladesh]."
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1The word “BENGAL” was omitted by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)."
+    },
+    {
+      "footnote_text": "2The word “Provincial” was omitted by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "3The second paragraph was added by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-1.html",
+  "fetch_timestamp": "2025-07-19 02:04:29",
+  "csv_metadata": {
+    "act_title_from_csv": "The Districts Act, 1836",
+    "act_no_from_csv": "XXI",
+    "act_year_from_csv": "1836",
+    "is_repealed": false
+  },
+  "token_count": 258,
+  "language": "english",
+  "government_context": {
+    "govt_system": "Company Rule",
+    "position_head_govt": "Governor-General of India",
+    "head_govt_name": "Lord Auckland (George Eden)",
+    "head_govt_designation": "Governor-General of India",
+    "how_got_power": "Company appointment",
+    "period_years": "1835-1842",
+    "years_in_power": 7
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:18",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 125,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:24",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:35:47",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:00",
+    "previous_token_count": 125,
+    "accurate_token_count": 258
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "East India Company Rule",
+      "year_range": "1773-1858",
+      "act_year": 1836
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Regulating Act 1773",
+        "Bengal Regulations",
+        "Anglo-Muhammadan Law",
+        "Cornwallis Code 1793"
+      ],
+      "court_system": [
+        "Supreme Court at Fort William (1774)",
+        "District Courts",
+        "Company Courts"
+      ],
+      "legal_basis": "Hybrid of British common law and Islamic/Hindu personal law",
+      "enforcement_mechanism": "Company magistrates and British judicial system"
+    },
+    "government_system": {
+      "type": "Company Rule under Parliamentary Oversight",
+      "structure": "Governor-General in Council system",
+      "revenue_collection": "Diwani rights (1765) - Company tax collection",
+      "administrative_units": [
+        "Presidencies",
+        "Districts",
+        "Thanas"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Company Police established",
+      "military_police": "Sepoys and Company military",
+      "jurisdiction": "District-based police system"
+    },
+    "land_relations": {
+      "tenure_system": "Permanent Settlement (1793)",
+      "property_rights": "Zamindars as proprietors",
+      "revenue_system": "Fixed land revenue to Company",
+      "peasant_status": "Tenants under zamindari system"
+    },
+    "key_characteristics": [
+      "Dual Government (1765-1772)",
+      "Introduction of British legal concepts",
+      "Permanent Settlement creating landed gentry",
+      "Regulation through British parliamentary acts",
+      "Bengal Regulation 10 of 1804 for martial law"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:24"
+  }
+}

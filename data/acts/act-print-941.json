@@ -1,0 +1,109 @@
+{
+  "act_title": "নির্দিষ্টকরণ (সম্পূরক) আইন, ২০০৬",
+  "act_no": "২৩",
+  "act_year": "2006",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "১৷ (১) এই আইন নির্দিষ্টকরণ আইন, ২০০৬ নামে অভিহিত হইবে৷(২) ইহা ১ জুলাই, ২০০৬ইং তারিখে কার্যকর হইবে৷"
+    },
+    {
+      "section_content": "২৷  ২০০৭ সালের ৩০ জুন তারিখে সমাপ্য অর্থ-বত্সরে যেই সকল ব্যয় হইতে পারে সেই সকল ব্যয় নির্বাহের জন্য এই আইনের তফসিলের কলাম ২ এ বর্ণিত কার্যাদির বিপরীতে কলাম ৫ এ উল্লিখিত আটাশি হাজার সাত শত বত্রিশ কোটি আট লক্ষ সাঁইত্রিশ হাজার টাকার অনধিক পরিমাণ অর্থ সংযুক্ত তহবিল হইতে প্রদেয় ও ব্যয়যোগ্য হইবে৷"
+    },
+    {
+      "section_content": "৩৷ এই আইন দ্বারা সংযুক্ত তহবিল হইতে প্রদান করিবার ও ব্যয় নির্বাহের জন্য অনুমোদিত অর্থ ২০০৭ সালের ৩০ জুন তারিখে সমাপ্য অর্থ-বত্সরে এই আইনের তফসিলের কলাম ২ এ বর্ণিত কার্যের জন্য উহার বিপরীতে কলাম ৫ এ উল্লিখিত পরিমাণের অনধিক অর্থ নির্দিষ্ট করা হইল৷"
+    }
+  ],
+  "footnotes": [],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-941.html",
+  "fetch_timestamp": "2025-07-19 02:28:55",
+  "csv_metadata": {
+    "act_title_from_csv": "নির্দিষ্টকরণ (সম্পূরক) আইন, ২০০৬",
+    "act_no_from_csv": "২৩",
+    "act_year_from_csv": "২০০৬",
+    "is_repealed": false
+  },
+  "token_count": 232,
+  "language": "bengali",
+  "government_context": {
+    "govt_system": "Parliamentary Democracy",
+    "position_head_govt": "Prime Minister",
+    "head_govt_name": "Khaleda Zia",
+    "head_govt_designation": "Prime Minister of Bangladesh",
+    "how_got_power": "Democratic election",
+    "period_years": "2001-2006",
+    "years_in_power": 5
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:23",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "bengali",
+    "token_count": 129,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:29",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:14",
+    "legal_context_recovery_attempted": true,
+    "legal_context_recovery_timestamp": "2025-07-19 20:43:13",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:17",
+    "previous_token_count": 129,
+    "accurate_token_count": 232
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "Democratic Restoration",
+      "year_range": "1990-2006",
+      "act_year": 2006
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Constitution (restored)",
+        "Various legal reforms",
+        "Anti-terrorism laws"
+      ],
+      "court_system": [
+        "Independent Supreme Court",
+        "High Court Division",
+        "Subordinate Courts"
+      ],
+      "legal_basis": "Constitutional democracy with rule of law",
+      "enforcement_mechanism": "Independent judiciary and democratic institutions"
+    },
+    "government_system": {
+      "type": "Parliamentary Democracy",
+      "structure": "Multi-party parliamentary system",
+      "revenue_collection": "Democratic fiscal system",
+      "administrative_units": [
+        "Divisions",
+        "Districts",
+        "Upazilas",
+        "Unions"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Bangladesh Police (democratic oversight)",
+      "military_police": "Rapid Action Battalion (2004)",
+      "jurisdiction": "Civilian police under democratic control"
+    },
+    "land_relations": {
+      "tenure_system": "Market-oriented land policies",
+      "property_rights": "Constitutional property protections",
+      "revenue_system": "Local government taxation",
+      "peasant_status": "Agricultural modernization efforts"
+    },
+    "key_characteristics": [
+      "Restoration of democratic institutions",
+      "Caretaker government system",
+      "Anti-corruption efforts",
+      "Local government strengthening",
+      "Human rights legal framework"
+    ],
+    "context_added_timestamp": "2025-07-19 20:43:13",
+    "recovery_note": "Legal context added after year translation recovery"
+  }
+}

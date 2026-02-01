@@ -1,0 +1,104 @@
+{
+  "act_title": "The Bangladesh Industrial Development Corporation (Dissolution) Order, 1972 (President's Order)",
+  "act_no": "140",
+  "act_year": "1972",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. (1) This Order may be called the Bangladesh Industrial Development Corporation (Dissolution) Order, 1972.(2) It extends to the whole of Bangladesh.(3) It shall come into force at once."
+    },
+    {
+      "section_content": "2. In this Order, unless there is anything repugnant in the subject or context,-(a)\t“Corporation” means the Bangladesh Industrial Development Corporation established by theBangladesh Industrial Development Corporation Order, 1972(P.O. No. 39 of 1972);(b)\t“Government” means the Government of the People's Republic of Bangladesh."
+    },
+    {
+      "section_content": "3. Notwithstanding anything contained in any other law, rule or regulation for the time being in force, or in any contract, agreement, or document, on the commencement of this Order,-(a)\tthe Corporation shall stand dissolved;(b) \t\tall assets of whatsoever nature of the Corporation shall vest in the Government;(c)\tthe Government shall consider any representations which may be made to it by or on behalf of any person claiming that the Corporation or any predecessor-in-title of the Corporation had incurred any debt, liability or obligation to that person and shall have power to make ex-gratia payment of compensation to that person in respect of such claim if and to the extent that the same shall to it appear to be just."
+    }
+  ],
+  "footnotes": [],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-419.html",
+  "fetch_timestamp": "2025-07-19 02:14:19",
+  "csv_metadata": {
+    "act_title_from_csv": "The Bangladesh Industrial Development Corporation (Dissolution) Order, 1972 (President's Order)",
+    "act_no_from_csv": "140",
+    "act_year_from_csv": "1972",
+    "is_repealed": false
+  },
+  "token_count": 342,
+  "language": "english",
+  "government_context": {
+    "govt_system": "Parliamentary Democracy",
+    "position_head_govt": "Prime Minister",
+    "head_govt_name": "Sheikh Mujibur Rahman",
+    "head_govt_designation": "Prime Minister of Bangladesh",
+    "how_got_power": "Post-independence constitutional government",
+    "period_years": "1972-1973",
+    "years_in_power": 1
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:21",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 215,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:27",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:04",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:10",
+    "previous_token_count": 215,
+    "accurate_token_count": 342
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "Early Independent Bangladesh",
+      "year_range": "1971-1975",
+      "act_year": 1972
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Laws Continuance Enforcement Order 1971",
+        "Constitution of Bangladesh 1972"
+      ],
+      "court_system": [
+        "Supreme Court with High Court and Appellate Divisions",
+        "Subordinate Courts"
+      ],
+      "legal_basis": "Secular constitutional democracy with British-inherited laws",
+      "enforcement_mechanism": "Independent judiciary and civil courts"
+    },
+    "government_system": {
+      "type": "Parliamentary Democracy",
+      "structure": "Westminster-style parliamentary system",
+      "revenue_collection": "National taxation system",
+      "administrative_units": [
+        "Divisions",
+        "Districts",
+        "Thanas",
+        "Unions"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Bangladesh Police (continuing Police Act 1861)",
+      "military_police": "Bangladesh Army and security forces",
+      "jurisdiction": "National police force"
+    },
+    "land_relations": {
+      "tenure_system": "Continuation of 1950 Act with modifications",
+      "property_rights": "Constitutional property rights",
+      "revenue_system": "State land revenue collection",
+      "peasant_status": "Land ceiling laws and redistribution efforts"
+    },
+    "key_characteristics": [
+      "Secular constitution with four principles",
+      "Continuation of colonial-era laws",
+      "War crimes tribunals establishment",
+      "Nationalization policies",
+      "Special Powers Act 1974"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:27"
+  }
+}

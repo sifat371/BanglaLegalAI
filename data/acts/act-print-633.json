@@ -1,0 +1,358 @@
+{
+  "act_title": "The Chittagong City Corporation Ordinance, 1982",
+  "act_no": "XXXV",
+  "act_year": "1982",
+  "publication_date": "19/07/2025",
+  "sections": [],
+  "footnotes": [
+    {
+      "footnote_text": "1The word “City” was substituted for the word “Municipal” by section 3 of the Local Government Laws (Amendment) Act, 1990 (Act No. LVI of 1990)"
+    },
+    {
+      "footnote_text": "2The word “City” was substituted for the word “Municipal” by section 3 of the Local Government Laws (Amendment) Act, 1990 (Act No. LVI of 1990)."
+    },
+    {
+      "footnote_text": "3Clause (14) was omitted by section 2 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "4Clause (26) was substituted by section 2 of the Chittagong Municipal Corporation (Second Amendment) Ordinance, 1986 (Ordinance No. LIV of 1986)."
+    },
+    {
+      "footnote_text": "5The word “City” was substituted for the word “Municipal” by section 3 of the Local Government Laws (Amendment) Act, 1990 (Act No. LVI of 1990)"
+    },
+    {
+      "footnote_text": "6Section 3A was inserted by section 2 of the Chittagong City Corporation (Amendment) Act, 2004 (Act No. XIX of 2004)"
+    },
+    {
+      "footnote_text": "7Section 4 was substituted by section 2 of the Chittagong City Corporation (Amendment) Act, 1999 (Act No. II of 1999)"
+    },
+    {
+      "footnote_text": "8Section 6 was substituted by section 2 of the Chittagong City Corporation (Amendment) Act, 1992 (Act No. V of 1992)."
+    },
+    {
+      "footnote_text": "9The colon (:) was substituted for the full-stop (.) and the proviso was added by section 6 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "10The words and commas “Commissioners, other than Commissioners of reserved seats,” were substituted for the words “elected Commissioners” by section 6 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "11The commas and words “, other than Commissioners of reserved seats,” were omitted by section 3 of the Chittagong City Corporation (Amendment) Act, 1999 (Act No. II of 1999)."
+    },
+    {
+      "footnote_text": "12The word “elected” were omitted by section 6 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "13The words “Oath of office” were substituted for the words “Oath of Commissioners” by section 7 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "14Sub-section (1) was substituted by section 7 of the Chittagong City Corporation (Amendment) Act, 1999 (Act No. VII of 1999)."
+    },
+    {
+      "footnote_text": "15The words and commas “The Mayor and every Commissioner, other than official Commissioners, shall, before entering upon his office or taking his seat,” were substituted for the words and commas “Every Commissioner other than official Commissioners shall, before taking his seat,” by section 7 of the Chittagong Municipal Corporation (Second Amendment) Ordinance, 1986 (Ordinance No. LIV of 1986)."
+    },
+    {
+      "footnote_text": "16The commas and words “, other than official Commissioners,” were omitted by section 9 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "17Section 9 was substituted by section 10 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "18Section 10 was substituted by section 11 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "19The words “as Mayor and Commissioner” were substituted for the words “ and nomination as Commissioner”  by section 12 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)"
+    },
+    {
+      "footnote_text": "20The words “as Mayor or a Commissioner” were substituted for the words “or nominated as a Commissioner”  by section 12 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "21The words “as Mayor or” were substituted for the words “or nominated as” by section 12 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "22The semi-colon (;) was substituted for the full-stop (.) and thereafter clause (g) and explanation was inserted by section 3 of the Local Government Laws (Amendment) Act, 1987 (Act No. XXIII of 1987)."
+    },
+    {
+      "footnote_text": "23The semi-colon (;) was substituted for the full-stop (.) and thereafter clause (h) was added by section 6 of the Local Government Laws (Amendment) Act, 1990 (Act No. LVI of 1990)."
+    },
+    {
+      "footnote_text": "24Clauses (h) and (i) were substituted for the former clause (h) by section 12 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "25Sub-sections (2A) and (2B) were inserted by section 12 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "26Sub-section (4) was added by section 12 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "27The words “office of Mayor and seat of Commissioners” were substituted for the words “seats of Commissioners and office of Mayor and Deputy Mayor” by section 13 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "28The words “office of Mayor and seat of Commissioners” were substituted for the words “seats of Commissioners and office of Mayor and Deputy Mayor” by section 13 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "29Sub-sections (2) and (2A) were omitted by section 13 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "30The words “the Mayor or a Commissioner” were substituted for the words “a Commissioner” by section 13 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "31The words “the Mayor or the Commissioner” were substituted for the words “the Commissioner” by section 13 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "32The words “the Mayor or the Commissioner” were substituted for the words “the Commissioner” by section 13 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "33The words “the Mayor or a Commissioner” were substituted for the words “a Commissioner” by section 13 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "34Sub-section (4) was substituted by section 13 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "35The words “term of Corporation” were substituted for the words “term of his office” by section 14 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "36The words “Mayor or” were omitted by section 11 of the Chittagong Municipal Corporation (Second Amendment) Ordinance, 1986 (Ordinance No. LIV of 1986)."
+    },
+    {
+      "footnote_text": "37The word “Deputy” was omitted by section 14 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "38The words “ninety days” were substituted for the words “one month” by section 14 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "39The words “Mayor and” were omitted by section 12 of the Chittagong Municipal Corporation (Second Amendment) Ordinance, 1986 (Ordinance No. LIV of 1986)."
+    },
+    {
+      "footnote_text": "40The word “Deputy” was omitted by section 15 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "41The words “Mayor and the” were omitted by section 12 of the Chittagong Municipal Corporation (Second Amendment) Ordinance, 1986 (Ordinance No. LIV of 1986)."
+    },
+    {
+      "footnote_text": "42The word “Mayor” was substituted for the words “Deputy Mayor” by section 15 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "43Section 17 was substituted by section 16 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "44The words and comma “ELECTIONS OF MAYOR AND COMMISSIONER, OTHER THAN IN RESERVED SEATS” were substituted for the words “ELECTIONS OF COMMISSIONERS” by section 17 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "45Section 18 was substituted by section 5 of the Chittagong City Corporation (Amendment) Act, 1999 (Act No. II of 1999)."
+    },
+    {
+      "footnote_text": "46Section 20A was inserted by section 6 of the Chittagong City Corporation (Amendment) Act, 1999 (Act No. II of 1999)."
+    },
+    {
+      "footnote_text": "47Section 21 was substituted by section 2 of the Chittagong Municipal Corporation (Amendment) Ordinance, 1983 (Ordinance No. XI of 1983)."
+    },
+    {
+      "footnote_text": "48Section 22 was substituted by section 19 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "49Section 23 was substituted by section 20 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "50The commas and words “, other than Commissioners in reserved seats,” were omitted by section 7 of the Chittagong City Corporation (Amendment) Act, 1999 (Act No. II of 1999)."
+    },
+    {
+      "footnote_text": "51The words and commas “elections of Mayor and Commissioners, other than Commissioners in reserved seats,” were substituted for the words and comma “elections of Commissioners” by section 21 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "52The commas and words “, other than Commissioners in reserved seats,” were omitted by section 8 of the Chittagong City Corporation (Amendment) Act, 1999 (Act No. II of 1999)."
+    },
+    {
+      "footnote_text": "53The words “Mayor and Commissioners,” were substituted for the word “Commissioner” by section 22 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "54The words “Mayor and Commissioners other than Commissioners in reserved seats,” were substituted for the word “Commissioners” by section 22 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "55The commas and words “, other than Commissioners in reserved seats,” were omitted by section 9 of the Chittagong City Corporation (Amendment) Act, 1999 (Act No. II of 1999"
+    },
+    {
+      "footnote_text": "56The words “EXECUTIVE POWER AND CONDUCT OF BUSINESS” were substituted for the words “CONDUCT OF BUSINESS” by section 23 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "57Sections 28 and 28A were substituted for the former section 28 by section 24 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "58The words and figure “the Commissioner authorised by the Mayor under section 17” were substituted for the words “the Deputy Mayor” by section 25 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "59The words “two thirds of the total number of” were substituted for the word “twelve” by section 25 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "60The words “one third of the total number of” were substituted for the word “eight” by section 25 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "61The words and figure “by the Commissioner authorised by the Mayor under section 17” were substituted for the words “by the Deputy Mayor” by section 25 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "62Sub-section (7) was added by section 25 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "63The words “and the Deputy Mayor” were omitted by section 26 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "64Section 43 was substituted by section 27 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "65The words “one thousand seven hundred twenty five Taka” were substituted for the words “one thousand Taka” by section 28 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "66The comma and word “, pension” was omitted by section 4 of the Local Government Laws (Amendment) Act, 1988 (Act No. VIII of 1988)."
+    },
+    {
+      "footnote_text": "67The words “pension and” were omitted by section 4 of the Local Government Laws (Amendment) Act, 1988 (Act No. VIII of 1988)."
+    },
+    {
+      "footnote_text": "68The words “pension or” were omitted by section 4 of the Local Government Laws (Amendment) Act, 1988 (Act No. VIII of 1988)."
+    },
+    {
+      "footnote_text": "69Clause (ff) was inserted by section 4 of the Local Government Laws (Amendment) Act, 1988 (Act No. VIII of 1988)."
+    },
+    {
+      "footnote_text": "70The words and comma “the Deputy Mayor,” were omitted by section 29 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "71The words and comma “the Deputy Mayor,” were omitted by section 30 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "72The words and comma “the Deputy Mayor,” were omitted by section 30 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "73Sub-sections (1) and (1A) were substituted for previous sub-section (1) by section 13 of the Chittagong Municipal Corporation (Second Amendment) Ordinance, 1986 (Ordinance No. LIV of 1986)."
+    },
+    {
+      "footnote_text": "74Section 96A was inserted by section 14 of the Chittagong Municipal Corporation (Second Amendment) Ordinance, 1986 (Ordinance No. LIV of 1986)."
+    },
+    {
+      "footnote_text": "75The word “or” was inserted and thereafter clause (e) was added by section 31 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)"
+    },
+    {
+      "footnote_text": "76The word and comma “Mayor,” were omitted by section 15 of the Chittagong Municipal Corporation (Second Amendment) Ordinance, 1986 (Ordinance No. LIV of 1986)."
+    },
+    {
+      "footnote_text": "77The word “Deputy” was omitted by section 31 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "78The words “by such person or authority as the Government may appoint in this behalf” were substituted for the words “by the Mayor” by section 31 of the  Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "79Section 149 was substituted by section 3 of the Local Government Laws (Amendment) Act, 1990 (Act No. LVI of 1990)."
+    },
+    {
+      "footnote_text": "80The words “or the Deputy Mayor” were omitted by section 32 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "81The words “or the Deputy Mayor” were omitted by section 33 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "82The words “or the Deputy Mayor” were omitted by section 32 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993)."
+    },
+    {
+      "footnote_text": "83The words and comma “Deputy Mayor,” were omitted by section 34 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993"
+    },
+    {
+      "footnote_text": "84The words and comma “Deputy Mayor,” were omitted by section 34 of the Chittagong City Corporation (Amendment) Act, 1993 (Act No. VII of 1993"
+    },
+    {
+      "footnote_text": "85Section 167A was inserted by section 2 of the Chittagong Municipal Corporation (Second Amendment) Ordinance, 1984 (Ordinance No. LXII of 1984)."
+    },
+    {
+      "footnote_text": "86The words “ two Deputy Administrators” were substituted for the words “a Deputy Administrator” by section 2 of the Chittagong Municipal Corporation (Amendment) Ordinance, 1986 (Ordinance No. XLI of 1986)."
+    },
+    {
+      "footnote_text": "87Section 168A was inserted by section 3 of the Chittagong City Corporation (Amendment) Act, 2004 (Act No. XIX of 2004)."
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-633.html",
+  "fetch_timestamp": "2025-07-19 02:19:00",
+  "csv_metadata": {
+    "act_title_from_csv": "The Chittagong City Corporation Ordinance, 1982  [Repealed]",
+    "act_no_from_csv": "XXXV",
+    "act_year_from_csv": "1982",
+    "is_repealed": true
+  },
+  "token_count": 2445,
+  "language": "unknown",
+  "government_context": {
+    "govt_system": "Military Rule",
+    "position_head_govt": "President",
+    "head_govt_name": "Lt. Gen. Hussain Muhammad Ershad",
+    "head_govt_designation": "President of Bangladesh (Military ruler)",
+    "how_got_power": "Military coup",
+    "period_years": "1982-1990",
+    "years_in_power": 8
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:22",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "unknown",
+    "token_count": 2320,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:28",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:36:08",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:11",
+    "previous_token_count": 2320,
+    "accurate_token_count": 2445
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "Military Rule Era",
+      "year_range": "1975-1990",
+      "act_year": 1982
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Martial Law Proclamations",
+        "5th Amendment (1979)",
+        "7th Amendment (1986)"
+      ],
+      "court_system": [
+        "Supreme Court (limited powers)",
+        "Martial Law Courts",
+        "Civil Courts"
+      ],
+      "legal_basis": "Military decrees with constitutional validation",
+      "enforcement_mechanism": "Military tribunals and civil courts"
+    },
+    "government_system": {
+      "type": "Military Rule/Martial Law",
+      "structure": "Military government with civilian facade",
+      "revenue_collection": "Centralized military administration",
+      "administrative_units": [
+        "Divisions",
+        "Districts",
+        "Upazilas (1982)",
+        "Unions"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Police under military control",
+      "military_police": "Enhanced military and paramilitary forces",
+      "jurisdiction": "Military-controlled law enforcement"
+    },
+    "land_relations": {
+      "tenure_system": "Land reforms under military government",
+      "property_rights": "Military government modifications",
+      "revenue_system": "Upazila system for administration",
+      "peasant_status": "Rural development programs"
+    },
+    "key_characteristics": [
+      "Suspension of democratic institutions",
+      "Constitutional amendments under military rule",
+      "Emergency provisions and martial law",
+      "Upazila system introduction (1982)",
+      "Gradual transition to controlled democracy"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:28"
+  }
+}

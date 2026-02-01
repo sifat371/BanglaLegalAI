@@ -1,0 +1,128 @@
+{
+  "act_title": "The White Phosphorus Matches Prohibition Act, 1913",
+  "act_no": "V",
+  "act_year": "1913",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. (1) This Act may be called theWhite Phosphorus Matches Prohibition Act, 1913.(2) It extends to the whole of1[Bangladesh].(3) It shall come into force on the first day of July, 1913, with the exception of section 6, which shall come into force on the first day of July, 1914."
+    },
+    {
+      "section_content": "2. In this Act, “white phosphorus” means the substance commonly known as white or yellow phosphorus."
+    },
+    {
+      "section_content": "3. [Repealed by section 2 and Schedule of the Repealing Act, 1938).]"
+    },
+    {
+      "section_content": "4. (1) No person shall use white phosphorus in the manufacture of matches.(2) Any person who uses, or permits the use by any person under his control, of white phosphorus in the manufacture of matches, shall be punishable with fine which may extend to two hundred2[Taka]."
+    },
+    {
+      "section_content": "5. (1) Every person who manufactures matches shall allow an Inspector of Factories appointed under the3[Factories Act, 1965], at any time to take for analysis sufficient samples of any material in use or mixed for use, in such manufacture:Provided that any such person may, at the time the sample is taken, and on providing the necessary appliances, require the Inspector to divide the sample so taken into two parts, and to mark, seal and deliver to him one part.(2) Any person who refuses to permit any such Inspector of Factories as aforesaid to take a sample, in accordance with the provisions of sub-section (1), shall be punishable with fine which may extend to two hundred4[Taka]."
+    },
+    {
+      "section_content": "6. (1) No person shall sell, or offer or expose for sale, or have in his possession for the purposes of sale, any matches made with white phosphorus.(2) Any person who contravenes the provisions of sub-section (1) may, on complaint to a Sub-divisional Magistrate or Magistrate of the first class, be ordered to forfeit any such matches in his possession, and any matches so forfeited shall be destroyed or otherwise dealt with as the Magistrate may direct."
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1The word \"Bangladesh\" was substituted, for the word \"Pakistan\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "2The word \"Taka\" was substituted, for the word \"rupees\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "3The words, comma and figure \"Factories Act, 1965\" were substituted, for the words, comma and figure “Indian Factories Act, 1911” by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)."
+    },
+    {
+      "footnote_text": "4The word \"Taka\" was substituted, for the word \"rupees\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)."
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-100.html",
+  "fetch_timestamp": "2025-07-19 02:07:41",
+  "csv_metadata": {
+    "act_title_from_csv": "The White Phosphorus Matches Prohibition Act, 1913",
+    "act_no_from_csv": "V",
+    "act_year_from_csv": "1913",
+    "is_repealed": false
+  },
+  "token_count": 597,
+  "language": "english",
+  "government_context": {
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Governor of Bengal",
+    "head_govt_name": "Lord Carmichael (Thomas Gibson-Carmichael)",
+    "head_govt_designation": "Governor of Bengal Province",
+    "how_got_power": "British Crown appointment",
+    "period_years": "1912-1917",
+    "years_in_power": 5
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:18",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 454,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:24",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:35:47",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:00",
+    "previous_token_count": 454,
+    "accurate_token_count": 597
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "British Crown Rule",
+      "year_range": "1858-1947",
+      "act_year": 1913
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Government of India Act 1858",
+        "Indian Penal Code 1860",
+        "Code of Civil Procedure 1908",
+        "Evidence Act 1872"
+      ],
+      "court_system": [
+        "High Courts (1861)",
+        "District Courts",
+        "Magistrate Courts"
+      ],
+      "legal_basis": "Codified British-Indian legal system",
+      "enforcement_mechanism": "Imperial Police Service and civil courts"
+    },
+    "government_system": {
+      "type": "Crown Colony Administration",
+      "structure": "Viceroy and provincial governors",
+      "revenue_collection": "Imperial taxation system",
+      "administrative_units": [
+        "Provinces",
+        "Districts",
+        "Sub-districts"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Police Act 1861 - structured police force",
+      "military_police": "Imperial Police Service",
+      "jurisdiction": "Provincial police under colonial control"
+    },
+    "land_relations": {
+      "tenure_system": "Zamindari, Ryotwari, and Mahalwari systems",
+      "property_rights": "Colonial property law framework",
+      "revenue_system": "Land revenue administration",
+      "peasant_status": "Various tenant classes with limited rights"
+    },
+    "key_characteristics": [
+      "Codification of laws (Penal Code, CPC, Evidence Act)",
+      "Structured civil service system",
+      "Constitutional developments (1909, 1919, 1935 Acts)",
+      "Bengal Tenancy Act 1885 and amendments",
+      "Emergency powers and martial law provisions"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:24"
+  }
+}

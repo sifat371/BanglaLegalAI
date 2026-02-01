@@ -1,0 +1,119 @@
+{
+  "act_title": "The Collective Fines Ordinance, 1942",
+  "act_no": "XX",
+  "act_year": "1942",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1. (1) This Ordinance may be called theCollective Fines Ordinance, 1942.(2) It extends to the whole of Bangladesh.(3) It shall come into force at once."
+    },
+    {
+      "section_content": "2. [Interpretation.- Omitted by Article 2 and Schedule of the Central Adaptation of Laws Order, 1964 (President's Order No. 1 of 1964).]"
+    },
+    {
+      "section_content": "3. (1) If it appears to the Government that the inhabitants of any area are concerned in or abetting the commission of offences prejudicially affecting the defence of Bangladesh, the public safety, the maintenance of public order, the efficient prosecution of war, or the maintenance of supplies or services necessary to the life of the community, or are harbouring persons concerned in the commission of such offences, or are failing to render all the assistance in their power to discover or apprehend the offender or offenders, or are suppressing material evidence of the commission of such offences, the Government may, by notification in the official Gazette, impose a collective fine on the inhabitants of that area.2[(1A) An officer empowered in this behalf by the Government by general or special order may exercise the power conferred by sub section (1) on the Government:Provided that an imposition of a collective fine by any such officer may be made by publication of the order imposing the fine either in the official Gazette or in any such other manner as such officer considers best calculated to bring the order to the notice of the inhabitants of the area concerned.](2) The Government or any officer empowered in this behalf by the Government by general or special order, may exempt any person or class or section of such inhabitants from liability to pay any portion of such fine.(3) The District Magistrate, after such inquiry as he may deem necessary, shall apportion such fine among the inhabitants who are liable collectively to pay it, and such apportionment shall be made according to the District Magistrate's judgment of the respective means of such inhabitants.3[(3A) In any such apportionment the District Magistrate may assign a portion of such fine to a Hindu undivided family to be payable by it.](4) The portion of such fine payable by any person (including a Hindu undivided family) may be recovered-(a) in the manner provided by theCode of Criminal Procedure, 1898, for the recovery of fines imposed by a Court, as if such portion were a fine imposed by the District Magistrate acting as a Court:Provided that the Government may, in lieu of the rules referred to in sub section (2) of section 386 of theCode of Criminal Procedure, 1898, make rules under this Ordinance regulating the manner in which warrants under clause (a) of sub-section (1) of the said section of the said Code are to be executed, and for the summary determination of any claims made by any person other than the person liable to pay the fine in respect of any property attached in execution of the warrant; or(b) as arrears of land revenue.Explanation. For the purposes of this section the expression “inhabitants of an area” includes persons who themselves or by their agents or servants occupy or hold land or other immovable property within such area, and landlords who themselves or by their agents or servants collect rents from holders or occupiers of land in such area, notwithstanding that they do not actually reside therein."
+    },
+    {
+      "section_content": "4. No suit, prosecution or other legal proceeding whatsoever shall lie against any person for or in respect of anything which is in good faith done or intended to be done under this Ordinance."
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1Throughout this Ordinance, the words “Bangladesh” and “Government” were substituted for the words “Pakistan” and “Provincial Government” by section 3 and the Second Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "2Sub-section (1A) was inserted by the Collective Fines (Second Amendment) Ordinance, 1942 (Ordinance No. XLIX of 1942)"
+    },
+    {
+      "footnote_text": "3Sub-section (3A) was inserted by the Collective Fines (Second Amendment) Ordinance, 1942 (Ordinance No. XLIX of 1942)"
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-195.html",
+  "fetch_timestamp": "2025-07-19 02:09:52",
+  "csv_metadata": {
+    "act_title_from_csv": "The Collective Fines Ordinance, 1942",
+    "act_no_from_csv": "XX",
+    "act_year_from_csv": "1942",
+    "is_repealed": false
+  },
+  "token_count": 815,
+  "language": "english",
+  "government_context": {
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Governor of Bengal",
+    "head_govt_name": "Sir John Arthur Herbert",
+    "head_govt_designation": "Governor of Bengal Province",
+    "how_got_power": "British Crown appointment",
+    "period_years": "1939-1943",
+    "years_in_power": 4
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:21",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 674,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:26",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:35:59",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:08",
+    "previous_token_count": 674,
+    "accurate_token_count": 815
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "British Crown Rule",
+      "year_range": "1858-1947",
+      "act_year": 1942
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Government of India Act 1858",
+        "Indian Penal Code 1860",
+        "Code of Civil Procedure 1908",
+        "Evidence Act 1872"
+      ],
+      "court_system": [
+        "High Courts (1861)",
+        "District Courts",
+        "Magistrate Courts"
+      ],
+      "legal_basis": "Codified British-Indian legal system",
+      "enforcement_mechanism": "Imperial Police Service and civil courts"
+    },
+    "government_system": {
+      "type": "Crown Colony Administration",
+      "structure": "Viceroy and provincial governors",
+      "revenue_collection": "Imperial taxation system",
+      "administrative_units": [
+        "Provinces",
+        "Districts",
+        "Sub-districts"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Police Act 1861 - structured police force",
+      "military_police": "Imperial Police Service",
+      "jurisdiction": "Provincial police under colonial control"
+    },
+    "land_relations": {
+      "tenure_system": "Zamindari, Ryotwari, and Mahalwari systems",
+      "property_rights": "Colonial property law framework",
+      "revenue_system": "Land revenue administration",
+      "peasant_status": "Various tenant classes with limited rights"
+    },
+    "key_characteristics": [
+      "Codification of laws (Penal Code, CPC, Evidence Act)",
+      "Structured civil service system",
+      "Constitutional developments (1909, 1919, 1935 Acts)",
+      "Bengal Tenancy Act 1885 and amendments",
+      "Emergency powers and martial law provisions"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:26"
+  }
+}

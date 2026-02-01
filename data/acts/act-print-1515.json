@@ -1,0 +1,103 @@
+{
+  "act_title": "The Excises and Salt (Amendment) Ordinance, 2025",
+  "act_no": "০২",
+  "act_year": "2025",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "১।   (১) এই অধ্যাদেশ TheExcises and Salt (Amendment) Ordinance, 2025নামে অভিহিত হইবে।(২) ইহা অবিলম্বে কার্যকর হইবে।"
+    },
+    {
+      "section_content": "২।  TheExcises and Salt Act, 1944(Act No. I of 1944) এর FIRST SCHEDULE এর PART-II এর \"SERVICES” শিরোনামাধীন টেবিলের কলাম (1) এর Service Code E033.00 এর বিপরীতে কলাম (3) এর-(ক) Para (a) এ উল্লিখিত \"Taka 300 (three hundred)\" শব্দগুলি, সংখ্যা এবং বন্ধনীর পরিবর্তে \"Taka 700 (seven hundred)\" শব্দগুলি, সংখ্যা এবং বন্ধনী প্রতিস্থাপিত হইবে; এবং(খ) Para (b) এ উল্লিখিত \"Taka 3000 (three thousand)\" শব্দগুলি, সংখ্যা এবং বন্ধনীর পরিবর্তে \"Taka 4000 (four thousand)\" শব্দগুলি, সংখ্যা এবং বন্ধনী প্রতিস্থাপিত হইবে।"
+    }
+  ],
+  "footnotes": [],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-1515.html",
+  "fetch_timestamp": "2025-07-19 02:44:15",
+  "csv_metadata": {
+    "act_title_from_csv": "The Excises and Salt (Amendment) Ordinance, 2025",
+    "act_no_from_csv": "০২",
+    "act_year_from_csv": "২০২৫",
+    "is_repealed": false
+  },
+  "token_count": 232,
+  "language": "bengali",
+  "government_context": {
+    "govt_system": "Interim Government",
+    "position_head_govt": "Chief Adviser",
+    "head_govt_name": "Prof. Muhammad Yunus",
+    "head_govt_designation": "Chief Adviser of Interim Government",
+    "how_got_power": "Student uprising/mass revolution against Sheikh Hasina",
+    "period_years": "2024-2025",
+    "years_in_power": 1
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:20",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "bengali",
+    "token_count": 113,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:26",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:35:58",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:07",
+    "previous_token_count": 113,
+    "accurate_token_count": 232
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "Interim Government Transition",
+      "year_range": "2024-2025",
+      "act_year": 2025
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Interim Government Ordinance 2024",
+        "Code of Civil Procedure amendments",
+        "Legal system reforms"
+      ],
+      "court_system": [
+        "Supreme Court (legitimizing interim govt)",
+        "High Court Division",
+        "Reform-focused courts"
+      ],
+      "legal_basis": "Constitutional necessity doctrine",
+      "enforcement_mechanism": "Reform-oriented legal system"
+    },
+    "government_system": {
+      "type": "Interim Advisory Government",
+      "structure": "Chief Adviser with Advisory Council",
+      "revenue_collection": "Transitional fiscal management",
+      "administrative_units": [
+        "8 Divisions",
+        "64 Districts",
+        "492 Upazilas",
+        "Unions"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Police under reform",
+      "military_police": "Army magistracy powers",
+      "jurisdiction": "Transitional law enforcement"
+    },
+    "land_relations": {
+      "tenure_system": "Under review for reforms",
+      "property_rights": "Constitutional protections maintained",
+      "revenue_system": "Digitalization efforts",
+      "peasant_status": "Focus on rural justice"
+    },
+    "key_characteristics": [
+      "Student uprising victory (July 2024)",
+      "Nobel laureate leadership",
+      "Constitutional reform agenda",
+      "Legal system modernization",
+      "Transitional justice mechanisms"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:26"
+  }
+}

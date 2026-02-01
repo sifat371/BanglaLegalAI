@@ -1,0 +1,137 @@
+{
+  "act_title": "The Local Authorities Pensions and Gratuities Act, 1919",
+  "act_no": "I",
+  "act_year": "1919",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "1.(1) This Act may be called theLocal Authorities Pensions and Gratuities Act, 1919.(2) \tIt extends to the whole of1[Bangladesh]."
+    },
+    {
+      "section_content": "2.\tIn this Act \"officer\" means any person who has undertaken2[service of the Republic] and who immediately prior to undertaking such service, was paid and employed solely by a local authority and, but for undertaking such service, would in the ordinary course have continued in such employment3[* * *]."
+    },
+    {
+      "section_content": "3. \tNotwithstanding anything contained in any enactment or in any rule made thereunder regulating the powers of local authorities, and without prejudice to any powers conferred by or under any such enactment, a local authority may grant a pension or gratuity to any officer thereof who may, since the 4th day of August, 1914, have been wounded or otherwise incapacitated in4[service of the Republic] and to the widow or child of any such officer who may have died in consequence of injuries received or illness contracted since the 4th day of August, 1914, in the course of such service."
+    },
+    {
+      "section_content": "4.(1) Such pension or gratuity may be granted in addition to any pension or gratuity payable to the officer or his wife or child as the case may be, under any general or special orders of the5[Government], but shall not6[* * *], exceed the amount of the pension or gratuity to which the officer or his wife or child would have been entitled under any such orders if his employment by the local authority had been service for the same time and on the same pay of the7[Republic].(2) Any pension granted under this Act may be made to take effect from such date subsequent to the 4th day of August, 1914, and subject to such conditions as the local authority may think fit."
+    },
+    {
+      "section_content": "5.\tSubject to the provisions of this Act, the decision of a local authority to grant a pension or gratuity thereunder shall be made in such manner and shall be subject to such sanction as may be prescribed by any enactment or rule regulating the grant by such local authority of pensions and gratuities:Provided that in every case the sanction of the8[Government] shall be necessary."
+    }
+  ],
+  "footnotes": [
+    {
+      "footnote_text": "1The word \"Bangladesh\" was substituted, for the word \"Pakistan\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "2The words \"service of the Republic\" were substituted, for the words \"service of the State\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "3The semi-colon, quotations, words and commas \"; and the \"appropriate Government\" means, in relation to cantonment authorities and port authorities in major ports, the Central Government, and in relation to other authorities, the Provincial Government\" were omitted by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "4The words \"service of the Republic\" were substituted, for the words \"service of the State\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "5The word \"Government\" was substituted, for the words \"Central Government or any Provincial Government\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "6The comma and words \", save with the sanction of the appropriate Government\" were omitted by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "7The word \"Republic\" was substituted, for the word \"State\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    },
+    {
+      "footnote_text": "8The word \"Government\" was substituted, for the words \"appropriate Government\" by section 3 and 2nd Schedule of theBangladesh Laws (Revision And Declaration) Act, 1973(Act No. VIII of 1973)"
+    }
+  ],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-112.html",
+  "fetch_timestamp": "2025-07-19 02:07:49",
+  "csv_metadata": {
+    "act_title_from_csv": "The Local Authorities Pensions and Gratuities Act, 1919",
+    "act_no_from_csv": "I",
+    "act_year_from_csv": "1919",
+    "is_repealed": false
+  },
+  "token_count": 789,
+  "language": "english",
+  "government_context": {
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Governor of Bengal",
+    "head_govt_name": "Earl of Ronaldshay (Lawrence Dundas)",
+    "head_govt_designation": "Governor of Bengal Province",
+    "how_got_power": "British Crown appointment",
+    "period_years": "1917-1922",
+    "years_in_power": 5
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:19",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "english",
+    "token_count": 644,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:24",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:35:50",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:00",
+    "previous_token_count": 644,
+    "accurate_token_count": 789
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "British Crown Rule",
+      "year_range": "1858-1947",
+      "act_year": 1919
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "Government of India Act 1858",
+        "Indian Penal Code 1860",
+        "Code of Civil Procedure 1908",
+        "Evidence Act 1872"
+      ],
+      "court_system": [
+        "High Courts (1861)",
+        "District Courts",
+        "Magistrate Courts"
+      ],
+      "legal_basis": "Codified British-Indian legal system",
+      "enforcement_mechanism": "Imperial Police Service and civil courts"
+    },
+    "government_system": {
+      "type": "Crown Colony Administration",
+      "structure": "Viceroy and provincial governors",
+      "revenue_collection": "Imperial taxation system",
+      "administrative_units": [
+        "Provinces",
+        "Districts",
+        "Sub-districts"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Police Act 1861 - structured police force",
+      "military_police": "Imperial Police Service",
+      "jurisdiction": "Provincial police under colonial control"
+    },
+    "land_relations": {
+      "tenure_system": "Zamindari, Ryotwari, and Mahalwari systems",
+      "property_rights": "Colonial property law framework",
+      "revenue_system": "Land revenue administration",
+      "peasant_status": "Various tenant classes with limited rights"
+    },
+    "key_characteristics": [
+      "Codification of laws (Penal Code, CPC, Evidence Act)",
+      "Structured civil service system",
+      "Constitutional developments (1909, 1919, 1935 Acts)",
+      "Bengal Tenancy Act 1885 and amendments",
+      "Emergency powers and martial law provisions"
+    ],
+    "context_added_timestamp": "2025-07-19 20:26:24"
+  }
+}

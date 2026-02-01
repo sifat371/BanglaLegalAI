@@ -1,0 +1,110 @@
+{
+  "act_title": "নির্দিষ্টকরণ আইন, ২০১৮",
+  "act_no": "২৩",
+  "act_year": "2018",
+  "publication_date": "19/07/2025",
+  "sections": [
+    {
+      "section_content": "১। (১) এই আইননির্দিষ্টকরণ আইন, ২০১৮নামে অভিহিত হইবে।(২) ইহা ১৭ আষাঢ়, ১৪২৫ বঙ্গাব্দ মোতাবেক ১ জুলাই, ২০১৮ খ্রিস্টাব্দ তারিখে কার্যকর হইবে।"
+    },
+    {
+      "section_content": "২। ২০১৯ সনের ৩০ জুন তারিখে সমাপ্য অর্থবৎসরে যেই সকল ব্যয় হইতে পারে সেই সকল ব্যয় নির্বাহের জন্য এই আইনের তফসিলের কলাম ২ এ বর্ণিত কার্যাদির বিপরীতে কলাম ৫ এ উল্লিখিত ৫৭১৮৩৩,৮২,৯২,০০০ (পাঁচ লক্ষ একাত্তর হাজার আটশত তেত্রিশ কোটি বিরাশি লক্ষ বিরানববই হাজার) টাকার অনধিক পরিমাণ অর্থ সংযুক্ত তহবিল হইতে প্রদেয় ও ব্যয়যোগ্য হইবে।"
+    },
+    {
+      "section_content": "৩। এই আইন দ্বারা সংযুক্ত তহবিল হইতে প্রদান করিবার ও ব্যয় নির্বাহের জন্য অনুমোদিত অর্থ ২০১৯ সনের ৩০ জুন তারিখে সমাপ্য অর্থবৎসরে এই আইনের তফসিলের কলাম ২ এ বর্ণিত কার্যের জন্য উহার বিপরীতে কলাম ৫ এ উল্লিখিত পরিমানের অনধিক অর্থ নির্দিষ্ট করা হইল।"
+    }
+  ],
+  "footnotes": [],
+  "copyright_info": {
+    "copyright_text": "Copyright©2019, Legislative and Parliamentary Affairs DivisionMinistry of Law, Justice and Parliamentary Affairs"
+  },
+  "source_url": "http://bdlaws.minlaw.gov.bd/act-print-1242.html",
+  "fetch_timestamp": "2025-07-19 02:37:20",
+  "csv_metadata": {
+    "act_title_from_csv": "নির্দিষ্টকরণ আইন, ২০১৮",
+    "act_no_from_csv": "২৩",
+    "act_year_from_csv": "২০১৮",
+    "is_repealed": false
+  },
+  "token_count": 247,
+  "language": "bengali",
+  "government_context": {
+    "govt_system": "Parliamentary Democracy (increasingly authoritarian)",
+    "position_head_govt": "Prime Minister",
+    "head_govt_name": "Sheikh Hasina",
+    "head_govt_designation": "Prime Minister of Bangladesh",
+    "how_got_power": "Democratic election (2009), subsequent controversial elections (2014, 2018, 2024)",
+    "period_years": "2009-2024",
+    "years_in_power": 15
+  },
+  "processing_info": {
+    "processed_timestamp": "2025-07-19 19:33:19",
+    "enhanced_with_reducer": true,
+    "enhanced_with_govt_context": true,
+    "language_detected": "bengali",
+    "token_count": 134,
+    "legal_context_added": true,
+    "legal_context_timestamp": "2025-07-19 20:26:25",
+    "year_standardized": true,
+    "year_standardization_timestamp": "2025-07-19 20:35:52",
+    "legal_context_recovery_attempted": true,
+    "legal_context_recovery_timestamp": "2025-07-19 20:42:52",
+    "token_count_updated": true,
+    "token_count_update_timestamp": "2025-07-19 20:56:02",
+    "previous_token_count": 134,
+    "accurate_token_count": 247
+  },
+  "legal_system_context": {
+    "period_info": {
+      "period_name": "Awami League Dominance",
+      "year_range": "2008-2024",
+      "act_year": 2018
+    },
+    "legal_framework": {
+      "primary_laws": [
+        "15th Amendment (2011)",
+        "Cyber Security Act 2023",
+        "Digital Security Act",
+        "International Crimes Tribunal Act"
+      ],
+      "court_system": [
+        "Supreme Court",
+        "High Court Division",
+        "Specialized Tribunals"
+      ],
+      "legal_basis": "Constitutional parliamentary system",
+      "enforcement_mechanism": "Politicized judicial system"
+    },
+    "government_system": {
+      "type": "Parliamentary Democracy (increasingly authoritarian)",
+      "structure": "Single-party dominance",
+      "revenue_collection": "Modernized tax system",
+      "administrative_units": [
+        "8 Divisions",
+        "64 Districts",
+        "492 Upazilas",
+        "4,554 Unions"
+      ]
+    },
+    "policing_system": {
+      "law_enforcement": "Politicized police force",
+      "military_police": "RAB, Police, Border Guards",
+      "jurisdiction": "Centralized political control"
+    },
+    "land_relations": {
+      "tenure_system": "Market-based with disputes",
+      "property_rights": "Development-focused acquisition",
+      "revenue_system": "Digital land records",
+      "peasant_status": "Modernization and displacement issues"
+    },
+    "key_characteristics": [
+      "Caretaker system abolition",
+      "War crimes tribunals",
+      "Digital governance initiatives",
+      "Authoritarian drift",
+      "Student movement repressions"
+    ],
+    "context_added_timestamp": "2025-07-19 20:42:52",
+    "recovery_note": "Legal context added after year translation recovery"
+  }
+}
