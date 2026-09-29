@@ -72,3 +72,10 @@ def test_annotate_sources_marks_only_referenced_sources():
 
     assert annotated[0]["cited"] is True
     assert annotated[1]["cited"] is False
+
+
+def test_compound_noncanonical_marker_is_rejected():
+    result = CitationVerifier().verify("Combined marker [S1, S2].", sources())
+
+    assert result["status"] == "failed"
+    assert result["noncanonical_markers"] == ["[S1, S2]"]
