@@ -260,9 +260,10 @@ against only the passages that claim cites. The experimental verifier classifies
 `supported`, `contradicted`, or `insufficient`, preserves judgment chunk/page provenance, and
 can only lower the existing confidence indicator.
 
-This is model-assessed support, not independent legal validation. It remains explicitly experimental
-until evaluated on a human-reviewed Bangladesh-law benchmark. See
-`docs/claim_support_verification.md`.
+This is model-assessed support, not independent legal validation. Coverage is reported separately,
+so the UI can distinguish "all evaluated cited claims were supported" from "the whole answer was
+checked." The feature remains explicitly experimental until evaluated on a human-reviewed
+Bangladesh-law benchmark. See `docs/claim_support_verification.md`.
 
 ## Real-judgment validation
 
