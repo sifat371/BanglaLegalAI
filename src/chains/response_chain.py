@@ -437,6 +437,11 @@ class ResponseChain:
                 if confidence_score == "HIGH":
                     confidence_score = "MEDIUM"
 
+            if claim_support_verification.get("coverage_complete") is False:
+                reasoning.append("Some answer segments were uncited and not semantically checked")
+                if confidence_score == "HIGH":
+                    confidence_score = "MEDIUM"
+
         # Factor 5: Check for hedging language
         hedging_words = ["may", "might", "possibly", "unclear", "uncertain", "not sure"]
         if any(word in answer.lower() for word in hedging_words):
