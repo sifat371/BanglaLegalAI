@@ -58,6 +58,7 @@ application behavior.
 - Deterministic answer citation-ID verification against the retrieved source set.
 - Experimental claim-level support assessment against only the cited retrieved passages.
 - Bounded answer repair with fail-closed withholding when grounding checks still fail.
+- Versioned claim-support benchmark with auditable AI-adjudicated gold labels and scoring tools.
 - Deterministic answer citation-ID verification against the retrieved source set.
 - Rule-based and LLM-assisted query classification.
 - Separate public-facing and legal-research response modes.
@@ -289,6 +290,31 @@ at **rank 1 for all four exact case-number queries** while preserving source pag
 
 See `docs/public_judgment_validation.md` for the validation boundary and measured results.
 
+## Stage 6 claim-support benchmark
+
+`benchmarks/claim_support/` contains a versioned 30-item benchmark for the experimental
+`supported / contradicted / insufficient` verifier. The set is exactly balanced at 10 items per
+label and includes judgments, statutes, English, Bangla, mixed-language, compound, and multi-source
+examples.
+
+The gold labels were manually source-bound adjudicated by ChatGPT GPT-5.6 Sol. They are **not**
+human- or lawyer-reviewed, so the benchmark is suitable for internal iteration and regression
+analysis but not for claiming human-validated legal accuracy.
+
+Run schema validation with:
+
+```bash
+uv run python scripts/evaluate_claim_support_benchmark.py
+```
+
+With a real Mistral API key, run the current semantic evaluator with:
+
+```bash
+uv run python scripts/evaluate_claim_support_benchmark.py --run-model
+```
+
+See `benchmarks/claim_support/README.md`.
+
 ## Current limitations
 
 - The UI and much of the prompt layer are still English-first.
@@ -296,8 +322,7 @@ See `docs/public_judgment_validation.md` for the validation boundary and measure
 - Real judgment coverage is limited by the PDFs explicitly ingested.
 - BanglaLegalIngest currently does not provide a general OCR baseline for image-only PDFs.
 - Answer quality depends on retrieval quality and the supplied corpus.
-- Page-grounded provenance is available for judgments, but full answer-level citation verification is
-  still a downstream maturity task.
+- Claim-support gold labels are AI-adjudicated and still need independent human/legal review before strong external reliability claims.
 - Authentication, caching, user workspaces, and production deployment controls are not yet complete.
 
 ## Ecosystem boundary
