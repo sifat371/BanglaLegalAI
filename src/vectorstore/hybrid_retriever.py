@@ -8,6 +8,7 @@ import numpy as np
 from langchain_core.documents import Document
 
 from src.vectorstore.chroma_store import ChromaStore
+from src.vectorstore.document_identity import get_document_id
 from src.vectorstore.bm25_store import BM25Store
 from src.config import get_settings
 
@@ -150,26 +151,9 @@ class HybridRetriever:
         return combined_results
     
     def _get_doc_id(self, doc: Document) -> str:
-        """
-        Generate a unique ID for a document based on content and metadata.
-        
-        Args:
-            doc: Document
-            
-        Returns:
-            Unique document identifier
-        """
-        # Use a combination of metadata fields to create a unique ID
-        metadata = doc.metadata
-        
-        if metadata.get("source_type") == "act":
-            return f"act_{metadata.get('act_no', '')}_{metadata.get('section_number', '')}_{metadata.get('chunk_index', 0)}"
-        elif metadata.get("source_type") == "case_study":
-            return f"case_{metadata.get('case_id', '')}_{hash(doc.page_content[:100])}"
-        else:
-            # Fallback: use hash of content
-            return f"doc_{hash(doc.page_content)}"
-    
+        """Return the shared deterministic ID used by all retrieval backends."""
+        return get_document_id(doc)
+
     def retrieve(
         self,
         query: str,
