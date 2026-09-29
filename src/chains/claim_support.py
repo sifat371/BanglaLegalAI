@@ -88,14 +88,19 @@ class LLMClaimSupportEvaluator:
             f"[{source['source_id']}]\\n{source['text']}"
             for source in cited_sources
         )
-        prompt = f"""You are checking whether a legal-answer claim is supported by the cited source text.
+        prompt = f"""You are checking whether a legal-answer claim is supported
+by the cited source text.
 
-Use ONLY the source passages below. Do not use memory, outside law, assumptions, or unstated facts.
+Use ONLY the source passages below. Do not use memory, outside law,
+assumptions, or unstated facts.
 
 Labels:
-- supported: all material parts of the claim are explicitly supported or directly entailed by the cited text.
-- contradicted: the cited text directly conflicts with a material part of the claim.
-- insufficient: the cited text does not establish the full claim, is ambiguous, or lacks needed information.
+- supported: all material parts of the claim are explicitly supported or
+  directly entailed by the cited text.
+- contradicted: the cited text directly conflicts with a material part of
+  the claim.
+- insufficient: the cited text does not establish the full claim, is
+  ambiguous, or lacks needed information.
 
 Be conservative. If only part of a compound claim is supported, choose insufficient.
 Do not decide whether the law is current unless the cited text itself establishes that.
@@ -107,7 +112,9 @@ Cited sources:
 {sources}
 
 Return JSON only:
-{{"label":"supported|contradicted|insufficient","reason":"brief source-bound reason","evidence":"brief supporting/conflicting passage or empty string"}}
+{{"label":"supported|contradicted|insufficient",
+  "reason":"brief source-bound reason",
+  "evidence":"brief supporting/conflicting passage or empty string"}}
 """
         try:
             parsed = self._extract_json(self._message_text(self.llm.invoke(prompt)))
@@ -268,7 +275,10 @@ class ClaimSupportVerifier:
             if missing_sources or not cited_sources:
                 assessment = {
                     "label": "insufficient",
-                    "reason": "One or more cited source passages were unavailable for verification.",
+                    "reason": (
+                        "One or more cited source passages were unavailable "
+                        "for verification."
+                    ),
                     "evidence": "",
                     "evaluator_error": None,
                 }
