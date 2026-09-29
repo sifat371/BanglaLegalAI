@@ -130,6 +130,17 @@ The feature can be disabled with:
 ENABLE_CLAIM_SUPPORT_VERIFICATION=false
 ```
 
+## Stage 5 enforcement
+
+Claim-support output now feeds a separate grounding gate. Stage 4 still owns assessment; Stage 5
+owns enforcement.
+
+A candidate answer can pass the Stage 5 gate only when claim support is `supported`, coverage is
+explicitly complete, verification is not truncated, citation integrity passes, and no evaluator
+error occurred. Failed candidates may be repaired and are always re-verified from scratch.
+
+See `docs/fail_closed_answer_repair.md`.
+
 ## Benchmark requirement
 
 This stage intentionally does not label a synthetic test fixture as a legal-quality benchmark.

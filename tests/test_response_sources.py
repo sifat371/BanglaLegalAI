@@ -170,3 +170,187 @@ def test_contradicted_claim_support_caps_confidence_low():
 
     assert confidence["level"] == "LOW"
     assert "assessed as contradicted" in " ".join(confidence["reasoning"])
+
+
+def _verification_bundle(*, acceptable, citation_status="verified", support_status="supported"):
+    return {
+        "sources": [
+            {
+                "source_id": "S1",
+                "type": "judgment",
+                "citation": "Example case, p. 1",
+                "cited": True,
+            }
+        ],
+        "citation_verification": {
+            "status": citation_status,
+            "invalid_source_ids": [],
+            "noncanonical_markers": [],
+        },
+        "claim_support_verification": {
+            "status": support_status,
+            "coverage_complete": support_status == "supported",
+            "truncated": False,
+            "claims": [],
+        },
+        "decision": {
+            "acceptable": acceptable,
+            "reasons": [] if acceptable else [f"claim_support:{support_status}"],
+        },
+    }
+
+
+def test_failed_candidate_is_repaired_and_reverified(monkeypatch):
+    from src.chains.grounding_enforcer import GroundingEnforcer
+
+    chain = ResponseChain.__new__(ResponseChain)
+    chain.grounding_enforcer = GroundingEnforcer()
+    chain.enable_answer_repair = True
+    chain.answer_repair_max_attempts = 1
+    chain.fail_closed_on_grounding_failure = True
+
+    checks = iter(
+        [
+            _verification_bundle(
+                acceptable=False,
+                support_status="insufficient",
+            ),
+            _verification_bundle(acceptable=True),
+        ]
+    )
+    monkeypatch.setattr(
+        chain,
+        "_verify_answer_candidate",
+        lambda answer, documents: next(checks),
+    )
+    monkeypatch.setattr(
+        chain,
+        "_repair_answer",
+        lambda **kwargs: "Repaired source-backed answer [S1].",
+    )
+
+    result = chain._finalize_grounded_answer(
+        query="Question",
+        documents=[Document(page_content="source", metadata={})],
+        context="[S1] source",
+        initial_answer="Unsupported draft [S1].",
+    )
+
+    assert result["answer"] == "Repaired source-backed answer [S1]."
+    assert result["grounding_enforcement"]["status"] == "repaired"
+    assert result["grounding_enforcement"]["repair_attempts"] == 1
+
+
+def test_failed_repair_is_blocked_fail_closed(monkeypatch):
+    from src.chains.grounding_enforcer import GroundingEnforcer
+
+    chain = ResponseChain.__new__(ResponseChain)
+    chain.grounding_enforcer = GroundingEnforcer()
+    chain.enable_answer_repair = True
+    chain.answer_repair_max_attempts = 1
+    chain.fail_closed_on_grounding_failure = True
+
+    failed = _verification_bundle(
+        acceptable=False,
+        support_status="contradicted",
+    )
+    monkeypatch.setattr(
+        chain,
+        "_verify_answer_candidate",
+        lambda answer, documents: failed,
+    )
+    monkeypatch.setattr(
+        chain,
+        "_repair_answer",
+        lambda **kwargs: "Still contradicted [S1].",
+    )
+    monkeypatch.setattr(
+        chain,
+        "_format_sources",
+        lambda documents: [
+            {
+                "source_id": "S1",
+                "type": "judgment",
+                "citation": "Example case, p. 1",
+            }
+        ],
+    )
+
+    result = chain._finalize_grounded_answer(
+        query="Question",
+        documents=[Document(page_content="source", metadata={})],
+        context="[S1] source",
+        initial_answer="Bad draft [S1].",
+    )
+
+    assert result["grounding_enforcement"]["status"] == "blocked"
+    assert "fully source-supported answer" in result["answer"]
+    assert result["sources"][0]["cited"] is False
+
+
+def test_repair_can_explicitly_signal_insufficient_retrieved_support(monkeypatch):
+    from src.chains.grounding_enforcer import GroundingEnforcer
+
+    chain = ResponseChain.__new__(ResponseChain)
+    chain.grounding_enforcer = GroundingEnforcer()
+    chain.enable_answer_repair = True
+    chain.answer_repair_max_attempts = 1
+    chain.fail_closed_on_grounding_failure = True
+
+    failed = _verification_bundle(
+        acceptable=False,
+        support_status="insufficient",
+    )
+    monkeypatch.setattr(
+        chain,
+        "_verify_answer_candidate",
+        lambda answer, documents: failed,
+    )
+    monkeypatch.setattr(
+        chain,
+        "_repair_answer",
+        lambda **kwargs: "INSUFFICIENT_RETRIEVED_SUPPORT",
+    )
+    monkeypatch.setattr(
+        chain,
+        "_format_sources",
+        lambda documents: [
+            {
+                "source_id": "S1",
+                "type": "judgment",
+                "citation": "Example case, p. 1",
+            }
+        ],
+    )
+
+    result = chain._finalize_grounded_answer(
+        query="Question",
+        documents=[Document(page_content="source", metadata={})],
+        context="[S1] source",
+        initial_answer="Too broad [S1].",
+    )
+
+    assert result["grounding_enforcement"]["status"] == "blocked"
+    assert result["grounding_enforcement"]["attempts"][0]["outcome"] == (
+        "insufficient_retrieved_support"
+    )
+
+
+def test_blocked_grounding_forces_confidence_low():
+    chain = ResponseChain.__new__(ResponseChain)
+    document = Document(page_content="source", metadata={"source_type": "act"})
+
+    confidence = chain._assess_confidence(
+        "Question",
+        "Fallback text",
+        [document, document, document],
+        citation_verification={"status": "verified"},
+        claim_support_verification={
+            "status": "supported",
+            "coverage_complete": True,
+        },
+        grounding_enforcement={"status": "blocked"},
+    )
+
+    assert confidence["level"] == "LOW"
+    assert "blocked by grounding enforcement" in " ".join(confidence["reasoning"])

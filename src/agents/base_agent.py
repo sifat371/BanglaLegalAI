@@ -184,6 +184,7 @@ class BaseAgent:
                 "confidence": response_result.get("confidence"),
                 "citation_verification": response_result.get("citation_verification"),
                 "claim_support_verification": response_result.get("claim_support_verification"),
+                "grounding_enforcement": response_result.get("grounding_enforcement"),
                 "classification": retrieval_result.get("classification")
             }
         )
@@ -196,6 +197,7 @@ class BaseAgent:
             "num_sources": response_result["num_sources"],
             "citation_verification": response_result["citation_verification"],
             "claim_support_verification": response_result["claim_support_verification"],
+            "grounding_enforcement": response_result["grounding_enforcement"],
             "session_id": self.session_id,
             "user_type": self.user_type
         }
@@ -215,117 +217,100 @@ class BaseAgent:
         
         return response
     
+    @staticmethod
+    def _display_chunks(text: str, chunk_size: int = 96):
+        """Yield display chunks only after the answer has passed grounding policy."""
+        for start in range(0, len(text), chunk_size):
+            yield text[start : start + chunk_size]
+
     def chat_stream(
         self,
         query: str,
         k: Optional[int] = None,
         include_followups: bool = True,
         include_confidence: bool = True,
-        verbose: bool = False
+        verbose: bool = False,
     ):
-        """
-        Process a user query and stream the response.
-        
-        Args:
-            query: User's question
-            k: Number of documents to retrieve (None = use default)
-            include_followups: Whether to generate follow-up questions
-            include_confidence: Whether to assess confidence
-            verbose: Whether to include debug information
-            
-        Yields:
-            Dictionary chunks with answer text and final metadata
-        """
+        """Generate privately, verify/repair, then stream only the finalized answer."""
         k = k or self.default_k
-        
-        # Step 1: Retrieve relevant documents
+
         if verbose:
             print(f"[Agent] Retrieving documents for: {query}")
-        
+
         retrieval_result = self.retrieval_chain.retrieve(
             query=query,
             k=k,
             user_type=self.user_type,
-            include_classification=verbose
+            include_classification=verbose,
         )
-        
+
         if verbose:
             print(f"[Agent] Retrieved {retrieval_result['num_results']} documents")
-        
-        # Step 2: Stream response generation
-        context = self.response_chain._format_documents(retrieval_result["documents"])
-        
-        # Stream the answer
-        full_answer = ""
-        for chunk in self.response_chain.stream_answer(query, context):
-            full_answer += chunk
+
+        # Fail-closed streaming: no candidate text is yielded before verification.
+        response_result = self.response_chain.generate_response(
+            query=query,
+            documents=retrieval_result["documents"],
+            include_followups=False,
+            include_confidence=include_confidence,
+        )
+        full_answer = response_result["answer"]
+
+        for chunk in self._display_chunks(full_answer):
             yield {
                 "type": "answer_chunk",
-                "content": chunk
+                "content": chunk,
             }
-        
-        # After streaming is complete, bind citation markers to retrieved sources.
-        sources = self.response_chain._format_sources(retrieval_result["documents"])
-        citation_verification = self.response_chain.citation_verifier.verify(
-            full_answer,
-            sources,
-        )
-        sources = self.response_chain.citation_verifier.annotate_sources(
-            sources,
-            citation_verification,
-        )
-        claim_support_verification = self.response_chain._verify_claim_support(
-            full_answer,
-            retrieval_result["documents"],
-            sources,
-            citation_verification,
-        )
-        
-        # Generate follow-ups if requested
+
         followup_questions = []
-        if include_followups:
-            followup_questions = self.response_chain._generate_followups(query, full_answer)
-        
-        # Assess confidence if requested
-        confidence = None
-        if include_confidence:
-            confidence = self.response_chain._assess_confidence(
+        if (
+            include_followups
+            and response_result["grounding_enforcement"]["status"] != "blocked"
+        ):
+            followup_questions = self.response_chain._generate_followups(
                 query,
                 full_answer,
-                retrieval_result["documents"],
-                citation_verification=citation_verification,
-                claim_support_verification=claim_support_verification,
             )
-        
-        # Add to conversation history
+
+        response_result["followup_questions"] = followup_questions
+
         self.conversation.add_turn(
             query=query,
             answer=full_answer,
-            sources=sources,
+            sources=response_result["sources"],
             metadata={
-                "num_sources": len(sources),
-                "confidence": confidence,
-                "citation_verification": citation_verification,
-                "claim_support_verification": claim_support_verification,
-                "classification": retrieval_result.get("classification")
-            }
+                "num_sources": response_result["num_sources"],
+                "confidence": response_result.get("confidence"),
+                "citation_verification": response_result.get(
+                    "citation_verification"
+                ),
+                "claim_support_verification": response_result.get(
+                    "claim_support_verification"
+                ),
+                "grounding_enforcement": response_result.get(
+                    "grounding_enforcement"
+                ),
+                "classification": retrieval_result.get("classification"),
+            },
         )
-        
-        # Yield final metadata
+
         yield {
             "type": "metadata",
             "query": query,
             "answer": full_answer,
-            "sources": sources,
-            "num_sources": len(sources),
-            "citation_verification": citation_verification,
-            "claim_support_verification": claim_support_verification,
+            "sources": response_result["sources"],
+            "num_sources": response_result["num_sources"],
+            "citation_verification": response_result["citation_verification"],
+            "claim_support_verification": response_result[
+                "claim_support_verification"
+            ],
+            "grounding_enforcement": response_result["grounding_enforcement"],
             "followup_questions": followup_questions,
-            "confidence": confidence,
+            "confidence": response_result.get("confidence"),
             "session_id": self.session_id,
-            "user_type": self.user_type
+            "user_type": self.user_type,
         }
-    
+
     def get_section(self, section_number: str, act_name: Optional[str] = None) -> Dict[str, Any]:
         """
         Get a specific legal section.
