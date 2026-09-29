@@ -28,11 +28,11 @@ class GroundingEnforcer:
         if support_status != "supported":
             reasons.append(f"claim_support:{support_status or 'missing'}")
 
-        if claim_support_verification.get("coverage_complete") is False:
-            reasons.append("semantic_coverage:incomplete")
+        if claim_support_verification.get("coverage_complete") is not True:
+            reasons.append("semantic_coverage:incomplete_or_unknown")
 
-        if claim_support_verification.get("truncated"):
-            reasons.append("semantic_coverage:truncated")
+        if claim_support_verification.get("truncated") is not False:
+            reasons.append("semantic_coverage:truncated_or_unknown")
 
         evaluator_errors = [
             claim.get("claim_id", "unknown")
