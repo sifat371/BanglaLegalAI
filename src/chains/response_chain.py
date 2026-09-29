@@ -317,7 +317,8 @@ class ResponseChain:
             sources,
             citation_verification,
         )
-        decision = self.grounding_enforcer.evaluate(
+        enforcer = getattr(self, "grounding_enforcer", GroundingEnforcer())
+        decision = enforcer.evaluate(
             citation_verification,
             claim_support_verification,
         )
@@ -337,7 +338,8 @@ class ResponseChain:
         claim_support_verification: Dict[str, Any],
     ) -> str:
         """Rewrite a failed candidate using only the retrieved source context."""
-        feedback = self.grounding_enforcer.repair_feedback(
+        enforcer = getattr(self, "grounding_enforcer", GroundingEnforcer())
+        feedback = enforcer.repair_feedback(
             citation_verification,
             claim_support_verification,
         )
@@ -415,7 +417,11 @@ INSUFFICIENT_RETRIEVED_SUPPORT
                     "repair_attempts": 0,
                     "initial_reasons": [],
                     "final_reasons": [],
-                    "fail_closed": self.fail_closed_on_grounding_failure,
+                    "fail_closed": getattr(
+                        self,
+                        "fail_closed_on_grounding_failure",
+                        False,
+                    ),
                     "message": (
                         "The answer passed the configured citation and experimental "
                         "claim-support gate."
@@ -423,14 +429,21 @@ INSUFFICIENT_RETRIEVED_SUPPORT
                 },
             }
 
+        enable_answer_repair = getattr(self, "enable_answer_repair", False)
+        max_attempts = getattr(self, "answer_repair_max_attempts", 0)
+        fail_closed = getattr(
+            self,
+            "fail_closed_on_grounding_failure",
+            False,
+        )
         can_repair = (
-            self.enable_answer_repair
-            and self.answer_repair_max_attempts > 0
+            enable_answer_repair
+            and max_attempts > 0
             and bool(documents)
         )
 
         if can_repair:
-            for attempt in range(1, self.answer_repair_max_attempts + 1):
+            for attempt in range(1, max_attempts + 1):
                 repaired = self._repair_answer(
                     query=query,
                     answer=answer,
@@ -476,7 +489,7 @@ INSUFFICIENT_RETRIEVED_SUPPORT
                             "initial_reasons": initial_reasons,
                             "final_reasons": [],
                             "attempts": attempts,
-                            "fail_closed": self.fail_closed_on_grounding_failure,
+                            "fail_closed": fail_closed,
                             "message": (
                                 "The initial answer failed grounding checks and a "
                                 "repaired answer passed the configured gate."
@@ -485,7 +498,7 @@ INSUFFICIENT_RETRIEVED_SUPPORT
                     }
 
         final_reasons = list(verification["decision"]["reasons"])
-        if self.fail_closed_on_grounding_failure:
+        if fail_closed:
             safe_sources = [
                 {
                     **source,
@@ -494,7 +507,11 @@ INSUFFICIENT_RETRIEVED_SUPPORT
                 for source in self._format_sources(documents)
             ]
             return {
-                "answer": self.grounding_enforcer.blocked_answer(),
+                "answer": getattr(
+                    self,
+                    "grounding_enforcer",
+                    GroundingEnforcer(),
+                ).blocked_answer(),
                 "sources": safe_sources,
                 "citation_verification": verification["citation_verification"],
                 "claim_support_verification": verification[
