@@ -89,3 +89,18 @@ def test_generate_response_exposes_citation_verification(monkeypatch):
     assert result["citation_verification"]["semantic_support_verified"] is False
     assert result["sources"][0]["source_id"] == "S1"
     assert result["sources"][0]["cited"] is True
+
+
+def test_failed_citation_integrity_caps_confidence_low():
+    chain = ResponseChain.__new__(ResponseChain)
+    document = Document(page_content="A source", metadata={"source_type": "act"})
+
+    confidence = chain._assess_confidence(
+        "Question",
+        "A sufficiently long answer that would otherwise avoid the brief-answer downgrade. " * 3,
+        [document, document, document],
+        citation_verification={"status": "failed"},
+    )
+
+    assert confidence["level"] == "LOW"
+    assert "Citation integrity check failed" in confidence["reasoning"]
