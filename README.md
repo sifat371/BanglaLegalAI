@@ -1,302 +1,254 @@
-# Law Buddy - Bangladesh Legal RAG System
+# BanglaLegalAI
 
-**AI-Powered Legal Assistant for Bangladesh Law**
+**Grounded legal retrieval and AI assistance for Bangladesh law**
 
-Law Buddy is an intelligent legal assistant that uses Retrieval-Augmented Generation (RAG) to provide legal information from Bangladesh statutes and case law. The system serves two distinct user types with tailored experiences:
+BanglaLegalAI is the downstream search, retrieval, and answer-generation application in the
+BanglaLegal ecosystem. Structured statutes and case-law sources are indexed with hybrid retrieval,
+while real court PDFs are normalized by
+[BanglaLegalIngest](https://github.com/sifat371/BanglaLegalIngest) before they enter the retrieval
+layer.
 
-- **General People**: Simplified legal guidance in plain language
-- **Legal Professionals**: Comprehensive research with detailed analysis
+> **Project status:** active research/engineering prototype. This repository is not yet a validated
+> production legal service, and generated answers are not a substitute for advice from a qualified
+> legal professional.
 
----
+## Architecture
 
-## 🌟 Features
+```text
+Structured acts (JSON) -----------------------> ActProcessor
+                                                   |
+Court judgments (PDF) -> BanglaLegalIngest -> JudgmentProcessor
+                                                   |
+Legacy case-study Markdown -> CaseProcessor ------+
+                                                   |
+                                                   v
+                                        LangChain Document[]
+                                                   |
+                                  +----------------+----------------+
+                                  |                                 |
+                                  v                                 v
+                              ChromaDB                             BM25
+                                  |                                 |
+                                  +----------------+----------------+
+                                                   v
+                                           HybridRetriever
+                                                   |
+                                                   v
+                                     Query + response chains
+                                                   |
+                                                   v
+                                      Public / research agents
+                                                   |
+                                                   v
+                                             Streamlit UI
+```
 
-### For Everyone
-- 💬 **Natural Language Queries**: Ask legal questions in plain English
-- 📚 **Comprehensive Database**: 1,484+ legal acts and case studies
-- 🎯 **Smart Retrieval**: Hybrid search combining semantic understanding and keyword matching
-- 📝 **Source Citations**: Every answer includes proper legal citations
-- 💡 **Follow-up Questions**: AI suggests related questions to explore
-- ⚖️ **Confidence Assessment**: Transparency about answer reliability
+BanglaLegalIngest owns PDF extraction, Bangla encoding handling, deterministic legal metadata,
+source provenance, diagnostics, and page-grounded retrieval chunks. BanglaLegalAI owns indexing,
+embeddings, retrieval/ranking, query understanding, answer generation, citation presentation, and
+application behavior.
 
-### For General People
-- ✅ Simple, easy-to-understand answers
-- ✅ Practical step-by-step guidance
-- ✅ Clear disclaimers and warnings
-- ✅ Focus on actionable advice
-- ✅ Fewer, more relevant sources (3-5)
+## Key capabilities
 
-### For Legal Professionals
-- ✅ Comprehensive legal analysis
-- ✅ Detailed citations and precedents
-- ✅ Professional legal terminology
-- ✅ Extensive research (10-20 sources)
-- ✅ Specialized research tools:
-  - Statute research by topic and date range
-  - Precedent finding by court and verdict
-  - Legal question analysis
-  - Section comparison
-  - Legal history tracing
-  - Argument drafting
+- Hybrid dense + BM25 retrieval over Bangladesh legal material.
+- Structured statute ingestion from the existing acts corpus.
+- Real judgment PDF ingestion through BanglaLegalIngest.
+- Deterministic judgment chunk IDs for idempotent indexing.
+- Page-aware judgment citations carrying document and chunk provenance.
+- Rule-based and LLM-assisted query classification.
+- Separate public-facing and legal-research response modes.
+- Streamlit application for interactive use.
 
----
-
-## 🚀 Quick Start
-
-### Prerequisites
+## Requirements
 
 - Python 3.13+
-- `uv` package manager
-- Mistral AI API key
-- HuggingFace API key
+- `uv`
+- Mistral API key for LLM-backed query/response features
+- Hugging Face API key for the configured embedding service
 
-### Installation
+## Installation
 
-1. **Clone the repository**
-   ```bash
-   cd law_buddy
-   ```
-
-2. **Install dependencies**
-   ```bash
-   uv sync
-   ```
-
-3. **Set up environment variables**
-   
-   Copy the example file and add your API keys:
-   ```bash
-   cp .env.example .env
-   # Edit .env and add your API keys
-   ```
-   
-   Get API keys:
-   - **Mistral AI**: https://console.mistral.ai/
-   - **HuggingFace**: https://huggingface.co/settings/tokens
-
-4. **Ingest legal data**
-   
-   ```bash
-   # Full ingestion (takes time due to API calls)
-   uv run python scripts/ingest_data.py --yes
-   
-   # OR quick test with limited data
-   uv run python scripts/ingest_data.py --limit 10 --yes
-   ```
-
-5. **Run the application**
-   ```bash
-   uv run streamlit run app/streamlit_app.py
-   ```
-
-6. **Open in browser**
-   
-   Navigate to: `http://localhost:8501`
-
----
-
-## 📖 Usage Guide
-
-### General Public
-
-1. Select **"General Public"** in the sidebar
-2. Ask questions like:
-   - "What are my rights as a tenant?"
-   - "Can my employer fire me without notice?"
-   - "What is the penalty for theft?"
-   - "How do I file a property dispute case?"
-3. Get simple, actionable answers with disclaimers
-4. Click follow-up questions to explore related topics
-
-### Legal Professionals
-
-1. Select **"Legal Professional"** in the sidebar
-2. Ask research questions like:
-   - "Find precedents on property ownership disputes"
-   - "Analyze Section 11 of The Societies Registration Act"
-   - "Compare penalties for fraud across different acts"
-   - "Trace the legal history of tenant rights from 1850-1950"
-3. Get comprehensive analysis with detailed citations
-4. Adjust number of sources (5-20) for research depth
-
-### Settings
-
-- **Number of Sources**: Control how many documents to retrieve
-- **Follow-up Questions**: Toggle AI-generated follow-up questions
-- **Confidence Assessment**: Show/hide AI confidence in answers
-- **Clear Conversation**: Reset chat history
-
----
-
-## 🧪 Testing
-
-### Test Hybrid Retrieval
 ```bash
-uv run python scripts/test_hybrid_retrieval.py
+git clone https://github.com/sifat371/BanglaLegalAI.git
+cd BanglaLegalAI
+uv sync --group dev
+cp .env.example .env
 ```
 
-### Test Query Classification
+Add your API credentials to `.env`.
+
+BanglaLegalIngest is currently resolved directly from its repository and pinned to a tested commit
+in `pyproject.toml`. This keeps the integration contract reproducible while BanglaLegalIngest is
+still pre-1.0.
+
+## Data ingestion
+
+### Structured acts
+
 ```bash
-uv run python src/chains/query_classifier.py
+uv run python scripts/ingest_data.py --acts-only --yes
 ```
 
-### Test Agents
+For a small development run:
+
 ```bash
-# Test public agent
-uv run python src/agents/public_agent.py
-
-# Test research agent
-uv run python src/agents/research_agent.py
+uv run python scripts/ingest_data.py --acts-only --limit 10 --yes
 ```
 
----
+### Legacy Markdown case studies
 
-## 📁 Project Structure
-
+```bash
+uv run python scripts/ingest_data.py --cases-only --yes
 ```
-law_buddy/
+
+These remain supported for compatibility but are distinct from real court judgments.
+
+### Real court judgments
+
+Place PDFs under `data/judgments/` or provide another directory:
+
+```bash
+uv run python scripts/ingest_data.py --judgments-only --yes
+```
+
+```bash
+uv run python scripts/ingest_data.py \
+  --judgments-only \
+  --judgments-dir /path/to/judgments \
+  --recursive \
+  --yes
+```
+
+The judgment path is:
+
+```text
+PDF
+ -> BanglaLegalIngest
+ -> LegalDocument
+ -> provenance-preserving RetrievalChunk[]
+ -> JudgmentProcessor
+ -> LangChain Document[]
+ -> ChromaDB + BM25
+```
+
+BanglaLegalAI does **not** re-split BanglaLegalIngest judgment chunks. This preserves page numbers,
+page-relative offsets, source hashes, and deterministic chunk IDs.
+
+### Full ingestion
+
+```bash
+uv run python scripts/ingest_data.py --yes
+```
+
+If `data/judgments/` does not exist, judgment ingestion is skipped.
+
+## Judgment retrieval metadata
+
+A judgment chunk entering the retrieval layer carries scalar metadata suitable for ChromaDB,
+including:
+
+```text
+source_type = judgment
+chunk_id
+document_id
+source_filename
+source_sha256
+page_start / page_end
+chunk_index
+char_start / char_end
+case_number
+case_type
+court
+district
+judges
+citations
+encoding_kind
+```
+
+For current compatibility, `case_id`, `case_title`, and `court_level` aliases are also emitted.
+They can be removed later after the old case-study assumptions are fully migrated.
+
+## Deterministic identity
+
+For BanglaLegalIngest judgments, `chunk_id` is the canonical retrieval identity. ChromaDB and BM25
+now use the same stable identity contract, so ingesting the same judgment chunk again replaces the
+existing BM25 record rather than silently creating a duplicate logical document.
+
+## Running the application
+
+```bash
+uv run streamlit run app/streamlit_app.py
+```
+
+Then open `http://localhost:8501`.
+
+## Testing
+
+```bash
+uv run pytest
+```
+
+The integration tests currently protect:
+
+- BanglaLegalIngest-to-LangChain metadata conversion;
+- page/document/chunk provenance;
+- deterministic retrieval IDs;
+- idempotent BM25 ingestion;
+- Chroma-style filter behavior in BM25;
+- case-law routing;
+- real Bangladesh case-number detection;
+- page-grounded judgment source formatting.
+
+CI also performs a Python syntax check and focused linting of the new integration modules.
+
+## Repository structure
+
+```text
+BanglaLegalAI/
 ├── app/
-│   └── streamlit_app.py          # Streamlit UI
+│   └── streamlit_app.py
 ├── data/
-│   ├── acts/                     # 1,484 legal acts (JSON)
-│   └── case_studies/             # Case law (Markdown)
+│   ├── acts/
+│   ├── case_studies/
+│   └── judgments/
+├── docs/
+│   └── bangla_legal_ingest_integration.md
+├── scripts/
+│   └── ingest_data.py
 ├── src/
 │   ├── agents/
-│   │   ├── base_agent.py         # Base agent + conversation
-│   │   ├── public_agent.py       # Public user agent
-│   │   └── research_agent.py     # Lawyer/research agent
 │   ├── chains/
-│   │   ├── query_classifier.py   # Query classification
-│   │   ├── retrieval_chain.py    # RAG retrieval
-│   │   └── response_chain.py     # Response generation
 │   ├── data_processing/
-│   │   ├── act_processor.py      # Process legal acts
-│   │   └── case_processor.py     # Process case studies
+│   │   ├── act_processor.py
+│   │   ├── case_processor.py
+│   │   └── judgment_processor.py
 │   ├── prompts/
-│   │   └── system_prompts.py     # LLM prompts
 │   ├── vectorstore/
-│   │   ├── bm25_store.py         # BM25 sparse retrieval
-│   │   ├── chroma_store.py       # ChromaDB vector store
-│   │   ├── embeddings.py         # HuggingFace embeddings
-│   │   └── hybrid_retriever.py   # Hybrid retrieval
-│   └── config.py                 # Configuration
-├── scripts/
-│   ├── ingest_data.py            # Data ingestion
-│   ├── test_hybrid_retrieval.py  # Test hybrid search
-│   └── test_similarity_search.py # Test vector search
-├── .env                          # API keys (not in repo)
-├── pyproject.toml                # Dependencies
-├── PLAN.md                       # Original project plan
-├── PHASE_3_REPORT.md             # Phase 3 completion
-├── PHASE_4_REPORT.md             # Phase 4 completion
-└── README.md                     # This file
+│   │   ├── bm25_store.py
+│   │   ├── chroma_store.py
+│   │   ├── document_identity.py
+│   │   └── hybrid_retriever.py
+│   └── config.py
+└── tests/
 ```
 
----
+## Current limitations
 
-## ⚙️ Configuration
+- The UI and much of the prompt layer are still English-first.
+- Existing case-study Markdown remains a legacy compatibility source.
+- Real judgment coverage is limited by the PDFs explicitly ingested.
+- BanglaLegalIngest currently does not provide a general OCR baseline for image-only PDFs.
+- Answer quality depends on retrieval quality and the supplied corpus.
+- Page-grounded provenance is available for judgments, but full answer-level citation verification is
+  still a downstream maturity task.
+- Authentication, caching, user workspaces, and production deployment controls are not yet complete.
 
-Edit `src/config.py` or environment variables:
+## Ecosystem boundary
 
-```python
-# Embedding Model
-embedding_model = "intfloat/multilingual-e5-large"
-embedding_dimension = 1024
+**BanglaLegalIngest:** document ingestion infrastructure.
 
-# Chunk Settings
-chunk_size = 1000
-chunk_overlap = 200
+**BanglaLegalAI:** legal retrieval and grounded AI application.
 
-# Retrieval Settings
-top_k = 5
-hybrid_alpha = 0.7  # Weight for dense retrieval
-
-# LLM Settings
-mistral_model = "mistral-large-latest"
-mistral_model_small = "mistral-small-latest"
-temperature = 0.1
-max_tokens = 2000
-```
-
----
-
-## 🔧 Technical Details
-
-### Tech Stack
-
-- **Backend**: Python 3.13, LangChain, LangGraph
-- **Vector Stores**: ChromaDB (dense), BM25 (sparse)
-- **Embeddings**: HuggingFace `intfloat/multilingual-e5-large` (1024D)
-- **LLM**: Mistral AI (Large + Small)
-- **UI**: Streamlit
-- **Package Manager**: uv
-
-### Key Architecture Components
-
-1. **Hybrid Retrieval**: Combines ChromaDB (semantic) + BM25 (keyword) with weighted fusion
-2. **Query Classification**: Extracts intent, filters, and references from natural language
-3. **Dual Agent System**: Specialized agents for public users and lawyers
-4. **Conversation History**: Tracks context across multiple turns
-5. **Source Citations**: Automatic formatting of legal citations
-
----
-
-## 📊 Performance
-
-### Response Time
-- Query classification: 300ms (LLM) or <1ms (rule-based)
-- Document retrieval: 200-500ms
-- Response generation: 2-5 seconds
-- **Total**: ~3-6 seconds per query
-
-### Resource Usage
-- Memory: ~2GB (vector stores + embeddings)
-- Storage: ~100MB (indices)
-- API Cost: ~$0.001-0.005 per query
-
----
-
-## 🐛 Known Issues & Limitations
-
-1. **Single Query Context**: Each query is independent; conversation history tracked but not used
-2. **English UI Only**: Interface is English (retrieves Bengali documents)
-3. **Limited Case Studies**: Only 5 test cases currently indexed
-4. **No Caching**: Repeated queries re-process every time
-5. **No Authentication**: All sessions are anonymous
-
----
-
-## 🔮 Future Enhancements
-
-### Phase 5 (Next)
-- [ ] Multi-turn context using conversation history
-- [ ] Query and response caching
-- [ ] Bengali language UI
-- [ ] Export conversations (PDF/Word)
-- [ ] Bookmark favorite answers
-
-### Phase 6 (Later)
-- [ ] User authentication and accounts
-- [ ] Advanced search with filter UI
-- [ ] Document upload (add custom laws)
-- [ ] Collaboration (share conversations)
-- [ ] Usage analytics and insights
-
----
-
-## 🎯 Project Status
-
-**Current Version**: 1.0.0 (MVP)  
-**Status**: ✅ Production Ready  
-**Last Updated**: February 1, 2026
-
-### Completed Phases
-
-- ✅ **Phase 1**: Foundation (Config, Embeddings, Vector Stores)
-- ✅ **Phase 2**: Data Processing (Acts, Cases, Ingestion)
-- ✅ **Phase 3**: Hybrid Retrieval (Query Classification, Fusion)
-- ✅ **Phase 4**: Agents & UI (Public/Lawyer Agents, Streamlit)
-
----
-
-**Built with ❤️ for the Bangladesh legal community**
+Keeping these repositories independent means BanglaLegalIngest can remain reusable by other search,
+RAG, research, and legal-document systems while BanglaLegalAI can evolve its retrieval and product
+layers independently.
