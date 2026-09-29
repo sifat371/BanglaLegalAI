@@ -195,6 +195,65 @@ def display_citation_verification(verification: dict | None) -> None:
         st.error(f"Citation integrity check failed{suffix}.")
 
 
+def display_claim_support_verification(verification: dict | None) -> None:
+    """Display experimental claim-level source-support assessment."""
+    if not verification:
+        return
+
+    status = verification.get("status")
+    if status in {"disabled", "not_run", "not_applicable"}:
+        return
+
+    counts = verification.get("counts", {})
+    evaluated = verification.get("claims_evaluated", 0)
+    prefix = "Experimental claim-support check"
+
+    if status == "supported":
+        st.caption(
+            f"🧪 {prefix}: all {evaluated} evaluated cited claims were assessed as supported. "
+            "This is model-assessed and not independently validated."
+        )
+    elif status == "insufficient":
+        st.warning(
+            f"🧪 {prefix}: at least one cited claim had insufficient support "
+            "in its cited passage."
+        )
+    elif status == "contradicted":
+        st.error(
+            f"🧪 {prefix}: at least one cited claim was assessed as contradicted "
+            "by its cited passage."
+        )
+
+    if verification.get("coverage_complete") is False:
+        uncited_count = verification.get("uncited_segments_count", 0)
+        st.warning(
+            f"{uncited_count} nontrivial answer segment(s) had no [S#] citation and "
+            "were not semantically checked."
+        )
+
+    claims = verification.get("claims", [])
+    if claims:
+        with st.expander("Claim support details"):
+            st.caption(
+                "Labels are experimental verifier assessments, not independent legal findings."
+            )
+            for claim in claims:
+                label = claim.get("label", "unknown").upper()
+                st.markdown(f"**{claim.get('claim_id', '?')} · {label}**")
+                st.write(claim.get("text", ""))
+                if claim.get("source_ids"):
+                    st.caption("Sources: " + ", ".join(claim["source_ids"]))
+                if claim.get("reason"):
+                    st.write(claim["reason"])
+                if claim.get("evaluator_error"):
+                    st.caption("Verifier error: " + claim["evaluator_error"])
+
+    if verification.get("truncated"):
+        st.caption(
+            "Only the configured maximum number of cited claims were checked in this answer."
+        )
+
+
 def display_chat_message(message: dict):
     """Display a chat message."""
     role = message["role"]
@@ -215,6 +274,7 @@ def display_chat_message(message: dict):
                         st.markdown(f"**[{source.get('source_id', f'S{idx}')}]** {source['citation']}" + (" · cited" if source.get("cited") else ""))
             
             display_citation_verification(message.get("citation_verification"))
+            display_claim_support_verification(message.get("claim_support_verification"))
 
             # Confidence
             if message.get("confidence"):
@@ -324,6 +384,7 @@ def process_query(query: str, num_results: int, include_followups: bool, show_co
                     st.markdown(f"**[{source.get('source_id', f'S{idx}')}]** {source['citation']}" + (" · cited" if source.get("cited") else ""))
         
         display_citation_verification(response.get("citation_verification"))
+        display_claim_support_verification(response.get("claim_support_verification"))
 
         # Display confidence
         if response.get("confidence"):
@@ -373,6 +434,7 @@ def process_query(query: str, num_results: int, include_followups: bool, show_co
             "content": full_answer,  # Use streamed answer
             "sources": response.get("sources", []),
             "citation_verification": response.get("citation_verification"),
+            "claim_support_verification": response.get("claim_support_verification"),
             "confidence": response.get("confidence"),
             "disclaimer": response.get("disclaimer"),
             "followup_questions": response.get("followup_questions", []),

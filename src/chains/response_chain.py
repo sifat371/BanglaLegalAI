@@ -10,6 +10,7 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain_core.documents import Document
 
 from src.chains.citation_verifier import CitationVerifier
+from src.chains.claim_support import ClaimSupportVerifier, LLMClaimSupportEvaluator
 from src.config import get_settings
 from src.prompts.system_prompts import (
     get_system_prompt,
@@ -61,6 +62,12 @@ class ResponseChain:
         # Output parser and deterministic citation-integrity verifier
         self.parser = StrOutputParser()
         self.citation_verifier = CitationVerifier()
+        self.claim_support_verifier = None
+        if settings.enable_claim_support_verification:
+            self.claim_support_verifier = ClaimSupportVerifier(
+                LLMClaimSupportEvaluator(self.llm_small),
+                max_claims=settings.claim_support_max_claims,
+            )
     
     def generate_response(
         self,
@@ -94,6 +101,12 @@ class ResponseChain:
             sources,
             citation_verification,
         )
+        claim_support_verification = self._verify_claim_support(
+            answer,
+            documents,
+            sources,
+            citation_verification,
+        )
 
         # Build response
         response = {
@@ -102,6 +115,7 @@ class ResponseChain:
             "sources": sources,
             "num_sources": len(documents),
             "citation_verification": citation_verification,
+            "claim_support_verification": claim_support_verification,
         }
         
         # Generate follow-up questions
@@ -116,6 +130,7 @@ class ResponseChain:
                 answer,
                 documents,
                 citation_verification=citation_verification,
+                claim_support_verification=claim_support_verification,
             )
             response["confidence"] = confidence
         
@@ -332,12 +347,42 @@ class ResponseChain:
             print(f"Error generating follow-ups: {e}")
             return []
     
+    def _verify_claim_support(
+        self,
+        answer: str,
+        documents: List[Document],
+        sources: List[Dict[str, Any]],
+        citation_verification: Dict[str, Any],
+    ) -> Dict[str, Any]:
+        """Run experimental claim support assessment when configured."""
+        verifier = getattr(self, "claim_support_verifier", None)
+        if verifier is None:
+            return {
+                "status": "disabled",
+                "experimental": True,
+                "claims_total": 0,
+                "claims_evaluated": 0,
+                "counts": {},
+                "claims": [],
+                "truncated": False,
+                "independently_validated": False,
+                "message": "Claim support verification is disabled.",
+            }
+
+        return verifier.verify(
+            answer,
+            documents,
+            sources,
+            citation_verification,
+        )
+
     def _assess_confidence(
         self,
         query: str,
         answer: str,
         documents: List[Document],
         citation_verification: Optional[Dict[str, Any]] = None,
+        claim_support_verification: Optional[Dict[str, Any]] = None,
     ) -> Dict[str, Any]:
         """
         Assess confidence in the answer.
@@ -381,7 +426,23 @@ class ResponseChain:
                 if confidence_score == "HIGH":
                     confidence_score = "MEDIUM"
 
-        # Factor 4: Check for hedging language
+        # Factor 4: Experimental claim support can only lower confidence.
+        if claim_support_verification:
+            support_status = claim_support_verification.get("status")
+            if support_status == "contradicted":
+                reasoning.append("At least one cited claim was assessed as contradicted")
+                confidence_score = "LOW"
+            elif support_status == "insufficient":
+                reasoning.append("At least one cited claim had insufficient source support")
+                if confidence_score == "HIGH":
+                    confidence_score = "MEDIUM"
+
+            if claim_support_verification.get("coverage_complete") is False:
+                reasoning.append("Some answer segments were uncited and not semantically checked")
+                if confidence_score == "HIGH":
+                    confidence_score = "MEDIUM"
+
+        # Factor 5: Check for hedging language
         hedging_words = ["may", "might", "possibly", "unclear", "uncertain", "not sure"]
         if any(word in answer.lower() for word in hedging_words):
             reasoning.append("Answer contains uncertainty language")

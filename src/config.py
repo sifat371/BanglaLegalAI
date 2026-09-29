@@ -52,6 +52,8 @@ class Settings(BaseSettings):
     mistral_model_small: str = "mistral-small-latest"
     temperature: float = 0.1
     max_tokens: int = 2000
+    enable_claim_support_verification: bool = True
+    claim_support_max_claims: int = 12
     
     # ChromaDB collection names
     acts_collection_name: str = "acts_sections"

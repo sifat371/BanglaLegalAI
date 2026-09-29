@@ -104,3 +104,69 @@ def test_failed_citation_integrity_caps_confidence_low():
 
     assert confidence["level"] == "LOW"
     assert "Citation integrity check failed" in confidence["reasoning"]
+
+
+def test_generate_response_exposes_claim_support_verification(monkeypatch):
+    from src.chains.citation_verifier import CitationVerifier
+
+    class FakeSupportVerifier:
+        def verify(self, answer, documents, sources, citation_verification):
+            return {
+                "status": "supported",
+                "experimental": True,
+                "claims_total": 1,
+                "claims_evaluated": 1,
+                "counts": {"supported": 1, "contradicted": 0, "insufficient": 0},
+                "claims": [],
+                "truncated": False,
+                "independently_validated": False,
+                "message": "fixture",
+            }
+
+    chain = ResponseChain.__new__(ResponseChain)
+    chain.citation_verifier = CitationVerifier()
+    chain.claim_support_verifier = FakeSupportVerifier()
+    monkeypatch.setattr(
+        chain,
+        "_generate_answer",
+        lambda query, context: "The court addressed the issue [S1].",
+    )
+
+    document = Document(
+        page_content="The court addressed the issue.",
+        metadata={
+            "source_type": "judgment",
+            "case_number": "Civil Revision No. 205 of 2021",
+            "court": "High Court Division",
+            "page_start": 7,
+            "document_id": "doc",
+            "chunk_id": "doc:p7:c0",
+            "source_filename": "case.pdf",
+        },
+    )
+
+    result = chain.generate_response(
+        "What did the court address?",
+        [document],
+        include_followups=False,
+        include_confidence=False,
+    )
+
+    assert result["claim_support_verification"]["status"] == "supported"
+    assert result["claim_support_verification"]["independently_validated"] is False
+
+
+def test_contradicted_claim_support_caps_confidence_low():
+    chain = ResponseChain.__new__(ResponseChain)
+    document = Document(page_content="A source", metadata={"source_type": "act"})
+
+    confidence = chain._assess_confidence(
+        "Question",
+        "A sufficiently long answer that would otherwise be high confidence. " * 3,
+        [document, document, document],
+        citation_verification={"status": "verified"},
+        claim_support_verification={"status": "contradicted"},
+    )
+
+    assert confidence["level"] == "LOW"
+    assert "assessed as contradicted" in " ".join(confidence["reasoning"])

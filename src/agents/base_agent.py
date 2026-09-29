@@ -183,6 +183,7 @@ class BaseAgent:
                 "num_sources": response_result["num_sources"],
                 "confidence": response_result.get("confidence"),
                 "citation_verification": response_result.get("citation_verification"),
+                "claim_support_verification": response_result.get("claim_support_verification"),
                 "classification": retrieval_result.get("classification")
             }
         )
@@ -194,6 +195,7 @@ class BaseAgent:
             "sources": response_result["sources"],
             "num_sources": response_result["num_sources"],
             "citation_verification": response_result["citation_verification"],
+            "claim_support_verification": response_result["claim_support_verification"],
             "session_id": self.session_id,
             "user_type": self.user_type
         }
@@ -272,6 +274,12 @@ class BaseAgent:
             sources,
             citation_verification,
         )
+        claim_support_verification = self.response_chain._verify_claim_support(
+            full_answer,
+            retrieval_result["documents"],
+            sources,
+            citation_verification,
+        )
         
         # Generate follow-ups if requested
         followup_questions = []
@@ -286,6 +294,7 @@ class BaseAgent:
                 full_answer,
                 retrieval_result["documents"],
                 citation_verification=citation_verification,
+                claim_support_verification=claim_support_verification,
             )
         
         # Add to conversation history
@@ -297,6 +306,7 @@ class BaseAgent:
                 "num_sources": len(sources),
                 "confidence": confidence,
                 "citation_verification": citation_verification,
+                "claim_support_verification": claim_support_verification,
                 "classification": retrieval_result.get("classification")
             }
         )
@@ -309,6 +319,7 @@ class BaseAgent:
             "sources": sources,
             "num_sources": len(sources),
             "citation_verification": citation_verification,
+            "claim_support_verification": claim_support_verification,
             "followup_questions": followup_questions,
             "confidence": confidence,
             "session_id": self.session_id,
