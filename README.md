@@ -232,6 +232,15 @@ BanglaLegalAI/
 └── tests/
 ```
 
+## Real-judgment validation
+
+BanglaLegalAI includes an external end-to-end smoke workflow using four public Bangladesh Supreme
+Court judgments. The first measured run ingested all four documents into **135 unique chunks**,
+kept both ChromaDB and BM25 at **135 records after re-indexing**, and retrieved the correct judgment
+at **rank 1 for all four exact case-number queries** while preserving source pages.
+
+See `docs/public_judgment_validation.md` for the validation boundary and measured results.
+
 ## Current limitations
 
 - The UI and much of the prompt layer are still English-first.
