@@ -54,6 +54,9 @@ class Settings(BaseSettings):
     max_tokens: int = 2000
     enable_claim_support_verification: bool = True
     claim_support_max_claims: int = 12
+    enable_answer_repair: bool = True
+    answer_repair_max_attempts: int = 1
+    fail_closed_on_grounding_failure: bool = True
     
     # ChromaDB collection names
     acts_collection_name: str = "acts_sections"
