@@ -52,6 +52,34 @@ class BM25Store:
         tokens = text.lower().split()
         return tokens
     
+    @staticmethod
+    def _matches_filter(metadata: Dict[str, Any], filter_value: Dict[str, Any]) -> bool:
+        """Evaluate the subset of Chroma-style filters used by BanglaLegalAI."""
+        if not filter_value:
+            return True
+
+        if "$and" in filter_value:
+            return all(
+                BM25Store._matches_filter(metadata, clause)
+                for clause in filter_value["$and"]
+            )
+
+        for key, expected in filter_value.items():
+            actual = metadata.get(key)
+            if isinstance(expected, dict):
+                for operator, value in expected.items():
+                    if operator == "$eq" and actual != value:
+                        return False
+                    if operator == "$gte" and (actual is None or actual < value):
+                        return False
+                    if operator == "$lte" and (actual is None or actual > value):
+                        return False
+                    if operator == "$in" and actual not in value:
+                        return False
+            elif actual != expected:
+                return False
+        return True
+
     def add_documents(self, documents: List[Document]) -> None:
         """Add or replace documents using stable document identities."""
         if not documents:
@@ -120,7 +148,7 @@ class BM25Store:
             
             # Apply filter
             if filter:
-                if all(doc.metadata.get(key) == value for key, value in filter.items()):
+                if self._matches_filter(doc.metadata, filter):
                     results.append(doc)
             else:
                 results.append(doc)
@@ -167,7 +195,7 @@ class BM25Store:
             
             # Apply filter
             if filter:
-                if all(doc.metadata.get(key) == value for key, value in filter.items()):
+                if self._matches_filter(doc.metadata, filter):
                     results.append((doc, score))
             else:
                 results.append((doc, score))
