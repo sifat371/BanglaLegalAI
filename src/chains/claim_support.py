@@ -143,15 +143,26 @@ class ClaimSupportVerifier:
         return f"S{int(number)}"
 
     @classmethod
+    def _normalized_segments(cls, answer: str) -> list[str]:
+        # Normalize the common "claim. [S1]" form to "claim [S1]." before
+        # sentence splitting so the source marker stays attached to its claim.
+        normalized = re.sub(
+            r"([.!?।])\s*((?:\[S[1-9]\d*\]\s*)+)",
+            r" \2\1",
+            answer,
+        )
+        return [
+            segment.strip()
+            for segment in _SENTENCE_BOUNDARY.split(normalized)
+            if segment.strip()
+        ]
+
+    @classmethod
     def extract_cited_claims(cls, answer: str) -> list[dict[str, Any]]:
         claims = []
         claim_number = 0
 
-        for segment in _SENTENCE_BOUNDARY.split(answer):
-            original = segment.strip()
-            if not original:
-                continue
-
+        for original in cls._normalized_segments(answer):
             source_ids = [
                 cls._source_id(match.group("number"))
                 for match in _CITATION.finditer(original)
@@ -161,7 +172,8 @@ class ClaimSupportVerifier:
                 continue
 
             claim_text = _CITATION.sub("", original).strip()
-            claim_text = re.sub(r"\\s+", " ", claim_text)
+            claim_text = re.sub(r"\s+", " ", claim_text)
+            claim_text = re.sub(r"\s+([,.;:!?।])", r"\1", claim_text)
             if not claim_text:
                 continue
 
@@ -176,6 +188,27 @@ class ClaimSupportVerifier:
             )
 
         return claims
+
+    @classmethod
+    def extract_uncited_segments(cls, answer: str) -> list[str]:
+        """Return nontrivial answer segments that have no canonical source marker.
+
+        These are coverage warnings only. They are not automatically classified
+        as factual legal claims.
+        """
+        uncited = []
+        for segment in cls._normalized_segments(answer):
+            if _CITATION.search(segment):
+                continue
+
+            cleaned = re.sub(r"^[#>*\-\d.)\s]+", "", segment).strip()
+            if len(cleaned) < 20:
+                continue
+            if cleaned.endswith(":") and len(cleaned.split()) <= 8:
+                continue
+            uncited.append(cleaned)
+
+        return uncited
 
     def verify(
         self,
@@ -213,6 +246,7 @@ class ClaimSupportVerifier:
         }
 
         extracted = self.extract_cited_claims(answer)
+        uncited_segments = self.extract_uncited_segments(answer)
         selected = extracted[: self.max_claims]
         results = []
 
@@ -285,6 +319,9 @@ class ClaimSupportVerifier:
             "counts": counts,
             "claims": results,
             "truncated": len(extracted) > len(selected),
+            "uncited_segments": uncited_segments[:10],
+            "uncited_segments_count": len(uncited_segments),
+            "coverage_complete": not uncited_segments,
             "independently_validated": False,
             "message": self._message(status),
         }
