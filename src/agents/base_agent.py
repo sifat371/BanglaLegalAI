@@ -28,7 +28,7 @@ class ConversationHistory:
         self,
         query: str,
         answer: str,
-        sources: List[Dict[str, str]],
+        sources: List[Dict[str, Any]],
         metadata: Optional[Dict[str, Any]] = None
     ):
         """
@@ -282,7 +282,10 @@ class BaseAgent:
         confidence = None
         if include_confidence:
             confidence = self.response_chain._assess_confidence(
-                query, full_answer, retrieval_result["documents"]
+                query,
+                full_answer,
+                retrieval_result["documents"],
+                citation_verification=citation_verification,
             )
         
         # Add to conversation history
