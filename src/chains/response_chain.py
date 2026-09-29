@@ -9,6 +9,7 @@ from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.documents import Document
 
+from src.chains.citation_verifier import CitationVerifier
 from src.config import get_settings
 from src.prompts.system_prompts import (
     get_system_prompt,
@@ -57,8 +58,9 @@ class ResponseChain:
         # Get system prompt for user type
         self.system_prompt = get_system_prompt(user_type)
         
-        # Output parser
+        # Output parser and deterministic citation-integrity verifier
         self.parser = StrOutputParser()
+        self.citation_verifier = CitationVerifier()
     
     def generate_response(
         self,
@@ -85,12 +87,21 @@ class ResponseChain:
         # Generate answer
         answer = self._generate_answer(query, context)
         
+        # Bind generated citation markers to the exact retrieved sources.
+        sources = self._format_sources(documents)
+        citation_verification = self.citation_verifier.verify(answer, sources)
+        sources = self.citation_verifier.annotate_sources(
+            sources,
+            citation_verification,
+        )
+
         # Build response
         response = {
             "query": query,
             "answer": answer,
-            "sources": self._format_sources(documents),
-            "num_sources": len(documents)
+            "sources": sources,
+            "num_sources": len(documents),
+            "citation_verification": citation_verification,
         }
         
         # Generate follow-up questions
@@ -175,26 +186,26 @@ class ResponseChain:
             
             # Format header based on type
             if source_type == "act":
-                header = f"[Source {idx}] {metadata.get('act_title', 'Unknown Act')}"
+                header = f"[S{idx}] {metadata.get('act_title', 'Unknown Act')}"
                 header += f"\nSection {metadata.get('section_number', 'N/A')}"
                 if metadata.get('section_title'):
                     header += f": {metadata['section_title']}"
                 header += f"\nYear: {metadata.get('act_year', 'N/A')}"
                 
             elif source_type == "judgment":
-                header = f"[Source {idx}] {metadata.get('case_number') or metadata.get('source_filename', 'Unknown Judgment')}"
+                header = f"[S{idx}] {metadata.get('case_number') or metadata.get('source_filename', 'Unknown Judgment')}"
                 header += f"\nCourt: {metadata.get('court', 'N/A')}"
                 header += f"\nPage: {metadata.get('page_start', 'N/A')}"
                 header += f"\nSource file: {metadata.get('source_filename', 'N/A')}"
 
             elif source_type == "case_study":
-                header = f"[Source {idx}] {metadata.get('case_title', 'Unknown Case')}"
+                header = f"[S{idx}] {metadata.get('case_title', 'Unknown Case')}"
                 header += f"\nCase ID: {metadata.get('case_id', 'N/A')}"
                 header += f"\nCourt: {metadata.get('court_level', 'N/A')}"
                 header += f"\nVerdict: {metadata.get('verdict', 'N/A')}"
                 header += f"\nArea of Law: {metadata.get('area_of_law', 'N/A')}"
             else:
-                header = f"[Source {idx}]"
+                header = f"[S{idx}]"
             
             # Add content
             content = f"\n\n{doc.page_content}\n"
@@ -204,7 +215,7 @@ class ResponseChain:
         
         return "\n".join(context_parts)
     
-    def _format_sources(self, documents: List[Document]) -> List[Dict[str, str]]:
+    def _format_sources(self, documents: List[Document]) -> List[Dict[str, Any]]:
         """
         Format sources for citation.
         
@@ -216,8 +227,9 @@ class ResponseChain:
         """
         sources = []
         
-        for doc in documents:
+        for idx, doc in enumerate(documents, 1):
             metadata = doc.metadata
+            source_id = self.citation_verifier.source_id(idx)
             source_type = metadata.get("source_type", "unknown")
             
             if source_type == "act":
@@ -227,6 +239,7 @@ class ResponseChain:
                     citation += f" ({metadata['act_year']})"
                 
                 sources.append({
+                    "source_id": source_id,
                     "type": "act",
                     "citation": citation,
                     "title": metadata.get('act_title', 'Unknown'),
@@ -240,6 +253,7 @@ class ResponseChain:
                 page = metadata.get("page_start", "N/A")
                 citation = f"{case_number}, {court}, p. {page}"
                 sources.append({
+                    "source_id": source_id,
                     "type": "judgment",
                     "citation": citation,
                     "title": case_number,
@@ -258,6 +272,7 @@ class ResponseChain:
                     citation += f", {metadata['court_level']}"
                 
                 sources.append({
+                    "source_id": source_id,
                     "type": "case",
                     "citation": citation,
                     "title": metadata.get('case_title', 'Unknown'),
@@ -266,6 +281,7 @@ class ResponseChain:
                 })
             else:
                 sources.append({
+                    "source_id": source_id,
                     "type": "unknown",
                     "citation": "Unknown source"
                 })
