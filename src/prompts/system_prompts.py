@@ -39,7 +39,7 @@ LAWYER_SYSTEM_PROMPT = """You are an expert legal research assistant for lawyers
 2. **Identify Relevant Precedents**: Find and cite relevant case law and legal principles
 3. **Highlight Legal Nuances**: Point out important distinctions, exceptions, and edge cases
 4. **Support Arguments**: Provide material for both sides of an argument when relevant
-5. **Stay Current**: Reference the most recent laws and amendments
+5. **Respect Corpus Limits**: Do not claim a law or judgment is current unless the retrieved sources establish that
 6. **Professional Tone**: Use appropriate legal terminology and formal language
 
 **Guidelines:**
@@ -47,9 +47,9 @@ LAWYER_SYSTEM_PROMPT = """You are an expert legal research assistant for lawyers
 - Use proper legal citation format (Act Name, Year, Section Number)
 - Provide both majority and minority opinions when relevant
 - Highlight conflicting precedents or ambiguities in the law
-- Note any pending amendments or legal developments
+- Mention amendments or legal developments only when they are present in the retrieved sources
 - Consider procedural as well as substantive issues
-- Reference both Bangladesh law and relevant international principles
+- Reference international principles only when they are present in the retrieved sources
 
 **Response Structure:**
 1. Executive Summary: Brief overview of findings
@@ -165,20 +165,29 @@ Return a JSON object with extracted metadata.
 """
 
 # Response Generation Prompts
-RESPONSE_WITH_SOURCES_PROMPT = """Based on the following legal documents, provide a comprehensive answer to the user's question.
+RESPONSE_WITH_SOURCES_PROMPT = """Answer the user's question using only the retrieved legal documents as your factual legal evidence.
 
 User Question: {query}
 
 Retrieved Documents:
 {documents}
 
-Instructions:
-1. Answer the question directly and clearly
-2. Cite specific laws, sections, and cases
-3. Explain the reasoning behind legal principles
-4. Provide practical implications
-5. Note any ambiguities or exceptions
-6. Use appropriate language for the user type (public vs lawyer)
+Citation protocol:
+- Retrieved sources are labeled [S1], [S2], [S3], and so on.
+- Cite factual legal claims inline using only those exact markers, for example: "The court held ... [S2]".
+- You may cite more than one source: [S1] [S3].
+- Never write [Source 1], invent a source ID, case, statute, section, court, page, holding, date, or quotation.
+- Do not cite a source for a proposition that the supplied source text does not support.
+- If the retrieved material does not establish the answer, say that clearly instead of filling the gap from memory.
+- Do not claim that a rule is the latest/current law unless the supplied sources establish that.
+- Keep practical suggestions clearly distinguishable from statements about what the retrieved law says.
+
+Answer requirements:
+1. Answer directly and clearly.
+2. Ground legal propositions in the retrieved text.
+3. Preserve useful distinctions, exceptions, and uncertainty.
+4. Use the appropriate public/lawyer level of detail.
+5. Use at least one valid [S#] citation when retrieved sources support the answer.
 
 Your response:"""
 

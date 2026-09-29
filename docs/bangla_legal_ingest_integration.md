@@ -128,15 +128,22 @@ must not force a query to only the legacy case-study source type.
 
 ## Citation contract
 
-When a retrieved judgment contains a source page, the response layer should preserve it in the source
+When a retrieved judgment contains a source page, the response layer preserves it in the source
 display, for example:
 
 ```text
 Criminal Appeal No. 3346 of 2022, Supreme Court of Bangladesh, p. 7
 ```
 
-The source object also retains `document_id` and `chunk_id` so future citation verification can
-trace the answer back to the exact indexed chunk.
+At answer time, retrieved documents receive response-local IDs such as `S1` and `S2`. Generated
+answers cite those exact IDs as `[S1]`, and the deterministic citation verifier rejects unknown or
+noncanonical source markers.
+
+The source object retains `document_id`, `chunk_id`, and page provenance, allowing a valid
+answer marker to trace back to the exact indexed judgment chunk.
+
+This verifies the source binding only. Claim-level semantic entailment remains a separate validation
+layer.
 
 ## Raw PDF policy
 

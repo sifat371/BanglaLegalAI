@@ -1,5 +1,5 @@
 """
-Base Agent for Law Buddy.
+Base Agent for BanglaLegalAI.
 Provides core RAG functionality with conversation history.
 """
 
@@ -28,7 +28,7 @@ class ConversationHistory:
         self,
         query: str,
         answer: str,
-        sources: List[Dict[str, str]],
+        sources: List[Dict[str, Any]],
         metadata: Optional[Dict[str, Any]] = None
     ):
         """
@@ -182,6 +182,7 @@ class BaseAgent:
             metadata={
                 "num_sources": response_result["num_sources"],
                 "confidence": response_result.get("confidence"),
+                "citation_verification": response_result.get("citation_verification"),
                 "classification": retrieval_result.get("classification")
             }
         )
@@ -192,6 +193,7 @@ class BaseAgent:
             "answer": response_result["answer"],
             "sources": response_result["sources"],
             "num_sources": response_result["num_sources"],
+            "citation_verification": response_result["citation_verification"],
             "session_id": self.session_id,
             "user_type": self.user_type
         }
@@ -260,8 +262,16 @@ class BaseAgent:
                 "content": chunk
             }
         
-        # After streaming is complete, generate follow-ups and metadata
+        # After streaming is complete, bind citation markers to retrieved sources.
         sources = self.response_chain._format_sources(retrieval_result["documents"])
+        citation_verification = self.response_chain.citation_verifier.verify(
+            full_answer,
+            sources,
+        )
+        sources = self.response_chain.citation_verifier.annotate_sources(
+            sources,
+            citation_verification,
+        )
         
         # Generate follow-ups if requested
         followup_questions = []
@@ -272,7 +282,10 @@ class BaseAgent:
         confidence = None
         if include_confidence:
             confidence = self.response_chain._assess_confidence(
-                query, full_answer, retrieval_result["documents"]
+                query,
+                full_answer,
+                retrieval_result["documents"],
+                citation_verification=citation_verification,
             )
         
         # Add to conversation history
@@ -283,6 +296,7 @@ class BaseAgent:
             metadata={
                 "num_sources": len(sources),
                 "confidence": confidence,
+                "citation_verification": citation_verification,
                 "classification": retrieval_result.get("classification")
             }
         )
@@ -294,6 +308,7 @@ class BaseAgent:
             "answer": full_answer,
             "sources": sources,
             "num_sources": len(sources),
+            "citation_verification": citation_verification,
             "followup_questions": followup_questions,
             "confidence": confidence,
             "session_id": self.session_id,
