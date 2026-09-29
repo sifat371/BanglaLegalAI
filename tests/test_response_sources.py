@@ -25,6 +25,7 @@ def test_response_source_for_judgment_is_page_grounded():
 
     source = chain._format_sources([document])[0]
 
+    assert source["source_id"] == "S1"
     assert source["type"] == "judgment"
     assert source["page"] == "12"
     assert source["citation"] == (
@@ -47,6 +48,44 @@ def test_response_context_exposes_judgment_page():
 
     context = chain._format_documents([document])
 
+    assert "[S1]" in context
     assert "Writ Petition No. 42 of 2024" in context
     assert "Page: 3" in context
     assert "Grounded passage" in context
+
+
+def test_generate_response_exposes_citation_verification(monkeypatch):
+    from src.chains.citation_verifier import CitationVerifier
+
+    chain = ResponseChain.__new__(ResponseChain)
+    chain.citation_verifier = CitationVerifier()
+    monkeypatch.setattr(
+        chain,
+        "_generate_answer",
+        lambda query, context: "The court addressed the issue [S1].",
+    )
+
+    document = Document(
+        page_content="The court addressed the issue.",
+        metadata={
+            "source_type": "judgment",
+            "case_number": "Civil Revision No. 205 of 2021",
+            "court": "High Court Division",
+            "page_start": 7,
+            "document_id": "doc",
+            "chunk_id": "doc:p7:c0",
+            "source_filename": "case.pdf",
+        },
+    )
+
+    result = chain.generate_response(
+        "What did the court address?",
+        [document],
+        include_followups=False,
+        include_confidence=False,
+    )
+
+    assert result["citation_verification"]["status"] == "verified"
+    assert result["citation_verification"]["semantic_support_verified"] is False
+    assert result["sources"][0]["source_id"] == "S1"
+    assert result["sources"][0]["cited"] is True
