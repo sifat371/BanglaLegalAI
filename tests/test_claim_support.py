@@ -125,3 +125,46 @@ def test_max_claims_caps_cost_and_reports_truncation():
     assert result["claims_total"] == 2
     assert result["claims_evaluated"] == 1
     assert result["truncated"] is True
+
+
+class FakeLLM:
+    def __init__(self, content):
+        self.content = content
+        self.prompts = []
+
+    def invoke(self, prompt):
+        self.prompts.append(prompt)
+        return type("Message", (), {"content": self.content})()
+
+
+def test_llm_evaluator_parses_json_and_uses_only_cited_text():
+    from src.chains.claim_support import LLMClaimSupportEvaluator
+
+    llm = FakeLLM(
+        '{"label":"supported","reason":"directly stated","evidence":"allowed the appeal"}'
+    )
+    evaluator = LLMClaimSupportEvaluator(llm)
+
+    result = evaluator.evaluate(
+        "The court allowed the appeal.",
+        [{"source_id": "S1", "text": "The court allowed the appeal."}],
+    )
+
+    assert result["label"] == "supported"
+    assert result["evaluator_error"] is None
+    assert "The court allowed the appeal." in llm.prompts[0]
+    assert "[S1]" in llm.prompts[0]
+
+
+def test_llm_evaluator_fails_conservatively_on_invalid_output():
+    from src.chains.claim_support import LLMClaimSupportEvaluator
+
+    evaluator = LLMClaimSupportEvaluator(FakeLLM("not json"))
+
+    result = evaluator.evaluate(
+        "Claim",
+        [{"source_id": "S1", "text": "source"}],
+    )
+
+    assert result["label"] == "insufficient"
+    assert result["evaluator_error"]
