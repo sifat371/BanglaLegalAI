@@ -47,7 +47,7 @@ def test_grounding_gate_rejects_incomplete_coverage():
     )
 
     assert result["acceptable"] is False
-    assert "semantic_coverage:incomplete" in result["reasons"]
+    assert "semantic_coverage:incomplete_or_unknown" in result["reasons"]
 
 
 def test_grounding_gate_rejects_truncated_verification():
@@ -57,7 +57,7 @@ def test_grounding_gate_rejects_truncated_verification():
     )
 
     assert result["acceptable"] is False
-    assert "semantic_coverage:truncated" in result["reasons"]
+    assert "semantic_coverage:truncated_or_unknown" in result["reasons"]
 
 
 def test_grounding_gate_rejects_evaluator_error():
@@ -112,3 +112,16 @@ def test_repair_feedback_contains_only_problem_signals():
     assert "C2 is insufficient" in feedback
     assert "C1 is supported" not in feedback
     assert "This sentence has no citation." in feedback
+
+
+def test_grounding_gate_rejects_missing_coverage_fields():
+    support = {
+        "status": "supported",
+        "claims": [],
+    }
+
+    result = GroundingEnforcer.evaluate(valid_citation(), support)
+
+    assert result["acceptable"] is False
+    assert "semantic_coverage:incomplete_or_unknown" in result["reasons"]
+    assert "semantic_coverage:truncated_or_unknown" in result["reasons"]
