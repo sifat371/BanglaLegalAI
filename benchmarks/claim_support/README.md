@@ -166,3 +166,15 @@ Model accuracy is not yet a required CI threshold because:
 
 Once a human legal reviewer validates the set, a versioned benchmark (for example v1.0) can become a
 stronger release gate.
+
+## Current live-evaluation status
+
+A safe repository-secret probe was run on 2026-09-29. The repository did not have a
+`MISTRAL_API_KEY` Actions secret configured, so the current Mistral verifier was **not** scored and
+no accuracy/F1 figure is reported.
+
+This is intentional: the benchmark does not substitute the gold adjudicator's own labels as model
+predictions, because doing so would be circular.
+
+Configure the repository secret and run the **Claim Support Benchmark** workflow to produce the
+first independent system-under-test report.
