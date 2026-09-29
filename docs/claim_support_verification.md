@@ -141,6 +141,16 @@ error occurred. Failed candidates may be repaired and are always re-verified fro
 
 See `docs/fail_closed_answer_repair.md`.
 
+## Stage 6 benchmark
+
+A versioned Stage 6A benchmark now exists under `benchmarks/claim_support/`.
+
+Version 0.1 contains 30 balanced source-bound examples and scoring utilities. The gold labels were
+manually adjudicated by ChatGPT GPT-5.6 Sol and are explicitly marked as neither human-reviewed nor
+legal-professional-reviewed.
+
+This allows reproducible internal evaluation without misrepresenting the reviewer provenance.
+
 ## Benchmark requirement
 
 This stage intentionally does not label a synthetic test fixture as a legal-quality benchmark.
