@@ -29,6 +29,7 @@ class Settings(BaseSettings):
     data_dir: Path = project_root / "data"
     acts_dir: Path = data_dir / "acts"
     case_studies_dir: Path = data_dir / "case_studies"
+    judgments_dir: Path = data_dir / "judgments"
     
     # Vector store settings
     chroma_persist_dir: Path = project_root / "chroma_db"
