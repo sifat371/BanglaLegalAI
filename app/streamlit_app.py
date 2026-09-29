@@ -168,6 +168,33 @@ def display_sidebar():
         return num_results, include_followups, show_confidence
 
 
+def display_citation_verification(verification: dict | None) -> None:
+    """Display structural citation-integrity status without overstating support."""
+    if not verification:
+        return
+
+    status = verification.get("status")
+    if status == "verified":
+        st.caption(
+            "✅ Citation IDs verified against the retrieved sources. "
+            "This does not independently verify semantic entailment."
+        )
+    elif status == "uncited":
+        st.warning(
+            "Retrieved legal sources were available, but the answer did not include valid [S#] citations."
+        )
+    elif status == "failed":
+        invalid = verification.get("invalid_source_ids", [])
+        malformed = verification.get("noncanonical_markers", [])
+        details = []
+        if invalid:
+            details.append(f"unknown IDs: {', '.join(invalid)}")
+        if malformed:
+            details.append(f"noncanonical markers: {', '.join(malformed)}")
+        suffix = f" ({'; '.join(details)})" if details else ""
+        st.error(f"Citation integrity check failed{suffix}.")
+
+
 def display_chat_message(message: dict):
     """Display a chat message."""
     role = message["role"]
@@ -185,8 +212,10 @@ def display_chat_message(message: dict):
             if message.get("sources"):
                 with st.expander(f"📚 Sources ({len(message['sources'])})"):
                     for idx, source in enumerate(message["sources"], 1):
-                        st.markdown(f"**{idx}.** {source['citation']}")
+                        st.markdown(f"**[{source.get('source_id', f'S{idx}')}]** {source['citation']}" + (" · cited" if source.get("cited") else ""))
             
+            display_citation_verification(message.get("citation_verification"))
+
             # Confidence
             if message.get("confidence"):
                 conf = message["confidence"]
@@ -292,8 +321,10 @@ def process_query(query: str, num_results: int, include_followups: bool, show_co
         if response.get("sources"):
             with st.expander(f"📚 Sources ({len(response['sources'])})"):
                 for idx, source in enumerate(response["sources"], 1):
-                    st.markdown(f"**{idx}.** {source['citation']}")
+                    st.markdown(f"**[{source.get('source_id', f'S{idx}')}]** {source['citation']}" + (" · cited" if source.get("cited") else ""))
         
+        display_citation_verification(response.get("citation_verification"))
+
         # Display confidence
         if response.get("confidence"):
             conf = response["confidence"]
@@ -341,6 +372,7 @@ def process_query(query: str, num_results: int, include_followups: bool, show_co
             "role": "assistant",
             "content": full_answer,  # Use streamed answer
             "sources": response.get("sources", []),
+            "citation_verification": response.get("citation_verification"),
             "confidence": response.get("confidence"),
             "disclaimer": response.get("disclaimer"),
             "followup_questions": response.get("followup_questions", []),
