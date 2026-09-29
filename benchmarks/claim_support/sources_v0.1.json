@@ -1,0 +1,74 @@
+{
+  "benchmark_version": "0.1.0",
+  "review_basis": "Source passages manually selected and adjudicated by ChatGPT from repository statutes and public Bangladesh Supreme Court judgments.",
+  "sources": [
+    {
+      "source_id": "J_DR117_ORDER",
+      "source_type": "judgment",
+      "title": "Death Reference No.117 of 2017 with Jail Appeal No.363 of 2017",
+      "page": 39,
+      "url": "https://www.supremecourt.gov.bd/resources/documents/2335716_Death_Reference_No_117_of_20217.pdf",
+      "text": "In the result, the Death Reference No.117 of 2017 is rejected and Jail Appeal No.363 of 2017 is allowed in part and the conviction of accused Md. Enamul Haque is altered to section 304 (second part) of the Penal Code, 1860 instead of section 302 of the Penal Code, 1860 and he is sentenced to rigorous imprisonment for 10 (ten) years. Accused Md. Enamul Haque is in custody in connection of this case from 28.06.2011, as such, accused Enamul has already served out above sentence and we are directing that accused Md. Enamul Haque be set at liberty at once if he is not wanted in connection with any other case."
+    },
+    {
+      "source_id": "J_DR117_INTENT",
+      "source_type": "judgment",
+      "title": "Death Reference No.117 of 2017",
+      "page": 36,
+      "url": "https://www.supremecourt.gov.bd/resources/documents/2335716_Death_Reference_No_117_of_20217.pdf",
+      "text": "On consideration of above confession in its entirety we found that in course of heated altercation accused Enamul was given sudden and grave provocation by his wife victim Salma and at the spar of the moment accused Enamul pressed the throat of victim Salma who was a sick woman causing her death and accused Enamul had no intention to commit murder of his wife. On a careful analysis of the confession of accused Enamul it becomes crystal clear that the act done by accused Enamul which caused the death of his wife victim Salma falls in exception one of section 300."
+    },
+    {
+      "source_id": "J_CR3346_MERITS",
+      "source_type": "judgment",
+      "title": "Criminal Appeal No.3346 of 2022",
+      "page": 5,
+      "url": "https://www.supremecourt.gov.bd/resources/documents/2027591_Cril_Rev_No_3346_of_2022.pdf",
+      "text": "The Negotiable Instruments Act, 1881 is a special law and the offence under section 138 of the said Act is not compoundable. Therefore, the parties are not entitled to compromise the dispute out of court. After filing a case under section 138 of the said Act, the Court shall dispose of the case considering only the merit. On perusal of the evidence, it appears that the accused Nurunnahar issued the cheque for Tk. 14,00,000, the cheque was dishonoured for insufficient funds, legal notice was served, and she did not pay the cheque amount."
+    },
+    {
+      "source_id": "J_CR3346_ORDER",
+      "source_type": "judgment",
+      "title": "Criminal Appeal No.3346 of 2022",
+      "page": 6,
+      "url": "https://www.supremecourt.gov.bd/resources/documents/2027591_Cril_Rev_No_3346_of_2022.pdf",
+      "text": "Considering the evidence, facts and circumstances of the case, I am of the view that ends of justice would be best served, if the sentence passed by the trial court is modified as under: The accused Nurunnahar is found guilty of the offence under section 138 of the Negotiable Instruments Act, 1881 and she is sentenced thereunder to pay a fine of Tk. 14,00,000. With the above findings and observations, the appeal is disposed of with modification of the sentence."
+    },
+    {
+      "source_id": "J_CIV205_ORDER",
+      "source_type": "judgment",
+      "title": "Civil Revision No.205 of 2021",
+      "page": 3,
+      "url": "https://www.supremecourt.gov.bd/resources/documents/2102148_civil_revision_no_205_2021_dt_22_4_24.pdf",
+      "text": "It appears the original owner of the said property was present before the court and gave her deposition in favour of the plaintiff in Title Suit No. 48 of 1960. Upon such fact and circumstances it clearly shows that solenama judgment and decree was passed by the proper court in 1960. The original matter and disputed question will be decided by the trial court after examine the documents and evidences. At this stage the justice will be meet if the order of stay is modified in the form of statusquo upon the property. The learned trial court is directed to dispose the original suit within 09 (nine) months after receiving this order. Upon such the Rule is disposed of."
+    },
+    {
+      "source_id": "A_TPA_59",
+      "source_type": "statute",
+      "title": "The Transfer of Property Act, 1882 - section 59",
+      "repo_path": "data/acts/act-print-48.json",
+      "text": "Where the principal money secured is one hundred taka or upwards, a mortgage other than a mortgage by deposit of title-deeds can be effected only by a registered instrument signed by the mortgagor and attested by at least two witnesses. Where the principal money secured is less than one hundred taka, a mortgage may be effected either by a registered instrument signed and attested as aforesaid, or, except in the case of a simple mortgage, by delivery of the property."
+    },
+    {
+      "source_id": "A_TPA_60",
+      "source_type": "statute",
+      "title": "The Transfer of Property Act, 1882 - section 60",
+      "repo_path": "data/acts/act-print-48.json",
+      "text": "At any time after the principal money has become due, the mortgagor has a right, on payment or tender at a proper time and place of the mortgage-money, to require the mortgagee to deliver the mortgage-deed and documents relating to the mortgaged property, to deliver possession where the mortgagee is in possession, and at the cost of the mortgagor to re-transfer the mortgaged property or execute an acknowledgement that the mortgagee's interest has been extinguished, provided that the right has not been extinguished by act of the parties or by decree of a Court."
+    },
+    {
+      "source_id": "A_LAB_6",
+      "source_type": "statute",
+      "title": "ভূমি আপীল বোর্ড আইন, ১৯৮৯ - ধারা ৬",
+      "repo_path": "data/acts/act-print-729.json",
+      "text": "৬৷ (১) বোর্ডের কোন আদেশের দ্বারা কোন ব্যক্তি সংক্ষুব্ধ হইলে তিনি আদেশটি ষাট দিনের মধ্যে উহা পুনর্বিবেচনার জন্য বোর্ডের নিকট বিধি দ্বারা নির্ধারিত পদ্ধতিতে আবেদন করিতে পারিবেন৷ (২) বোর্ডের বিবেচনায় সংগত কোন মনে হইলে আবেদনকারীর প্রার্থনার পরিপ্রেক্ষিতে বোর্ড উহার সিদ্ধান্তের বাস্তবায়ন উপ-ধারা (১) এর অধীন পেশকৃত আবেদনটি নিষ্পত্তি না হওয়া পর্যন্ত স্থগিত রাখিতে পারিবে৷"
+    },
+    {
+      "source_id": "A_JAMUNA_5",
+      "source_type": "statute",
+      "title": "যমুনা বহুমুখী সেতু প্রকল্প (ভূমি অধিগ্রহণ) আইন, ১৯৯৫ - ধারা ৫(৩)-(৫)",
+      "repo_path": "data/acts/act-print-798.json",
+      "text": "৫৷ (৩) উপ-ধারা (২) এর অধীন দাবী বাতিলের কারণে সংক্ষুব্ধ কোন ব্যক্তি, বাতিল আদেশ জারী হইবার সাত দিনের মধ্যে, ক্ষতিপূরণের দাবীতে কমিশনারের নিকট উক্ত বাতিলের বিরুদ্ধে আপীল দায়ের করিতে পারিবেন৷ (৪) কমিশনার, উপ-ধারা (৩) এর অধীন আপীল আবেদন প্রাপ্তির পাঁচ দিনের মধ্যে আপীলের বিষয়টি সরজমিনে তদন্ত করিবেন এবং অতঃপর আপীলকারীকে শুনানীর সুযোগ দিয়া অনধিক পাঁচ দিনের মধ্যে আপীলের উপর তাঁহার সিদ্ধান্ত প্রদান করিবেন৷ (৫) উপ-ধারা (৪) এর অধীন প্রদত্ত কমিশনারের সিদ্ধান্ত সংশ্লিষ্ট বিষয়ে চূড়ান্ত হইবে৷"
+    }
+  ]
+}
