@@ -229,7 +229,7 @@ class ResponseChain:
         
         for idx, doc in enumerate(documents, 1):
             metadata = doc.metadata
-            source_id = self.citation_verifier.source_id(idx)
+            source_id = CitationVerifier.source_id(idx)
             source_type = metadata.get("source_type", "unknown")
             
             if source_type == "act":
