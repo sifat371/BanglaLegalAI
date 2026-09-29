@@ -8,7 +8,7 @@ from typing import Any
 
 _CANONICAL_CITATION = re.compile(r"\[S(?P<number>[1-9]\d*)\]")
 _SOURCE_LIKE_CITATION = re.compile(
-    r"\[(?:Source\s+(?P<source_number>[1-9]\d*)|S(?P<s_number>[1-9]\d*))\]",
+    r"\[(?:Source\s+[^\]]+|S[1-9]\d*[^\]]*)\]",
     re.IGNORECASE,
 )
 
