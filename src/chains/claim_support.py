@@ -14,8 +14,8 @@ from typing import Any, Protocol
 
 from langchain_core.documents import Document
 
-_CITATION = re.compile(r"\\[S(?P<number>[1-9]\\d*)\\]")
-_SENTENCE_BOUNDARY = re.compile(r"(?<=[.!?।])\\s+|\\n+")
+_CITATION = re.compile(r"\[S(?P<number>[1-9]\d*)\]")
+_SENTENCE_BOUNDARY = re.compile(r"(?<=[.!?।])\s+|\n+")
 
 
 class SupportEvaluator(Protocol):
@@ -52,7 +52,7 @@ class LLMClaimSupportEvaluator:
                     parts.append(item)
                 elif isinstance(item, dict) and isinstance(item.get("text"), str):
                     parts.append(item["text"])
-            return "\\n".join(parts)
+            return "\n".join(parts)
         return str(content)
 
     @staticmethod
@@ -61,12 +61,12 @@ class LLMClaimSupportEvaluator:
         fence = chr(96) * 3
         if rendered.startswith(fence):
             rendered = re.sub(
-                r"^" + re.escape(fence) + r"(?:json)?\\s*",
+                r"^" + re.escape(fence) + r"(?:json)?\s*",
                 "",
                 rendered,
                 flags=re.IGNORECASE,
             )
-            rendered = re.sub(r"\\s*" + re.escape(fence) + r"$", "", rendered)
+            rendered = re.sub(r"\s*" + re.escape(fence) + r"$", "", rendered)
         try:
             value = json.loads(rendered)
         except json.JSONDecodeError:
@@ -84,8 +84,8 @@ class LLMClaimSupportEvaluator:
         claim: str,
         cited_sources: list[dict[str, str]],
     ) -> dict[str, Any]:
-        sources = "\\n\\n".join(
-            f"[{source['source_id']}]\\n{source['text']}"
+        sources = "\n\n".join(
+            f"[{source['source_id']}]\n{source['text']}"
             for source in cited_sources
         )
         prompt = f"""You are checking whether a legal-answer claim is supported
