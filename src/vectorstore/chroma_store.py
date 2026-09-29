@@ -3,12 +3,14 @@ ChromaDB vector store for Law Buddy.
 Handles storage and retrieval of document embeddings.
 """
 
-from typing import List, Dict, Any, Optional, Tuple
+from pathlib import Path
+from typing import Any, Dict, List, Optional, Tuple
 
 import chromadb
 from chromadb.config import Settings as ChromaSettings
 from langchain_chroma import Chroma
 from langchain_core.documents import Document
+from langchain_core.embeddings import Embeddings
 from langchain_community.vectorstores.utils import filter_complex_metadata
 
 from src.config import get_settings
@@ -19,20 +21,33 @@ from src.vectorstore.embeddings import get_embedding_service
 class ChromaStore:
     """ChromaDB vector store manager."""
     
-    def __init__(self, collection_name: str):
+    def __init__(
+        self,
+        collection_name: str,
+        *,
+        embeddings: Optional[Embeddings] = None,
+        persist_directory: Optional[str | Path] = None,
+    ):
         """
         Initialize ChromaDB store.
-        
+
         Args:
-            collection_name: Name of the ChromaDB collection
+            collection_name: Name of the ChromaDB collection.
+            embeddings: Optional embedding backend. Production defaults to the
+                configured HuggingFace service; validation/tests can inject a
+                deterministic local implementation.
+            persist_directory: Optional Chroma persistence directory.
         """
         settings = get_settings()
         self.collection_name = collection_name
-        self.persist_directory = str(settings.chroma_persist_dir)
-        
-        # Get embedding service
-        self.embedding_service = get_embedding_service()
-        self.embeddings = self.embedding_service.get_langchain_embeddings()
+        self.persist_directory = str(persist_directory or settings.chroma_persist_dir)
+
+        if embeddings is None:
+            self.embedding_service = get_embedding_service()
+            self.embeddings = self.embedding_service.get_langchain_embeddings()
+        else:
+            self.embedding_service = None
+            self.embeddings = embeddings
         
         # Initialize ChromaDB client
         self.client = chromadb.PersistentClient(

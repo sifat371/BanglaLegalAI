@@ -17,16 +17,24 @@ from src.vectorstore.document_identity import get_document_id
 class BM25Store:
     """BM25 sparse retrieval store."""
     
-    def __init__(self, collection_name: str):
+    def __init__(
+        self,
+        collection_name: str,
+        *,
+        persist_directory: Optional[str | Path] = None,
+    ):
         """
         Initialize BM25 store.
-        
+
         Args:
-            collection_name: Name of the collection (for file persistence)
+            collection_name: Name of the collection (for file persistence).
+            persist_directory: Optional persistence directory for validation/tests.
         """
         settings = get_settings()
         self.collection_name = collection_name
-        self.persist_directory = settings.bm25_persist_dir
+        self.persist_directory = (
+            Path(persist_directory) if persist_directory else settings.bm25_persist_dir
+        )
         self.persist_path = self.persist_directory / f"{collection_name}_bm25.pkl"
         
         self.bm25: Optional[BM25Okapi] = None
