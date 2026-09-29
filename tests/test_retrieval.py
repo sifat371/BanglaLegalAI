@@ -56,3 +56,16 @@ def test_judgment_source_keeps_page_and_provenance_ids():
     assert source["citation"] == (
         "Civil Revision No. 205 of 2021, Supreme Court of Bangladesh, p. 7"
     )
+
+
+def test_range_filter_is_not_wrapped_in_equality():
+    chain = make_chain_without_backends()
+
+    converted = chain._convert_to_chromadb_filter(
+        {
+            "source_type": "act",
+            "act_year": {"$gte": 1950, "$lte": 1980},
+        }
+    )
+
+    assert converted == {"act_year": {"$gte": 1950, "$lte": 1980}}
