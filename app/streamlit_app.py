@@ -254,6 +254,42 @@ def display_claim_support_verification(verification: dict | None) -> None:
         )
 
 
+def display_grounding_enforcement(enforcement: dict | None) -> None:
+    """Display whether the final answer passed, was repaired, or was blocked."""
+    if not enforcement:
+        return
+
+    status = enforcement.get("status")
+    attempts = enforcement.get("repair_attempts", 0)
+
+    if status == "passed":
+        st.caption(
+            "🛡️ Grounding gate passed the configured citation and experimental "
+            "claim-support checks. This is not independent legal validation."
+        )
+    elif status == "repaired":
+        st.success(
+            f"🛡️ The initial draft failed grounding checks; a repaired answer "
+            f"passed after {attempts} attempt(s)."
+        )
+    elif status == "blocked":
+        st.error(
+            "🛡️ BanglaLegalAI withheld the substantive draft because it did not "
+            "pass the configured grounding gate."
+        )
+    elif status == "unverified":
+        st.warning(
+            "🛡️ This answer did not pass the grounding gate, and fail-closed "
+            "enforcement is disabled."
+        )
+
+    reasons = enforcement.get("final_reasons") or enforcement.get("initial_reasons")
+    if reasons and status in {"blocked", "unverified"}:
+        with st.expander("Grounding gate details"):
+            for reason in reasons:
+                st.write(f"• {reason}")
+
+
 def display_chat_message(message: dict):
     """Display a chat message."""
     role = message["role"]
@@ -273,8 +309,13 @@ def display_chat_message(message: dict):
                     for idx, source in enumerate(message["sources"], 1):
                         st.markdown(f"**[{source.get('source_id', f'S{idx}')}]** {source['citation']}" + (" · cited" if source.get("cited") else ""))
             
-            display_citation_verification(message.get("citation_verification"))
-            display_claim_support_verification(message.get("claim_support_verification"))
+            enforcement = message.get("grounding_enforcement")
+            display_grounding_enforcement(enforcement)
+            if not enforcement or enforcement.get("status") != "blocked":
+                display_citation_verification(message.get("citation_verification"))
+                display_claim_support_verification(
+                    message.get("claim_support_verification")
+                )
 
             # Confidence
             if message.get("confidence"):
@@ -383,8 +424,13 @@ def process_query(query: str, num_results: int, include_followups: bool, show_co
                 for idx, source in enumerate(response["sources"], 1):
                     st.markdown(f"**[{source.get('source_id', f'S{idx}')}]** {source['citation']}" + (" · cited" if source.get("cited") else ""))
         
-        display_citation_verification(response.get("citation_verification"))
-        display_claim_support_verification(response.get("claim_support_verification"))
+        enforcement = response.get("grounding_enforcement")
+        display_grounding_enforcement(enforcement)
+        if not enforcement or enforcement.get("status") != "blocked":
+            display_citation_verification(response.get("citation_verification"))
+            display_claim_support_verification(
+                response.get("claim_support_verification")
+            )
 
         # Display confidence
         if response.get("confidence"):
@@ -435,6 +481,7 @@ def process_query(query: str, num_results: int, include_followups: bool, show_co
             "sources": response.get("sources", []),
             "citation_verification": response.get("citation_verification"),
             "claim_support_verification": response.get("claim_support_verification"),
+            "grounding_enforcement": response.get("grounding_enforcement"),
             "confidence": response.get("confidence"),
             "disclaimer": response.get("disclaimer"),
             "followup_questions": response.get("followup_questions", []),
