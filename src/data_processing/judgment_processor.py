@@ -1,4 +1,4 @@
-"""Adapter from BanglaLegalIngest outputs to Law Buddy retrieval documents."""
+"""Adapter from BanglaLegalIngest outputs to BanglaLegalAI retrieval documents."""
 
 from __future__ import annotations
 
@@ -93,7 +93,7 @@ class JudgmentProcessor:
         )
 
     def process_pdf(self, file_path: str | Path) -> ProcessedJudgment:
-        """Ingest one PDF and convert its page-grounded chunks for Law Buddy."""
+        """Ingest one PDF and convert its page-grounded chunks for BanglaLegalAI."""
         path = Path(file_path)
         ingestion = self.pipeline.ingest(path)
 
