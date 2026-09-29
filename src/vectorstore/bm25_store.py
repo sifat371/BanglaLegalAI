@@ -11,6 +11,7 @@ from rank_bm25 import BM25Okapi
 from langchain_core.documents import Document
 
 from src.config import get_settings
+from src.vectorstore.document_identity import get_document_id
 
 
 class BM25Store:
@@ -52,27 +53,37 @@ class BM25Store:
         return tokens
     
     def add_documents(self, documents: List[Document]) -> None:
-        """
-        Add documents to the BM25 index.
-        
-        Args:
-            documents: List of LangChain Documents
-        """
+        """Add or replace documents using stable document identities."""
         if not documents:
             return
-        
-        self.documents.extend(documents)
-        
-        # Tokenize all documents
-        for doc in documents:
-            tokens = self._tokenize(doc.page_content)
-            self.tokenized_corpus.append(tokens)
-        
-        # Rebuild BM25 index
-        self.bm25 = BM25Okapi(self.tokenized_corpus)
-        
-        print(f"Added {len(documents)} documents to BM25 index. Total: {len(self.documents)}")
-    
+
+        positions = {
+            get_document_id(document): index
+            for index, document in enumerate(self.documents)
+        }
+        added = 0
+        replaced = 0
+
+        for document in documents:
+            document_id = get_document_id(document)
+            if document_id in positions:
+                self.documents[positions[document_id]] = document
+                replaced += 1
+            else:
+                positions[document_id] = len(self.documents)
+                self.documents.append(document)
+                added += 1
+
+        self.tokenized_corpus = [
+            self._tokenize(document.page_content) for document in self.documents
+        ]
+        self.bm25 = BM25Okapi(self.tokenized_corpus) if self.tokenized_corpus else None
+
+        print(
+            f"BM25 indexed {added} new documents and replaced {replaced}. "
+            f"Total: {len(self.documents)}"
+        )
+
     def search(
         self,
         query: str,
