@@ -56,6 +56,7 @@ application behavior.
 - Deterministic judgment chunk IDs for idempotent indexing.
 - Page-aware judgment citations carrying document and chunk provenance.
 - Deterministic answer citation-ID verification against the retrieved source set.
+- Deterministic answer citation-ID verification against the retrieved source set.
 - Rule-based and LLM-assisted query classification.
 - Separate public-facing and legal-research response modes.
 - Streamlit application for interactive use.
@@ -241,6 +242,15 @@ answer and preserves the underlying judgment chunk/page provenance.
 
 This is a **citation-integrity check**, not semantic proof that every cited passage entails every
 claim. The UI states that distinction explicitly. See `docs/citation_integrity.md`.
+
+## Answer citation integrity
+
+Generated answers use response-local source markers such as `[S1]` and `[S2]`. BanglaLegalAI
+checks that every cited ID maps to a source that was actually retrieved for that answer and
+preserves the underlying judgment chunk/page provenance.
+
+This is a citation-integrity check, not semantic proof that every cited passage entails every claim.
+The UI states that distinction explicitly. See `docs/citation_integrity.md`.
 
 ## Real-judgment validation
 
