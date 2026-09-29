@@ -1,5 +1,5 @@
 """
-Streamlit UI for Law Buddy - Bangladesh Legal RAG System
+Streamlit UI for BanglaLegalAI
 """
 
 import streamlit as st
@@ -16,7 +16,7 @@ from src.agents.research_agent import create_research_agent
 
 # Page configuration
 st.set_page_config(
-    page_title="Law Buddy - Bangladesh Legal Assistant",
+    page_title="BanglaLegalAI - Bangladesh Legal Assistant",
     page_icon="⚖️",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -82,7 +82,7 @@ def initialize_session_state():
 
 def display_header():
     """Display the app header."""
-    st.markdown('<div class="main-header">⚖️ Law Buddy</div>', unsafe_allow_html=True)
+    st.markdown('<div class="main-header">⚖️ BanglaLegalAI</div>', unsafe_allow_html=True)
     st.markdown(
         '<div class="sub-header">Your AI-Powered Legal Assistant for Bangladesh Law</div>',
         unsafe_allow_html=True

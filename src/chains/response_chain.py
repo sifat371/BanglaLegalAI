@@ -1,5 +1,5 @@
 """
-Response Generation Chain for Law Buddy.
+Response Generation Chain for BanglaLegalAI.
 Generates answers from retrieved documents with proper citations.
 """
 
@@ -181,6 +181,12 @@ class ResponseChain:
                     header += f": {metadata['section_title']}"
                 header += f"\nYear: {metadata.get('act_year', 'N/A')}"
                 
+            elif source_type == "judgment":
+                header = f"[Source {idx}] {metadata.get('case_number') or metadata.get('source_filename', 'Unknown Judgment')}"
+                header += f"\nCourt: {metadata.get('court', 'N/A')}"
+                header += f"\nPage: {metadata.get('page_start', 'N/A')}"
+                header += f"\nSource file: {metadata.get('source_filename', 'N/A')}"
+
             elif source_type == "case_study":
                 header = f"[Source {idx}] {metadata.get('case_title', 'Unknown Case')}"
                 header += f"\nCase ID: {metadata.get('case_id', 'N/A')}"
@@ -228,6 +234,23 @@ class ResponseChain:
                     "year": str(metadata.get('act_year', 'N/A'))
                 })
                 
+            elif source_type == "judgment":
+                case_number = metadata.get("case_number") or metadata.get("source_filename", "Unknown Judgment")
+                court = metadata.get("court", "N/A")
+                page = metadata.get("page_start", "N/A")
+                citation = f"{case_number}, {court}, p. {page}"
+                sources.append({
+                    "type": "judgment",
+                    "citation": citation,
+                    "title": case_number,
+                    "case_number": metadata.get("case_number", ""),
+                    "court": court,
+                    "page": str(page),
+                    "document_id": metadata.get("document_id", ""),
+                    "chunk_id": metadata.get("chunk_id", ""),
+                    "source_filename": metadata.get("source_filename", ""),
+                })
+
             elif source_type == "case_study":
                 citation = f"{metadata.get('case_title', 'Unknown Case')}, "
                 citation += f"{metadata.get('case_id', 'N/A')}"

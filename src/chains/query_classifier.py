@@ -144,7 +144,7 @@ class QueryClassifier:
         
         # Detect source type
         if intent == "CASE_SEARCH":
-            metadata_filters["source_type"] = "case_study"
+            metadata_filters["source_type"] = "case"
         elif intent == "SPECIFIC_LAW":
             metadata_filters["source_type"] = "act"
         
@@ -197,20 +197,20 @@ class QueryClassifier:
         return list(set(sections))
     
     def _extract_case_ids(self, query: str) -> List[str]:
-        """
-        Extract case IDs from query.
-        
-        Args:
-            query: User query
-            
-        Returns:
-            List of case IDs
-        """
-        # Pattern: BD-XX-NNN (e.g., BD-CR-001)
-        pattern = r'BD-[A-Z]{2}-\d{3}'
-        case_ids = re.findall(pattern, query, re.IGNORECASE)
-        return [cid.upper() for cid in case_ids]
-    
+        """Extract legacy IDs and real Bangladesh court case numbers."""
+        patterns = [
+            r"BD-[A-Z]{2}-\d{3}",
+            (
+                r"\b(?:Death Reference|Criminal Appeal|Civil Appeal|Criminal Revision|"
+                r"Civil Revision|Writ Petition|Jail Appeal|Sessions Case)"
+                r"\s+No\.?\s*\d+(?:/\d+)?\s+of\s+\d{4}\b"
+            ),
+        ]
+        case_ids = []
+        for pattern in patterns:
+            case_ids.extend(re.findall(pattern, query, re.IGNORECASE))
+        return list(dict.fromkeys(" ".join(case_id.split()) for case_id in case_ids))
+
     def extract_year_range(self, query: str) -> Optional[Dict[str, int]]:
         """
         Extract year range from query.
@@ -287,7 +287,7 @@ class SimpleQueryClassifier:
         Returns:
             Classification result
         """
-        classifier = QueryClassifier()
+        classifier = QueryClassifier.__new__(QueryClassifier)
         return classifier._fallback_classification(query)
 
 

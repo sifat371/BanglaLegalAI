@@ -4,8 +4,6 @@ Handles storage and retrieval of document embeddings.
 """
 
 from typing import List, Dict, Any, Optional, Tuple
-import uuid
-import json
 
 import chromadb
 from chromadb.config import Settings as ChromaSettings
@@ -14,6 +12,7 @@ from langchain_core.documents import Document
 from langchain_community.vectorstores.utils import filter_complex_metadata
 
 from src.config import get_settings
+from src.vectorstore.document_identity import get_document_id
 from src.vectorstore.embeddings import get_embedding_service
 
 
@@ -76,7 +75,7 @@ class ChromaStore:
         
         # Generate IDs if not provided
         if ids is None:
-            ids = [str(uuid.uuid4()) for _ in filtered_docs]
+            ids = [get_document_id(doc) for doc in filtered_docs]
         
         # Add in batches
         all_ids = []
