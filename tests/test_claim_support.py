@@ -168,3 +168,29 @@ def test_llm_evaluator_fails_conservatively_on_invalid_output():
 
     assert result["label"] == "insufficient"
     assert result["evaluator_error"]
+
+
+def test_trailing_citation_after_period_stays_bound_to_claim():
+    claims = ClaimSupportVerifier.extract_cited_claims(
+        "The appeal was allowed. [S1]"
+    )
+
+    assert len(claims) == 1
+    assert claims[0]["text"] == "The appeal was allowed."
+    assert claims[0]["source_ids"] == ["S1"]
+
+
+def test_uncited_segments_are_reported_as_coverage_warning():
+    verifier = ClaimSupportVerifier(FakeEvaluator(["supported"]))
+
+    result = verifier.verify(
+        "The appeal was allowed [S1]. This additional sentence has no citation at all.",
+        [Document(page_content="The appeal was allowed.", metadata={})],
+        [source("S1")],
+        {"status": "verified"},
+    )
+
+    assert result["status"] == "supported"
+    assert result["coverage_complete"] is False
+    assert result["uncited_segments_count"] == 1
+    assert "additional sentence" in result["uncited_segments"][0]
