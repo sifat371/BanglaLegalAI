@@ -1,5 +1,5 @@
 """
-RAG Retrieval Chain for Law Buddy.
+RAG Retrieval Chain for BanglaLegalAI.
 Combines query classification, hybrid retrieval, and context building.
 """
 
@@ -159,7 +159,7 @@ class RetrievalChain:
         source_type = metadata_filters.get("source_type")
         if source_type == "act":
             stores = ["acts"]
-        elif source_type == "case_study":
+        elif source_type in {"case", "case_study", "judgment"} or intent == "CASE_SEARCH":
             stores = ["cases"]
         else:
             # Query both by default
@@ -302,6 +302,13 @@ class RetrievalChain:
                     doc_header += f": {metadata['section_title']}"
                 doc_header += f"\n(Relevance: {score:.3f})"
                 
+            elif source_type == "judgment":
+                doc_header = f"[Document {idx}] JUDGMENT - {metadata.get('case_number', metadata.get('source_filename', 'Unknown Judgment'))}"
+                doc_header += f"\nCourt: {metadata.get('court', 'N/A')}"
+                doc_header += f"\nPage: {metadata.get('page_start', 'N/A')}"
+                doc_header += f"\nSource: {metadata.get('source_filename', 'N/A')}"
+                doc_header += f"\n(Relevance: {score:.3f})"
+
             elif source_type == "case_study":
                 doc_header = f"[Document {idx}] CASE - {metadata.get('case_title', 'Unknown Case')}"
                 doc_header += f"\nCase ID: {metadata.get('case_id', 'N/A')}"
@@ -344,6 +351,21 @@ class RetrievalChain:
                     "section": metadata.get("section_number", "N/A"),
                     "section_title": metadata.get("section_title", ""),
                     "citation": f"{metadata.get('act_title', 'Unknown')}, Section {metadata.get('section_number', 'N/A')}"
+                }
+            elif source_type == "judgment":
+                case_number = metadata.get("case_number") or metadata.get("source_filename", "Unknown Judgment")
+                page = metadata.get("page_start", "N/A")
+                court = metadata.get("court", "N/A")
+                source = {
+                    "type": "judgment",
+                    "title": case_number,
+                    "case_number": metadata.get("case_number", ""),
+                    "court": court,
+                    "page": page,
+                    "document_id": metadata.get("document_id", ""),
+                    "chunk_id": metadata.get("chunk_id", ""),
+                    "source_filename": metadata.get("source_filename", ""),
+                    "citation": f"{case_number}, {court}, p. {page}",
                 }
             elif source_type == "case_study":
                 source = {
