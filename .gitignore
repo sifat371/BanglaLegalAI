@@ -35,3 +35,7 @@ temp/
 *.swp
 *.swo
 *~
+
+# Local court PDFs (do not commit raw judgment corpora by default)
+data/judgments/*.pdf
+data/judgments/*.PDF
