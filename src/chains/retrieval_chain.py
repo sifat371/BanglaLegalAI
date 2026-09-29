@@ -310,7 +310,7 @@ class RetrievalChain:
                 doc_header += f"\n(Relevance: {score:.3f})"
                 
             elif source_type == "judgment":
-                doc_header = f"[Document {idx}] JUDGMENT - {metadata.get('case_number', metadata.get('source_filename', 'Unknown Judgment'))}"
+                doc_header = f"[Document {idx}] JUDGMENT - {(metadata.get('case_number') or metadata.get('source_filename', 'Unknown Judgment'))}"
                 doc_header += f"\nCourt: {metadata.get('court', 'N/A')}"
                 doc_header += f"\nPage: {metadata.get('page_start', 'N/A')}"
                 doc_header += f"\nSource: {metadata.get('source_filename', 'N/A')}"
@@ -362,7 +362,7 @@ class RetrievalChain:
             elif source_type == "judgment":
                 case_number = metadata.get("case_number") or metadata.get("source_filename", "Unknown Judgment")
                 page = metadata.get("page_start", "N/A")
-                court = metadata.get("court", "N/A")
+                court = metadata.get("court") or "N/A"
                 source = {
                     "type": "judgment",
                     "title": case_number,
