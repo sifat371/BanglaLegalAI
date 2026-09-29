@@ -57,6 +57,7 @@ application behavior.
 - Page-aware judgment citations carrying document and chunk provenance.
 - Deterministic answer citation-ID verification against the retrieved source set.
 - Experimental claim-level support assessment against only the cited retrieved passages.
+- Bounded answer repair with fail-closed withholding when grounding checks still fail.
 - Deterministic answer citation-ID verification against the retrieved source set.
 - Rule-based and LLM-assisted query classification.
 - Separate public-facing and legal-research response modes.
@@ -264,6 +265,20 @@ This is model-assessed support, not independent legal validation. Coverage is re
 so the UI can distinguish "all evaluated cited claims were supported" from "the whole answer was
 checked." The feature remains explicitly experimental until evaluated on a human-reviewed
 Bangladesh-law benchmark. See `docs/claim_support_verification.md`.
+
+## Fail-closed answer finalization
+
+BanglaLegalAI now treats verification failures as actionable. An initial answer must pass citation
+integrity, claim support, complete semantic-check coverage, non-truncated verification, and
+evaluator-health checks. Failed candidates can be repaired once by default using only the same
+retrieved source context and are then fully re-verified.
+
+If the candidate still fails, BanglaLegalAI withholds the substantive draft and returns a
+non-substantive source-support fallback instead. The UI receives only the finalized
+passed/repaired/blocked result; rejected first drafts are no longer streamed before verification.
+
+This gate is still based partly on an experimental model-assessed support verifier and is not
+independent legal validation. See `docs/fail_closed_answer_repair.md`.
 
 ## Real-judgment validation
 
