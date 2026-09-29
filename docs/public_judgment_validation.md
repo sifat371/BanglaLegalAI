@@ -49,6 +49,36 @@ The validator fails if any of the following occur:
 The generated JSON report records document-level ingestion diagnostics, index counts, retrieval
 ranks, chunk IDs, pages, and rendered source citations.
 
+## Measured run — 2026-09-29
+
+The first BanglaLegalAI E2E run completed with **no failures**:
+
+| Check | Result |
+| --- | ---: |
+| Public judgments requested | 4 |
+| Public judgments ingested | 4 |
+| Retrieval chunks | 135 |
+| Unique chunk IDs | 135 / 135 |
+| Chroma records after first index | 135 |
+| Chroma records after re-index | 135 |
+| BM25 records after first index | 135 |
+| BM25 records after re-index | 135 |
+| Re-index idempotency | passed |
+| Exact case-number retrieval hit@5 | 4 / 4 |
+| Exact case-number retrieval recall@5 | 1.00 |
+| Rank of the correct judgment | 1 for all four queries |
+
+The documents produced 22, 39, 4, and 7 pages respectively, and 41, 75, 7, and 12 retrieval
+chunks. Both death-reference PDFs emitted safe legacy-font warnings; the adapter preserved those
+warnings while retaining the original text.
+
+The retrieved source pages were not hard-coded. Three exact-case queries resolved to page 1, while
+**Death Reference No.117 OF 2017 resolved to page 38**, demonstrating that the citation layer is
+using provenance from the retrieved chunk rather than assuming a document-level page.
+
+These results validate the integration path and exact-case retrieval plumbing. They are **not** a
+claim about semantic legal-search accuracy or answer quality.
+
 ## Why the workflow uses local deterministic embeddings
 
 The workflow is intended to validate **integration plumbing**, not embedding-model quality. It uses
