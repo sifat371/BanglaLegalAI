@@ -124,13 +124,20 @@ class RetrievalChain:
         if not filters_copy:
             return None
         
+        def condition(key: str, value: Any) -> Dict[str, Any]:
+            if isinstance(value, dict) and any(
+                str(operator).startswith("$") for operator in value
+            ):
+                return {key: value}
+            return {key: {"$eq": value}}
+
         # If only one filter, return simple format
         if len(filters_copy) == 1:
             key, value = list(filters_copy.items())[0]
-            return {key: {"$eq": value}}
-        
+            return condition(key, value)
+
         # Multiple filters - use $and
-        conditions = [{k: {"$eq": v}} for k, v in filters_copy.items()]
+        conditions = [condition(key, value) for key, value in filters_copy.items()]
         return {"$and": conditions}
     
     def _plan_retrieval(
