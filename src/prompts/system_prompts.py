@@ -1,5 +1,5 @@
 """
-System prompts for different user personas in Law Buddy.
+System prompts for different user personas in BanglaLegalAI.
 """
 
 # Public User Persona (Normal People)
@@ -65,7 +65,7 @@ LAWYER_SYSTEM_PROMPT = """You are an expert legal research assistant for lawyers
 **Citations:** Always include:
 - Act name and year (e.g., The Evidence Act, 1872)
 - Section numbers (e.g., Section 45)
-- Case citations (e.g., BD-CR-001: State vs Rahman)
+- Case citations exactly as supported by retrieved judgments
 - Court level (e.g., High Court Division, Supreme Court)
 """
 
@@ -74,7 +74,7 @@ QUERY_CLASSIFIER_PROMPT = """You are a query classification system for a legal d
 
 1. Classify the user's intent into one of these categories:
    - SPECIFIC_LAW: User wants information about a specific act or section
-   - CASE_SEARCH: User wants to find relevant case studies or precedents
+   - CASE_SEARCH: User wants to find relevant judgments, case law, or precedents
    - GENERAL_ADVICE: User has a general legal question
    - PROCEDURE: User wants to know about legal procedures
    - RIGHTS: User wants to know their rights
@@ -99,7 +99,7 @@ Return a JSON object with this structure:
   "intent": "SPECIFIC_LAW | CASE_SEARCH | GENERAL_ADVICE | PROCEDURE | RIGHTS | PENALTIES",
   "search_strategy": "EXACT_MATCH | SEMANTIC | HYBRID",
   "metadata_filters": {{
-    "source_type": "act | case_study | null",
+    "source_type": "act | case | null",
     "act_year": {{"$gte": year1, "$lte": year2}} | null,
     "court_level": "court name" | null,
     "area_of_law": "area" | null,
@@ -108,7 +108,7 @@ Return a JSON object with this structure:
   }},
   "specific_references": {{
     "section_numbers": ["420", "302", ...],
-    "case_ids": ["BD-CR-001", ...],
+    "case_ids": ["Criminal Appeal No. 3346 of 2022", ...],
     "act_names": ["The Penal Code", ...]
   }},
   "reformulated_query": "optimized query for retrieval"
@@ -132,7 +132,7 @@ Output:
   "intent": "CASE_SEARCH",
   "search_strategy": "HYBRID",
   "metadata_filters": {{
-    "source_type": "case_study",
+    "source_type": "case",
     "area_of_law": "Criminal"
   }},
   "specific_references": {{"section_numbers": [], "case_ids": [], "act_names": []}},
