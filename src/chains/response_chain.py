@@ -11,6 +11,7 @@ from langchain_core.documents import Document
 
 from src.chains.citation_verifier import CitationVerifier
 from src.chains.claim_support import ClaimSupportVerifier, LLMClaimSupportEvaluator
+from src.chains.grounding_enforcer import GroundingEnforcer
 from src.config import get_settings
 from src.prompts.system_prompts import (
     get_system_prompt,
@@ -68,47 +69,37 @@ class ResponseChain:
                 LLMClaimSupportEvaluator(self.llm_small),
                 max_claims=settings.claim_support_max_claims,
             )
+
+        self.grounding_enforcer = GroundingEnforcer()
+        self.enable_answer_repair = settings.enable_answer_repair
+        self.answer_repair_max_attempts = settings.answer_repair_max_attempts
+        self.fail_closed_on_grounding_failure = (
+            settings.fail_closed_on_grounding_failure
+        )
     
     def generate_response(
         self,
         query: str,
         documents: List[Document],
         include_followups: bool = True,
-        include_confidence: bool = False
+        include_confidence: bool = False,
     ) -> Dict[str, Any]:
-        """
-        Generate a response from retrieved documents.
-        
-        Args:
-            query: User's question
-            documents: Retrieved documents
-            include_followups: Whether to generate follow-up questions
-            include_confidence: Whether to assess confidence
-            
-        Returns:
-            Dictionary with response and metadata
-        """
-        # Build context from documents
+        """Generate, verify, repair when needed, and enforce grounding policy."""
         context = self._format_documents(documents)
-        
-        # Generate answer
-        answer = self._generate_answer(query, context)
-        
-        # Bind generated citation markers to the exact retrieved sources.
-        sources = self._format_sources(documents)
-        citation_verification = self.citation_verifier.verify(answer, sources)
-        sources = self.citation_verifier.annotate_sources(
-            sources,
-            citation_verification,
-        )
-        claim_support_verification = self._verify_claim_support(
-            answer,
-            documents,
-            sources,
-            citation_verification,
-        )
+        initial_answer = self._generate_answer(query, context)
 
-        # Build response
+        finalized = self._finalize_grounded_answer(
+            query=query,
+            documents=documents,
+            context=context,
+            initial_answer=initial_answer,
+        )
+        answer = finalized["answer"]
+        sources = finalized["sources"]
+        citation_verification = finalized["citation_verification"]
+        claim_support_verification = finalized["claim_support_verification"]
+        grounding_enforcement = finalized["grounding_enforcement"]
+
         response = {
             "query": query,
             "answer": answer,
@@ -116,26 +107,26 @@ class ResponseChain:
             "num_sources": len(documents),
             "citation_verification": citation_verification,
             "claim_support_verification": claim_support_verification,
+            "grounding_enforcement": grounding_enforcement,
         }
-        
-        # Generate follow-up questions
-        if include_followups:
-            followups = self._generate_followups(query, answer)
-            response["followup_questions"] = followups
-        
-        # Assess confidence
+
+        if include_followups and grounding_enforcement["status"] != "blocked":
+            response["followup_questions"] = self._generate_followups(query, answer)
+        elif include_followups:
+            response["followup_questions"] = []
+
         if include_confidence:
-            confidence = self._assess_confidence(
+            response["confidence"] = self._assess_confidence(
                 query,
                 answer,
                 documents,
                 citation_verification=citation_verification,
                 claim_support_verification=claim_support_verification,
+                grounding_enforcement=grounding_enforcement,
             )
-            response["confidence"] = confidence
-        
+
         return response
-    
+
     def _generate_answer(self, query: str, context: str) -> str:
         """
         Generate answer using LLM.
@@ -308,6 +299,243 @@ class ResponseChain:
         
         return sources
     
+    def _verify_answer_candidate(
+        self,
+        answer: str,
+        documents: List[Document],
+    ) -> Dict[str, Any]:
+        """Run structural and semantic checks for one candidate answer."""
+        sources = self._format_sources(documents)
+        citation_verification = self.citation_verifier.verify(answer, sources)
+        sources = self.citation_verifier.annotate_sources(
+            sources,
+            citation_verification,
+        )
+        claim_support_verification = self._verify_claim_support(
+            answer,
+            documents,
+            sources,
+            citation_verification,
+        )
+        decision = self.grounding_enforcer.evaluate(
+            citation_verification,
+            claim_support_verification,
+        )
+        return {
+            "sources": sources,
+            "citation_verification": citation_verification,
+            "claim_support_verification": claim_support_verification,
+            "decision": decision,
+        }
+
+    def _repair_answer(
+        self,
+        query: str,
+        answer: str,
+        context: str,
+        citation_verification: Dict[str, Any],
+        claim_support_verification: Dict[str, Any],
+    ) -> str:
+        """Rewrite a failed candidate using only the retrieved source context."""
+        feedback = self.grounding_enforcer.repair_feedback(
+            citation_verification,
+            claim_support_verification,
+        )
+        prompt = ChatPromptTemplate.from_messages(
+            [
+                (
+                    "system",
+                    (
+                        "You repair legal answers using only the supplied retrieved "
+                        "source text. Remove, narrow, or rewrite unsupported claims. "
+                        "Do not introduce outside legal knowledge."
+                    ),
+                ),
+                (
+                    "user",
+                    """Question:
+{query}
+
+Retrieved source context:
+{context}
+
+Candidate answer:
+{answer}
+
+Verification failures:
+{feedback}
+
+Return only a revised answer.
+
+Rules:
+- Keep only claims directly supported by the retrieved source context.
+- Every nontrivial factual or legal sentence must include one or more exact [S#] markers.
+- Use only source IDs that appear in the retrieved context.
+- Remove contradicted claims.
+- Narrow partially supported claims rather than guessing.
+- Do not invent statutes, cases, sections, holdings, dates, courts, pages, or quotations.
+- If the retrieved sources cannot support a substantive answer, return exactly:
+INSUFFICIENT_RETRIEVED_SUPPORT
+""",
+                ),
+            ]
+        )
+        chain = prompt | self.llm | self.parser
+        repaired = chain.invoke(
+            {
+                "query": query,
+                "context": context,
+                "answer": answer,
+                "feedback": feedback,
+            }
+        )
+        return repaired.strip()
+
+    def _finalize_grounded_answer(
+        self,
+        query: str,
+        documents: List[Document],
+        context: str,
+        initial_answer: str,
+    ) -> Dict[str, Any]:
+        """Apply bounded repair and optionally fail closed."""
+        answer = initial_answer
+        verification = self._verify_answer_candidate(answer, documents)
+        initial_reasons = list(verification["decision"]["reasons"])
+        attempts: list[dict[str, Any]] = []
+
+        if verification["decision"]["acceptable"]:
+            return {
+                "answer": answer,
+                **verification,
+                "grounding_enforcement": {
+                    "status": "passed",
+                    "experimental": True,
+                    "independently_validated": False,
+                    "repair_attempts": 0,
+                    "initial_reasons": [],
+                    "final_reasons": [],
+                    "fail_closed": self.fail_closed_on_grounding_failure,
+                    "message": (
+                        "The answer passed the configured citation and experimental "
+                        "claim-support gate."
+                    ),
+                },
+            }
+
+        can_repair = (
+            self.enable_answer_repair
+            and self.answer_repair_max_attempts > 0
+            and bool(documents)
+        )
+
+        if can_repair:
+            for attempt in range(1, self.answer_repair_max_attempts + 1):
+                repaired = self._repair_answer(
+                    query=query,
+                    answer=answer,
+                    context=context,
+                    citation_verification=verification["citation_verification"],
+                    claim_support_verification=verification[
+                        "claim_support_verification"
+                    ],
+                )
+
+                if repaired == "INSUFFICIENT_RETRIEVED_SUPPORT":
+                    attempts.append(
+                        {
+                            "attempt": attempt,
+                            "outcome": "insufficient_retrieved_support",
+                            "reasons": list(verification["decision"]["reasons"]),
+                        }
+                    )
+                    break
+
+                answer = repaired
+                verification = self._verify_answer_candidate(answer, documents)
+                attempts.append(
+                    {
+                        "attempt": attempt,
+                        "outcome": (
+                            "passed"
+                            if verification["decision"]["acceptable"]
+                            else "failed_verification"
+                        ),
+                        "reasons": list(verification["decision"]["reasons"]),
+                    }
+                )
+                if verification["decision"]["acceptable"]:
+                    return {
+                        "answer": answer,
+                        **verification,
+                        "grounding_enforcement": {
+                            "status": "repaired",
+                            "experimental": True,
+                            "independently_validated": False,
+                            "repair_attempts": attempt,
+                            "initial_reasons": initial_reasons,
+                            "final_reasons": [],
+                            "attempts": attempts,
+                            "fail_closed": self.fail_closed_on_grounding_failure,
+                            "message": (
+                                "The initial answer failed grounding checks and a "
+                                "repaired answer passed the configured gate."
+                            ),
+                        },
+                    }
+
+        final_reasons = list(verification["decision"]["reasons"])
+        if self.fail_closed_on_grounding_failure:
+            safe_sources = [
+                {
+                    **source,
+                    "cited": False,
+                }
+                for source in self._format_sources(documents)
+            ]
+            return {
+                "answer": self.grounding_enforcer.blocked_answer(),
+                "sources": safe_sources,
+                "citation_verification": verification["citation_verification"],
+                "claim_support_verification": verification[
+                    "claim_support_verification"
+                ],
+                "decision": verification["decision"],
+                "grounding_enforcement": {
+                    "status": "blocked",
+                    "experimental": True,
+                    "independently_validated": False,
+                    "repair_attempts": len(attempts),
+                    "initial_reasons": initial_reasons,
+                    "final_reasons": final_reasons,
+                    "attempts": attempts,
+                    "fail_closed": True,
+                    "message": (
+                        "The candidate answer did not pass the configured grounding "
+                        "gate, so substantive text was withheld."
+                    ),
+                },
+            }
+
+        return {
+            "answer": answer,
+            **verification,
+            "grounding_enforcement": {
+                "status": "unverified",
+                "experimental": True,
+                "independently_validated": False,
+                "repair_attempts": len(attempts),
+                "initial_reasons": initial_reasons,
+                "final_reasons": final_reasons,
+                "attempts": attempts,
+                "fail_closed": False,
+                "message": (
+                    "The answer did not pass the grounding gate but fail-closed "
+                    "enforcement is disabled."
+                ),
+            },
+        }
+
     def _generate_followups(self, query: str, answer: str) -> List[str]:
         """
         Generate follow-up questions.
@@ -383,6 +611,7 @@ class ResponseChain:
         documents: List[Document],
         citation_verification: Optional[Dict[str, Any]] = None,
         claim_support_verification: Optional[Dict[str, Any]] = None,
+        grounding_enforcement: Optional[Dict[str, Any]] = None,
     ) -> Dict[str, Any]:
         """
         Assess confidence in the answer.
@@ -442,7 +671,17 @@ class ResponseChain:
                 if confidence_score == "HIGH":
                     confidence_score = "MEDIUM"
 
-        # Factor 5: Check for hedging language
+        # Factor 5: Fail-closed grounding status can only lower confidence.
+        if grounding_enforcement:
+            grounding_status = grounding_enforcement.get("status")
+            if grounding_status == "blocked":
+                reasoning.append("Substantive answer was blocked by grounding enforcement")
+                confidence_score = "LOW"
+            elif grounding_status == "unverified":
+                reasoning.append("Answer did not pass the configured grounding gate")
+                confidence_score = "LOW"
+
+        # Factor 6: Check for hedging language
         hedging_words = ["may", "might", "possibly", "unclear", "uncertain", "not sure"]
         if any(word in answer.lower() for word in hedging_words):
             reasoning.append("Answer contains uncertainty language")
