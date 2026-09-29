@@ -86,14 +86,14 @@ The existing heuristic confidence indicator is capped by citation integrity:
 
 This remains a heuristic display signal, not a probability that the legal answer is correct.
 
-## Next verification layer
+## Claim-level support layer
 
-A later stage can evaluate **claim-level semantic support**, for example:
+Stage 4 now adds an experimental claim-level support assessor after this structural citation check.
+It segments cited claims, binds each claim to its cited retrieved passages, and classifies the
+source support as `supported`, `contradicted`, or `insufficient`.
 
-1. segment the answer into legal factual claims;
-2. bind each claim to its cited chunks;
-3. test whether the cited passage supports, contradicts, or is insufficient for the claim;
-4. refuse, repair, or flag unsupported claims;
-5. benchmark that verifier on a manually reviewed Bangladesh-law evaluation set.
+The semantic assessment is still model-based and is therefore not marked independently validated.
+See `docs/claim_support_verification.md` for the contract and benchmark requirements.
 
-That layer should not be labeled reliable until it has measured precision/recall on such a set.
+A later fail-closed/repair stage can use these results to regenerate, remove, or explicitly flag
+unsupported claims after the verifier has been benchmarked.
