@@ -111,7 +111,12 @@ class ResponseChain:
         
         # Assess confidence
         if include_confidence:
-            confidence = self._assess_confidence(query, answer, documents)
+            confidence = self._assess_confidence(
+                query,
+                answer,
+                documents,
+                citation_verification=citation_verification,
+            )
             response["confidence"] = confidence
         
         return response
@@ -331,7 +336,8 @@ class ResponseChain:
         self,
         query: str,
         answer: str,
-        documents: List[Document]
+        documents: List[Document],
+        citation_verification: Optional[Dict[str, Any]] = None,
     ) -> Dict[str, Any]:
         """
         Assess confidence in the answer.
@@ -364,7 +370,18 @@ class ResponseChain:
             if confidence_score == "HIGH":
                 confidence_score = "MEDIUM"
         
-        # Factor 3: Check for hedging language
+        # Factor 3: Citation integrity can cap the heuristic confidence level.
+        if citation_verification:
+            citation_status = citation_verification.get("status")
+            if citation_status == "failed":
+                reasoning.append("Citation integrity check failed")
+                confidence_score = "LOW"
+            elif citation_status == "uncited":
+                reasoning.append("Retrieved sources were not cited in the answer")
+                if confidence_score == "HIGH":
+                    confidence_score = "MEDIUM"
+
+        # Factor 4: Check for hedging language
         hedging_words = ["may", "might", "possibly", "unclear", "uncertain", "not sure"]
         if any(word in answer.lower() for word in hedging_words):
             reasoning.append("Answer contains uncertainty language")
