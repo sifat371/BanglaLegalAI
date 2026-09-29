@@ -56,6 +56,7 @@ application behavior.
 - Deterministic judgment chunk IDs for idempotent indexing.
 - Page-aware judgment citations carrying document and chunk provenance.
 - Deterministic answer citation-ID verification against the retrieved source set.
+- Experimental claim-level support assessment against only the cited retrieved passages.
 - Deterministic answer citation-ID verification against the retrieved source set.
 - Rule-based and LLM-assisted query classification.
 - Separate public-facing and legal-research response modes.
@@ -251,6 +252,17 @@ preserves the underlying judgment chunk/page provenance.
 
 This is a citation-integrity check, not semantic proof that every cited passage entails every claim.
 The UI states that distinction explicitly. See `docs/citation_integrity.md`.
+
+## Claim-level source support
+
+After citation IDs are structurally verified, BanglaLegalAI can assess each cited answer claim
+against only the passages that claim cites. The experimental verifier classifies cited claims as
+`supported`, `contradicted`, or `insufficient`, preserves judgment chunk/page provenance, and
+can only lower the existing confidence indicator.
+
+This is model-assessed support, not independent legal validation. It remains explicitly experimental
+until evaluated on a human-reviewed Bangladesh-law benchmark. See
+`docs/claim_support_verification.md`.
 
 ## Real-judgment validation
 
