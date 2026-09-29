@@ -79,7 +79,18 @@ The answer-level status is conservative:
 
 1. any contradicted claim -> `contradicted`;
 2. otherwise any insufficient claim -> `insufficient`;
-3. otherwise all evaluated claims -> `supported`.
+3. otherwise all evaluated cited claims -> `supported`.
+
+The verifier also reports semantic-check coverage separately:
+
+- `coverage_complete=true` means every nontrivial answer segment carried a canonical `[S#]` marker;
+- `coverage_complete=false` means one or more nontrivial segments had no citation and were not
+  semantically checked;
+- `uncited_segments_count` and a capped sample of `uncited_segments` make that gap visible.
+
+An answer can therefore have `status=supported` while `coverage_complete=false`. In that case the
+correct interpretation is **all evaluated cited claims were assessed as supported, but the whole
+answer was not checked**.
 
 ## Important interpretation
 
@@ -105,6 +116,7 @@ Claim support can only lower the existing heuristic confidence indicator:
 
 - `contradicted` forces LOW;
 - `insufficient` prevents HIGH;
+- incomplete citation/support coverage prevents HIGH;
 - `supported` does not increase confidence.
 
 ## Cost control
