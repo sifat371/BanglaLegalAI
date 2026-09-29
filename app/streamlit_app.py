@@ -224,6 +224,13 @@ def display_claim_support_verification(verification: dict | None) -> None:
             "by its cited passage."
         )
 
+    if verification.get("coverage_complete") is False:
+        uncited_count = verification.get("uncited_segments_count", 0)
+        st.warning(
+            f"{uncited_count} nontrivial answer segment(s) had no [S#] citation and "
+            "were not semantically checked."
+        )
+
     claims = verification.get("claims", [])
     if claims:
         with st.expander("Claim support details"):
